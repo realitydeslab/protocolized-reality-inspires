@@ -4828,5 +4828,1355 @@
   "ok": false,
   "type": "image",
   "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "img:https://images-eflux.b-cdn.net/assets/8ce4ad2b-87e0-4d02-9882-6e1abec6eef6.jpg": {
+  "url": "https://images-eflux.b-cdn.net/assets/8ce4ad2b-87e0-4d02-9882-6e1abec6eef6.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://rarepepedirectory.com/wp-content/uploads/2016/10/thegodpepe.jpg": {
+  "url": "https://rarepepedirectory.com/wp-content/uploads/2016/10/thegodpepe.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://rarepepedirectory.com/wp-content/uploads/2016/09/magic-template.jpg": {
+  "url": "https://rarepepedirectory.com/wp-content/uploads/2016/09/magic-template.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://kevinabosch.com/images/iamacoin_blood_1600.jpg": {
+  "url": "https://kevinabosch.com/images/iamacoin_blood_1600.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://kevinabosch.com/images/iamacoin_contract.jpg": {
+  "url": "https://kevinabosch.com/images/iamacoin_contract.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://cdn.jonaslund.com/wp-content/uploads/2023/07/24153424/MG_9220-1-3000x2000-1-1400x933.jpg": {
+  "url": "https://cdn.jonaslund.com/wp-content/uploads/2023/07/24153424/MG_9220-1-3000x2000-1-1400x933.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://cdn.jonaslund.com/wp-content/uploads/2023/07/24153406/MG_9102-3000x2000-1-1400x933.jpg": {
+  "url": "https://cdn.jonaslund.com/wp-content/uploads/2023/07/24153406/MG_9102-3000x2000-1-1400x933.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://jonaslund.com/wp-content/uploads/2017/03/Screen-Shot-2017-03-13-at-15.50.07-.png": {
+  "url": "https://jonaslund.com/wp-content/uploads/2017/03/Screen-Shot-2017-03-13-at-15.50.07-.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://arthur.io/img/art/jpg/00017344e5b4cc334/caleb-larsen/a-tool-to-deceive-and-slaughter/large/caleb-larsen--a-tool-to-deceive-and-slaughter.jpg": {
+  "url": "https://arthur.io/img/art/jpg/00017344e5b4cc334/caleb-larsen/a-tool-to-deceive-and-slaughter/large/caleb-larsen--a-tool-to-deceive-and-slaughter.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://visuall.net/wp-content/uploads/2012/07/2012-004-Title-1050x700.jpg": {
+  "url": "https://visuall.net/wp-content/uploads/2012/07/2012-004-Title-1050x700.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://s.turbifycdn.com/aah/artbook/maria-eichhorn-aktiengesellschaft-105.jpg": {
+  "url": "https://s.turbifycdn.com/aah/artbook/maria-eichhorn-aktiengesellschaft-105.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://booksat.net/wp-content/uploads/Maria-Eichhorn-Aktiengesellschaft-2-1600x1600.jpg": {
+  "url": "https://booksat.net/wp-content/uploads/Maria-Eichhorn-Aktiengesellschaft-2-1600x1600.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://digitalmcd.com/wp-content/uploads/2018/09/argentodeur-NilsChlupka.jpg": {
+  "url": "https://digitalmcd.com/wp-content/uploads/2018/09/argentodeur-NilsChlupka.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://digitalmcd.com/wp-content/uploads/2018/09/argentodeur-DietmarKirves.jpg": {
+  "url": "https://digitalmcd.com/wp-content/uploads/2018/09/argentodeur-DietmarKirves.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://digitalmcd.com/wp-content/uploads/2018/09/argentodeur-KlausSteak.jpg": {
+  "url": "https://digitalmcd.com/wp-content/uploads/2018/09/argentodeur-KlausSteak.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/HitchBOT_%2822504282025%29.jpg/960px-HitchBOT_%2822504282025%29.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/HitchBOT_%2822504282025%29.jpg/960px-HitchBOT_%2822504282025%29.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hitchbot_Goes_to_the_Fair_%2815844794490%29.jpg/960px-Hitchbot_Goes_to_the_Fair_%2815844794490%29.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hitchbot_Goes_to_the_Fair_%2815844794490%29.jpg/960px-Hitchbot_Goes_to_the_Fair_%2815844794490%29.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1162/leon_a_01354": {
+  "doi": "10.1162/leon_a_01354",
+  "ok": true,
+  "type": "doi",
+  "title": "The Death and Lives of hitchBOT: The Design and Implementation of a Hitchhiking Robot",
+  "year": 2017,
+  "venue": "Leonardo",
+  "url": "https://doi.org/10.1162/leon_a_01354"
+ },
+ "img:http://www.medienkunstnetz.de/assets/img/data/2654/bild.jpg": {
+  "url": "http://www.medienkunstnetz.de/assets/img/data/2654/bild.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://econtact.ca/14_2/images/stelarc_fractalflesh.png": {
+  "url": "https://econtact.ca/14_2/images/stelarc_fractalflesh.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:http://www.easylife.org/desktop/desktops/hudson.jpg": {
+  "url": "http://www.easylife.org/desktop/desktops/hudson.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:http://www.conceptlab.com/desktop/img/desktop_10.jpg": {
+  "url": "http://www.conceptlab.com/desktop/img/desktop_10.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:http://www.easylife.org/desktop/desktops/breeze.jpg": {
+  "url": "http://www.easylife.org/desktop/desktops/breeze.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Luther_Blissett.jpg/960px-Luther_Blissett.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Luther_Blissett.jpg/960px-Luther_Blissett.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:mp4:https://www.lozano-hemmer.com/videos/artwork/bodymovies_rotterdam.mp4": {
+  "url": "https://www.lozano-hemmer.com/videos/artwork/bodymovies_rotterdam.mp4",
+  "ok": true,
+  "platform": "mp4",
+  "id": "https://www.lozano-hemmer.com/videos/artwork/bodymovies_rotterdam.mp4",
+  "content_type": "video/mp4"
+ },
+ "img:https://www.lozano-hemmer.com/image_sets/body_movies/rotterdam_2001/bodymovies_rotterdam_01.jpg": {
+  "url": "https://www.lozano-hemmer.com/image_sets/body_movies/rotterdam_2001/bodymovies_rotterdam_01.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.lozano-hemmer.com/image_sets/body_movies/rotterdam_2001/bodymovies_rotterdam_02.jpg": {
+  "url": "https://www.lozano-hemmer.com/image_sets/body_movies/rotterdam_2001/bodymovies_rotterdam_02.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:mp4:https://www.lozano-hemmer.com/videos/artwork/amodal_suspension_yamaguchi_2003_rlh_001_retouch_clean.mp4": {
+  "url": "https://www.lozano-hemmer.com/videos/artwork/amodal_suspension_yamaguchi_2003_rlh_001_retouch_clean.mp4",
+  "ok": true,
+  "platform": "mp4",
+  "id": "https://www.lozano-hemmer.com/videos/artwork/amodal_suspension_yamaguchi_2003_rlh_001_retouch_clean.mp4",
+  "content_type": "video/mp4"
+ },
+ "img:https://www.lozano-hemmer.com/image_sets/amodal_suspension/yamaguchi_2003/amodalsuspension_yamaguchi_01.jpg": {
+  "url": "https://www.lozano-hemmer.com/image_sets/amodal_suspension/yamaguchi_2003/amodalsuspension_yamaguchi_01.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.lozano-hemmer.com/image_sets/amodal_suspension/yamaguchi_2003/amodalsuspension_yamaguchi_02.jpg": {
+  "url": "https://www.lozano-hemmer.com/image_sets/amodal_suspension/yamaguchi_2003/amodalsuspension_yamaguchi_02.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:mp4:https://www.lozano-hemmer.com/videos/artwork/pulseroom_puebla.mp4": {
+  "url": "https://www.lozano-hemmer.com/videos/artwork/pulseroom_puebla.mp4",
+  "ok": true,
+  "platform": "mp4",
+  "id": "https://www.lozano-hemmer.com/videos/artwork/pulseroom_puebla.mp4",
+  "content_type": "video/mp4"
+ },
+ "img:https://www.lozano-hemmer.com/image_sets/pulse_room/basel_2016/pulse_room_basel_2016_fw_001.jpg": {
+  "url": "https://www.lozano-hemmer.com/image_sets/pulse_room/basel_2016/pulse_room_basel_2016_fw_001.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.lozano-hemmer.com/image_sets/pulse_room/puebla_2007/pulseroom_puebla_01.jpg": {
+  "url": "https://www.lozano-hemmer.com/image_sets/pulse_room/puebla_2007/pulseroom_puebla_01.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://ecafe.com/1984draw.gif": {
+  "url": "https://ecafe.com/1984draw.gif",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/gif"
+ },
+ "img:https://ecafe.com/ecineon.gif": {
+  "url": "https://ecafe.com/ecineon.gif",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/gif"
+ },
+ "video:vimeo:5489402": {
+  "url": "https://vimeo.com/5489402",
+  "ok": true,
+  "platform": "vimeo",
+  "id": "5489402",
+  "embeddable": true,
+  "title": "Can You See Me Now? Tokyo",
+  "thumbnail": "https://i.vimeocdn.com/video/1011546793-04e485c2f59f42d10fe84afdde91d0cb12a7e816869557876a49fe1c3535fac0-d?f=webp&amp;region=us"
+ },
+ "img:https://www.blasttheory.co.uk/wp-content/uploads/2013/02/project_cysmn_featured.jpg": {
+  "url": "https://www.blasttheory.co.uk/wp-content/uploads/2013/02/project_cysmn_featured.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.blasttheory.co.uk/wp-content/uploads/2013/02/project_cysmn_secondary-625x450.jpg": {
+  "url": "https://www.blasttheory.co.uk/wp-content/uploads/2013/02/project_cysmn_secondary-625x450.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:http://www.informationasmaterial.org/wp-content/uploads/2013/07/OTSC_front-cover-crop_CH-catalogue.jpg": {
+  "url": "http://www.informationasmaterial.org/wp-content/uploads/2013/07/OTSC_front-cover-crop_CH-catalogue.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://kylemcdonald.net/thumbs/whopaysartists.jpg": {
+  "url": "https://kylemcdonald.net/thumbs/whopaysartists.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.whopaysartists.com/images/header.png": {
+  "url": "https://www.whopaysartists.com/images/header.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://storage.googleapis.com/papyrus_images/eb094b9cb6e2e744d7c5b6be23648667663d3c6f7eed09063cf4be94fdd730b6.jpg": {
+  "url": "https://storage.googleapis.com/papyrus_images/eb094b9cb6e2e744d7c5b6be23648667663d3c6f7eed09063cf4be94fdd730b6.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://storage.googleapis.com/papyrus_images/7227903fa5baa6ca0b5928497582f408b93850ad68825129f4c10cc1772e799f.jpg": {
+  "url": "https://storage.googleapis.com/papyrus_images/7227903fa5baa6ca0b5928497582f408b93850ad68825129f4c10cc1772e799f.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://storage.googleapis.com/papyrus_images/eade71ec3634195d4bbd3c990f509908ce4cc609037889a567020d7e8cd6c2ea.jpg": {
+  "url": "https://storage.googleapis.com/papyrus_images/eade71ec3634195d4bbd3c990f509908ce4cc609037889a567020d7e8cd6c2ea.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://cdn.shopify.com/s/files/1/2113/7453/files/Capture_6_c770336e-68ed-4494-9e6d-a351df30f1a2.jpg": {
+  "url": "https://cdn.shopify.com/s/files/1/2113/7453/files/Capture_6_c770336e-68ed-4494-9e6d-a351df30f1a2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://cdn.shopify.com/s/files/1/2113/7453/files/Capture_7_650882e6-7575-4b35-b3b1-a2859024b65e.jpg": {
+  "url": "https://cdn.shopify.com/s/files/1/2113/7453/files/Capture_7_650882e6-7575-4b35-b3b1-a2859024b65e.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://arweave.net/h-fEg0t4AMzFAA-Io9zHFRY4ey1ry_z1Qd3-g4Pv57E": {
+  "url": "https://arweave.net/h-fEg0t4AMzFAA-Io9zHFRY4ey1ry_z1Qd3-g4Pv57E",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://burn.art/_next/static/media/metamorphosis.e3f7f4a6.png": {
+  "url": "https://burn.art/_next/static/media/metamorphosis.e3f7f4a6.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://pixelmap.io/assets/images/pixelmap-2016-contract.png": {
+  "url": "https://pixelmap.io/assets/images/pixelmap-2016-contract.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://storage.thousandetherhomepage.com/mainnet.png": {
+  "url": "https://storage.thousandetherhomepage.com/mainnet.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "video:mp4:https://folia-dev.cdn.prismic.io/folia-dev/Zg6nYjskWekewDh__kudzu-base-promo-ezgif.com-gif-to-webm-converter.webm": {
+  "url": "https://folia-dev.cdn.prismic.io/folia-dev/Zg6nYjskWekewDh__kudzu-base-promo-ezgif.com-gif-to-webm-converter.webm",
+  "ok": true,
+  "platform": "mp4",
+  "id": "https://folia-dev.cdn.prismic.io/folia-dev/Zg6nYjskWekewDh__kudzu-base-promo-ezgif.com-gif-to-webm-converter.webm",
+  "content_type": "video/webm"
+ },
+ "img:https://images.prismic.io/folia-dev/68a7a1c0-984e-4af4-8e05-41f5e83df448_kudzu-still0.png": {
+  "url": "https://images.prismic.io/folia-dev/68a7a1c0-984e-4af4-8e05-41f5e83df448_kudzu-still0.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://virus.folia.app/img/65793": {
+  "url": "https://virus.folia.app/img/65793",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:mp4:https://folia-dev.cdn.prismic.io/folia-dev/a83a88b7-0d3e-4023-a45f-7ed28d38549f_viper-promo-1080.mp4": {
+  "url": "https://folia-dev.cdn.prismic.io/folia-dev/a83a88b7-0d3e-4023-a45f-7ed28d38549f_viper-promo-1080.mp4",
+  "ok": true,
+  "platform": "mp4",
+  "id": "https://folia-dev.cdn.prismic.io/folia-dev/a83a88b7-0d3e-4023-a45f-7ed28d38549f_viper-promo-1080.mp4",
+  "content_type": "video/mp4"
+ },
+ "img:https://viper.folia.app/api/get/img/1": {
+  "url": "https://viper.folia.app/api/get/img/1",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/gif"
+ },
+ "img:https://viper.folia.app/api/get/img/2": {
+  "url": "https://viper.folia.app/api/get/img/2",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/gif"
+ },
+ "img:https://substack-post-media.s3.amazonaws.com/public/images/7e68bcbe-0353-426f-8e80-996a04a88a2e_1898x622.png": {
+  "url": "https://substack-post-media.s3.amazonaws.com/public/images/7e68bcbe-0353-426f-8e80-996a04a88a2e_1898x622.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://substack-post-media.s3.amazonaws.com/public/images/4d90ad20-33b9-4f5b-9de6-2e81d6948dea_768x768.webp": {
+  "url": "https://substack-post-media.s3.amazonaws.com/public/images/4d90ad20-33b9-4f5b-9de6-2e81d6948dea_768x768.webp",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:uUzLLHUqQnE": {
+  "url": "https://www.youtube.com/watch?v=uUzLLHUqQnE",
+  "ok": true,
+  "platform": "youtube",
+  "id": "uUzLLHUqQnE",
+  "title": "Eve Sussman \"89 Seconds Atomized\" Interview",
+  "author": "Snark Art",
+  "thumbnail": "https://i.ytimg.com/vi/uUzLLHUqQnE/hqdefault.jpg"
+ },
+ "img:https://snark.art/images/production/89sa.png": {
+  "url": "https://snark.art/images/production/89sa.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://whitneymedia.org/assets/artwork/60632/AP_2018_4.jpg": {
+  "url": "https://whitneymedia.org/assets/artwork/60632/AP_2018_4.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://static.wixstatic.com/media/5af655_c2b8cbf4a39b4e80b70541c5771be02b~mv2.jpg": {
+  "url": "https://static.wixstatic.com/media/5af655_c2b8cbf4a39b4e80b70541c5771be02b~mv2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://static.wixstatic.com/media/5af655_4e8c6f763c3b4d748823ae2f427cf26f~mv2.jpg": {
+  "url": "https://static.wixstatic.com/media/5af655_4e8c6f763c3b4d748823ae2f427cf26f~mv2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://freight.cargo.site/w/1200/i/Y2559129957062607361238138036539/23.jpeg": {
+  "url": "https://freight.cargo.site/w/1200/i/Y2559129957062607361238138036539/23.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://freight.cargo.site/w/1200/i/J2568857313073915301622287114555/LB_20171010_Red-Bull-Arts-New-York-2017-Cloud_of_Petals_0003-copy.jpg": {
+  "url": "https://freight.cargo.site/w/1200/i/J2568857313073915301622287114555/LB_20171010_Red-Bull-Arts-New-York-2017-Cloud_of_Petals_0003-copy.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/5e708f9fb2e3335af0efcc66/1624629254457-X12WHQZ4R9Q67O57F99M/ac.png": {
+  "url": "https://images.squarespace-cdn.com/content/v1/5e708f9fb2e3335af0efcc66/1624629254457-X12WHQZ4R9Q67O57F99M/ac.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/5e708f9fb2e3335af0efcc66/1632317624510-N2VDAWJAL6SXYWUWKE7U/moa2.png": {
+  "url": "https://images.squarespace-cdn.com/content/v1/5e708f9fb2e3335af0efcc66/1632317624510-N2VDAWJAL6SXYWUWKE7U/moa2.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/5e708f9fb2e3335af0efcc66/23330594-a1ba-4eae-91d5-edbe15701741/Screenshot+2022-04-19+at+16.36.30.png": {
+  "url": "https://images.squarespace-cdn.com/content/v1/5e708f9fb2e3335af0efcc66/23330594-a1ba-4eae-91d5-edbe15701741/Screenshot+2022-04-19+at+16.36.30.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://isthisa.com/static/ProtectiveRituals/Pic1.jpg": {
+  "url": "https://isthisa.com/static/ProtectiveRituals/Pic1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://isthisa.com/static/ProtectiveRituals/Pic5.jpg": {
+  "url": "https://isthisa.com/static/ProtectiveRituals/Pic5.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://isthisa.com/static/ProtectiveRituals/Pic0.jpg": {
+  "url": "https://isthisa.com/static/ProtectiveRituals/Pic0.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://rhea.art/processed_images/1FLAMEN6.d2acd07ab4d44892.jpg": {
+  "url": "https://rhea.art/processed_images/1FLAMEN6.d2acd07ab4d44892.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.vice.com/wp-content/uploads/sites/2/2018/02/1517622121322-1FLAMEN6.jpeg?resize=2000,1500": {
+  "url": "https://www.vice.com/wp-content/uploads/sites/2/2018/02/1517622121322-1FLAMEN6.jpeg?resize=2000,1500",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://www.thescarabexperiment.org/uploads/1/4/2/6/14267311/95d29549c0d9fcc2a96d19977f58cdfa19db0e5b_orig.jpeg": {
+  "url": "https://www.thescarabexperiment.org/uploads/1/4/2/6/14267311/95d29549c0d9fcc2a96d19977f58cdfa19db0e5b_orig.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.thescarabexperiment.org/uploads/1/4/2/6/14267311/how-scarab-works_orig.png": {
+  "url": "https://www.thescarabexperiment.org/uploads/1/4/2/6/14267311/how-scarab-works_orig.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://media.olafureliasson.net/img/de3416323836b2eab579-3840/the-collectivity-project_2526.jpg?width=1280&quality=80": {
+  "url": "https://media.olafureliasson.net/img/de3416323836b2eab579-3840/the-collectivity-project_2526.jpg?width=1280&quality=80",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://media.olafureliasson.net/img/76cd6281460e642f28eb-3840/the-collectivity-project_12298.jpg?width=1280&quality=80": {
+  "url": "https://media.olafureliasson.net/img/76cd6281460e642f28eb-3840/the-collectivity-project_12298.jpg?width=1280&quality=80",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/hyperallergic-newspack-s3-amazonaws-com/uploads/2017/03/img_6941.jpg": {
+  "url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/hyperallergic-newspack-s3-amazonaws-com/uploads/2017/03/img_6941.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/hyperallergic-newspack-s3-amazonaws-com/uploads/2017/03/divisor_-travis-magee-2.jpg": {
+  "url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/hyperallergic-newspack-s3-amazonaws-com/uploads/2017/03/divisor_-travis-magee-2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.moma.org/media/W1siZiIsIjE3MDMzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=9ec6b1b0f44ccf97": {
+  "url": "https://www.moma.org/media/W1siZiIsIjE3MDMzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=9ec6b1b0f44ccf97",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://d2zy2h1755x359.cloudfront.net/public/DigitalAsset/11350-51589-a03255/43534d180fc7705860febc9637aa721d/full/large/0/default.jpg": {
+  "url": "https://d2zy2h1755x359.cloudfront.net/public/DigitalAsset/11350-51589-a03255/43534d180fc7705860febc9637aa721d/full/large/0/default.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "application/octet-stream"
+ },
+ "img:https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/hyperallergic-newspack-s3-amazonaws-com/uploads/2015/10/xerox-book-cover2.jpg": {
+  "url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/hyperallergic-newspack-s3-amazonaws-com/uploads/2015/10/xerox-book-cover2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://graphicarts.princeton.edu/wp-content/uploads/sites/158/2015/09/andre11.jpg": {
+  "url": "https://graphicarts.princeton.edu/wp-content/uploads/sites/158/2015/09/andre11.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://res.cloudinary.com/mplustms/image/upload/w_1000/v1645416311/v2/prod/small/005501_006000/005861_013.jpg": {
+  "url": "https://res.cloudinary.com/mplustms/image/upload/w_1000/v1645416311/v2/prod/small/005501_006000/005861_013.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://camstl.org/wp-content/uploads/2018/01/Yoko-Ono_1.jpg": {
+  "url": "https://camstl.org/wp-content/uploads/2018/01/Yoko-Ono_1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/messages_left_by_visitors_to_yoko_onos_my_mumm.width-600.jpg": {
+  "url": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/messages_left_by_visitors_to_yoko_onos_my_mumm.width-600.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://content.ngv.vic.gov.au/col-images/api/INST057476/1920": {
+  "url": "https://content.ngv.vic.gov.au/col-images/api/INST057476/1920",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://uploads8.wikiart.org/00199/images/allan-kaprow/words-1962.jpg!Large.jpg": {
+  "url": "https://uploads8.wikiart.org/00199/images/allan-kaprow/words-1962.jpg!Large.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpg"
+ },
+ "img:https://store.aperture.org/cdn/shop/files/9781597110389.jpg?v=1772649688&width=2048": {
+  "url": "https://store.aperture.org/cdn/shop/files/9781597110389.jpg?v=1772649688&width=2048",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:QNXsafA10eo": {
+  "url": "https://www.youtube.com/watch?v=QNXsafA10eo",
+  "ok": true,
+  "platform": "youtube",
+  "id": "QNXsafA10eo",
+  "title": "Christian Marclay's \"Chalkboard\" (2010)",
+  "author": "Whitney Museum of American Art",
+  "thumbnail": "https://i.ytimg.com/vi/QNXsafA10eo/hqdefault.jpg"
+ },
+ "img:https://i.ytimg.com/vi/QNXsafA10eo/hqdefault.jpg": {
+  "url": "https://i.ytimg.com/vi/QNXsafA10eo/hqdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.getty.edu/publications/scores/_assets/images/figures/thumbnails/AR6153541_th.jpg": {
+  "url": "https://www.getty.edu/publications/scores/_assets/images/figures/thumbnails/AR6153541_th.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.getty.edu/publications/scores/_assets/images/figures/thumbnails/r32814_890164_b39_004_th.jpg": {
+  "url": "https://www.getty.edu/publications/scores/_assets/images/figures/thumbnails/r32814_890164_b39_004_th.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.getty.edu/publications/scores/_assets/images/figures/thumbnails/r425211_2006_m_24_b69_001_th.jpg": {
+  "url": "https://www.getty.edu/publications/scores/_assets/images/figures/thumbnails/r425211_2006_m_24_b69_001_th.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.getty.edu/publications/scores/_assets/images/figures/posters/fig-438-poster-image.jpg": {
+  "url": "https://www.getty.edu/publications/scores/_assets/images/figures/posters/fig-438-poster-image.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.getty.edu/publications/scores/_assets/images/figures/thumbnails/r2013910_2006_m_24_b1_f5_014_th.jpg": {
+  "url": "https://www.getty.edu/publications/scores/_assets/images/figures/thumbnails/r2013910_2006_m_24_b1_f5_014_th.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.getty.edu/publications/scores/_assets/images/figures/posters/Micro1_TashiWada.jpg": {
+  "url": "https://www.getty.edu/publications/scores/_assets/images/figures/posters/Micro1_TashiWada.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.getty.edu/publications/scores/_assets/images/figures/posters/Micro1_EzraBuchla.jpg": {
+  "url": "https://www.getty.edu/publications/scores/_assets/images/figures/posters/Micro1_EzraBuchla.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.getty.edu/publications/scores/_assets/images/figures/posters/BeachCrawl_Berglund.jpg": {
+  "url": "https://www.getty.edu/publications/scores/_assets/images/figures/posters/BeachCrawl_Berglund.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.getty.edu/publications/scores/_assets/images/figures/thumbnails/r2014200_980039_b170_f1_033_th.jpg": {
+  "url": "https://www.getty.edu/publications/scores/_assets/images/figures/thumbnails/r2014200_980039_b170_f1_033_th.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.getty.edu/publications/scores/_assets/images/figures/posters/December1952_CoreyFogel_LuisaMuhr.jpg": {
+  "url": "https://www.getty.edu/publications/scores/_assets/images/figures/posters/December1952_CoreyFogel_LuisaMuhr.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://fonderiedarling.org/en/assets/components/phpthumbof/cache/%20The%20House%20of%20Dust%20d%27Alison%20Knowles______2017%20%C2%A9Maxime%20Boisvert-0.13c9a9a62628337b53fe28ad9064243b.jpg": {
+  "url": "https://fonderiedarling.org/en/assets/components/phpthumbof/cache/%20The%20House%20of%20Dust%20d%27Alison%20Knowles______2017%20%C2%A9Maxime%20Boisvert-0.13c9a9a62628337b53fe28ad9064243b.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://images.ctfassets.net/k1tan84lsd0d/7AixeB5aj2wHgJIHPGvKyT/9e22bafa86c98221bc5aec5a68300cba/1.jpg": {
+  "url": "https://images.ctfassets.net/k1tan84lsd0d/7AixeB5aj2wHgJIHPGvKyT/9e22bafa86c98221bc5aec5a68300cba/1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://images-eflux.b-cdn.net/assets/719ec92f-8fdd-4ca7-8f5c-10fbe76ce683.jpg?&modified=undefined": {
+  "url": "https://images-eflux.b-cdn.net/assets/719ec92f-8fdd-4ca7-8f5c-10fbe76ce683.jpg?&modified=undefined",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.moma.org/interactives/exhibitions/2011/fluxus_editions/wp-content/uploads/2011/10/TheatreMusic_FluxusNapkin1-600x400.jpg": {
+  "url": "https://www.moma.org/interactives/exhibitions/2011/fluxus_editions/wp-content/uploads/2011/10/TheatreMusic_FluxusNapkin1-600x400.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.moma.org/interactives/exhibitions/2011/fluxus_editions/wp-content/uploads/2011/10/YearBox2_2-600x400.jpg": {
+  "url": "https://www.moma.org/interactives/exhibitions/2011/fluxus_editions/wp-content/uploads/2011/10/YearBox2_2-600x400.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://images-eflux.b-cdn.net/assets/18cafd20-b370-4de1-ab8f-6b8bc30f1330.jpg": {
+  "url": "https://images-eflux.b-cdn.net/assets/18cafd20-b370-4de1-ab8f-6b8bc30f1330.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1162/evco_a_00030": {
+  "doi": "10.1162/evco_a_00030",
+  "ok": true,
+  "type": "doi",
+  "title": "Picbreeder: A Case Study in Collaborative Evolutionary Exploration of Design Space",
+  "year": 2011,
+  "venue": "Evolutionary Computation",
+  "url": "https://doi.org/10.1162/evco_a_00030"
+ },
+ "img:https://dpul.princeton.edu/uploads/spotlight/attachment/file/3408/99120509383506421_eamis.jpg": {
+  "url": "https://dpul.princeton.edu/uploads/spotlight/attachment/file/3408/99120509383506421_eamis.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://dpul.princeton.edu/uploads/spotlight/attachment/file/3980/99120509383506421_eamis_2.jpg": {
+  "url": "https://dpul.princeton.edu/uploads/spotlight/attachment/file/3980/99120509383506421_eamis_2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://belkin.ubc.ca/wp-content/uploads/2021/05/Crop-of-MT034.01.07-45-for-Image-Request-copy-scaled-1800x0-c-default.jpg": {
+  "url": "https://belkin.ubc.ca/wp-content/uploads/2021/05/Crop-of-MT034.01.07-45-for-Image-Request-copy-scaled-1800x0-c-default.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://superflex.net/superfleximages/2480w_Happiness_07_1619616180.jpg": {
+  "url": "https://superflex.net/superfleximages/2480w_Happiness_07_1619616180.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://superflex.net/superfleximages/2480w_Happiness_19_1619616313.jpg": {
+  "url": "https://superflex.net/superfleximages/2480w_Happiness_19_1619616313.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://superflex.net/superfleximages/2480w_Happiness_13_1619616222.jpg": {
+  "url": "https://superflex.net/superfleximages/2480w_Happiness_13_1619616222.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://superflex.net/pressimages/th_superflex_2000watt_contract_close_large_editjf.jpg.jpg": {
+  "url": "https://superflex.net/pressimages/th_superflex_2000watt_contract_close_large_editjf.jpg.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://superflex.net/pressimages/th__mg_0958.jpg.jpg": {
+  "url": "https://superflex.net/pressimages/th__mg_0958.jpg.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/54be63fbe4b013117e15f3ba/1486734813115-AZVBUQH52TLKL9UJTQH0/image-asset.jpeg?format=1500w": {
+  "url": "https://images.squarespace-cdn.com/content/v1/54be63fbe4b013117e15f3ba/1486734813115-AZVBUQH52TLKL9UJTQH0/image-asset.jpeg?format=1500w",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/54be63fbe4b013117e15f3ba/1600904217422-1MU7TOAW6QXYUB8QTQYK/Declared+Void+II_adj2.jpg?format=1500w": {
+  "url": "https://images.squarespace-cdn.com/content/v1/54be63fbe4b013117e15f3ba/1600904217422-1MU7TOAW6QXYUB8QTQYK/Declared+Void+II_adj2.jpg?format=1500w",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://wp.harpers.org/wp-content/uploads/illus/Wasik_Crowd.jpg": {
+  "url": "https://wp.harpers.org/wp-content/uploads/illus/Wasik_Crowd.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://wp.harpers.org/wp-content/uploads/illus/Wasik_02_500.jpg": {
+  "url": "https://wp.harpers.org/wp-content/uploads/illus/Wasik_02_500.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/52aa861ce4b04dd8c25987fb/1392008467457-7LTTU9YU1AT7IVEVDELM/WWW5+72dpi.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/52aa861ce4b04dd8c25987fb/1392008467457-7LTTU9YU1AT7IVEVDELM/WWW5+72dpi.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/52aa861ce4b04dd8c25987fb/1392008406940-BCF200QZX4JSA7BKEQRE/WWW4+72dpi.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/52aa861ce4b04dd8c25987fb/1392008406940-BCF200QZX4JSA7BKEQRE/WWW4+72dpi.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/52aa861ce4b04dd8c25987fb/1405038195389-AI3PG56X5593VVCDN03U/idp3+72dpi.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/52aa861ce4b04dd8c25987fb/1405038195389-AI3PG56X5593VVCDN03U/idp3+72dpi.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/52aa861ce4b04dd8c25987fb/1405038198658-2TBXWK65WUN0PYXH1ZPQ/idp4+72dpi.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/52aa861ce4b04dd8c25987fb/1405038198658-2TBXWK65WUN0PYXH1ZPQ/idp4+72dpi.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/52aa861ce4b04dd8c25987fb/1391458867932-3Y9HZU57LWTZTRKET1O0/roof01.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/52aa861ce4b04dd8c25987fb/1391458867932-3Y9HZU57LWTZTRKET1O0/roof01.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/52aa861ce4b04dd8c25987fb/1391459033177-KOVSV3MY3JBUVKPJPDRE/roof09.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/52aa861ce4b04dd8c25987fb/1391459033177-KOVSV3MY3JBUVKPJPDRE/roof09.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/52aa861ce4b04dd8c25987fb/1387663362816-JKNG7XGJB5M4PNZTR2B1/Silver+Action_Tate+Photography_12.small.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/52aa861ce4b04dd8c25987fb/1387663362816-JKNG7XGJB5M4PNZTR2B1/Silver+Action_Tate+Photography_12.small.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/52aa861ce4b04dd8c25987fb/1387663372530-HDDKYQUKZS72QUZ0FD76/Silver+Action_Tate+Photography_21.small.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/52aa861ce4b04dd8c25987fb/1387663372530-HDDKYQUKZS72QUZ0FD76/Silver+Action_Tate+Photography_21.small.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/52aa861ce4b04dd8c25987fb/1386909024218-OPERU2ZVFJAGDFVDFVU9/nicola-goode-6.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/52aa861ce4b04dd8c25987fb/1386909024218-OPERU2ZVFJAGDFVDFVU9/nicola-goode-6.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/52aa861ce4b04dd8c25987fb/1387661483047-0ZIV2VZ0YJ8WLBN5VD97/Suzanne_Lacy_101913_Jonathan_Dorado_06.small.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/52aa861ce4b04dd8c25987fb/1387661483047-0ZIV2VZ0YJ8WLBN5VD97/Suzanne_Lacy_101913_Jonathan_Dorado_06.small.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://publicydn4hdgozyjrg.blob.core.windows.net/public/dd/images/procession-box.a63f4af.jpg": {
+  "url": "https://publicydn4hdgozyjrg.blob.core.windows.net/public/dd/images/procession-box.a63f4af.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.santiago-sierra.com/imagenes/2001032.jpg": {
+  "url": "https://www.santiago-sierra.com/imagenes/2001032.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.santiago-sierra.com/imagenes/2001031.jpg": {
+  "url": "https://www.santiago-sierra.com/imagenes/2001031.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.santiago-sierra.com/imagenes/immuro/1.jpg": {
+  "url": "https://www.santiago-sierra.com/imagenes/immuro/1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://cdn.prod.website-files.com/6554c91ba6abd9f31939d661/65a248bf5b20a7117272e5ba_The%20Abramovic%CC%81%20Method%20Header%20(by%20Marina%20Abramovic%CC%81%20Institute).jpg": {
+  "url": "https://cdn.prod.website-files.com/6554c91ba6abd9f31939d661/65a248bf5b20a7117272e5ba_The%20Abramovic%CC%81%20Method%20Header%20(by%20Marina%20Abramovic%CC%81%20Institute).jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://cdn.prod.website-files.com/6554c91ba6abd9f31939d661/6576dd842d83e2dbd5135daa_terra-communal-abramovich-image-4-992x662.jpg.webp": {
+  "url": "https://cdn.prod.website-files.com/6554c91ba6abd9f31939d661/6576dd842d83e2dbd5135daa_terra-communal-abramovich-image-4-992x662.jpg.webp",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://d37zoqglehb9o7.cloudfront.net/uploads/2020/04/Anelli_IMG_1321_1-scaled.jpg": {
+  "url": "https://d37zoqglehb9o7.cloudfront.net/uploads/2020/04/Anelli_IMG_1321_1-scaled.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Mingwei-_5619-sm_%285133415424%29.jpg/960px-Mingwei-_5619-sm_%285133415424%29.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Mingwei-_5619-sm_%285133415424%29.jpg/960px-Mingwei-_5619-sm_%285133415424%29.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/d/d7/Lei_Mingwei_-_Mending_Project_-_Liverpool_Biennail_2010.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Lei_Mingwei_-_Mending_Project_-_Liverpool_Biennail_2010.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/2019-05-05_Reichstag_03.jpg/960px-2019-05-05_Reichstag_03.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/2019-05-05_Reichstag_03.jpg/960px-2019-05-05_Reichstag_03.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://stephenwillats.com/media/uploads/projects/West-London-Social-ResPro.-Monitor-Board-2_jpg_440x880_q85.jpg": {
+  "url": "https://stephenwillats.com/media/uploads/projects/West-London-Social-ResPro.-Monitor-Board-2_jpg_440x880_q85.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://stephenwillats.com/media/uploads/projects/1972-Web-Recent-Installation-view-of-West-London-Social-Resource-Project-_jpg_680x1360_q85.jpg": {
+  "url": "https://stephenwillats.com/media/uploads/projects/1972-Web-Recent-Installation-view-of-West-London-Social-Resource-Project-_jpg_680x1360_q85.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://stephenwillats.com/media/uploads/projects/West-London-Social-Resource-Project-.Flow-Diagram.-1973_jpg_440x880_q85.jpg": {
+  "url": "https://stephenwillats.com/media/uploads/projects/West-London-Social-Resource-Project-.Flow-Diagram.-1973_jpg_440x880_q85.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.artforum.com/wp-content/uploads/2013/10/article00_large-94.jpg": {
+  "url": "https://www.artforum.com/wp-content/uploads/2013/10/article00_large-94.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/e/e8/Roy_Ascott_2012.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Roy_Ascott_2012.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1525/9780520935372-006": {
+  "doi": "10.1525/9780520935372-006",
+  "ok": true,
+  "type": "doi",
+  "title": "3 Behaviourist Art and the Cybernetic Vision (1966–67)",
+  "year": 2003,
+  "venue": "Telematic Embrace",
+  "url": "https://doi.org/10.1525/9780520935372-006"
+ },
+ "video:youtube:qIhMQBaJ3ug": {
+  "url": "https://www.youtube.com/watch?v=qIhMQBaJ3ug",
+  "ok": true,
+  "platform": "youtube",
+  "id": "qIhMQBaJ3ug",
+  "title": "Protocol Art I - Primavera De Filippi & Felix Beer",
+  "author": "Protocol Institute",
+  "thumbnail": "https://i.ytimg.com/vi/qIhMQBaJ3ug/hqdefault.jpg"
+ },
+ "img:https://files.protocolized.io/covers/yt-EuuTlDAQEr0.jpg": {
+  "url": "https://files.protocolized.io/covers/yt-EuuTlDAQEr0.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://cdn.prod.website-files.com/6411e594fbd274173bf8c35c/6a8c931fb8ce9874256bf325_web-Plantoid18.png": {
+  "url": "https://cdn.prod.website-files.com/6411e594fbd274173bf8c35c/6a8c931fb8ce9874256bf325_web-Plantoid18.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://storage.ghost.io/c/4a/16/4a16e4ac-7c9f-43c4-b46a-9b2a3e00a0e2/content/images/2024/05/_MG_0109.jpg": {
+  "url": "https://storage.ghost.io/c/4a/16/4a16e4ac-7c9f-43c4-b46a-9b2a3e00a0e2/content/images/2024/05/_MG_0109.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://assets.rcs-cdn.com/img/cefeb78f-ace3-4750-a3f9-ac0d4d0c1e88/df344ef803e1b5b3?w=1600&f=auto&sig=953f236a8db68b0fd4151579b9156be9": {
+  "url": "https://assets.rcs-cdn.com/img/cefeb78f-ace3-4750-a3f9-ac0d4d0c1e88/df344ef803e1b5b3?w=1600&f=auto&sig=953f236a8db68b0fd4151579b9156be9",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/avif"
+ },
+ "img:https://assets.rcs-cdn.com/img/242b9476-71fb-43d6-852d-ddee20a56223/2bc0ae4fa9ae87e8?w=1280&f=auto&sig=77cd541d5a38ff240db0b4b13f56c280": {
+  "url": "https://assets.rcs-cdn.com/img/242b9476-71fb-43d6-852d-ddee20a56223/2bc0ae4fa9ae87e8?w=1280&f=auto&sig=77cd541d5a38ff240db0b4b13f56c280",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/avif"
+ },
+ "img:https://assets.rcs-cdn.com/img/08b9da95-bb96-4d43-ad02-8f0c0f2c1c92/2338822d1e10bf04?w=2000&f=auto&sig=d6db375b3f25e8e6cd625fb4a5aaf6c9": {
+  "url": "https://assets.rcs-cdn.com/img/08b9da95-bb96-4d43-ad02-8f0c0f2c1c92/2338822d1e10bf04?w=2000&f=auto&sig=d6db375b3f25e8e6cd625fb4a5aaf6c9",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/avif"
+ },
+ "img:https://storage.ghost.io/c/4a/16/4a16e4ac-7c9f-43c4-b46a-9b2a3e00a0e2/content/images/2024/05/GaugeSimple-1.gif": {
+  "url": "https://storage.ghost.io/c/4a/16/4a16e4ac-7c9f-43c4-b46a-9b2a3e00a0e2/content/images/2024/05/GaugeSimple-1.gif",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/gif"
+ },
+ "img:https://storage.googleapis.com/papyrus_images/2ef3bbbbd72836348acd90eef928f8b2.jpg": {
+  "url": "https://storage.googleapis.com/papyrus_images/2ef3bbbbd72836348acd90eef928f8b2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://web.archive.org/web/20240525152650im_/https://oh.imgix.net/wp-content/uploads/2024/05/far-early-echo-2023.jpg": {
+  "url": "https://web.archive.org/web/20240525152650im_/https://oh.imgix.net/wp-content/uploads/2024/05/far-early-echo-2023.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://miro.medium.com/v2/resize:fit:1200/0*pH60trUeZ4x3YZqq": {
+  "url": "https://miro.medium.com/v2/resize:fit:1200/0*pH60trUeZ4x3YZqq",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://substack-post-media.s3.amazonaws.com/public/images/8c76657a-71e2-4bbe-9039-d08be8e7687f_2048x2048.png": {
+  "url": "https://substack-post-media.s3.amazonaws.com/public/images/8c76657a-71e2-4bbe-9039-d08be8e7687f_2048x2048.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://images.routledge.com/common/jackets/crclarge/978041548/9780415486019.jpg": {
+  "url": "https://images.routledge.com/common/jackets/crclarge/978041548/9780415486019.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.4324/9780203852897": {
+  "doi": "10.4324/9780203852897",
+  "ok": true,
+  "type": "doi",
+  "title": "Social Works",
+  "year": 2011,
+  "venue": "",
+  "url": "https://doi.org/10.4324/9780203852897"
+ },
+ "img:https://covers.openlibrary.org/b/id/7512080-L.jpg": {
+  "url": "https://covers.openlibrary.org/b/id/7512080-L.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://assets-us-01.kc-usercontent.com/f7ca9afb-82c2-002a-a423-84e111d5b498/9644c918-26d6-4d15-bfc1-84a7775f2208/978-0-8223-5289-1_pr.jpg": {
+  "url": "https://assets-us-01.kc-usercontent.com/f7ca9afb-82c2-002a-a423-84e111d5b498/9644c918-26d6-4d15-bfc1-84a7775f2208/978-0-8223-5289-1_pr.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1215/9780822395515": {
+  "doi": "10.1215/9780822395515",
+  "ok": true,
+  "type": "doi",
+  "title": "What We Made",
+  "year": 2013,
+  "venue": "",
+  "url": "https://doi.org/10.1215/9780822395515"
+ },
+ "img:https://www.plutobooks.com/wp-content/uploads/2023/05/9780745338248.jpg": {
+  "url": "https://www.plutobooks.com/wp-content/uploads/2023/05/9780745338248.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.2307/j.ctv4ncp3s": {
+  "doi": "10.2307/j.ctv4ncp3s",
+  "ok": true,
+  "type": "doi",
+  "title": "Art after Money, Money after Art",
+  "year": 2018,
+  "venue": "",
+  "url": "https://doi.org/10.2307/j.ctv4ncp3s"
+ },
+ "img:https://networkcultures.org/wp-content/uploads/2015/04/Screen-Shot-2015-02-19-at-09.54.03.png": {
+  "url": "https://networkcultures.org/wp-content/uploads/2015/04/Screen-Shot-2015-02-19-at-09.54.03.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "video:mp4:https://abhk.botto.com/artworks-metadata/1.mp4": {
+  "url": "https://abhk.botto.com/artworks-metadata/1.mp4",
+  "ok": true,
+  "platform": "mp4",
+  "id": "https://abhk.botto.com/artworks-metadata/1.mp4",
+  "content_type": "video/mp4"
+ },
+ "img:https://abhk.botto.com/render.png": {
+  "url": "https://abhk.botto.com/render.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://abhk.botto.com/seed.jpg": {
+  "url": "https://abhk.botto.com/seed.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://abhk.botto.com/artworks-metadata/7.jpg": {
+  "url": "https://abhk.botto.com/artworks-metadata/7.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://gazell.io/cdn/shop/files/image_4_1_31a54717-f58d-427f-9235-3edbcce937b1.png?v=1741694345&width=1500": {
+  "url": "https://gazell.io/cdn/shop/files/image_4_1_31a54717-f58d-427f-9235-3edbcce937b1.png?v=1741694345&width=1500",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://static.wixstatic.com/media/73cb75_9d8d0051666a49a8b06ed8ae04a6340c~mv2.png": {
+  "url": "https://static.wixstatic.com/media/73cb75_9d8d0051666a49a8b06ed8ae04a6340c~mv2.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "video:youtube:wTlTbC7g0gw": {
+  "url": "https://www.youtube.com/watch?v=wTlTbC7g0gw",
+  "ok": true,
+  "platform": "youtube",
+  "id": "wTlTbC7g0gw",
+  "title": "Performance Review, Agent (via Jonas) interviews the Assistants",
+  "author": "Jonas Lund",
+  "thumbnail": "https://i.ytimg.com/vi/wTlTbC7g0gw/hqdefault.jpg"
+ },
+ "img:https://performance-review.jonaslund.com/assets/images/installation_views/OfficeImpart-JonasLund-MBP-11.jpg": {
+  "url": "https://performance-review.jonaslund.com/assets/images/installation_views/OfficeImpart-JonasLund-MBP-11.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://cdn.jonaslund.com/wp-content/uploads/2026/06/10075605/OfficeImpart-JonasLund-Exh-workers-MBP-1-cropped-scaled.jpg": {
+  "url": "https://cdn.jonaslund.com/wp-content/uploads/2026/06/10075605/OfficeImpart-JonasLund-Exh-workers-MBP-1-cropped-scaled.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://cdn.jonaslund.com/wp-content/uploads/2026/09/24112232/IMG_0072-scaled.jpg": {
+  "url": "https://cdn.jonaslund.com/wp-content/uploads/2026/09/24112232/IMG_0072-scaled.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://tomato-causal-partridge-743.mypinata.cloud/ipfs/QmYwTnvqYTXeR55A4NVTszctYDvxJungVDhYFMSFDQTraN": {
+  "url": "https://tomato-causal-partridge-743.mypinata.cloud/ipfs/QmYwTnvqYTXeR55A4NVTszctYDvxJungVDhYFMSFDQTraN",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://tomato-causal-partridge-743.mypinata.cloud/ipfs/QmU7cQHjkWA77jPA3yHVDGB2XkJSAmrufQQt78e7Fyyp7r": {
+  "url": "https://tomato-causal-partridge-743.mypinata.cloud/ipfs/QmU7cQHjkWA77jPA3yHVDGB2XkJSAmrufQQt78e7Fyyp7r",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://d14i3advvh2bvd.cloudfront.net/0abdc0bed1521048fadaa312b40bb5896fbcfdeea4497a6bda3504c089e4e17a.jpg": {
+  "url": "https://d14i3advvh2bvd.cloudfront.net/0abdc0bed1521048fadaa312b40bb5896fbcfdeea4497a6bda3504c089e4e17a.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://production-cms-bucket.s3.us-east-1.amazonaws.com/final3_snowfro_33b51be92c.png": {
+  "url": "https://production-cms-bucket.s3.us-east-1.amazonaws.com/final3_snowfro_33b51be92c.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://media-proxy.artblocks.io/1/0xababababab20053426ad1c782de9ea8444358070/5004656.png": {
+  "url": "https://media-proxy.artblocks.io/1/0xababababab20053426ad1c782de9ea8444358070/5004656.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://production-cms-bucket.s3.us-east-1.amazonaws.com/gif_721defca7b.gif": {
+  "url": "https://production-cms-bucket.s3.us-east-1.amazonaws.com/gif_721defca7b.gif",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/gif"
+ },
+ "img:https://pxl.onl/assets/pxl-dex-index.png": {
+  "url": "https://pxl.onl/assets/pxl-dex-index.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://log.fakewhale.xyz/wp-content/uploads/2025/03/kimstill1.jpg": {
+  "url": "https://log.fakewhale.xyz/wp-content/uploads/2025/03/kimstill1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://cdn.prod.website-files.com/69a148c2e36be434639e3978/6a5e8aa44b632ef361736949_01-front-desk-price-board.jpg": {
+  "url": "https://cdn.prod.website-files.com/69a148c2e36be434639e3978/6a5e8aa44b632ef361736949_01-front-desk-price-board.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://cdn.prod.website-files.com/69a148c2e36be434639e3978/6a5e8cc9aa4c6acf4d4f6b1f_Screenshot%202026-07-20%20at%2022.01.56.png": {
+  "url": "https://cdn.prod.website-files.com/69a148c2e36be434639e3978/6a5e8cc9aa4c6acf4d4f6b1f_Screenshot%202026-07-20%20at%2022.01.56.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://www.infinite-garden.xyz/opengraph-image.jpeg?3f2102d76220658a": {
+  "url": "https://www.infinite-garden.xyz/opengraph-image.jpeg?3f2102d76220658a",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://flamingstar.figure31.com/flamingstar_card.png": {
+  "url": "https://flamingstar.figure31.com/flamingstar_card.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://bluemoon.figure31.com/bluemoon_card.png": {
+  "url": "https://bluemoon.figure31.com/bluemoon_card.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://figure31.github.io/sprawl-hybrid/preview.png": {
+  "url": "https://figure31.github.io/sprawl-hybrid/preview.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://melancholia.figure31.com/preview.png": {
+  "url": "https://melancholia.figure31.com/preview.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://throwofdice.figure31.com/preview.png": {
+  "url": "https://throwofdice.figure31.com/preview.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://www.thedrive.com/wp-content/uploads/2025/05/Screenshot-2025-05-13-092520-copy.jpg?quality=85&w=2002": {
+  "url": "https://www.thedrive.com/wp-content/uploads/2025/05/Screenshot-2025-05-13-092520-copy.jpg?quality=85&w=2002",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://techcrunch.com/wp-content/uploads/2025/05/Screenshot-2025-05-16-at-5.29.07PM.png?w=1024": {
+  "url": "https://techcrunch.com/wp-content/uploads/2025/05/Screenshot-2025-05-16-at-5.29.07PM.png?w=1024",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/05/cursor.png": {
+  "url": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/05/cursor.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://brianmoore.com/static/img/715-main.webp": {
+  "url": "https://brianmoore.com/static/img/715-main.webp",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://eieio.games/images/the-global-capslock-key/social.png": {
+  "url": "https://eieio.games/images/the-global-capslock-key/social.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://eieio.games/images/tiny-christmas/og.png": {
+  "url": "https://eieio.games/images/tiny-christmas/og.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://eieio.games/images/solitaire-alone-together/og.png": {
+  "url": "https://eieio.games/images/solitaire-alone-together/og.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://whitneymedia.org/assets/image/833372/large_WB_Chao_Webimage.jpg": {
+  "url": "https://whitneymedia.org/assets/image/833372/large_WB_Chao_Webimage.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://whitneymedia.org/assets/image/833539/DSC03383_MC_16x9_10.jpg": {
+  "url": "https://whitneymedia.org/assets/image/833539/DSC03383_MC_16x9_10.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://wdc2026.org/api/media/file/16_Helgard_freigegeben(11)-1200x630.webp": {
+  "url": "https://wdc2026.org/api/media/file/16_Helgard_freigegeben(11)-1200x630.webp",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://arkdes.se/wp-content/uploads/2026/02/OUR-BR00D-by-OSC-13-_-Jean-Baptiste-Beranger-scaled.jpg": {
+  "url": "https://arkdes.se/wp-content/uploads/2026/02/OUR-BR00D-by-OSC-13-_-Jean-Baptiste-Beranger-scaled.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://omsksocial.club/assets/img/35_the_brood_300dpi_.jpg": {
+  "url": "https://omsksocial.club/assets/img/35_the_brood_300dpi_.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://omsksocial.club/assets/img/02_05.jpg": {
+  "url": "https://omsksocial.club/assets/img/02_05.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://omsksocial.club/assets/img/04_06.jpg": {
+  "url": "https://omsksocial.club/assets/img/04_06.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:tMmMZo1Mdnw": {
+  "url": "https://www.youtube.com/watch?v=tMmMZo1Mdnw",
+  "ok": true,
+  "platform": "youtube",
+  "id": "tMmMZo1Mdnw",
+  "title": "Ei Arakawa-Nash / Pavilion of Japan at Venice Art Biennale 2026",
+  "author": "VernissageTV",
+  "thumbnail": "https://i.ytimg.com/vi/tMmMZo1Mdnw/hqdefault.jpg"
+ },
+ "img:https://venezia-biennale-japan.jpf.go.jp/wp/wp-content/uploads/2025/06/Installation-of-Japan-Pavilion-at-La-Biennale-di-Venezia-2026_2_Photo-Uli-Holz.jpg": {
+  "url": "https://venezia-biennale-japan.jpf.go.jp/wp/wp-content/uploads/2025/06/Installation-of-Japan-Pavilion-at-La-Biennale-di-Venezia-2026_2_Photo-Uli-Holz.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://venezia-biennale-japan.jpf.go.jp/wp/wp-content/uploads/2025/06/Grass-Babies-Moon-Babies_DSCF0416-3-scaled.jpg": {
+  "url": "https://venezia-biennale-japan.jpf.go.jp/wp/wp-content/uploads/2025/06/Grass-Babies-Moon-Babies_DSCF0416-3-scaled.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://mindyseu.com/assets/img/20250920_PioneerWorks_MaxLakner-1.jpg": {
+  "url": "https://mindyseu.com/assets/img/20250920_PioneerWorks_MaxLakner-1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://mindyseu.com/assets/img/ASHOTI-book-LauraCoombs-TimSchutsky-1.jpg": {
+  "url": "https://mindyseu.com/assets/img/ASHOTI-book-LauraCoombs-TimSchutsky-1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://freight.cargo.site/w/1200/i/ae9d03845ec31e9fbefedaeeb7788a74d1769bdcc79afc0e754ec64dc6dcf4b8/01.jpg": {
+  "url": "https://freight.cargo.site/w/1200/i/ae9d03845ec31e9fbefedaeeb7788a74d1769bdcc79afc0e754ec64dc6dcf4b8/01.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://freight.cargo.site/w/1200/i/96a269a24b2422fc576fe0022671a6f0d61e1c6af9cf275e45a8a5955d57f39d/IMG_1571-2.jpg": {
+  "url": "https://freight.cargo.site/w/1200/i/96a269a24b2422fc576fe0022671a6f0d61e1c6af9cf275e45a8a5955d57f39d/IMG_1571-2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:uUzLLHUqQnE": {
+  "url": "https://i.ytimg.com/vi/uUzLLHUqQnE/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:QNXsafA10eo": {
+  "url": "https://i.ytimg.com/vi/QNXsafA10eo/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:qIhMQBaJ3ug": {
+  "url": "https://i.ytimg.com/vi/qIhMQBaJ3ug/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:wTlTbC7g0gw": {
+  "url": "https://i.ytimg.com/vi/wTlTbC7g0gw/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:tMmMZo1Mdnw": {
+  "url": "https://i.ytimg.com/vi/tMmMZo1Mdnw/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
  }
 }

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "tiny-awards",
+    "type": "award",
+    "en": "Tiny Awards",
+    "zh": "Tiny Awards（小网站奖）",
+    "desc_en": "Annual award, since 2023, for small, non-commercial websites made in the past year: the public nominates, a panel of web makers draws up a shortlist, and the web votes for the winner. Its 2024 Multiplayer award and later shortlists include several sites played by crowds under one rule.",
+    "desc_zh": "自 2023 年起每年颁发的奖项，表彰过去一年里做成的小型、非商业网站：公众提名，由网络创作者组成的评审团拟出入围名单，再由网民投票选出获奖者。2024 年的“多人”奖和此后的入围名单收录了多件由人群在同一条规则下共同玩出来的网站。",
+    "url": "https://tinyawards.net/"
+  },
+  {
+    "id": "worldglimpsing",
+    "type": "exhibition",
+    "en": "Worldglimpsing: Roleplay and the Design of Alternate Realities (ArkDes, 2025–26)",
+    "zh": "Worldglimpsing：角色扮演与另类现实的设计（ArkDes，2025–26）",
+    "desc_en": "Exhibition by ArkDes, Stockholm, and Nieuwe Instituut, Rotterdam, curated by James Taylor-Foster with Johanna Koljonen as adviser, that treats role-play and world-building as civic acts. It opened in Stockholm on 3 October 2025 with larp works, playable simulations and a commissioned role-play by OMSK Social Club; a second chapter follows in Rotterdam.",
+    "desc_zh": "由斯德哥尔摩 ArkDes 与鹿特丹新研究院（Nieuwe Instituut）合作的展览，James Taylor-Foster 策展、Johanna Koljonen 担任顾问，把角色扮演与世界构建视为公民行动。2025 年 10 月 3 日在斯德哥尔摩开幕，展出真人角色扮演作品、可玩的模拟，以及 OMSK Social Club 的委托角色扮演；第二章在鹿特丹举行。",
+    "url": "https://arkdes.se/en/exhibitions/worldglimpsing/"
+  }
+]

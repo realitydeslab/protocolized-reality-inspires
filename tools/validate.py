@@ -36,7 +36,7 @@ WORK_ZH = ("description_zh", "idea_zh", "protocol_zh", "collective_zh")
 CREATOR_EN = ("name", "role", "bio", "why")
 CREATOR_ZH = ("role_zh", "bio_zh", "why_zh")
 CREATOR_KINDS = {"person", "collective", "studio", "company", "dao", "anonymous"}
-LEAD_STATUS = {"open", "no_media", "off_topic", "duplicate"}
+LEAD_STATUS = {"open", "no_media", "off_topic", "duplicate", "covered"}
 
 
 def video_key(v: dict | None) -> str | None:

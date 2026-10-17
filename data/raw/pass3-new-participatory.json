@@ -1,0 +1,666 @@
+{
+  "batch": "pass3-new-participatory",
+  "creators": [
+    {
+      "id": "neal-agarwal",
+      "name": "Neal Agarwal",
+      "kind": "person",
+      "role": "Programmer and browser-game designer",
+      "based": "US",
+      "bio": "American programmer and game designer (born 1998) who has run the site neal.fun since 2017, known for browser games such as The Password Game and Infinite Craft.",
+      "why": "His Internet Roadtrip and Cursor Camp give thousands of strangers one shared car or campsite, and the outcome depends on how they coordinate.",
+      "links": {
+        "site": "https://neal.fun/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Neal_Agarwal"
+      },
+      "role_zh": "程序员，网页游戏设计者",
+      "based_zh": "美国",
+      "bio_zh": "美国程序员、游戏设计者（1998 年生），2017 年起运营网站 neal.fun，以 The Password Game、Infinite Craft 等网页游戏闻名。",
+      "why_zh": "他的 Internet Roadtrip 和 Cursor Camp 让成千上万的陌生人共用一辆车或一片营地，结果取决于他们如何协调。",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "brian-moore",
+      "name": "Brian Moore",
+      "kind": "person",
+      "role": "Creative technologist",
+      "based": "",
+      "bio": "Creative technologist who makes satirical web projects and devices, among them the chatbot GOODY-2, the album re-release Dookie Demastered and the bot @NYTIMESALLCAPS.",
+      "why": "His 715-999-7483 hands a website's whole design to whoever calls a phone number, one 30-second request at a time.",
+      "links": {
+        "site": "https://brianmoore.com/",
+        "instagram": "https://www.instagram.com/lanewinfield/"
+      },
+      "role_zh": "创意技术人",
+      "based_zh": "",
+      "bio_zh": "创意技术人，制作带讽刺意味的网页项目和装置，包括聊天机器人 GOODY-2、专辑重制项目 Dookie Demastered 和推特机器人 @NYTIMESALLCAPS。",
+      "why_zh": "他的 715-999-7483 把整个网站的设计交给任何拨打一个电话号码的人，每人一次 30 秒的请求。",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "maia-chao",
+      "name": "Maia Chao",
+      "kind": "person",
+      "role": "Artist",
+      "based": "Philadelphia, US",
+      "bio": "American artist (born 1991 in Providence) working in performance, participatory projects and institutional critique; her Look at Art. Get Paid. (2015–20) paid people who rarely visit museums to act as guest critics.",
+      "why": "Her scores for museum visitors turn the unwritten rules of looking at art into instructions that anyone in the gallery can carry out.",
+      "links": {
+        "site": "https://maiachao.com/"
+      },
+      "role_zh": "艺术家",
+      "based_zh": "费城，美国",
+      "bio_zh": "美国艺术家（1991 年生于普罗维登斯），创作涉及表演、参与式项目与体制批判；她的《Look at Art. Get Paid.》（2015–20）付费请很少去美术馆的人担任“客座评论员”。",
+      "why_zh": "她为美术馆观众写的乐谱，把观看艺术时不成文的规矩变成展厅里任何人都能执行的指令。",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "omsk-social-club",
+      "name": "OMSK Social Club",
+      "kind": "collective",
+      "role": "Artist collective",
+      "based": "Berlin, DE",
+      "bio": "Collective that since 2017 has developed Real Game Play, a method of collective immersion and speculative world-building drawn from live-action role play; its works have been shown at Gropius Bau, HKW and HEK Basel, and it co-curated the 7th Athens Biennale in 2021.",
+      "why": "They write role-play frameworks that groups of strangers improvise inside, so each run of a work is produced by its players.",
+      "links": {
+        "site": "https://omsksocial.club/"
+      },
+      "role_zh": "艺术团体",
+      "based_zh": "柏林，德国",
+      "bio_zh": "艺术团体，自 2017 年起发展“Real Game Play”方法，一种源自真人角色扮演的集体沉浸与推想式世界构建；作品曾在 Gropius Bau、世界文化之家（HKW）和巴塞尔电子艺术之家（HEK）展出，并于 2021 年联合策划第七届雅典双年展。",
+      "why_zh": "他们编写角色扮演的框架，让陌生人在其中即兴，每一场作品都由玩家完成。",
+      "connected_to": [
+        "rirkrit-tiravanija"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "ei-arakawa-nash",
+      "name": "Ei Arakawa-Nash",
+      "kind": "person",
+      "role": "Performance artist",
+      "based": "Los Angeles, US",
+      "bio": "Japanese American queer performance artist (born 1977 in Fukushima) whose group performances rework Gutai, Fluxus, Happenings and Judson Dance Theater; professor in the Graduate Art program at ArtCenter College of Design, Pasadena.",
+      "why": "Their performances depend on many participants; at the 2026 Japan Pavilion the visitors themselves carry out the work's acts of care.",
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Ei_Arakawa-Nash"
+      },
+      "role_zh": "表演艺术家",
+      "based_zh": "洛杉矶，美国",
+      "bio_zh": "日裔美国酷儿表演艺术家（1977 年生于福岛），群体表演改写具体派、激浪派、偶发艺术和贾德森舞蹈剧场的传统；任教于帕萨迪纳艺术中心设计学院研究生艺术项目。",
+      "why_zh": "他们的表演依赖众多参与者；在 2026 年日本馆中，作品里的照护动作由观众亲自完成。",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "rimini-protokoll",
+      "name": "Rimini Protokoll",
+      "kind": "collective",
+      "role": "Theatre and art collective",
+      "based": "Berlin, DE",
+      "bio": "German-Swiss collective founded in 2000 by Helgard Haug, Stefan Kaegi and Daniel Wetzel, known for theatre made with non-professional 'experts of the everyday' and for formats in which the audience performs.",
+      "why": "Many of their pieces hand the script to the audience: spectators follow headphone instructions, books or cue cards, and what they do is the performance.",
+      "links": {
+        "site": "https://www.rimini-protokoll.de/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Rimini_Protokoll"
+      },
+      "role_zh": "剧场与艺术团体",
+      "based_zh": "柏林，德国",
+      "bio_zh": "德国—瑞士艺术团体，2000 年由 Helgard Haug、Stefan Kaegi 与 Daniel Wetzel 创立，以与非职业的“日常生活专家”合作的剧场，以及由观众来表演的形式闻名。",
+      "why_zh": "他们的许多作品把剧本交给观众：观众按照耳机里的指令、书本或提示卡行动，他们的行动就是演出。",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "mindy-seu",
+      "name": "Mindy Seu",
+      "kind": "person",
+      "role": "Artist and technologist",
+      "based": "Los Angeles and New York, US",
+      "bio": "Artist and technologist whose practice centres on technology-driven performance and publication; author of Cyberfeminism Index (2023) and associate professor of Design Media Arts at UCLA.",
+      "why": "In A Sexual History of the Internet the script runs on the audience's own phones, and the audience reads it aloud.",
+      "links": {
+        "site": "https://mindyseu.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Mindy_Seu"
+      },
+      "role_zh": "艺术家、技术人",
+      "based_zh": "洛杉矶与纽约，美国",
+      "bio_zh": "艺术家、技术人，实践以技术驱动的表演和出版为核心；著有《Cyberfeminism Index》（2023），任加州大学洛杉矶分校设计媒体艺术系副教授。",
+      "why_zh": "在《A Sexual History of the Internet》中，剧本在观众自己的手机上播放，由观众朗读出来。",
+      "connected_to": [],
+      "discovered_via": "seed"
+    }
+  ],
+  "works": [
+    {
+      "id": "neal-agarwal--internet-roadtrip",
+      "creator_ids": ["neal-agarwal"],
+      "title": "Internet Roadtrip",
+      "year": 2025,
+      "field": "network",
+      "sub": "collective-games",
+      "mechanisms": ["participation", "governance"],
+      "substrate": "network",
+      "kind": "game",
+      "description": "A car on Google Street View that everyone on the page drives together: every few seconds the crowd votes on which way to go, and can also vote to honk or to change the radio. It set off from Boston on 6 May 2025.",
+      "description_zh": "一辆在谷歌街景里行驶、由所有在线访客共同驾驶的车：每隔几秒，人群投票决定往哪个方向开，也可以投票按喇叭或换电台。它于 2025 年 5 月 6 日从波士顿出发。",
+      "idea_en": "A road trip with one car and thousands of drivers: majority rule at walking pace.",
+      "idea_zh": "一辆车、成千上万名司机的公路旅行：以步行速度运行的多数决。",
+      "protocol": "Anyone on the page may vote. At each step the site counts the votes for the directions Street View allows, moves the car the winning way and opens the next vote. Separate votes decide whether to honk and which local internet radio station plays.",
+      "protocol_zh": "页面上的任何人都可以投票。每一步，网站统计街景中各个可走方向的票数，把车开往得票最多的方向，然后开启下一轮投票。另有投票决定是否按喇叭、播放哪个当地网络电台。",
+      "collective": "Players organised on a Discord server, agreed to head north and drove the car into Canada and on to Nova Scotia; Wikipedia cites estimates of about 15,000 daily users and a peak of about 2,500 at once. The college radio station WBOR in Maine let passing players choose songs. The site was a finalist for the 2025 Tiny Awards.",
+      "collective_zh": "玩家在 Discord 服务器上组织起来，约定北上，把车开进加拿大，一直开到新斯科舍省；据维基百科引述的估计，日活跃用户约 1.5 万人，同时在线峰值约 2,500 人。缅因州的大学电台 WBOR 让途经的玩家点歌。该网站入围 2025 年 Tiny Awards。",
+      "keywords": ["Google Street View", "voting", "Twitch Plays Pokémon", "r/place", "radio", "neal.fun"],
+      "images": [
+        "https://www.thedrive.com/wp-content/uploads/2025/05/Screenshot-2025-05-13-092520-copy.jpg?quality=85&w=2002",
+        "https://techcrunch.com/wp-content/uploads/2025/05/Screenshot-2025-05-16-at-5.29.07PM.png?w=1024"
+      ],
+      "source_url": "https://neal.fun/internet-roadtrip/",
+      "collections": ["tiny-awards"]
+    },
+    {
+      "id": "neal-agarwal--cursor-camp",
+      "creator_ids": ["neal-agarwal"],
+      "title": "Cursor Camp",
+      "year": 2026,
+      "field": "network",
+      "sub": "collective-games",
+      "mechanisms": ["participation", "constraint"],
+      "substrate": "network",
+      "kind": "game",
+      "description": "A browser campsite where every visitor appears as a mouse cursor with a country flag. There is no text chat; visitors work out together how to make s'mores, build a fire, dance or watch a film. Made with Stefan Cohen, Evgeniia Shmyreva and Ashley Best and launched on 29 April 2026.",
+      "description_zh": "一个网页上的营地，每位访客都以带国旗的鼠标指针出现。没有文字聊天，访客们一起摸索怎样烤棉花糖、生篝火、跳舞或看电影。与 Stefan Cohen、Evgeniia Shmyreva、Ashley Best 合作，2026 年 4 月 29 日上线。",
+      "idea_en": "Take away chat and leave only pointers: strangers coordinate by moving and clicking.",
+      "idea_zh": "拿掉聊天，只留下指针：陌生人靠移动和点击来协作。",
+      "protocol": "Each visitor controls only a cursor, visible to everyone else with its country flag; the only means of expression are movement and clicks on shared objects. Activities respond to whoever is present, and badges unlock by criteria the site does not explain.",
+      "protocol_zh": "每位访客只能控制一个指针，其他人都能看到它和它的国旗；唯一的表达方式是移动和点击共享的物件。各项活动对在场的所有人作出反应，徽章的解锁条件网站并不说明。",
+      "collective": "Players found the hidden activities together, for example building a fire and cooking a mushroom stew without any direct communication. The site won the 2026 Tiny Awards, in the year with the most public votes so far.",
+      "collective_zh": "玩家们一起摸索出隐藏的玩法，比如在没有任何直接交流的情况下生火、煮蘑菇汤。该网站赢得 2026 年 Tiny Awards，那一年的公众投票数是历届最多的。",
+      "keywords": ["cursor", "multiplayer", "no chat", "summer camp", "neal.fun"],
+      "images": [
+        "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/05/cursor.png"
+      ],
+      "source_url": "https://neal.fun/cursor-camp/",
+      "collections": ["tiny-awards"]
+    },
+    {
+      "id": "brian-moore--715-999-7483",
+      "creator_ids": ["brian-moore"],
+      "title": "715-999-7483",
+      "year": 2025,
+      "field": "network",
+      "sub": "collective-games",
+      "mechanisms": ["participation", "co-authorship", "constraint"],
+      "substrate": "network",
+      "kind": "artwork",
+      "description": "A website anyone can redesign by phone: callers dial (715) 999-7483, describe in 30 seconds what they want changed, and the homepage is rebuilt from their spoken request.",
+      "description_zh": "一个任何人都能通过电话重新设计的网站：拨打 (715) 999-7483，用 30 秒描述想改什么，主页就会按照这段口头要求重建。",
+      "idea_en": "One public homepage, many owners: whoever holds the line holds the design.",
+      "idea_zh": "一个公共主页，许多主人：谁占着线，谁就掌握设计。",
+      "protocol": "Anyone may call, but only one caller is connected at a time; the others are queued or get a busy signal. Each caller has 30 seconds to describe changes, which AI models then apply to the page, and each person may call once every 24 hours. The only content rule is 'try not to be a jerk and ruin it for everyone else'.",
+      "protocol_zh": "任何人都可以打电话，但同一时间只接通一位来电者，其他人排队或听到忙音。每位来电者有 30 秒描述修改要求，再由 AI 模型改到页面上；每人每 24 小时只能打一次。唯一的内容规则是“尽量别做混蛋，别毁了大家的东西”。",
+      "collective": "Callers had made 43,429 edits by mid-October 2026, according to the site's own counter, and the page keeps turning into whatever the latest caller asked for. It was a finalist for the 2025 Tiny Awards.",
+      "collective_zh": "据网站自己的计数，到 2026 年 10 月中旬，来电者已做出 43,429 次修改；页面不断变成最近一位来电者要求的样子。该项目入围 2025 年 Tiny Awards。",
+      "keywords": ["phone", "voice", "AI", "multiplayer website", "queue", "Twilio"],
+      "images": [
+        "https://brianmoore.com/static/img/715-main.webp"
+      ],
+      "source_url": "https://715-999-7483.com/about",
+      "collections": ["tiny-awards"]
+    },
+    {
+      "id": "nolen-royalty--global-caps-lock",
+      "creator_ids": ["nolen-royalty"],
+      "title": "GLOBAL CAPS LOCK",
+      "year": 2025,
+      "field": "network",
+      "sub": "collective-games",
+      "mechanisms": ["participation", "constraint"],
+      "substrate": "network",
+      "kind": "artwork",
+      "description": "A small desktop client that ties every user's caps lock key to one global state: when anyone toggles caps lock, it toggles on the computer of everyone running the client. It ran for about a week and a half in February 2025.",
+      "description_zh": "一个小小的桌面客户端，把每位用户的大写锁定键绑定到同一个全局状态：任何人切换大写锁定，所有运行客户端的电脑都会随之切换。它于 2025 年 2 月运行了大约一周半。",
+      "idea_en": "Share one key with the world and let typing etiquette be settled by everyone at once.",
+      "idea_zh": "全世界共用一个按键，让打字礼仪由所有人同时决定。",
+      "protocol": "Users install a client for Windows, Mac or Linux. The client compares the local caps lock state with the global one and toggles the local key whenever anyone changes it. There is no vote and no owner, only the most recent press.",
+      "protocol_zh": "用户安装适用于 Windows、Mac 或 Linux 的客户端。客户端把本机的大写锁定状态与全局状态比对，只要有人改变它，就切换本机的按键。没有投票，也没有主人，只有最近的那一次按键。",
+      "collective": "Users pressed caps lock about 1,500,000 times in the roughly 1.5 weeks the tool was online, pushing one another's typing into and out of capitals. Royalty then shut it down and published an example server so that others could run their own.",
+      "collective_zh": "在工具上线的大约一周半里，用户按了约 150 万次大写锁定键，让彼此的输入在大小写之间来回切换。之后 Royalty 关闭了它，并公开了一个示例服务器，供他人自行架设。",
+      "keywords": ["caps lock", "shared state", "desktop client", "eieio.games"],
+      "images": [
+        "https://eieio.games/images/the-global-capslock-key/social.png"
+      ],
+      "source_url": "https://eieio.games/blog/the-global-capslock-key"
+    },
+    {
+      "id": "nolen-royalty--tiny-christmas",
+      "creator_ids": ["nolen-royalty"],
+      "title": "ssh tiny.christmas",
+      "year": 2025,
+      "field": "network",
+      "sub": "collective-games",
+      "mechanisms": ["participation", "time"],
+      "substrate": "network",
+      "kind": "artwork",
+      "description": "A Christmas singalong in the terminal: typing ssh tiny.christmas opens a carol beside a tree drawn in Braille characters, and pressing the space bar advances the lyrics for everyone connected. It ran from 24 December 2025 to early March 2026.",
+      "description_zh": "终端里的圣诞合唱：输入 ssh tiny.christmas，会打开一首颂歌和一棵用盲文字符画成的树，按下空格键，所有在线者的歌词都会前进一行。2025 年 12 月 24 日上线，2026 年 3 月初关闭。",
+      "idea_en": "One shared space bar sets the tempo of a crowd's carol.",
+      "idea_zh": "一个共享的空格键决定一群人唱颂歌的节奏。",
+      "protocol": "Anyone with an SSH client can connect. All connected carolers see the same lyrics, and any one of them can press space to move everyone to the next line.",
+      "protocol_zh": "任何有 SSH 客户端的人都能连上。所有在线的歌者看到同样的歌词，其中任何一人按下空格，所有人就一起跳到下一句。",
+      "collective": "Connected carolers shared control of one song's pace, each press by one person moving the lyrics for all. The server ran through the holiday season and was switched off in early March 2026.",
+      "collective_zh": "在线的歌者共同掌握一首歌的节奏，任何一人按一次，所有人的歌词都会前进。服务器在整个节日季持续运行，于 2026 年 3 月初关闭。",
+      "keywords": ["SSH", "terminal", "carol", "Unicode Braille", "eieio.games"],
+      "images": [
+        "https://eieio.games/images/tiny-christmas/og.png"
+      ],
+      "source_url": "https://eieio.games/blog/tiny-christmas"
+    },
+    {
+      "id": "nolen-royalty--solitaire-alone-together",
+      "creator_ids": ["nolen-royalty"],
+      "title": "Solitaire Alone Together",
+      "year": 2026,
+      "field": "network",
+      "sub": "collective-games",
+      "mechanisms": ["participation", "constraint"],
+      "substrate": "network",
+      "kind": "game",
+      "description": "Windows 98-style solitaire played online in view of everyone else: each player can watch other people's games and mouse movements but cannot talk to them or touch their cards. Made for Rhizome's 30th anniversary and shown in the exhibition WEBSITES WEBSITES WEBSITES! in New York from 21 September 2026.",
+      "description_zh": "一款在线的 Windows 98 风格接龙，所有人都在彼此眼前玩：每位玩家都能看到别人的牌局和鼠标移动，却不能和他们说话，也碰不到他们的牌。为 Rhizome 三十周年而作，2026 年 9 月 21 日起在纽约的展览 WEBSITES WEBSITES WEBSITES! 中展出。",
+      "idea_en": "Co-presence without contact: a single-player game made public.",
+      "idea_zh": "只有同在、没有接触：把单人游戏变成公开的。",
+      "protocol": "Everyone plays their own game of solitaire. Every game and every cursor is visible to all other players, but there is no chat and no way to act on another player's game.",
+      "protocol_zh": "每个人玩自己的一局接龙。每一局牌和每个指针都对其他玩家可见，但没有聊天，也无法对别人的牌局做任何操作。",
+      "collective": "Visitors in the gallery and online watched strangers play and make mistakes. Royalty describes the result as more social than solitaire was 30 years ago, but also a little lonely.",
+      "collective_zh": "展厅里和网上的访客看着陌生人出牌、犯错。Royalty 形容这个结果比 30 年前的接龙更有社交性，但也有点孤独。",
+      "keywords": ["solitaire", "Windows 98", "Rhizome", "WEBSITES WEBSITES WEBSITES!", "eieio.games"],
+      "images": [
+        "https://eieio.games/images/solitaire-alone-together/og.png"
+      ],
+      "source_url": "https://eieio.games/blog/solitaire-alone-together"
+    },
+    {
+      "id": "maia-chao--scores-for-the-museum-visitor",
+      "creator_ids": ["maia-chao"],
+      "title": "Scores for the Museum Visitor",
+      "year": 2026,
+      "field": "score",
+      "sub": "public-instructions",
+      "also": ["social"],
+      "mechanisms": ["instruction", "participation"],
+      "substrate": "body",
+      "kind": "score",
+      "description": "Printed scores in the 2026 Whitney Biennial that invite visitors to try, in the galleries, the exercises Chao used to rehearse her performance BEING MOVED, such as touching an empty rectangle on the wall as if it were an artwork they are not allowed to touch.",
+      "description_zh": "2026 年惠特尼双年展中的一组印制乐谱，邀请观众在展厅里尝试 Chao 为排练表演《BEING MOVED》所用的练习，比如像触碰一件不许碰的艺术品那样，去触碰墙上一个空白的矩形。",
+      "idea_en": "Turn the unwritten choreography of museum-going into scores anyone can perform.",
+      "idea_zh": "把参观美术馆时不成文的身体编排，变成任何人都能执行的乐谱。",
+      "protocol": "The scores are displayed as an open invitation, and any visitor may carry one out, for example: 'Touch the rectangle as if you are touching an artwork that you aren't allowed to touch. Imagine getting away with it.' No one supervises, and other visitors may or may not notice.",
+      "protocol_zh": "乐谱作为公开邀请展出，任何观众都可以照做，例如：“触碰这个矩形，就像在触碰一件不允许你碰的艺术品。想象你没被发现。”没有人监督，其他观众可能注意到，也可能没注意到。",
+      "collective": "Visitors' attempts become what the Whitney calls 'micro-performances' scattered through the galleries. The same exercises shaped BEING MOVED (14–17 May 2026), in which performers playing visitors, tour guides and museum administrators exaggerated the gestures of looking at art in the seventh-floor collection galleries.",
+      "collective_zh": "观众的尝试成为散落在展厅里的、惠特尼所说的“微型表演”。同一批练习也塑造了《BEING MOVED》（2026 年 5 月 14–17 日）：表演者扮演观众、导览员和美术馆行政人员，在七楼馆藏展厅里放大观看艺术时的种种姿态。",
+      "keywords": ["Whitney Biennial 2026", "score", "museum visitor", "BEING MOVED", "institutional critique"],
+      "images": [
+        "https://whitneymedia.org/assets/image/833372/large_WB_Chao_Webimage.jpg",
+        "https://whitneymedia.org/assets/image/833539/DSC03383_MC_16x9_10.jpg"
+      ],
+      "source_url": "https://whitney.org/exhibitions/2026-biennial/art?section=12"
+    },
+    {
+      "id": "rimini-protokoll--hooked-on-a-book",
+      "creator_ids": ["rimini-protokoll"],
+      "title": "Hooked on a Book",
+      "year": 2026,
+      "field": "score",
+      "sub": "public-instructions",
+      "also": ["social"],
+      "mechanisms": ["instruction", "participation"],
+      "substrate": "text",
+      "kind": "score",
+      "description": "A book for two strangers: sitting at one table, they read it page by page while it asks them questions and prompts them to talk about belonging, being alone and being together. Conceived by Helgard Haug for Rimini Protokoll and run across the Frankfurt RheinMain region for World Design Capital 2026.",
+      "description_zh": "一本写给两个陌生人的书：两人同坐一桌，一页一页往下读，书向他们提问，引导他们谈论归属、独处与相处。由 Rimini Protokoll 的 Helgard Haug 构思，在 2026 年世界设计之都期间于法兰克福莱茵—美因地区各地进行。",
+      "idea_en": "A play with no stage and no spectators: the script is a book, and its two readers are the whole cast.",
+      "idea_zh": "一出没有舞台、没有观众的戏：剧本是一本书，两位读者就是全部演员。",
+      "protocol": "Two people, ideally unknown to each other, share one copy. The book sets the order of pages, questions and prompts, and the readers' answers fill it in. Pairs can join scheduled sessions or borrow the book from participating town libraries.",
+      "protocol_zh": "两个人（最好彼此不认识）共用一本书。书规定页面、问题和提示的顺序，读者的回答把它填满。可以参加预定场次，也可以从参与的市立图书馆借书来做。",
+      "collective": "The book runs from 8 February to 31 December 2026; pairs met at sessions in town halls, libraries and literature houses across the region, and copies could be borrowed in towns such as Kelkheim, Hofheim, Oberursel and Idstein. Each pair's conversation makes a different version of the piece.",
+      "collective_zh": "作品从 2026 年 2 月 8 日持续到 12 月 31 日；一对对参与者在地区各地的市政厅、图书馆和文学之家参加场次，凯尔克海姆、霍夫海姆、上乌瑟尔、伊德施泰因等地也可以借到这本书。每一对人的对话都构成作品的一个不同版本。",
+      "keywords": ["Rimini Protokoll", "Helgard Haug", "World Design Capital 2026", "book", "conversation", "strangers"],
+      "images": [
+        "https://wdc2026.org/api/media/file/16_Helgard_freigegeben(11)-1200x630.webp"
+      ],
+      "source_url": "https://wdc2026.org/en/frames/hooked-on-a-book"
+    },
+    {
+      "id": "omsk-social-club--our-br00d",
+      "creator_ids": ["omsk-social-club"],
+      "title": "OUR BR00D",
+      "year": 2025,
+      "field": "social",
+      "sub": "performance",
+      "also": ["score"],
+      "mechanisms": ["participation", "co-authorship", "constraint"],
+      "substrate": "body",
+      "kind": "game",
+      "description": "A facilitated role-play in which small groups of visitors become an 'alloparenting' family of humans and machines raising Br00d, an AI baby, guided by M0ther, a caregiving AI. Commissioned by ArkDes and Nieuwe Instituut for the exhibition Worldglimpsing, it opened in Stockholm in October 2025.",
+      "description_zh": "一场有引导者的角色扮演：每组少量观众成为由人和机器组成的“共同育儿”家庭，在照护型 AI“M0ther”的引导下抚养一个 AI 婴儿“Br00d”。由 ArkDes 与新研究院（Nieuwe Instituut）为展览 Worldglimpsing 委托创作，2025 年 10 月在斯德哥尔摩首演。",
+      "idea_en": "Raising an AI as a family game: the players' improvisation is the research.",
+      "idea_zh": "把养育 AI 当作一场家庭游戏：玩家的即兴就是研究本身。",
+      "protocol": "Groups of 6–8 sign up for a three-hour session led by OMSK members; a 30-minute version runs with museum hosts. A session moves through three phases: 'The Window', narrated by M0ther; 'The Lab of the Made and the Born', a room heated to 37°C where players co-write the game's central problem; and the Playspace, where they act it out. No experience is needed and there is no fixed script.",
+      "protocol_zh": "6–8 人一组报名，参加由 OMSK 成员带领的三小时场次；另有由美术馆工作人员主持的 30 分钟版本。一场分三个阶段：由 M0ther 讲述的“The Window”；加热到 37°C 的“The Lab of the Made and the Born”，玩家在这里共同写出游戏的核心问题；以及把问题演出来的游戏空间。不需要经验，也没有固定剧本。",
+      "collective": "The game was developed through a reading group at Callie's, Berlin (2024–25) and playtests at Shedhalle Zürich, Sybil Berlin and Nieuwe Instituut. At ArkDes, free sessions ran from October to December 2025, and sound scripts from the role-play feed the installation's audio. The work travels to Rotterdam in 2026 and Munich in 2027.",
+      "collective_zh": "这个游戏经由柏林 Callie's 的读书小组（2024–25）以及在苏黎世 Shedhalle、柏林 Sybil 和新研究院的试玩发展而成。在 ArkDes，免费场次从 2025 年 10 月持续到 12 月，角色扮演中产生的声音脚本被用进装置的音频。作品 2026 年巡展至鹿特丹，2027 年至慕尼黑。",
+      "keywords": ["Real Game Play", "larp", "role-play", "AI", "care", "ArkDes", "Worldglimpsing"],
+      "images": [
+        "https://arkdes.se/wp-content/uploads/2026/02/OUR-BR00D-by-OSC-13-_-Jean-Baptiste-Beranger-scaled.jpg",
+        "https://omsksocial.club/assets/img/35_the_brood_300dpi_.jpg"
+      ],
+      "source_url": "https://omsksocial.club/our-br00d.html",
+      "collections": ["worldglimpsing"]
+    },
+    {
+      "id": "omsk-social-club--operative-image",
+      "creator_ids": ["omsk-social-club"],
+      "title": "operative image",
+      "year": 2026,
+      "field": "social",
+      "sub": "performance",
+      "also": ["score"],
+      "mechanisms": ["instruction", "participation", "chance"],
+      "substrate": "body",
+      "kind": "artwork",
+      "description": "A Real Game Play event that moved a crowd of ravers onto the stage of the Deutsche Oper Berlin, where OMSK's 'nodes' circulated with prompts and forking scores. It was part of the opera house's opening weekend UNLESS THE PEOPLE LIVE HERE (29–30 August 2026), curated by Rirkrit Tiravanija and Landon Wilson.",
+      "description_zh": "一场 Real Game Play 活动：把一群锐舞人群搬上柏林德意志歌剧院的舞台，OMSK 的“节点”带着提示和不断分叉的乐谱在其中穿行。属于歌剧院由 Rirkrit Tiravanija 和 Landon Wilson 策划的开季周末“UNLESS THE PEOPLE LIVE HERE”（2026 年 8 月 29–30 日）。",
+      "idea_en": "A rave as a game with no single entry: scores spread through a crowd like rumours.",
+      "idea_zh": "把锐舞变成一场没有唯一入口的游戏：乐谱像流言一样在人群中传播。",
+      "protocol": "The work is credited as '800 seekers, 9 core nodes, 4 producers, 1 stage'. The nodes carry scores that fork, replicate and mutate, and pass on conspiratorial messages, prompts and contingencies. A guest may pick up a thread and follow it, or lose it and surface in another fiction; both count as the work.",
+      "protocol_zh": "作品署明“800 名探寻者、9 个核心节点、4 名制作人、1 座舞台”。节点携带会分叉、复制和变异的乐谱，传递密谋式的信息、提示和突发情境。来宾可以抓住一条线索跟下去，也可能跟丢，进入另一段虚构；两者都算作品的一部分。",
+      "collective": "The credits list 800 seekers, who played on and around the opera stage amid sound mixed from the Deutsche Oper's recording archive and club frequencies, while a live document was written from inside the event.",
+      "collective_zh": "署名列出 800 名探寻者，他们在歌剧院舞台内外参与游戏，背景声音混合了德意志歌剧院录音档案与俱乐部的频率，同时一份现场文档在活动内部实时写成。",
+      "keywords": ["Real Game Play", "rave", "Deutsche Oper Berlin", "Rirkrit Tiravanija", "scores", "Cryptorave"],
+      "images": [
+        "https://omsksocial.club/assets/img/02_05.jpg",
+        "https://omsksocial.club/assets/img/04_06.jpg"
+      ],
+      "source_url": "https://omsksocial.club/operative-image.html"
+    },
+    {
+      "id": "ei-arakawa-nash--grass-babies-moon-babies",
+      "creator_ids": ["ei-arakawa-nash"],
+      "title": "Grass Babies, Moon Babies",
+      "year": 2026,
+      "field": "social",
+      "sub": "performance",
+      "mechanisms": ["instruction", "participation", "circulation"],
+      "substrate": "body",
+      "kind": "artwork",
+      "description": "The Japan Pavilion at the 2026 Venice Biennale, set in motion by visitors' care: each visitor is handed a baby doll, carries it through the pavilion and its garden, and at the end changes its diaper to receive a poem keyed to the doll's birthday.",
+      "description_zh": "2026 年威尼斯双年展日本馆，由观众的照护来启动：每位观众领到一个婴儿娃娃，抱着它穿过展馆和花园，最后为它换尿布，得到一首依据娃娃生日写成的诗。",
+      "idea_en": "Care as the visitor's job: the pavilion is completed by strangers who carry the babies and change them.",
+      "idea_zh": "把照护交给观众：展馆由一个个抱起婴儿、为它们换尿布的陌生人来完成。",
+      "protocol": "On entering, a visitor is handed one of the dolls in the ground-floor pilotis (the pavilion holds 208 in all) and carries it through the gardens and interior. Near the exit the visitor changes its diaper, which reveals a QR code delivering a 'diaper poem' by the astrologer Yukari Ishii based on the doll's assigned birthday. The 57 birthdays are historical dates, mostly from the 20th century, that the artist wants their own children to know about, drawn from the entangled histories of Japan, the US and Asia.",
+      "protocol_zh": "观众进门时在底层架空层领到一个娃娃（展馆里共有 208 个），抱着它穿过花园和室内。在出口附近为它换尿布，尿布上的二维码会送出一首由占星作家 Yukari Ishii 根据娃娃的指定生日写的“尿布诗”。这 57 个生日都是历史上的日期，多来自二十世纪，是艺术家希望自己的孩子知道的日子，取自日本、美国和亚洲相互交织的历史。",
+      "collective": "Visitors carry out the work's acts of care throughout the Biennale, 9 May to 22 November 2026, alongside an 'audience activation' every day except Monday and a participatory vocal performance that travels to the neighbouring Korean Pavilion, whose performer also walks one of the dolls there once a week. The project then travels to the Kestner Gesellschaft, Hannover (from December 2026) and the Artizon Museum, Tokyo (2027).",
+      "collective_zh": "在 2026 年 5 月 9 日至 11 月 22 日的整个双年展期间，观众完成作品中的照护动作；同时还有除周一外每天进行的“观众激活”，以及一场一路走到隔壁韩国馆的参与式声乐演出，韩国馆的表演者也每周带一个娃娃过去散步。项目随后巡展至汉诺威 Kestner Gesellschaft（2026 年 12 月起）和东京 Artizon 美术馆（2027 年）。",
+      "keywords": ["Venice Biennale 2026", "Japan Pavilion", "care", "baby dolls", "diaper poem", "Korean Pavilion"],
+      "video": { "url": "https://www.youtube.com/watch?v=tMmMZo1Mdnw" },
+      "images": [
+        "https://venezia-biennale-japan.jpf.go.jp/wp/wp-content/uploads/2025/06/Installation-of-Japan-Pavilion-at-La-Biennale-di-Venezia-2026_2_Photo-Uli-Holz.jpg",
+        "https://venezia-biennale-japan.jpf.go.jp/wp/wp-content/uploads/2025/06/Grass-Babies-Moon-Babies_DSCF0416-3-scaled.jpg"
+      ],
+      "source_url": "https://venezia-biennale-japan.jpf.go.jp/e/art/2026-en"
+    },
+    {
+      "id": "mindy-seu--a-sexual-history-of-the-internet",
+      "creator_ids": ["mindy-seu"],
+      "title": "A Sexual History of the Internet",
+      "year": 2025,
+      "field": "score",
+      "sub": "public-instructions",
+      "also": ["social"],
+      "mechanisms": ["instruction", "participation", "constraint"],
+      "substrate": "network",
+      "kind": "artwork",
+      "description": "A lecture performance with no stage or projector: the script runs as Instagram Stories on each audience member's own phone, and the audience reads the cited voices aloud. It premiered at Pioneer Works, New York, on 20 September 2025, has toured since, and comes with a 700-page artist book.",
+      "description_zh": "一场没有舞台、没有投影的讲演表演：剧本以 Instagram 快拍的形式在每位观众自己的手机上播放，由观众把其中引用的声音朗读出来。2025 年 9 月 20 日在纽约 Pioneer Works 首演，此后一直巡演，并配有一本 700 多页的艺术家书。",
+      "idea_en": "Turn a feed into a score and an audience into a chorus of citations.",
+      "idea_zh": "把信息流变成乐谱，把观众变成朗读引文的合唱团。",
+      "protocol": "Chairs face in different directions. On cue everyone opens the account @asexualhistoryoftheinternet and, after a countdown, lets 45 minutes of Stories autoplay without touching the screen (images hold for five seconds, videos for up to a minute). Each attendee is assigned one of five colours and reads aloud the quotations in that colour. Profits from the book are redistributed to the people cited in it.",
+      "protocol_zh": "椅子朝向各不相同。听到提示后，所有人打开账号 @asexualhistoryoftheinternet，倒数之后让 45 分钟的快拍自动播放，期间不碰屏幕（图片停留五秒，视频最长一分钟）。每位观众被分到五种颜色之一，朗读该颜色的引文。书的利润会重新分给书中被引用的人。",
+      "collective": "Audiences have performed it at venues including Pioneer Works, KW Berlin, MOCA Los Angeles, MOT Tokyo, MCA Chicago and the ICA London, most of the dates sold out, with hundreds of voices reading artists, lawyers, sex workers and historians aloud. It received an Honorary Mention in Interactive Art+ at the Prix Ars Electronica 2026.",
+      "collective_zh": "观众已在 Pioneer Works、柏林 KW 当代艺术中心、洛杉矶当代艺术博物馆、东京都现代美术馆、芝加哥当代艺术博物馆和伦敦当代艺术学院等地完成演出，多数场次售罄，数百个声音朗读艺术家、律师、性工作者和历史学者的话。该作获 2026 年林茨电子艺术节大奖（Prix Ars Electronica）互动艺术+ 类荣誉提名。",
+      "keywords": ["lecture performance", "Instagram Stories", "re-citation", "Metalabel", "Prix Ars Electronica 2026"],
+      "images": [
+        "https://mindyseu.com/assets/img/20250920_PioneerWorks_MaxLakner-1.jpg",
+        "https://mindyseu.com/assets/img/ASHOTI-book-LauraCoombs-TimSchutsky-1.jpg"
+      ],
+      "source_url": "https://asexualhistoryoftheinternet.com/"
+    },
+    {
+      "id": "lauren-lee-mccarthy--auto",
+      "creator_ids": ["lauren-lee-mccarthy"],
+      "title": "AUTO",
+      "year": 2025,
+      "field": "social",
+      "sub": "performance",
+      "mechanisms": ["instruction", "participation"],
+      "substrate": "body",
+      "kind": "artwork",
+      "description": "A performance staged as test rides in a 'driverless vehicle' whose engine is its passengers' collective singing, prompted karaoke-style through signs and sound. Shown in the LACMA parking garage in July 2025 and in a self-driving Swiss PostBus on Zürich's Münsterhof, commissioned by Kunst im öffentlichen Raum and curated by HEK director Sabine Himmelsbach.",
+      "description_zh": "一场以“无人驾驶汽车”试乘为形式的表演，这辆车的引擎是乘客的集体歌唱，由标牌和声音以卡拉 OK 的方式提示。2025 年 7 月在洛杉矶郡艺术博物馆（LACMA）停车场呈现，又在苏黎世明斯特广场的一辆瑞士邮政自动驾驶小巴中呈现，后者由苏黎世公共空间艺术项目委托、巴塞尔电子艺术之家馆长 Sabine Himmelsbach 策展。",
+      "idea_en": "Riding with nobody at the wheel: passengers become the autopilot by voicing words they read only as they sing them.",
+      "idea_zh": "方向盘后面没有人：乘客唱出刚读到的词，自己成了自动驾驶。",
+      "protocol": "Each ride begins with the question 'Where are we going?'. As the vehicle 'accelerates', new features are tested, and lyrics appear on signs and in the sound for the passengers to sing together as they read them. In each city, community workshops on AI, automation, surveillance and infrastructure inform the new features of that iteration.",
+      "protocol_zh": "每次乘坐都从一个问题开始：“我们要去哪里？”车辆“加速”时，新的功能逐一测试，歌词出现在标牌和声音里，乘客边读边一起唱。每到一座城市，关于人工智能、自动化、监控和基础设施的社区工作坊会为这一版的新功能提供依据。",
+      "collective": "Groups of passengers sang the vehicle forward in Los Angeles and Zürich, experiencing what McCarthy calls an embodied automation, while local workshop participants shaped each version's features.",
+      "collective_zh": "一批批乘客在洛杉矶和苏黎世用歌声“驱动”车辆，体验到 McCarthy 所说的“身体化的自动化”；当地工作坊的参与者则塑造了每一版的功能。",
+      "keywords": ["driverless", "karaoke", "LACMA Art + Technology Lab", "PostBus", "KiöR Zürich", "HEK"],
+      "images": [
+        "https://freight.cargo.site/w/1200/i/ae9d03845ec31e9fbefedaeeb7788a74d1769bdcc79afc0e754ec64dc6dcf4b8/01.jpg",
+        "https://freight.cargo.site/w/1200/i/96a269a24b2422fc576fe0022671a6f0d61e1c6af9cf275e45a8a5955d57f39d/IMG_1571-2.jpg"
+      ],
+      "source_url": "https://lauren-mccarthy.com/AUTO"
+    }
+  ],
+  "leads": [
+    {
+      "name": "Ed Fornieles & Nina Runa Essendrop, Cel (2019)",
+      "why": "Larp simulation of an extremist online community, shown in Worldglimpsing (ArkDes 2025–26); add to that collection if researched.",
+      "link": "https://arkdes.se/en/exhibitions/worldglimpsing/",
+      "found_via": "omsk-social-club",
+      "status": "open"
+    },
+    {
+      "name": "Rimini Protokoll: Call Cutta in a Box (2008), 100% City (2008–), Remote X (2013), Situation Rooms (2013)",
+      "why": "Earlier works where audiences follow headphone, phone or tablet instructions and become the performers.",
+      "link": "https://www.rimini-protokoll.de/website/en/projects",
+      "found_via": "rimini-protokoll",
+      "status": "open"
+    },
+    {
+      "name": "OMSK Social Club: Cryptorave, Perception as Participation, Worlds' End Hackathon (2024) and other Real Game Play works",
+      "why": "Earlier role-play frameworks for crowds; only the 2025–26 works are in this batch.",
+      "link": "https://omsksocial.club/",
+      "found_via": "omsk-social-club",
+      "status": "open"
+    },
+    {
+      "name": "Christian Falsnaes, audience-instruction performances (JEG/I/MOI 2024; Randers performance collaboration 2025)",
+      "why": "Danish artist whose performances consist of instructions the audience carries out; no 2025–26 work found with enough documentation.",
+      "link": "https://copenhagencontemporary.org/en/christian-falsnaes/",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "Operator (Ania Catherine & Dejha Ti), Repeat as necessary: Performance Operating System (2025–26)",
+      "why": "31-minute ritual guiding audience-participants, with choreography, score and music stored on-chain so anyone can restage it; Prix Ars Electronica 2026 Honorary Mention. Belongs to an on-chain pass.",
+      "link": "https://www.operator.la/repeat-as-necessary",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "Júlia Nueno Guitart, Sabot – Riding the Algorithm (2022–)",
+      "why": "Open-source app built with delivery riders that pools their data into a rider-governed commons; Prix Ars Electronica 2026 Honorary Mention. Prototype dates from 2022, outside this batch's dates.",
+      "link": "https://github.com/julianueno/sabot",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "Draw a Fish (drawafish.com, 2025)",
+      "why": "Viral shared fish tank: drawings must pass an AI 'is it a fish' check, then swim with everyone's fish and are voted on. Creator and launch date not yet verified from a reliable source.",
+      "link": "https://drawafish.com/",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "Benediktas Gylys, The Portal (Vilnius–Lublin 2021; Dublin–New York 2024)",
+      "why": "Telematic public sculptures linking two cities by silent live video; paused in May 2024 after misuse, later moved to Philadelphia.",
+      "link": "https://www.dezeen.com/2024/05/15/the-portal-shut-down-poor-behaviour/",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "Elliott Cost, One Minute Park (Tiny Awards 2024 winner)",
+      "why": "Plays 60-second videos of parks filmed and submitted by volunteers around the world; crowdsourced. Launch year to verify; add to tiny-awards if researched.",
+      "link": "https://oneminutepark.tv/",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "Tiny Awards 2024 Multiplayer finalists: Cursorwatching, Internet Fridge, Internet Stoop, Stranger Video, 7 Minutes in Heaven",
+      "why": "Small multiplayer websites shortlisted next to One Million Checkboxes; check which have a clear collective rule (Internet Fridge is by Spencer Chang, Stranger Video by Nolen Royalty).",
+      "link": "https://tinyawards.net/2024/",
+      "found_via": "nolen-royalty",
+      "status": "open"
+    },
+    {
+      "name": "Scores for Meeting Otherwise, ed. Aio Frei, Franziska Koch and Irene Revell (Silver Press, November 2026)",
+      "why": "Feminist history of the performance score from Pauline Oliveros onward, with newly commissioned scores; not yet published on 17 October 2026.",
+      "link": "https://www.silverpress.org/products/scores-for-meeting-otherwise-edited-by-irene-revell-aio-frei-franziska-koch",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "Lauren Lee McCarthy, HOST (party performance with AI earpiece directions)",
+      "why": "Guests receive private directions from an AI through earpieces and choose whether to follow them; commissioned by The Music Center, Los Angeles. Date not stated on the artist's site.",
+      "link": "https://lauren-mccarthy.com/HOST",
+      "found_via": "lauren-lee-mccarthy",
+      "status": "open"
+    },
+    {
+      "name": "Tino Sehgal, new lobby work at Leeum Museum of Art (Seoul, 2026)",
+      "why": "New constructed situation shown in his first Korean solo show (March–June 2026); no description beyond press notes.",
+      "link": "https://en.sedaily.com/culture/2026/02/26/tino-sehgals-first-korean-solo-show-bans-all-photography",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "Improv Everywhere, The Mp3 Experiment (2004–; 21st edition 2025)",
+      "why": "Annual mass event: participants download one audio file, press play at the same moment and follow its synchronized instructions in public; only Frozen Grand Central is in the gallery so far.",
+      "link": "https://improveverywhere.com/",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "Mehtap Baydu, Analı Kızlı – With Mothers and Daughters (Manifesta 16 Ruhr, 2026)",
+      "why": "A collective of 12 women from Bochum cooks a meal for guests who would not normally meet, in a former church; check the seating and invitation rules.",
+      "link": "https://www.goethe.de/prj/ger/en/ihr/27303804.html",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "Nolen Royalty, snakes.run (2026)",
+      "why": "Massively multiplayer snake over SSH with ordinary snake rules; a game rather than a rule that shapes collective behaviour.",
+      "link": "https://eieio.games/blog/secure-massively-multiplayer-snake",
+      "found_via": "nolen-royalty",
+      "status": "off_topic"
+    },
+    {
+      "name": "Hallucinate – Massively Multiplayer Online Rave (2026)",
+      "why": "Shared 3D club with chat and dance keys; no authored rule that shapes what the crowd does.",
+      "link": "https://hallucinate.site/",
+      "found_via": "seed",
+      "status": "off_topic"
+    },
+    {
+      "name": "10k Drum Machines (Maxwell Neely-Cohen, 2025)",
+      "why": "Curated collection of web drum machines, mostly by one maker; open submissions are not a group protocol.",
+      "link": "https://10kdrummachines.com/",
+      "found_via": "seed",
+      "status": "off_topic"
+    },
+    {
+      "name": "Shaheer Tarar, (moth) in relay (2026)",
+      "why": "An autonomous agent tours internet infrastructure; no participants.",
+      "link": "https://moth-in-relay.net/",
+      "found_via": "seed",
+      "status": "off_topic"
+    },
+    {
+      "name": "Alive Internet Theory (2026)",
+      "why": "A stream of Internet Archive material presented as a 'séance' with the living web; no rules for participants.",
+      "link": "http://alivetheory.net/",
+      "found_via": "seed",
+      "status": "off_topic"
+    },
+    {
+      "name": "transmediale 2026, By the Mango Belt & Tamarind Road – Compassing, Protocoling, Metaphoring",
+      "why": "'Protocoling' is a curatorial theme; the works are installations, films, concerts and ritual walks without rules addressed to a group.",
+      "link": "https://www.e-flux.com/announcements/6785371/39th-edition-by-the-mango-belt-tamarind-road",
+      "found_via": "seed",
+      "status": "off_topic"
+    },
+    {
+      "name": "Qatar Pavilion, Venice 2026: Rirkrit Tiravanija, untitled 2026 (a gathering of remarkable people)",
+      "why": "Tent for hospitality with programmed film, performances and food; no authored rule set for visitors.",
+      "link": "https://biennialfoundation.org/2026/04/national-pavilion-of-qatar-at-the-61st-venice-biennale-presents-untitled-2026-a-gathering-of-remarkable-people/",
+      "found_via": "rirkrit-tiravanija",
+      "status": "off_topic"
+    },
+    {
+      "name": "Venice Biennale 2026 Visitors' Lions",
+      "why": "Public vote by ticket holders that replaced the resigned jury; an institutional procedure, not an artwork.",
+      "link": "https://en.wikipedia.org/wiki/61st_Venice_Biennale",
+      "found_via": "seed",
+      "status": "off_topic"
+    },
+    {
+      "name": "WEBSITES WEBSITES WEBSITES! (Rhizome 30th anniversary, New York, September 2026)",
+      "why": "Survey of the website as medium; only Solitaire Alone Together among its twenty works is a protocol work, so no collection was made.",
+      "link": "https://websiteswebsiteswebsites.net/",
+      "found_via": "nolen-royalty",
+      "status": "off_topic"
+    },
+    {
+      "name": "Prix Ars Electronica 2025",
+      "why": "Golden Nicas went to a robot monologue, a robotic organ, an AI-and-robotics project and a youth film; none is protocol art.",
+      "link": "https://ars.electronica.art/prix/en/winners/",
+      "found_via": "seed",
+      "status": "off_topic"
+    },
+    {
+      "name": "Whitney Biennial 2026",
+      "why": "Only Maia Chao's scores fit; Joshua Citarella's contribution is the Doomscroll podcast recorded live. Not made a collection.",
+      "link": "https://whitney.org/exhibitions/2026-biennial",
+      "found_via": "maia-chao",
+      "status": "off_topic"
+    },
+    {
+      "name": "Alexandra Pirici, Rejoin (Bologna, 2026)",
+      "why": "Choreography for trained performers, not instructions carried out by visitors.",
+      "link": "https://www.artribune.com/?p=1208783",
+      "found_via": "seed",
+      "status": "off_topic"
+    },
+    {
+      "name": "Blast Theory, Proof As If Proof Were Needed (SXSW 2025)",
+      "why": "Interactive single-screen installation explored by one visitor at a time; no group protocol.",
+      "link": "https://www.blasttheory.co.uk/",
+      "found_via": "seed",
+      "status": "off_topic"
+    }
+  ]
+}

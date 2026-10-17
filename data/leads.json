@@ -1,403 +1,11 @@
 [
  {
-  "name": "Jonas Lund, Open Call Club (2016)",
-  "why": "Group show of 47 Rio de Janeiro artists selected from an open call by a bias-reversing algorithm; check whether the respondents' behaviour is the work.",
-  "link": "https://jonaslund.com/works/open-call-club/",
-  "found_via": "jonas-lund",
-  "status": "open",
-  "batch": "autonomous"
- },
- {
-  "name": "Nadya Tolokonnikova, UnicornDAO (2022)",
-  "why": "Artist-founded collector DAO for women, non-binary and LGBTQ+ artists; check whether its rules are an authored work.",
-  "link": "https://en.wikipedia.org/wiki/Nadya_Tolokonnikova",
-  "found_via": "assangedao",
-  "status": "open",
-  "batch": "autonomous"
- },
- {
-  "name": "UkraineDAO (2022)",
-  "why": "Co-organised by Nadya Tolokonnikova; raised about $6.7M by auctioning an NFT of Ukraine's flag; collective purchase similar to AssangeDAO.",
-  "link": "https://en.wikipedia.org/wiki/Nadya_Tolokonnikova",
-  "found_via": "assangedao",
-  "status": "open",
-  "batch": "autonomous"
- },
- {
-  "name": "Solienne (Kristi Coronado with Eden, 2025)",
-  "why": "AI artist agent shown in AUTOMATA at Paris Photo 2025; check its governance and collector rules.",
-  "link": "https://www.solienne.ai",
-  "found_via": "gene-kogan",
-  "status": "open",
-  "batch": "autonomous"
- },
- {
   "name": "Spirit Protocol (2025-26)",
   "why": "Announced 'social institution for synthetic beings' linked to Eden's autonomous AI artists; not yet public.",
   "link": "https://spiritprotocol.io",
   "found_via": "gene-kogan",
   "status": "open",
   "batch": "autonomous"
- },
- {
-  "name": "Eden (Gene Kogan and others)",
-  "why": "Platform for autonomous generative AI agents; check which agents (Abraham, Solienne) have community-governed rules.",
-  "link": "https://eden.art",
-  "found_via": "gene-kogan",
-  "status": "open",
-  "batch": "autonomous"
- },
- {
-  "name": "Zerebro (Jeffy Yu, 2024)",
-  "why": "AI agent that posts, makes music and art, with a memecoin; compare with Truth Terminal.",
-  "link": "",
-  "found_via": "andy-ayrey",
-  "status": "open",
-  "batch": "autonomous"
- },
- {
-  "name": "Holly Herndon & Mat Dryhurst, Spawning / Have I Been Trained (2022)",
-  "why": "Consent tools for AI training data; infrastructure rather than an artwork with a group protocol.",
-  "link": "https://spawning.ai",
-  "found_via": "holly-herndon",
-  "status": "open",
-  "batch": "autonomous"
- },
- {
-  "name": "Caleb Larsen, A Tool To Deceive and Slaughter (2009)",
-  "why": "Black box that keeps putting itself up for sale on eBay; precursor of self-selling artworks cited in the terra0 whitepaper.",
-  "link": "https://terra0.org/assets/pdf/terra0_white_paper_2016.pdf",
-  "found_via": "terra0",
-  "status": "open",
-  "batch": "autonomous"
- },
- {
-  "name": "Maria Eichhorn, Maria Eichhorn Aktiengesellschaft (2002)",
-  "why": "Stock corporation at Documenta 11 whose shares could only be transferred to itself; cited by terra0 as a precursor of self-owning entities.",
-  "link": "https://terra0.org/assets/pdf/terra0_white_paper_2016.pdf",
-  "found_via": "terra0",
-  "status": "open",
-  "batch": "autonomous"
- },
- {
-  "name": "Wolfgang Müller, Knochengeld",
-  "why": "Artist currency accepted in local bars and theatres that lost value every seven days; cited by terra0.",
-  "link": "https://terra0.org/assets/pdf/terra0_white_paper_2016.pdf",
-  "found_via": "terra0",
-  "status": "open",
-  "batch": "autonomous"
- },
- {
-  "name": "hitchBOT (David Harris Smith & Frauke Zeller, 2013-15)",
-  "why": "Robot that could only travel if strangers picked it up; crossed Canada, Germany and the Netherlands; possible network/social entry.",
-  "link": "https://en.wikipedia.org/wiki/HitchBOT",
-  "found_via": "terra0",
-  "status": "open",
-  "batch": "autonomous"
- },
- {
-  "name": "Nouns-funded art (e.g. Nouns animation festival)",
-  "why": "Nouns DAO has funded many art projects; include only those whose own rules shape collective behaviour.",
-  "link": "https://nouns.wtf",
-  "found_via": "nounders",
-  "status": "open",
-  "batch": "autonomous"
- },
- {
-  "name": "Songcamp",
-  "why": "Collaborative music collective running rule-based NFT music experiments (e.g. CHAOS, 2021); check authorship of rules.",
-  "link": "",
-  "found_via": "holly-herndon",
-  "status": "open",
-  "batch": "autonomous"
- },
- {
-  "name": "Serpentine Arts Technologies / Legal Lab, Future Art Ecosystems",
-  "why": "Research reports on DAOs and data trusts; theory rather than artworks.",
-  "link": "https://www.serpentinegalleries.org/whats-on/rd-labyrinths/",
-  "found_via": "black-swan-dao",
-  "status": "open",
-  "batch": "autonomous"
- },
- {
-  "name": "Kevin Abosch, Forever Rose (2018)",
-  "why": "Image token co-owned by ten collectors; check whether shared ownership rules shape behaviour (onchain batch).",
-  "link": "",
-  "found_via": "jonas-lund",
-  "status": "open",
-  "batch": "autonomous"
- },
- {
-  "name": "Holly Herndon & Mat Dryhurst, Infinite Images and the Latent Camera (essay, 2022)",
-  "why": "Essay on generative media and latent space that underpins Readyweights and xhairymutantx; possible theory entry, not about protocols or participation directly.",
-  "link": "https://mirror.xyz/herndondryhurst.eth/eZG6mucl9fqU897XvJs0vUUMnm5OITpSWN8S-6KWamY",
-  "found_via": "holly-herndon",
-  "status": "open",
-  "batch": "herndon-dryhurst"
- },
- {
-  "name": "Strange Rules, Palazzo Diedo, Venice (4 May - 22 Nov 2026)",
-  "why": "Protocol Art exhibition curated by Dryhurst, Herndon and Hans Ulrich Obrist with Adriana Rispoli (terra0, Primavera De Filippi, Ken Stanley, Citarella & New Models, Agnieszka Kurant and others); candidate exhibition collection, with a planned Protocol Art book.",
-  "link": "https://berggruenarts.org/en/exhibitions/current-exhibitions-palazzo-diedo/current-exhibitions-palazzo-diedo-strange-rules",
-  "found_via": "holly-herndon",
-  "status": "open",
-  "batch": "herndon-dryhurst"
- },
- {
-  "name": "Ken Stanley, Picbreeder (2007)",
-  "why": "Online collective image-evolution site where users branch and evolve each other's images; shown in Strange Rules; check inclusion under network / collective-games.",
-  "link": "https://berggruenarts.org/en/exhibitions/current-exhibitions-palazzo-diedo/current-exhibitions-palazzo-diedo-strange-rules",
-  "found_via": "holly-herndon",
-  "status": "open",
-  "batch": "herndon-dryhurst"
- },
- {
-  "name": "Joshua Citarella & New Models, Marketplace of Ideas (2026)",
-  "why": "New commission in Strange Rules; check whether it runs a participatory protocol.",
-  "link": "https://berggruenarts.org/en/exhibitions/current-exhibitions-palazzo-diedo/current-exhibitions-palazzo-diedo-strange-rules",
-  "found_via": "holly-herndon",
-  "status": "open",
-  "batch": "herndon-dryhurst"
- },
- {
-  "name": "Holly Herndon & Mat Dryhurst, Okayama Art Summit (2025)",
-  "why": "Studio lists participation; work not identified.",
-  "link": "https://herndondryhurst.studio/projects/okayama",
-  "found_via": "holly-herndon",
-  "status": "open",
-  "batch": "herndon-dryhurst"
- },
- {
-  "name": "Holly Herndon & Mat Dryhurst, MoMA x Feral File edition, Minnesang, I'M HERE 17122022 5:44 (2022-2023)",
-  "why": "Editions and single works listed on the studio site with no documentation; not researched.",
-  "link": "https://herndondryhurst.studio",
-  "found_via": "holly-herndon",
-  "status": "open",
-  "batch": "herndon-dryhurst"
- },
- {
-  "name": "Stelarc — Fractal Flesh (1995)",
-  "why": "Audiences in Paris, Helsinki and Amsterdam remotely actuated Stelarc's body via a web interface; a stronger crowd case than Ping Body.",
-  "link": "http://www.medienkunstnetz.de/works/ping-body/",
-  "found_via": "ken-goldberg",
-  "status": "open",
-  "batch": "network"
- },
- {
-  "name": "Paul Ford — tilde.club (2014)",
-  "why": "One unmodified Unix server where thousands made hand-coded homepages; an open-infrastructure case with a writer rather than artist as author.",
-  "link": "https://tilde.club/",
-  "found_via": "aram-bartholl",
-  "status": "open",
-  "batch": "network"
- },
- {
-  "name": "Joel Holmberg — Legendary Account (2007–2010)",
-  "why": "Earnest philosophical questions posted to Yahoo! Answers; the crowd's answers form the work.",
-  "link": "https://anthology.rhizome.org/legendary-account",
-  "found_via": "olia-lialina",
-  "status": "open",
-  "batch": "network"
- },
- {
-  "name": "Nick Thurston — Of the Subcontract (2013)",
-  "why": "Book of poems written by Mechanical Turk workers, with their pay listed.",
-  "link": "https://www.informationasmaterial.org/",
-  "found_via": "aaron-koblin",
-  "status": "open",
-  "batch": "network"
- },
- {
-  "name": "Blast Theory — Can You See Me Now? (2001)",
-  "why": "Online players chased by runners in real streets; telematic game with a crowd of remote players.",
-  "link": "https://www.blasttheory.co.uk/projects/can-you-see-me-now/",
-  "found_via": "ken-goldberg",
-  "status": "open",
-  "batch": "network"
- },
- {
-  "name": "Kit Galloway & Sherrie Rabinowitz — Electronic Café (1984)",
-  "why": "Video and computer links between five Los Angeles community sites during the 1984 Olympic Arts Festival.",
-  "link": "https://ecafe.com/",
-  "found_via": "kit-galloway",
-  "status": "open",
-  "batch": "network"
- },
- {
-  "name": "Alexei Shulgin — Desktop Is (1997)",
-  "why": "Invited people to send screenshots of their desktops; early crowdsourced net-art exhibition.",
-  "link": "http://www.easylife.org/desktop/",
-  "found_via": "heath-bunting",
-  "status": "open",
-  "batch": "network"
- },
- {
-  "name": "Luther Blissett (1994)",
-  "why": "Multiple-use name adopted by hundreds of activists and artists; open identity protocol, may fit autonomous-artists.",
-  "link": "https://en.wikipedia.org/wiki/Luther_Blissett_(nom_de_plume)",
-  "found_via": "heath-bunting",
-  "status": "open",
-  "batch": "network"
- },
- {
-  "name": "Rafael Lozano-Hemmer — Body Movies (2001) and other Relational Architecture works",
-  "why": "Public-space works where crowds' shadows reveal portraits; check scope overlap with the social batch.",
-  "link": "https://www.lozano-hemmer.com/",
-  "found_via": "rafael-lozano-hemmer",
-  "status": "open",
-  "batch": "network"
- },
- {
-  "name": "Lauren Lee McCarthy & Kyle McDonald — Noodle (2014)",
-  "why": "A 'crowdsourced robot' whose actions are carried out by Mechanical Turk workers via a natural-language interface.",
-  "link": "http://instructables.com/id/Noodle-a-crowdsourced-robot/",
-  "found_via": "kyle-mcdonald",
-  "status": "open",
-  "batch": "network"
- },
- {
-  "name": "Reddit — Robin (2016), Sequence (2019), Second (2021)",
-  "why": "Later Reddit April Fools' crowd experiments (vote to grow/stay/leave chats; crowd-sequenced film; guess the second most popular option); authorship not confirmed.",
-  "link": "https://en.wikipedia.org/wiki/List_of_Reddit_April_Fools%27_Day_events",
-  "found_via": "josh-wardle",
-  "status": "open",
-  "batch": "network"
- },
- {
-  "name": "Aram Bartholl — DVD Dead Drop (2012) and OFFLINE ART (2013)",
-  "why": "Read-only DVD burner in the Museum of the Moving Image wall, and an offline-router exhibition format; weaker crowd role than Dead Drops.",
-  "link": "https://arambartholl.com/dvd-dead-drop/",
-  "found_via": "aram-bartholl",
-  "status": "open",
-  "batch": "network"
- },
- {
-  "name": "Kyle McDonald — Who Pays Artists? (2014)",
-  "why": "Anonymous crowdsourced board where artists share what they were paid and by whom.",
-  "link": "https://kylemcdonald.net/",
-  "found_via": "kyle-mcdonald",
-  "status": "open",
-  "batch": "network"
- },
- {
-  "name": "Harm van den Dorpel – Mutant Garden (web, c. 2019)",
-  "why": "Visitors click a 'mutant' to replace its siblings with mutated offspring (single-parent breeding); a network-field candidate, not on-chain.",
-  "link": "https://harm.work/series/mutant-garden",
-  "found_via": "harm-van-den-dorpel",
-  "status": "open",
-  "batch": "onchain-coauthor"
- },
- {
-  "name": "fxhash open-form generative art",
-  "why": "fxhash format where each new edition can be minted from an existing one and inherits its lineage of hashes, so collectors grow a tree of variations; needs a specific artist's open-form project to qualify.",
-  "link": "https://docs.fxhash.xyz/creating-on-fxhash/programming-open-form-genart",
-  "found_via": "seed",
-  "status": "open",
-  "batch": "onchain-coauthor"
- },
- {
-  "name": "fxhash params (fx(params))",
-  "why": "Collectors set artist-exposed parameters before minting; research specific works where collector choices shape the set.",
-  "link": "https://docs.fxhash.xyz",
-  "found_via": "seed",
-  "status": "open",
-  "batch": "onchain-coauthor"
- },
- {
-  "name": "Art Blocks PMP (project metadata parameters) projects",
-  "why": "Art Blocks feature letting token owners configure artist-defined parameters after mint; find projects where owners' settings are the point.",
-  "link": "https://www.artblocks.io",
-  "found_via": "alexis-andre",
-  "status": "open",
-  "batch": "onchain-coauthor"
- },
- {
-  "name": "Sam Spratt – Skulls of Luci / Council of Luci (2022)",
-  "why": "50 Skulls, 47 given as gifts to collectors, whose holders form the Council that judges later LUCI games; could be a separate governance entry.",
-  "link": "https://x.com/SamSpratt/status/1765785525061816746",
-  "found_via": "sam-spratt",
-  "status": "open",
-  "batch": "onchain-coauthor"
- },
- {
-  "name": "Mathcastles – other works",
-  "why": "Check Mathcastles' works beyond Terraforms (Xaltgeist and 0x113d) for further holder-driven systems.",
-  "link": "https://mathcastles.xyz",
-  "found_via": "mathcastles",
-  "status": "open",
-  "batch": "onchain-coauthor"
- },
- {
-  "name": "Async Art – Blueprints and later programmable works",
-  "why": "Other Async Art collaborations (e.g. layer works by XCOPY, Hackatao, Coldie) could be individual entries.",
-  "link": "https://async.art",
-  "found_via": "async-art",
-  "status": "open",
-  "batch": "onchain-coauthor"
- },
- {
-  "name": "Words3 (on-chain word game)",
-  "why": "Collaborative on-chain Scrabble-like board where players extend a shared grid; check authorship and whether it is an artwork.",
-  "link": "https://words3.xyz",
-  "found_via": "dark-forest-team",
-  "status": "open",
-  "batch": "onchain-coauthor"
- },
- {
-  "name": "Autonomous Worlds (ludens / 0xPARC essay, 2022)",
-  "why": "Essay defining on-chain 'autonomous worlds' after Dark Forest; belongs in theory/crypto-theory.",
-  "link": "https://0xparc.org/blog/autonomous-worlds",
-  "found_via": "dark-forest-team",
-  "status": "open",
-  "batch": "onchain-coauthor"
- },
- {
-  "name": "Etheria (2015)",
-  "why": "Early Ethereum hex-tile world where owners build on tiles; co-authored land precursor, likely provenance batch.",
-  "link": "https://etheria.world",
-  "found_via": "mathcastles",
-  "status": "open",
-  "batch": "onchain-coauthor"
- },
- {
-  "name": "Pixelmap (Ken Erwin, 2016)",
-  "why": "3,970 tiles whose owners set their own pixel images on a shared map; early co-authored canvas, likely provenance batch.",
-  "link": "https://pixelmap.io",
-  "found_via": "basepaint",
-  "status": "open",
-  "batch": "onchain-coauthor"
- },
- {
-  "name": "Million Ether Homepage / Thousand Ether Homepage (2017)",
-  "why": "Blockchain versions of the Million Dollar Homepage where buyers place pixels on a shared page.",
-  "link": "https://thousandetherhomepage.com",
-  "found_via": "basepaint",
-  "status": "open",
-  "batch": "onchain-coauthor"
- },
- {
-  "name": "Rare Pepe Directory (Counterparty, 2016)",
-  "why": "Community-submitted card series admitted under published rules on Bitcoin/Counterparty; collective curation precursor.",
-  "link": "http://rarepepedirectory.com",
-  "found_via": "seed",
-  "status": "open",
-  "batch": "onchain-coauthor"
- },
- {
-  "name": "Folia – Viper (Billy Rennekamp, 2022)",
-  "why": "Snake-like NFT that grows as it is sent between people; ownership/transfer protocol, check with the ownership batch.",
-  "link": "https://viper.folia.app",
-  "found_via": "harm-van-den-dorpel",
-  "status": "open",
-  "batch": "onchain-coauthor"
- },
- {
-  "name": "EulerBeats (2021)",
-  "why": "Generative audio-visual originals whose prints follow a bonding curve and pay original holders; supply-mechanics candidate.",
-  "link": "https://eulerbeats.com",
-  "found_via": "seed",
-  "status": "open",
-  "batch": "onchain-coauthor"
  },
  {
   "name": "Bitcoin Ordinals recursive inscriptions",
@@ -408,891 +16,467 @@
   "batch": "onchain-coauthor"
  },
  {
-  "name": "Higher (Farcaster, 2024)",
-  "why": "Farcaster-born collective art movement around a shared word and token; check whether an authored rule set exists.",
-  "link": "https://farcaster.xyz/~/channel/higher",
-  "found_via": "basepaint",
+  "name": "Kacie Kinzer — Tweenbots (2009)",
+  "why": "Small robot of the late 2000s that, like hitchBOT, could only reach its destination if strangers helped it; named on hitchBOT's Wikipedia page as a similar project. Confirm creator, year and media.",
+  "link": "https://en.wikipedia.org/wiki/HitchBOT",
+  "found_via": "david-harris-smith",
   "status": "open",
-  "batch": "onchain-coauthor"
+  "batch": "pass3-leads-autonomous-network"
  },
  {
-  "name": "Fomo (Pak, 2021)",
-  "why": "Free mint with fixed supply and a 50% secondary fee framed as partnership; check whether the fee rule shaped holder behaviour.",
-  "link": "https://paragraph.com/@netic7/systems-as-art",
-  "found_via": "pak",
+  "name": "Rafael Lozano-Hemmer — Voz Alta (2008)",
+  "why": "Public-voice work for the memorial of the 1968 Tlatelolco massacre in Mexico City, reportedly turning what anyone says into a megaphone into searchlight flashes; confirm details and media on lozano-hemmer.com.",
+  "link": "https://www.lozano-hemmer.com/",
+  "found_via": "rafael-lozano-hemmer",
   "status": "open",
-  "batch": "onchain-pak"
+  "batch": "pass3-leads-autonomous-network"
  },
  {
-  "name": "ASH Chapter II: Metamorphosis (Pak, March 2022)",
-  "why": "Second ASH-only drop; mechanics not yet documented.",
-  "link": "https://twitter.com/muratpak/status/1506360961850089474",
-  "found_via": "pak",
+  "name": "Songcamp — Camp Elektra (2021)",
+  "why": "Second Songcamp camp; three songs released as 1-of-1 NFTs whose value split proved hard to divide, which led to the Chaos design; check its own release rules.",
+  "link": "https://paragraph.com/@songcamp/how-to-build-a-headless-band-architecting-chaos",
+  "found_via": "songcamp",
   "status": "open",
-  "batch": "onchain-pak"
+  "batch": "pass3-leads-autonomous-network"
  },
  {
-  "name": "404: The Presence of Absence (Pak)",
-  "why": "Mentioned by collectors as a Pak project; date and rules unknown.",
-  "link": "https://paragraph.com/@netic7/the-silence",
-  "found_via": "pak",
+  "name": "Blast Theory — Uncle Roy All Around You (2003) and other games",
+  "why": "Further Blast Theory games mixing online and street players; check which ones give the public a rule-bound role beyond a single player.",
+  "link": "https://www.blasttheory.co.uk/",
+  "found_via": "blast-theory",
   "status": "open",
-  "batch": "onchain-pak"
+  "batch": "pass3-leads-autonomous-network"
  },
  {
-  "name": "VV Editions: Humanity Check, 100 Meals (Jack Butcher, 2021)",
-  "why": "Early 'infinite editions' by Visualize Value; check whether supply rules were a declared part of the work.",
-  "link": "https://jack.art/vv-editions",
-  "found_via": "jack-butcher",
+  "name": "eBoy, TOWR (fxhash open-form, 2025)",
   "status": "open",
-  "batch": "onchain-pak"
+  "why": "Open-form pixel towers where each collector evolution stacks new blocks (one collector stacked 37); a second open-form work worth an entry, but fxhash closed in August 2026, so media must come from elsewhere.",
+  "link": "https://thecultureproject.substack.com/p/the-weekly-roundup-110",
+  "found_via": "ciphrd",
+  "batch": "pass3-leads-onchain-a"
  },
  {
-  "name": "Hashmasks (Suum Cuique Labs, 2021)",
-  "why": "16,384 portraits whose names are set by holders by burning NCT tokens; collective naming as co-authorship.",
-  "link": "https://www.thehashmasks.com",
-  "found_via": "pak",
+  "name": "Billy Rennekamp, Clovers Network (2018)",
   "status": "open",
-  "batch": "onchain-pak"
+  "why": "Rennekamp's Ethereum project around registering rare Reversi game boards ('clovers'); check rules, authorship and media.",
+  "link": "https://clovers.network",
+  "found_via": "billy-rennekamp",
+  "batch": "pass3-leads-onchain-a"
  },
  {
-  "name": "Sam Spratt, The Monument Game (2023)",
-  "why": "Holders of Spratt's works play a game that shapes the Luci narrative; possible co-authorship protocol.",
-  "link": "https://www.samspratt.com",
-  "found_via": "jack-butcher",
+  "name": "JODI & Billy Rennekamp, Chameleon (2021)",
   "status": "open",
-  "batch": "onchain-pak"
+  "why": "Folia work credited to Joan Heemskerk (JODI) and Billy Rennekamp in its source code; mechanics not yet checked.",
+  "link": "https://github.com/folia-app/chameleon",
+  "found_via": "billy-rennekamp",
+  "batch": "pass3-leads-onchain-a"
  },
  {
-  "name": "Sarah Meyohas, Bitchcoin (2015)",
-  "why": "Token backed by photographs, redeemable by burning; early supply/provenance work (check the provenance batch first).",
-  "link": "https://www.sarahmeyohas.com",
-  "found_via": "mitchell-f-chan",
-  "status": "open",
-  "batch": "onchain-pak"
- },
- {
-  "name": "Damien Hirst, other HENI NFT projects (2022–2023)",
-  "why": "Check whether later HENI releases reused The Currency's choice-and-burn rule.",
-  "link": "https://heni.com",
-  "found_via": "damien-hirst",
-  "status": "open",
-  "batch": "onchain-pak"
- },
- {
-  "name": "Kevin Abosch, Forever Rose / IAMA Coin (2018)",
-  "why": "A 1/1 split among 10 co-owners and a 10-million-token self-portrait; ownership rules, not yet researched.",
-  "link": "https://en.wikipedia.org/wiki/Kevin_Abosch",
-  "found_via": "mitchell-f-chan",
-  "status": "open",
-  "batch": "onchain-pak"
- },
- {
-  "name": "Alexis André, Friendship Bracelets (2022)",
-  "why": "Generative bracelets meant to be gifted; possible circulation protocol.",
-  "link": "https://www.artblocks.io",
-  "found_via": "jack-butcher",
-  "status": "open",
-  "batch": "onchain-pak"
- },
- {
-  "name": "Eve Sussman, 89 Seconds Atomized (Snark.art, 2018)",
-  "why": "Video split into 2,500 tokens; owners can borrow atoms to reassemble the film — a co-ownership rule. Needs a primary source and image.",
-  "link": "https://snark.art",
-  "found_via": "kevin-mccoy",
-  "status": "open",
-  "batch": "onchain-rules"
- },
- {
-  "name": "Jennifer & Kevin McCoy, Public Key/Private Key (Whitney, 2019)",
-  "why": "Uses Monegraph to make 50 people museum donors of the work.",
-  "link": "https://mlo.art/research/history-of-crypto-art/",
-  "found_via": "kevin-mccoy",
-  "status": "open",
-  "batch": "onchain-rules"
- },
- {
-  "name": "Scarab Experiment (2015)",
-  "why": "Counterparty project that is both an artist collective and an artwork.",
-  "link": "https://mlo.art/research/history-of-crypto-art/",
-  "found_via": "rare-pepe-directory",
-  "status": "open",
-  "batch": "onchain-rules"
- },
- {
-  "name": "Coin Artist (Marguerite deCourcelle), Bitcoin puzzle paintings (2015–)",
-  "why": "Paintings hiding bitcoin keys that crowds race to solve; collective solving is the work.",
-  "link": "https://mlo.art/research/history-of-crypto-art/",
-  "found_via": "rare-pepe-directory",
-  "status": "open",
-  "batch": "onchain-rules"
- },
- {
-  "name": "Memorychain (2017)",
-  "why": "Community-driven Counterparty card initiative in Asia, similar to Rare Pepe, with daily/thematic rules.",
-  "link": "https://mlo.art/research/history-of-crypto-art/",
-  "found_via": "rare-pepe-directory",
-  "status": "open",
-  "batch": "onchain-rules"
- },
- {
-  "name": "Bitcorn (2018)",
-  "why": "Counterparty simulation game: players harvest farms or publish corn meme cards over four years.",
-  "link": "https://mlo.art/research/history-of-crypto-art/",
-  "found_via": "rare-pepe-directory",
-  "status": "open",
-  "batch": "onchain-rules"
- },
- {
-  "name": "Pixel Map (2016) and WeiCards (2017)",
-  "why": "Early Ethereum shared canvases with buy/rent rules, like the Million Ether Homepage; check authorship.",
-  "link": "https://mlo.art/research/history-of-crypto-art/",
-  "found_via": "peter-porobov",
-  "status": "open",
-  "batch": "onchain-rules"
- },
- {
-  "name": "Conlan Rios, NFT-Scribe (2019)",
-  "why": "Contract that lets ERC-721 owners append on-chain messages to their tokens.",
-  "link": "https://mlo.art/research/history-of-crypto-art/",
-  "found_via": "larva-labs",
-  "status": "open",
-  "batch": "onchain-rules"
- },
- {
-  "name": "Sarah Meyohas, Cloud of Petals (2017)",
-  "why": "Sixteen workers archived 100,000 rose petals and each chose the most beautiful petal per rose; a labour protocol now backing Bitchcoin.",
-  "link": "https://www.sarahmeyohas.com",
-  "found_via": "sarah-meyohas",
-  "status": "open",
-  "batch": "onchain-rules"
- },
- {
-  "name": "Moxie Marlinspike, First Derivative (2021)",
-  "why": "dApp for creating and trading NFT derivatives that track an underlying NFT.",
-  "link": "https://firstderivative.market",
-  "found_via": "moxie-marlinspike",
-  "status": "open",
-  "batch": "onchain-rules"
- },
- {
-  "name": "Rhea Myers, The Fractionalized Phallus (2025)",
-  "why": "30 glitched 3D-scan fragments sold as separate NFTs; fractional ownership as subject, check whether any rule links holders.",
-  "link": "https://rhea.art/the-fractionalized-phallus/",
-  "found_via": "rhea-myers",
-  "status": "open",
-  "batch": "onchain-rules"
- },
- {
-  "name": "Rhea Myers, Ethereum Art Market (2014)",
-  "why": "Early smart contract to register and sell digital artworks with optional royalties.",
-  "link": "https://mlo.art/research/history-of-crypto-art/",
-  "found_via": "rhea-myers",
-  "status": "open",
-  "batch": "onchain-rules"
- },
- {
-  "name": "Simon de la Rouviere / Untitled Frontier, Logged Universe (2021–2023)",
-  "why": "Story-linked on-chain drops where holding earlier NFTs grants free mints of later ones (Anchor Certificates, Paintings of Forgotten Souls, Little Martians, Daisychains).",
-  "link": "https://www.untitledfrontier.studio",
-  "found_via": "simon-de-la-rouviere",
-  "status": "open",
-  "batch": "onchain-rules"
- },
- {
-  "name": "Hundreds (attributed to Simon de la Rouviere in the brief)",
-  "why": "No source found linking a work called Hundreds to him; verify authorship.",
-  "link": "",
-  "found_via": "simon-de-la-rouviere",
-  "status": "open",
-  "batch": "onchain-rules"
- },
- {
-  "name": "Sarah Friend, Perverse Affordances / Terraforming",
-  "why": "Other works on isthisa.com; check for contract rules.",
-  "link": "https://isthisa.com",
+  "name": "Sarah Friend, Remembering Network (2019)",
+  "why": "Peer-to-peer 'seed vault' memorial to threatened species on IPFS, described as open to contributions (shown at IPFS Camp and Radical Networks, 2019); check how contributors add to it before adding.",
+  "link": "https://isthisa.com/rememberingnetwork",
   "found_via": "sarah-friend",
   "status": "open",
-  "batch": "onchain-rules"
+  "batch": "pass3-leads-onchain-b"
  },
  {
-  "name": "Marina Abramović, Rhythm 0 (1974)",
-  "why": "Audience given 72 objects and a written instruction to use them on the artist; likely belongs to the social / performance batch.",
-  "link": "https://en.wikipedia.org/wiki/Rhythm_0",
-  "found_via": "allan-kaprow",
+  "name": "Sarah Friend, Portal Constellation: Reviving the Webring (2020)",
+  "why": "Functional webring made in an Arebyte On Screen residency and installed on other artists' sites; check whether members' linking is framed as the work.",
+  "link": "https://isthisa.com/webring",
+  "found_via": "sarah-friend",
   "status": "open",
-  "batch": "score"
+  "batch": "pass3-leads-onchain-b"
  },
  {
-  "name": "Olafur Eliasson, The collectivity project (2005–)",
-  "why": "City of white LEGO bricks built and rebuilt by visitors; check whether a written rule shapes behaviour.",
-  "link": "https://olafureliasson.net/",
-  "found_via": "erwin-wurm",
+  "name": "Snark.art, other artist projects (2018–)",
+  "why": "The studio lists about a dozen further blockchain projects on snark.art after 89 Seconds Atomized; check which give owners a shared rule.",
+  "link": "https://snark.art",
+  "found_via": "snark-art",
   "status": "open",
-  "batch": "score"
+  "batch": "pass3-leads-onchain-b"
  },
  {
-  "name": "Miranda July & Harrell Fletcher, Learning to Love You More (2002–2009)",
-  "why": "Numbered assignments posted online, completed and uploaded by thousands; belongs to network/crowdsourced.",
-  "link": "http://www.learningtoloveyoumore.com/",
-  "found_via": "david-horvitz",
+  "name": "Coin Artist, The Dark Wallet Puzzle (2014)",
+  "why": "Her first crypto-puzzle, a set of 12 puzzles for the Bitcoin community whose complexity was meant to make people work together (Bitcoin Magazine, July 2014); find primary documentation and images before adding.",
+  "link": "https://bitcoinmagazine.com/culture/coin-artists-latest-dark-wallet-puzzle-32-page-solution",
+  "found_via": "coin-artist",
   "status": "open",
-  "batch": "score"
+  "batch": "pass3-leads-onchain-b"
  },
  {
-  "name": "Lygia Pape, Divisor (1968)",
-  "why": "Large white cloth with holes worn and moved by a crowd; belongs to social/collective-action.",
-  "link": "https://en.wikipedia.org/wiki/Lygia_Pape",
-  "found_via": "anna-halprin",
+  "name": "Yvonne Rainer: Passing and Jostling While Confined to a Small Apartment (2020)",
+  "why": "Rainer adapted Terrain (1963) into written rules and photographs in the New York Times for readers to perform at home during the COVID-19 lockdown; find the article and an image.",
+  "link": "https://www.getty.edu/publications/scores/08/commentary/",
+  "found_via": "yvonne-rainer",
   "status": "open",
-  "batch": "score"
+  "batch": "pass3-leads-score"
  },
  {
-  "name": "Oulipo",
-  "why": "Workshop of potential literature (1960–) inventing constraints for members and readers; decide whether a group-executed work passes.",
-  "link": "https://en.wikipedia.org/wiki/Oulipo",
-  "found_via": "raymond-queneau",
+  "name": "Walter De Maria: Boxes for Meaningless Work (1961)",
+  "why": "Boxes with an instruction to move things from one to the other while knowing the act is meaningless; check whether viewers carry it out and find an image.",
+  "link": "https://en.wikipedia.org/wiki/Walter_De_Maria",
+  "found_via": "walter-de-maria",
   "status": "open",
-  "batch": "score"
+  "batch": "pass3-leads-score"
  },
  {
-  "name": "Art by Telephone... Recalled (2012–)",
-  "why": "Restaging by Sébastien Pluot and Fabien Vallos in which new artists and institutions realise the 1969 phoned instructions.",
-  "link": "https://mcachicago.org/exhibitions/1969/art-by-telephone",
-  "found_via": "david-katzive",
+  "name": "Earle Brown: Twenty-Five Pages (1953) and Available Forms I (1961)",
+  "why": "Open-form scores in which one to twenty-five pianists, or a conductor in performance, choose the order of the pages.",
+  "link": "https://en.wikipedia.org/wiki/Earle_Brown",
+  "found_via": "earle-brown",
   "status": "open",
-  "batch": "score"
+  "batch": "pass3-leads-score"
  },
  {
-  "name": "Allan Kaprow, Scales (1971) and Words (1962)",
-  "why": "Further Kaprow activities/environments with visitor rules; Scales restaged at Tate Modern 2008.",
-  "link": "https://www.tate.org.uk/research/publications/performance-at-tate/case-studies/allan-kaprow",
-  "found_via": "allan-kaprow",
+  "name": "Olafur Eliasson: Green light — An artistic workshop",
+  "why": "Workshop in which refugees, migrants and visitors assemble lamps together; check whether the rules make the group's work the artwork.",
+  "link": "https://olafureliasson.net",
+  "found_via": "olafur-eliasson",
   "status": "open",
-  "batch": "score"
+  "batch": "pass3-leads-score"
  },
  {
-  "name": "Christian Marclay, Shuffle (2007)",
-  "why": "Deck of 75 photo cards of musical notation found in the world, to be shuffled and performed by musicians; not verified this pass.",
-  "link": "https://en.wikipedia.org/wiki/Christian_Marclay",
-  "found_via": "christian-marclay",
+  "name": "Clemente Padín, Festival de la Postal Creativa (Galería U, Montevideo, 1974)",
+  "why": "Described as the first documented mail-art exhibition in Latin America; check whether its open call set the no-jury, show-everything rules of mail-art shows.",
+  "link": "https://lomholtmailartarchive.dk/networkers/clemente-padin",
+  "found_via": "ulises-carrion",
   "status": "open",
-  "batch": "score"
+  "batch": "pass3-leads-social"
  },
  {
-  "name": "Christian Marclay: Festival (Whitney, 2010)",
-  "why": "Graphic scores performed by about fifty musicians; visitors marked up a wall-size score.",
-  "link": "https://whitney.org/exhibitions/christian-marclay",
-  "found_via": "christian-marclay",
+  "name": "Feral File and MoMA, MoMA Postcard (2023–2024)",
+  "why": "Online project in which each postcard has 15 blank stamps; participants design a pixel stamp, record it on chain and pass the card on. Check authorship and media.",
+  "link": "https://www.moma.org/calendar/exhibitions/5618",
+  "found_via": "holly-herndon",
   "status": "open",
-  "batch": "score"
+  "batch": "pass3-leads-social"
  },
  {
-  "name": "Wolf Vostell, telephone happenings for Art by Telephone (1969)",
-  "why": "Visitors dialled changing numbers to receive one-minute happening instructions.",
-  "link": "https://mcachicago.org/exhibitions/1969/art-by-telephone",
-  "found_via": "david-katzive",
+  "name": "Hans Haacke, World Poll (Venice Biennale, 2015)",
+  "why": "Visitors answer a questionnaire on iPads and the tallies are shown; sibling of MoMA Poll. Needs a description source.",
+  "link": "https://www.paulacoopergallery.com/artists/hans-haacke",
+  "found_via": "hans-haacke",
   "status": "open",
-  "batch": "score"
+  "batch": "pass3-leads-social"
  },
  {
-  "name": "Marcel Duchamp — Erratum Musical (1913)",
-  "why": "Chance score: notes drawn from a hat, sung by Duchamp and his sisters; only three performers, check whether it passes the group test.",
-  "link": "https://en.wikipedia.org/wiki/Erratum_Musical",
-  "found_via": "marcel-duchamp",
-  "status": "open",
-  "batch": "score"
- },
- {
-  "name": "Marcel Duchamp — Monte Carlo Bond (1924)",
-  "why": "Shares sold to fund a roulette system; belongs to social/economies.",
-  "link": "https://www.moma.org/collection/works/81223",
-  "found_via": "marcel-duchamp",
-  "status": "open",
-  "batch": "score"
- },
- {
-  "name": "Joseph Kosuth — One and Three Chairs (1965)",
-  "why": "Certificate lets each owner re-make the photograph with a local chair; borderline execution work.",
-  "link": "https://www.moma.org/collection/works/81435",
-  "found_via": "sol-lewitt",
-  "status": "open",
-  "batch": "score"
- },
- {
-  "name": "Lucy Lippard — 557,087 / 955,000 (1969–70)",
-  "why": "Curator executed absent artists' instructions for the number shows.",
-  "link": "https://en.wikipedia.org/wiki/Lucy_R._Lippard",
-  "found_via": "sol-lewitt",
-  "status": "open",
-  "batch": "score"
- },
- {
-  "name": "Seth Siegelaub — The Xerox Book (1968)",
-  "why": "Seven artists incl. LeWitt and Weiner given the same 25-page constraint; likely social/economies or theory batch.",
-  "link": "https://en.wikipedia.org/wiki/Seth_Siegelaub",
-  "found_via": "lawrence-weiner",
-  "status": "open",
-  "batch": "score"
- },
- {
-  "name": "Yoko Ono — Play It by Trust (1966)",
-  "why": "All-white chess set that visitors play until they lose track of sides.",
-  "link": "https://en.wikipedia.org/wiki/Yoko_Ono",
-  "found_via": "yoko-ono",
-  "status": "open",
-  "batch": "score"
- },
- {
-  "name": "Yoko Ono — My Mummy Was Beautiful (2004)",
-  "why": "Visitors leave written messages about their mothers (Tate Liverpool 2004, Tate Modern 2024).",
-  "link": "https://www.tate.org.uk/whats-on/tate-modern/yoko-ono/exhibition-guide",
-  "found_via": "yoko-ono",
-  "status": "open",
-  "batch": "score"
- },
- {
-  "name": "Sol LeWitt — Wall Drawing #122 and other copy-line drawings",
-  "why": "Drafters copy one another's not-straight lines; relatives of #797.",
-  "link": "https://massmoca.org/event/walldrawing797/",
-  "found_via": "sol-lewitt",
-  "status": "open",
-  "batch": "score"
- },
- {
-  "name": "Jackson Mac Low: Three Social Projects (1963)",
-  "why": "Chapter 7 of the Getty Scores Project; social instruction pieces by Mac Low, not yet researched.",
-  "link": "https://www.getty.edu/publications/scores/07/",
-  "found_via": "jackson-mac-low",
-  "status": "open",
-  "batch": "score"
- },
- {
-  "name": "Yvonne Rainer: We Shall Run (1963)",
-  "why": "Dance score for untrained performers running in formation; Getty Scores Project chapter 8.",
-  "link": "https://www.getty.edu/publications/scores/08/",
-  "found_via": "la-monte-young",
-  "status": "open",
-  "batch": "score"
- },
- {
-  "name": "Takehisa Kosugi: Micro 1 (1961) / Theatre Music",
-  "why": "Event scores in the Anthology and Fluxus; performed in 2021 for the Getty program.",
-  "link": "https://www.getty.edu/publications/scores/05/",
-  "found_via": "la-monte-young",
-  "status": "open",
-  "batch": "score"
- },
- {
-  "name": "Walter De Maria: Beach Crawl (1960)",
-  "why": "Score in the Anthology of Chance Operations, re-performed as SKY, STONE, SEA (2021).",
-  "link": "https://www.getty.edu/publications/scores/05/",
-  "found_via": "la-monte-young",
-  "status": "open",
-  "batch": "score"
- },
- {
-  "name": "Earle Brown: December 1952",
-  "why": "Graphic score that any instrumentation may interpret; strong visual; check whether group realizations make it pass.",
-  "link": "https://www.getty.edu/publications/scores/05/",
-  "found_via": "john-cage",
-  "status": "open",
-  "batch": "score"
- },
- {
-  "name": "Alison Knowles & James Tenney: The House of Dust (1967)",
-  "why": "Computer-generated poem built as a structure at CalArts where students and artists staged works; borderline, the rule for the group is weak.",
-  "link": "https://en.wikipedia.org/wiki/House_of_Dust",
-  "found_via": "alison-knowles",
-  "status": "open",
-  "batch": "score"
- },
- {
-  "name": "Nam June Paik: Zen for Head (1962)",
-  "why": "Paik's realization of Young's Composition 1960 #10; could be a separate entry if Paik's scores for audiences (Participation TV) are covered.",
-  "link": "https://www.moma.org/collection/works/127631",
-  "found_via": "la-monte-young",
-  "status": "open",
-  "batch": "score"
- },
- {
-  "name": "Dick Higgins: Danger Music series",
-  "why": "Fluxus event scores, some for audiences; not researched.",
-  "link": "https://en.wikipedia.org/wiki/Dick_Higgins",
-  "found_via": "george-maciunas",
-  "status": "open",
-  "batch": "score"
- },
- {
-  "name": "Flux Year Box 2 (c. 1966)",
-  "why": "Second Fluxus anthology box with Fluxfilms and action kits; MoMA holds it; could join Fluxkit.",
-  "link": "https://www.moma.org/interactives/exhibitions/2011/fluxus_editions/category_works/fluxyearbox2/index.html",
-  "found_via": "george-maciunas",
-  "status": "open",
-  "batch": "score"
- },
- {
-  "name": "Fluxus 1 (1964)",
-  "why": "First Fluxus yearbox anthology of scores by many artists.",
-  "link": "https://www.moma.org/interactives/exhibitions/2011/fluxus_editions/index.html",
-  "found_via": "george-maciunas",
-  "status": "open",
-  "batch": "score"
- },
- {
-  "name": "Pauline Oliveros: Deep Listening practice / Deep Listening Institute",
-  "why": "Ongoing practice with workshops and group pieces beyond Sonic Meditations.",
-  "link": "https://www.deeplistening.rpi.edu",
-  "found_via": "pauline-oliveros",
-  "status": "open",
-  "batch": "score"
- },
- {
-  "name": "John Cage: Variations VII (1966, 9 Evenings)",
-  "why": "Live-electronic piece picking up sounds from phone lines and radio; Getty Research Institute video exists; check whether it passes (Cage and Tudor as performers).",
-  "link": "https://www.youtube.com/watch?v=XvKSLEzQB7k",
-  "found_via": "john-cage",
-  "status": "open",
-  "batch": "score"
- },
- {
-  "name": "Ulises Carrión, Erratic Art Mail International System (1977)",
-  "why": "A postal art system with its own rules for sending and registering mail.",
-  "link": "https://en.wikipedia.org/wiki/Ulises_Carri%C3%B3n",
-  "found_via": "ray-johnson",
-  "status": "open",
-  "batch": "social"
- },
- {
-  "name": "Image Bank (Vancouver), image request lists (1970–)",
-  "why": "Artists posted lists of images they wanted; the network sent them in. Correspondence protocol.",
-  "link": "https://en.wikipedia.org/wiki/Image_Bank",
-  "found_via": "robert-filliou",
-  "status": "open",
-  "batch": "social"
- },
- {
-  "name": "Clemente Padín / Edgardo Antonio Vigo, Latin American mail-art networks",
-  "why": "Mail art as political circulation under dictatorship.",
-  "link": "https://en.wikipedia.org/wiki/Mail_art",
-  "found_via": "ray-johnson",
-  "status": "open",
-  "batch": "social"
- },
- {
-  "name": "Robert Filliou and Joachim Pfeufer, Poïpoïdrome (1963–)",
-  "why": "Proposal for a 'permanent creation' centre; could not confirm a rule addressed to a group.",
-  "link": "https://en.wikipedia.org/wiki/Robert_Filliou",
-  "found_via": "robert-filliou",
-  "status": "open",
-  "batch": "social"
- },
- {
-  "name": "Superflex, Free Shop (2003)",
-  "why": "Shops charge zero for an undisclosed period; staff follow the rule, customers react. Borderline.",
-  "link": "https://superflex.net/works/free_shop",
-  "found_via": "superflex",
-  "status": "open",
-  "batch": "social"
- },
- {
-  "name": "Superflex, Corruption Contract (2009) and 2000 Watt Society Contract (2010)",
-  "why": "Contracts imposed on clients or residents as artworks.",
-  "link": "https://superflex.net/works/corruption_contract",
-  "found_via": "superflex",
-  "status": "open",
-  "batch": "social"
- },
- {
-  "name": "Carey Young, Declared Void (2005)",
-  "why": "Visitors who enter a marked zone agree by contract to be under US constitutional jurisdiction.",
-  "link": "https://en.wikipedia.org/wiki/Carey_Young",
-  "found_via": "seth-siegelaub",
-  "status": "open",
-  "batch": "social"
- },
- {
-  "name": "Platoniq, Banco Común de Conocimientos (Bank of Common Knowledge)",
-  "why": "Skill-exchange bank run as an artwork; sibling of Time/Bank.",
-  "link": "https://en.wikipedia.org/wiki/Platoniq",
-  "found_via": "julieta-aranda",
-  "status": "open",
-  "batch": "social"
- },
- {
-  "name": "Santiago Sierra, Persons Paid to Have Their Hair Dyed Blond (2001) and other paid-participant works",
-  "why": "Same wage-contract protocol; add after checking media.",
-  "link": "https://en.wikipedia.org/wiki/Santiago_Sierra",
-  "found_via": "santiago-sierra",
-  "status": "open",
-  "batch": "social"
- },
- {
-  "name": "Cildo Meireles, Zero Cruzeiro / Zero Dollar (1974–78)",
-  "why": "Artist-issued banknotes of zero value that entered circulation.",
-  "link": "https://en.wikipedia.org/wiki/Cildo_Meireles",
-  "found_via": "cildo-meireles",
-  "status": "open",
-  "batch": "social"
- },
- {
-  "name": "Temporary Services (Chicago)",
-  "why": "Artist group producing free publications and exchange projects.",
-  "link": "https://temporaryservices.org/",
-  "found_via": "superflex",
-  "status": "open",
-  "batch": "social"
- },
- {
-  "name": "Joseph Beuys, Honigpumpe am Arbeitsplatz / Free International University (documenta 6, 1977)",
-  "why": "100 days of workshops run by different groups around a honey-pump circuit; check whether the workshop format counts as a group protocol.",
-  "link": "https://oa.ici-berlin.org/repository/doi/10.37050/ci-11~wedemeyer_pumping_honey.pdf",
-  "found_via": "joseph-beuys",
-  "status": "open",
-  "batch": "social"
- },
- {
-  "name": "Bill Wasik, The MOB Project (2003)",
-  "why": "First flash mobs, organised by anonymous email instructions to a crowd; belongs to network/crowdsourced.",
-  "link": "https://en.wikipedia.org/wiki/Flash_mob",
-  "found_via": "improv-everywhere",
-  "status": "open",
-  "batch": "social"
- },
- {
-  "name": "Yoko Ono, Cut Piece (1964)",
-  "why": "Audience members cut the performer's clothes one by one; a close relative of Rhythm 0 (likely in the score batch).",
-  "link": "https://en.wikipedia.org/wiki/Cut_Piece",
-  "found_via": "marina-abramovic",
-  "status": "open",
-  "batch": "social"
- },
- {
-  "name": "Mieko Shiomi, Spatial Poem (1965–75)",
-  "why": "Event instructions mailed to participants worldwide; responses mapped and published. Score or correspondence.",
-  "link": "https://www.moma.org/artists/36213",
-  "found_via": "ray-johnson",
-  "status": "open",
-  "batch": "social"
- },
- {
-  "name": "Suzanne Lacy, Whisper, the Waves, the Wind (1984) and Between the Door and the Street (2013)",
-  "why": "Further large choreographed conversations with women; same protocol family as The Crystal Quilt.",
-  "link": "https://www.suzannelacy.com/",
-  "found_via": "suzanne-lacy",
-  "status": "open",
-  "batch": "social"
- },
- {
-  "name": "Jeremy Deller, Procession (Manchester, 2009)",
-  "why": "Parade made of groups who each chose how to represent themselves.",
-  "link": "https://www.jeremydeller.org/",
-  "found_via": "jeremy-deller",
-  "status": "open",
-  "batch": "social"
- },
- {
-  "name": "Tania Bruguera, Association of Arte Útil / Hannah Arendt International Institute for Artivism (INSTAR)",
-  "why": "Institutions run as artworks; check rules and participation.",
-  "link": "https://www.arte-util.org/",
-  "found_via": "tania-bruguera",
-  "status": "open",
-  "batch": "social"
- },
- {
-  "name": "Marina Abramović, Abramović Method (2012–)",
-  "why": "Instructions and exercises for audiences in groups; check if the group behaviour is the work.",
-  "link": "https://mai.art/",
-  "found_via": "marina-abramovic",
-  "status": "open",
-  "batch": "social"
- },
- {
-  "name": "Lee Mingwei, The Dining Project / Sonic Blossom / The Mending Project",
-  "why": "Other gift-and-condition works where strangers carry out the protocol.",
-  "link": "https://en.wikipedia.org/wiki/Lee_Mingwei",
-  "found_via": "lee-mingwei",
-  "status": "open",
-  "batch": "social"
- },
- {
-  "name": "Hans Haacke, Gallery-Goers' Birthplace and Residence Profile (1969)",
-  "why": "Visitors mark where they live on maps; audience produces the work's data.",
+  "name": "Hans Haacke, John Weber Gallery Visitors' Profile (1972–73)",
+  "why": "Visitors fill in a 20-question survey; results shown as charts in the gallery. Needs media.",
   "link": "https://en.wikipedia.org/wiki/Hans_Haacke",
   "found_via": "hans-haacke",
   "status": "open",
-  "batch": "social"
+  "batch": "pass3-leads-social"
  },
  {
-  "name": "Stephen Willats, West London Social Resource Project (1972)",
-  "why": "Questionnaires and feedback loops with residents; systems-based participatory art.",
-  "link": "https://en.wikipedia.org/wiki/Stephen_Willats",
-  "found_via": "hans-haacke",
+  "name": "Lee Mingwei, Sonic Blossom (2013), The Letter Writing Project (1998) and The Dining Project (1997)",
+  "why": "Singers offer a stranger the gift of a Schubert song; visitors write letters they never sent and the museum posts them; a host shares a meal with a visitor. Need verifiable media (leemingwei.com is gone).",
+  "link": "https://en.wikipedia.org/wiki/Lee_Mingwei",
+  "found_via": "lee-mingwei",
   "status": "open",
-  "batch": "social"
+  "batch": "pass3-leads-social"
  },
  {
-  "name": "Spencer Tunick, mass nude installations (1992–)",
-  "why": "Thousands of volunteers follow posing instructions; borderline because the photograph is authored by one person.",
-  "link": "https://en.wikipedia.org/wiki/Spencer_Tunick",
-  "found_via": "francis-alys",
+  "name": "terra0, courtyard project in Strange Rules (Venice, 2026)",
+  "why": "Strange Rules shows a terra0 project in the Palazzo Diedo courtyard; identify the work and add it to the strange-rules collection.",
+  "link": "https://www.e-flux.com/announcements/6786944/strange-rules",
+  "found_via": "holly-herndon",
   "status": "open",
-  "batch": "social"
+  "batch": "pass3-leads-social"
  },
  {
-  "name": "Hélio Oiticica, Tropicália (1967) and Éden (1969)",
-  "why": "Environments completed by visitors' behaviour; check whether a rule set exists.",
-  "link": "https://en.wikipedia.org/wiki/H%C3%A9lio_Oiticica",
-  "found_via": "helio-oiticica",
+  "name": "Agnieszka Kurant, work in Strange Rules (Venice, 2026)",
+  "why": "Kurant's works use collective intelligence (crowds, termites, social-media sentiment); identify the Strange Rules work and test it.",
+  "link": "https://www.e-flux.com/announcements/6786944/strange-rules",
+  "found_via": "holly-herndon",
   "status": "open",
-  "batch": "social"
+  "batch": "pass3-leads-social"
  },
  {
-  "name": "Theaster Gates, Dorchester Projects / Rick Lowe, Project Row Houses",
-  "why": "Social-practice institutions built with neighbourhoods; check whether the rules are authored and addressed to the group.",
-  "link": "https://projectrowhouses.org/",
-  "found_via": "thomas-hirschhorn",
+  "name": "Stephen Willats, Social Resource Project for Tennis Clubs (Nottingham, 1971–72)",
+  "why": "Members of four tennis clubs were to remodel the game around their reasons for joining; the project was not completed. Check whether it belongs as a work.",
+  "link": "https://stephenwillats.com/work/social-resource-project-tennis-clubs/",
+  "found_via": "stephen-willats",
   "status": "open",
-  "batch": "social"
+  "batch": "pass3-leads-social"
  },
  {
-  "name": "Marinella Senatore, The School of Narrative Dance",
-  "why": "Nomadic school and parades produced by local participants under a method.",
-  "link": "https://www.marinellasenatore.com/",
-  "found_via": "suzanne-lacy",
+  "name": "World Computer Sculpture Garden contracts: Echoes (0xhaiku), Dear God, Layer of Roads (Travelers) (Figure31), Yesbot (Sarah Friend), Critique of This Show (Rhea Myers et al.), Real Abstraction (Paul Seidler)",
+  "why": "Participatory contracts in the 2024 contract show (visitors add words, move travellers, toggle Is Art, post critiques, draw walls); their sites are script-only pages without images, so they were not added. Look for images or videos on the artists' own channels.",
+  "link": "https://worldcomputersculpture.garden/",
+  "found_via": "0xfff",
   "status": "open",
-  "batch": "social"
+  "batch": "pass3-leads-theory-sop"
  },
  {
-  "name": "The Swarm Effect: China's 2022 Covid Protests (anonymous, SoP23)",
-  "why": "Study of swarm and anti-swarm tactics in the 2022 protests; anonymous author, so not added as a creator.",
-  "link": "https://summerofprotocols.com/research/the-swarm-effect",
-  "found_via": "summer-of-protocols",
+  "name": "Casey Rodarmor, Ordinals protocol (2023)",
+  "why": "Droitcour argues the protocol is an artwork made by an artist for other artists and kept alive by collective inscription; check against the inclusion test under onchain (substrate bitcoin).",
+  "link": "https://web.archive.org/web/20251017111046/https://outland.art/ordinals-art/",
+  "found_via": "brian-droitcour",
   "status": "open",
-  "batch": "summer-of-protocols"
+  "batch": "pass3-leads-theory-sop"
  },
  {
-  "name": "Laura Sinisterra, Virtual Structures (SoP23)",
-  "why": "Isometric drawings of unbuildable structures exploring the unstated rules of architecture.",
-  "link": "https://summerofprotocols.com/research/virtual-structures",
-  "found_via": "summer-of-protocols",
+  "name": "Peter Bauman, 'The Cerebral Samba: Protocol Art, Worldbuilding & Our Two Brains' (Le Random, 2026)",
+  "why": "Second Le Random essay on protocol art and worldbuilding (11 May 2026); check whether it adds to living-aesthetics.",
+  "link": "https://lerandom.art/editorial/living-aesthetics-a-grammar-of-protocol-art-and-worldbuilding",
+  "found_via": "peter-bauman",
   "status": "open",
-  "batch": "summer-of-protocols"
+  "batch": "pass3-leads-theory-sop"
  },
  {
-  "name": "Protocolized (SoP science-fiction magazine) and Protocolized Anthology",
-  "why": "Magazine publishing 70+ issues of protocol fiction a year, with a printed anthology planned.",
-  "link": "https://summerofprotocols.com/protocolized-anthology",
-  "found_via": "summer-of-protocols",
+  "name": "Kate Sloan, Behaviourist Art and Cybernetics: Mapping a Field (Routledge, 2025)",
+  "why": "Book that takes Ascott's 1966–67 essay as the starting point for a history of behaviourist art, 1945–1975 (DOI 10.4324/9781032615301).",
+  "link": "https://doi.org/10.4324/9781032615301",
+  "found_via": "roy-ascott",
   "status": "open",
-  "batch": "summer-of-protocols"
+  "batch": "pass3-leads-theory-sop"
  },
  {
-  "name": "SoP24 PILL fiction: The Caucus (Randy Lubin), Below the API (Stephen Bailey), Memories of Us (Will Abramson), Terminal Highway (Sachin Benny), Technium Underground (Kay Yu)",
-  "why": "Short stories about liquid democracy, AI agents, memory sanctuaries and revived DApps; fiction, not participatory works.",
-  "link": "https://summerofprotocols.com/protocol-exhibition",
-  "found_via": "summer-of-protocols",
+  "name": "Simon Denny, Proof of Work (Schinkel Pavillon, Berlin)",
+  "why": "Exhibition that included Distributed Gallery's Chaos Machine; check whether it gathers enough protocol works to be a collection.",
+  "link": "https://www.rightclicksave.com/article/the-aesthetic-of-a-protocol",
+  "found_via": "distributed-gallery",
   "status": "open",
-  "batch": "summer-of-protocols"
+  "batch": "pass3-leads-theory-sop"
  },
  {
-  "name": "Sevenfloor (Xiaoting Tan), Farflora (SoP24)",
-  "why": "Generative NFT where an AI agent drives a 'regenerating natural garden' protocol; check for collector rules.",
-  "link": "https://summerofprotocols.com/pills/farflora-ai-agent-regenerating-natural-garden-protocol",
-  "found_via": "summer-of-protocols",
+  "name": "Botto, p5.botto (2024–2025)",
+  "why": "Botto's study of p5.js code art: weekly rounds from March 2024 where anyone could vote without staking (one equal vote per sketch), then self-evolution and a community pruning of 5,000+ sketches to 22 on-chain algorithms auctioned with Verse ('Algorithmic Evolution', London, February 2025). In scope but first public in 2024.",
+  "link": "https://docs.botto.com/collections/p5.botto",
+  "found_via": "botto",
   "status": "open",
-  "batch": "summer-of-protocols"
+  "batch": "pass3-new-autonomous"
  },
  {
-  "name": "Guo Liu, A Pattern Language for Digital Spaces; Chenoe Hart, FutureRack; Willie Fineberg, protocol.guide (SoP24)",
-  "why": "Graphic/mini-site explorations of protocol literacy.",
-  "link": "https://summerofprotocols.com/protocol-exhibition",
-  "found_via": "summer-of-protocols",
-  "status": "open",
-  "batch": "summer-of-protocols"
- },
- {
-  "name": "SoP24 case studies: E2EE in ActivityPub (Evan Prodromou, Tom Coates); ARC Regenerative Communities (Kaliya Young, Day Waterbury); Shoreline Adaptations",
-  "why": "Protocol engineering and governance case studies with symposium videos; weaker art relevance.",
-  "link": "https://summerofprotocols.com/case-studies",
-  "found_via": "summer-of-protocols",
-  "status": "open",
-  "batch": "summer-of-protocols"
- },
- {
-  "name": "SoP25 fellows (Primavera De Filippi, Chen Qiufan, Vaughn Tan, Eric Alston, Andrés Monroy-Hernández, Felix Beer, Helena Rong…)",
-  "why": "2025 teaching fellows and Protocol School; outputs to research next.",
-  "link": "https://summerofprotocols.com/fellows",
-  "found_via": "summer-of-protocols",
-  "status": "open",
-  "batch": "summer-of-protocols"
- },
- {
-  "name": "Gordon Berger",
-  "why": "Generative crypto art and sculpture; no holder-driven or group-rule work checked yet.",
-  "link": "https://www.gordonberger.com/",
+  "name": "Operator, Repeat as necessary: Performance Operating System (2025)",
+  "why": "Ania Catherine and Dejha Ti's on-chain system holding choreography, notation, music and a conservation manual so anyone can restage a 31-minute ritual performance (premiere Scorpios Bodrum, 9–10 August 2025); 40 on-chain SVG works whose state shifts when one wallet holds a token from each chapter. Prix Ars Electronica 2026 Honorary Mention. Score/onchain scope rather than autonomous. Video: https://vimeo.com/1171859071",
+  "link": "https://www.operator.la/repeat-as-necessary",
   "found_via": "seed",
   "status": "open",
-  "batch": "symbient"
+  "batch": "pass3-new-autonomous"
  },
  {
-  "name": "Matthew Plummer-Fernandez, Echo Alarm (2019)",
-  "why": "Stickers that let protest placards appear in augmented reality; check whether protesters used it as a shared protocol.",
-  "link": "https://www.plummerfernandez.com/",
+  "name": "Parag K. Mital, The Game of Whispers (2026)",
+  "why": "Multiplayer game in which each character is run by an AI agent that pursues goals by spreading misinformation (Prix Ars Electronica 2026 Honorary Mention); check whether human players act under authored rules.",
+  "link": "https://archive.aec.at/prix/317392/",
   "found_via": "seed",
   "status": "open",
-  "batch": "symbient"
+  "batch": "pass3-new-autonomous"
  },
  {
-  "name": "Matthew Plummer-Fernandez & Julien Deswaef, Shiv Integer (2016)",
-  "why": "Bot that mashes up other users' Thingiverse uploads and reposts them; check whether the Thingiverse community's response counts as the work.",
-  "link": "https://www.plummerfernandez.com/",
-  "found_via": "seed",
-  "status": "open",
-  "batch": "symbient"
- },
- {
-  "name": "Joel Simon, LatentScape (2024)",
-  "why": "Virtual world for exploring and creating images with others; check rules and community use.",
-  "link": "https://latentscape.com",
-  "found_via": "joel-simon",
-  "status": "open",
-  "batch": "symbient"
- },
- {
-  "name": "Joel Simon / StudioMorphogen, Puppets App (2024)",
-  "why": "Collaborative online puppet studio and theatre; check whether it is framed as a work with a public.",
-  "link": "https://www.joelsimon.net/puppets",
-  "found_via": "joel-simon",
-  "status": "open",
-  "batch": "symbient"
- },
- {
-  "name": "Joel Simon, Brushbloom (2025)",
-  "why": "Digital painting tool with user-generated brushes; a tool, likely off-topic unless the shared brush pool is framed as a work.",
-  "link": "https://www.brushbloom.art",
-  "found_via": "joel-simon",
-  "status": "open",
-  "batch": "symbient"
- },
- {
-  "name": "Jessy Kate Schingler & Primavera De Filippi, 'extitutional' theory",
-  "why": "Concept of social dynamics structured outside institutions, used in the symbient lexicon; candidate for the theory batch.",
-  "link": "https://jessykate.com",
+  "name": "Primavera De Filippi, Will Papper, Adrien Guerrera & Jake Hartnell, Aminals (GLITCH)",
+  "why": "Fully on-chain lifeforms that feed on cryptocurrency and evolve as new SVG genes are added to their code; listed by the GLITCH collective. Launch date and who may add genes not verified; aminals.xyz is now a parked domain.",
+  "link": "https://www.glitchart.org/0002",
   "found_via": "primavera-de-filippi",
   "status": "open",
-  "batch": "symbient"
+  "batch": "pass3-new-autonomous"
  },
  {
-  "name": "Goodbye Monkey, How to Navigate the Singularity (2026)",
-  "why": "New film by the S.A.N studio; check whether audience or token community shape it.",
-  "link": "https://www.youtube.com/watch?v=6CdE-V8bxas",
-  "found_via": "goodbye-monkey",
-  "status": "open",
-  "batch": "symbient"
- },
- {
-  "name": "Symbients: 共生的な未来に向けて (Tokyo, 4–14 Dec 2025)",
-  "why": "Symbient gathering listed on symbient.life; no standalone page with media found, so not made into an exhibition collection.",
-  "link": "https://symbient.life/",
+  "name": "dmstfctn, Fango 1000 (2024–25)",
+  "why": "On-chain 'large lore model' game built with MUD: players join Monks, Scholars or Fools, write interpretations of 1,000 chronicles and vote by throwing mud, so only consensus texts survive. Prototypes shown in 2024 (Koelhuis Eindhoven, Etopia Zaragoza), free-to-play testnet release 2025; outside this batch's 2025+ window by first showing.",
+  "link": "https://www.lerandom.art/editorial/post-generative-language-games",
   "found_via": "seed",
   "status": "open",
-  "batch": "symbient"
+  "batch": "pass3-new-onchain"
  },
  {
-  "name": "Jack Burnham, 'Real Time Systems' (Artforum, 1969)",
-  "why": "Companion essay to Systems Esthetics on art as information and real-time process.",
-  "link": "https://www.artforum.com/features/real-time-systems-210752/",
-  "found_via": "jack-burnham",
+  "name": "0xfff, Transaction Sculptures (2018–2026)",
+  "why": "Arrangements of Ethereum contracts that pass value between each other; anyone can send ETH through a sculpture and the path is drawn. Shown in 1 BILLION DOLLAR SHOW, Nguyen Wahed, New York (25 Sep–19 Oct 2026). Needs per-sculpture rules and first-deployment dates.",
+  "link": "https://tx.0xfff.love/",
+  "found_via": "0xfff",
   "status": "open",
-  "batch": "theory"
+  "batch": "pass3-new-onchain"
  },
  {
-  "name": "Roy Ascott, 'Behaviourist Art and the Cybernetic Vision' (Cybernetica, 1966–67)",
-  "why": "Earlier Ascott text defining art as a behavioural system with feedback from participants.",
-  "link": "https://en.wikipedia.org/wiki/Roy_Ascott",
-  "found_via": "roy-ascott",
+  "name": "DX Research Group, DX Terminal (2025) and DX Terminal Pro (2026)",
+  "why": "Simulation in which about 36,000 AI trader personas act on players' instructions with trading data published on-chain (pixel art by Gremplin). Check whether it is an authored art protocol or a commercial game.",
+  "link": "https://www.lerandom.art/editorial/dx-research-group-on-the-agent-arena",
+  "found_via": "seed",
   "status": "open",
-  "batch": "theory"
+  "batch": "pass3-new-onchain"
  },
  {
-  "name": "Edward A. Shanken (ed.), Telematic Embrace (UC Press, 2003)",
-  "why": "Collected Ascott writings (the 1990 essay is reprinted as chapter 16, DOI 10.1525/9780520935372-019).",
-  "link": "https://www.ucpress.edu/books/telematic-embrace/paper",
-  "found_via": "roy-ascott",
+  "name": "CROSSLUCID, The Way of Flowers (2023–2025)",
+  "why": "Blockchain-registered digital seeds change form when collectors fund verified conservation projects (Regen Network, ArtEcology); solo show at Office Impart, Berlin, 2025. First iteration 2023; needs chain and contract details.",
+  "link": "https://crosslucid.zone/",
+  "found_via": "seed",
   "status": "open",
-  "batch": "theory"
+  "batch": "pass3-new-onchain"
  },
  {
-  "name": "Primavera De Filippi & Felix Beer, 'Protocol Art II' (Protocolized / Protocol Institute, 2025)",
-  "why": "Lecture on protocol art as rule systems executed and modified by communities; check for Protocol Art I and a video.",
-  "link": "https://protocolized.io/resources/protocol-art-ii",
-  "found_via": "summer-of-protocols",
+  "name": "Figure31, DEAD ENDS (Canto, 2022)",
+  "why": "Each mint comes with $UP tokens that collectors spend to upsample images up to five times, shaping the final collection together.",
+  "link": "https://figure31.com/",
+  "found_via": "figure31",
   "status": "open",
-  "batch": "theory"
+  "batch": "pass3-new-onchain"
  },
  {
-  "name": "Distributed Gallery / [aside] (Right Click Save interview 'The Aesthetic of a Protocol', 2024)",
-  "why": "Collective that explicitly calls its practice protocol art (Ready-Made Token, Chaos Machine, time-locked NFTs); belongs to onchain batch.",
-  "link": "https://www.rightclicksave.com/article/the-aesthetic-of-a-protocol",
-  "found_via": "malte-rauch",
+  "name": "Figure31, Reaper's Gambit (2023)",
+  "why": "$RG becomes non-transferable after 64,800 blocks unless holders move it to a new address; holders can burn it into an 'Immortal' NFT.",
+  "link": "https://figure31.com/",
+  "found_via": "figure31",
   "status": "open",
-  "batch": "theory"
+  "batch": "pass3-new-onchain"
  },
  {
-  "name": "Verse journal, 'Protocol Art, Museum Acquisitions, and Measuring Public Sentiment' (2024)",
-  "why": "Interview by Mimi Nguyen and Malte Rauch with Distributed Gallery defining protocol art.",
-  "link": "https://verse.works/journal/protocol-art-and-museum-acquisitions",
-  "found_via": "malte-rauch",
+  "name": "Figure31, LINE (Fingerprints DAO, 2024)",
+  "why": "100 dynamic NFTs whose holders move them to new grid coordinates; position decides the image each token sees.",
+  "link": "https://line.fingerprintsdao.xyz/about",
+  "found_via": "figure31",
   "status": "open",
-  "batch": "theory"
+  "batch": "pass3-new-onchain"
  },
  {
-  "name": "World Computer Sculpture Garden (curated by 0xfff, 2024)",
-  "why": "A 'contract show' that exists only as an Ethereum contract (0x2a362fF002f7ce62D3468509dD2A4a9f5A8EBBb0); works by Rhea Myers, Sarah Friend and others. Onchain batch.",
-  "link": "https://worldcomputersculpture.garden/",
-  "found_via": "malte-rauch",
+  "name": "Matt Kane, ANONS & Multitudes (2023–)",
+  "why": "Auction-based series by an existing gallery artist; rules not yet checked.",
+  "link": "https://anons.art",
+  "found_via": "matt-kane",
   "status": "open",
-  "batch": "theory"
+  "batch": "pass3-new-onchain"
  },
  {
-  "name": "Outland, 'Breaking Protocol' (Ordinals art)",
-  "why": "Essay treating the Ordinals protocol as an artist-made protocol maintained by collective inscription.",
-  "link": "https://outland.art/ordinals-art/",
-  "found_via": "botao-amber-hu",
+  "name": "Leander Herzog, 1000 True Fans (2023)",
+  "why": "Title suggests a patronage protocol; not yet checked.",
+  "link": "https://leanderherzog.ch",
+  "found_via": "leander-herzog",
   "status": "open",
-  "batch": "theory"
+  "batch": "pass3-new-onchain"
  },
  {
-  "name": "Kei Kreutler, 'Inventories, Not Identities' (2021)",
-  "why": "First essay in the same Gnosis Guild series, on collective composable identity via multisigs.",
-  "link": "https://medium.com/gnosis-pm/inventories-not-identities-7da9a4ec5a3e",
-  "found_via": "kei-kreutler",
+  "name": "Anna Ridler, The Shell Record: Breathings of the Moon",
+  "why": "Machine-made shell images that can be seen and traded only at low tide on the Thames; check year and whether the tide rule shapes collector behaviour.",
+  "link": "https://nguyenwahed.com/exhibitions/24-face-value-john-gerrard-anna-ridler-addie-wagenknecht-rachel-maclean/overview/",
+  "found_via": "seed",
   "status": "open",
-  "batch": "theory"
+  "batch": "pass3-new-onchain"
  },
  {
-  "name": "Protocol Institute / Protocolized newsletter",
-  "why": "Successor to Summer of Protocols; hosts lectures on protocol art and design.",
-  "link": "https://protocolized.summerofprotocols.com/p/introducing-the-protocol-institute",
-  "found_via": "summer-of-protocols",
+  "name": "Ana María Caballero, In Record Time (2025)",
+  "why": "OpenSea and Art Basel commission for Zero 10: an open edition built around the poem Training Data, which Caballero invited other artists to annotate by hand (continuing her Fifty Ways of Looking at a Poem). Check whether the annotators' contributions are recorded on-chain and how many took part.",
+  "link": "https://opensea.io/collection/in-record-time-by-ana-maria-caballero/overview",
+  "found_via": "seed",
   "status": "open",
-  "batch": "theory"
+  "batch": "pass3-new-onchain"
  },
  {
-  "name": "Shannon Jackson, Social Works (Routledge, 2011); Pablo Helguera, Education for Socially Engaged Art (2011); Tom Finkelpearl, What We Made (2013)",
-  "why": "Further participation-theory books not yet researched.",
-  "link": "",
-  "found_via": "claire-bishop",
+  "name": "Ed Fornieles & Nina Runa Essendrop, Cel (2019)",
+  "why": "Larp simulation of an extremist online community, shown in Worldglimpsing (ArkDes 2025–26); add to that collection if researched.",
+  "link": "https://arkdes.se/en/exhibitions/worldglimpsing/",
+  "found_via": "omsk-social-club",
   "status": "open",
-  "batch": "theory"
+  "batch": "pass3-new-participatory"
  },
  {
-  "name": "Max Haiven, Art after Money, Money after Art (Pluto, 2018); MoneyLab Reader (INC, 2015)",
-  "why": "Texts on artist-made economies and currencies relevant to crypto-theory.",
-  "link": "",
-  "found_via": "ruth-catlow",
+  "name": "Rimini Protokoll: Call Cutta in a Box (2008), 100% City (2008–), Remote X (2013), Situation Rooms (2013)",
+  "why": "Earlier works where audiences follow headphone, phone or tablet instructions and become the performers.",
+  "link": "https://www.rimini-protokoll.de/website/en/projects",
+  "found_via": "rimini-protokoll",
   "status": "open",
-  "batch": "theory"
+  "batch": "pass3-new-participatory"
+ },
+ {
+  "name": "OMSK Social Club: Cryptorave, Perception as Participation, Worlds' End Hackathon (2024) and other Real Game Play works",
+  "why": "Earlier role-play frameworks for crowds; only the 2025–26 works are in this batch.",
+  "link": "https://omsksocial.club/",
+  "found_via": "omsk-social-club",
+  "status": "open",
+  "batch": "pass3-new-participatory"
+ },
+ {
+  "name": "Christian Falsnaes, audience-instruction performances (JEG/I/MOI 2024; Randers performance collaboration 2025)",
+  "why": "Danish artist whose performances consist of instructions the audience carries out; no 2025–26 work found with enough documentation.",
+  "link": "https://copenhagencontemporary.org/en/christian-falsnaes/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "pass3-new-participatory"
+ },
+ {
+  "name": "Operator (Ania Catherine & Dejha Ti), Repeat as necessary: Performance Operating System (2025–26)",
+  "why": "31-minute ritual guiding audience-participants, with choreography, score and music stored on-chain so anyone can restage it; Prix Ars Electronica 2026 Honorary Mention. Belongs to an on-chain pass.",
+  "link": "https://www.operator.la/repeat-as-necessary",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "pass3-new-participatory"
+ },
+ {
+  "name": "Júlia Nueno Guitart, Sabot – Riding the Algorithm (2022–)",
+  "why": "Open-source app built with delivery riders that pools their data into a rider-governed commons; Prix Ars Electronica 2026 Honorary Mention. Prototype dates from 2022, outside this batch's dates.",
+  "link": "https://github.com/julianueno/sabot",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "pass3-new-participatory"
+ },
+ {
+  "name": "Draw a Fish (drawafish.com, 2025)",
+  "why": "Viral shared fish tank: drawings must pass an AI 'is it a fish' check, then swim with everyone's fish and are voted on. Creator and launch date not yet verified from a reliable source.",
+  "link": "https://drawafish.com/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "pass3-new-participatory"
+ },
+ {
+  "name": "Benediktas Gylys, The Portal (Vilnius–Lublin 2021; Dublin–New York 2024)",
+  "why": "Telematic public sculptures linking two cities by silent live video; paused in May 2024 after misuse, later moved to Philadelphia.",
+  "link": "https://www.dezeen.com/2024/05/15/the-portal-shut-down-poor-behaviour/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "pass3-new-participatory"
+ },
+ {
+  "name": "Elliott Cost, One Minute Park (Tiny Awards 2024 winner)",
+  "why": "Plays 60-second videos of parks filmed and submitted by volunteers around the world; crowdsourced. Launch year to verify; add to tiny-awards if researched.",
+  "link": "https://oneminutepark.tv/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "pass3-new-participatory"
+ },
+ {
+  "name": "Tiny Awards 2024 Multiplayer finalists: Cursorwatching, Internet Fridge, Internet Stoop, Stranger Video, 7 Minutes in Heaven",
+  "why": "Small multiplayer websites shortlisted next to One Million Checkboxes; check which have a clear collective rule (Internet Fridge is by Spencer Chang, Stranger Video by Nolen Royalty).",
+  "link": "https://tinyawards.net/2024/",
+  "found_via": "nolen-royalty",
+  "status": "open",
+  "batch": "pass3-new-participatory"
+ },
+ {
+  "name": "Scores for Meeting Otherwise, ed. Aio Frei, Franziska Koch and Irene Revell (Silver Press, November 2026)",
+  "why": "Feminist history of the performance score from Pauline Oliveros onward, with newly commissioned scores; not yet published on 17 October 2026.",
+  "link": "https://www.silverpress.org/products/scores-for-meeting-otherwise-edited-by-irene-revell-aio-frei-franziska-koch",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "pass3-new-participatory"
+ },
+ {
+  "name": "Lauren Lee McCarthy, HOST (party performance with AI earpiece directions)",
+  "why": "Guests receive private directions from an AI through earpieces and choose whether to follow them; commissioned by The Music Center, Los Angeles. Date not stated on the artist's site.",
+  "link": "https://lauren-mccarthy.com/HOST",
+  "found_via": "lauren-lee-mccarthy",
+  "status": "open",
+  "batch": "pass3-new-participatory"
+ },
+ {
+  "name": "Tino Sehgal, new lobby work at Leeum Museum of Art (Seoul, 2026)",
+  "why": "New constructed situation shown in his first Korean solo show (March–June 2026); no description beyond press notes.",
+  "link": "https://en.sedaily.com/culture/2026/02/26/tino-sehgals-first-korean-solo-show-bans-all-photography",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "pass3-new-participatory"
+ },
+ {
+  "name": "Improv Everywhere, The Mp3 Experiment (2004–; 21st edition 2025)",
+  "why": "Annual mass event: participants download one audio file, press play at the same moment and follow its synchronized instructions in public; only Frozen Grand Central is in the gallery so far.",
+  "link": "https://improveverywhere.com/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "pass3-new-participatory"
+ },
+ {
+  "name": "Mehtap Baydu, Analı Kızlı – With Mothers and Daughters (Manifesta 16 Ruhr, 2026)",
+  "why": "A collective of 12 women from Bochum cooks a meal for guests who would not normally meet, in a former church; check the seating and invitation rules.",
+  "link": "https://www.goethe.de/prj/ger/en/ihr/27303804.html",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "pass3-new-participatory"
  }
 ]

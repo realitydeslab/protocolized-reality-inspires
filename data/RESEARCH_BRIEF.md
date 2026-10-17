@@ -2,7 +2,7 @@
 
 Project: **Protocolized Inspire** — a bilingual (English / Simplified Chinese) gallery of **protocol art**, made by
 Reality Design Lab as idea material for designers, artists and researchers; a sibling of More than Human Inspire.
-Working dir: `/Users/amber/Projects/HoloKit/HoloKit2/protocolized-inspire`.
+Working dir: `/Users/amber/Projects/Oxford/protocolized-reality-inspires`.
 
 Read first: `data/SCHEMA.md` (JSON format, language rule) and `data/taxonomy.json` (field / sub / mechanisms / substrates / kind ids).
 

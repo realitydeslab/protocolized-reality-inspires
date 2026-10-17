@@ -1,0 +1,589 @@
+{
+  "batch": "pass3-leads-onchain-b",
+  "creators": [
+    {
+      "id": "eve-sussman",
+      "name": "Eve Sussman",
+      "kind": "person",
+      "role": "Artist and filmmaker",
+      "role_zh": "艺术家、电影人",
+      "based": "Brooklyn, NY, US",
+      "based_zh": "纽约布鲁克林，美国",
+      "bio": "British-born American artist working in film, video, installation and photography, based in Brooklyn with her company the Rufus Corporation. Her video 89 Seconds at Alcázar (2004) restages the moments around Velázquez's Las Meninas.",
+      "bio_zh": "生于英国的美国艺术家，创作涉及电影、录像、装置与摄影，与她的公司 Rufus Corporation 一起常驻纽约布鲁克林。她 2004 年的录像《89 Seconds at Alcázar》重演了委拉斯开兹《宫娥》画面前后的片刻。",
+      "why": "She let Snark.art cut the last artist's proof of a video into 2,304 tokens, so the film can only be seen whole when its many owners lend each other their pieces.",
+      "why_zh": "她让 Snark.art 把一部录像的最后一份艺术家试映版切成 2,304 个代币，只有众多持有者互相出借碎片，这部影片才能完整放映。",
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Eve_Sussman"
+      },
+      "connected_to": [
+        "snark-art"
+      ],
+      "discovered_via": "kevin-mccoy"
+    },
+    {
+      "id": "snark-art",
+      "name": "Snark.art",
+      "kind": "studio",
+      "role": "Blockchain art studio",
+      "role_zh": "区块链艺术工作室",
+      "based": "Brooklyn, NY, US",
+      "based_zh": "纽约布鲁克林，美国",
+      "bio": "Brooklyn technology studio founded in early 2018 by Andrey Alekhin and Misha Libman to produce blockchain-based artworks with artists; its first project was Eve Sussman's 89 Seconds Atomized.",
+      "bio_zh": "2018 年初由 Andrey Alekhin 和 Misha Libman 在纽约布鲁克林创立的技术工作室，与艺术家合作制作基于区块链的作品；第一个项目是 Eve Sussman 的《89 Seconds Atomized》。",
+      "why": "It designs works in which buying a token is the start of a shared process among owners, not the end of a sale.",
+      "why_zh": "它设计的作品里，买下代币只是持有者之间共同过程的开始，而不是一笔交易的结束。",
+      "links": {
+        "site": "https://snark.art"
+      },
+      "connected_to": [
+        "eve-sussman"
+      ],
+      "discovered_via": "kevin-mccoy"
+    },
+    {
+      "id": "jennifer-mccoy",
+      "name": "Jennifer McCoy",
+      "kind": "person",
+      "role": "Artist and professor of art",
+      "role_zh": "艺术家、艺术教授",
+      "based": "Brooklyn, NY, US",
+      "based_zh": "纽约布鲁克林，美国",
+      "bio": "Artist who works as a duo with Kevin McCoy on interactive media, film, performance and installation, and teaches art at Brooklyn College. The pair received a Creative Capital award in 2002 and a Guggenheim Fellowship in 2011.",
+      "bio_zh": "与 Kevin McCoy 以二人组合作的艺术家，创作互动媒体、电影、表演与装置，并在布鲁克林学院教授艺术。两人于 2002 年获得 Creative Capital 奖，2011 年获得古根海姆奖学金。",
+      "why": "With Kevin McCoy she turned a museum donation into a tradable public role held by fifty strangers.",
+      "why_zh": "她与 Kevin McCoy 一起，把一次博物馆捐赠变成由五十位陌生人持有、可以转让的公共身份。",
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Jennifer_%26_Kevin_McCoy"
+      },
+      "connected_to": [
+        "kevin-mccoy"
+      ],
+      "discovered_via": "kevin-mccoy"
+    },
+    {
+      "id": "coin-artist",
+      "name": "Coin Artist (Marguerite deCourcelle)",
+      "kind": "person",
+      "role": "Artist, puzzle designer and game studio founder",
+      "role_zh": "艺术家、谜题设计者、游戏工作室创始人",
+      "based": "",
+      "based_zh": "",
+      "bio": "Painter and puzzle designer who studied fine art at Eastern Oregon University (2009). She made her first crypto-puzzle, The Dark Wallet, in 2014 and in early 2018 founded Blockade Games, which makes blockchain games such as Neon District.",
+      "bio_zh": "画家与谜题设计者，2009 年毕业于东俄勒冈大学美术专业。她在 2014 年创作了第一个加密谜题 The Dark Wallet，2018 年初创立 Blockade Games，开发 Neon District 等区块链游戏。",
+      "why": "Her paintings hide Bitcoin private keys, turning a picture into a public contest that a crowd works on for years.",
+      "why_zh": "她的画作里藏着比特币私钥，把一幅画变成一场让人群持续多年共同破解的公开竞赛。",
+      "links": {
+        "site": "https://coinartist.io",
+        "x": "https://x.com/coin_artist"
+      },
+      "connected_to": [
+        "rhea-myers"
+      ],
+      "discovered_via": "rare-pepe-directory"
+    },
+    {
+      "id": "scarab-experiment",
+      "name": "The Scarab Experiment (SCARAB)",
+      "kind": "collective",
+      "role": "Pseudonymous artist collective on Counterparty",
+      "role_zh": "Counterparty 上的匿名艺术家集体",
+      "based": "",
+      "based_zh": "",
+      "bio": "Collective launched in 2015 around the SCARAB token on Counterparty and presented as a 'mass multi-user persona'. The token, which the project calls a work of art in itself, is credited to the pseudonymous artist S. Satoshi.",
+      "bio_zh": "2015 年围绕 Counterparty 上的 SCARAB 代币成立的集体，自称“大规模多用户人格”。这个被项目称为艺术品本身的代币，署名为化名艺术家 S. Satoshi。",
+      "why": "It tried to make one artist out of many: members' submissions are merged into works credited only to SCARAB, and token holders vote on its showings.",
+      "why_zh": "它试图把许多艺术家合成一个艺术家：成员提交的作品被融合成只署名 SCARAB 的作品，代币持有者投票决定它的展出。",
+      "links": {
+        "site": "https://www.thescarabexperiment.org/"
+      },
+      "connected_to": [],
+      "discovered_via": "rare-pepe-directory"
+    }
+  ],
+  "works": [
+    {
+      "id": "eve-sussman--89-seconds-atomized",
+      "creator_ids": [
+        "eve-sussman",
+        "snark-art"
+      ],
+      "title": "89 Seconds Atomized",
+      "year": 2018,
+      "field": "onchain",
+      "sub": "ownership",
+      "also": [],
+      "mechanisms": [
+        "circulation",
+        "merge"
+      ],
+      "substrate": "ethereum",
+      "kind": "artwork",
+      "description": "The last artist's proof of Eve Sussman's video 89 Seconds at Alcázar (2004), cut into 2,304 tokens of 20 × 20 pixels each. Each owner sees only their own fragments; to screen the film whole, holders have to borrow each other's pieces.",
+      "description_zh": "Eve Sussman 的录像《89 Seconds at Alcázar》（2004）的最后一份艺术家试映版，被切成 2,304 个代币，每个只有 20 × 20 像素。每位持有者只能看到自己的碎片；要完整放映这部影片，持有者必须相互借用彼此的碎片。",
+      "idea_en": "Split one work among many owners so that seeing it whole depends on their willingness to lend.",
+      "idea_zh": "把一件作品分给许多人持有，能否看到它的全貌，取决于他们是否愿意出借。",
+      "protocol": "Each 'atom' is an ERC-721 token holding a 20 × 20-pixel fragment of the roughly ten-minute video with the full soundtrack. Owners can sell, auction or transfer atoms and can switch lending on or off at any time. Any atom holder can ask to borrow the community's atoms for a one-day screening, open only to holders; owners whose atoms are lent are told where the screening takes place.",
+      "protocol_zh": "每个“原子”是一个 ERC-721 代币，内含这部约十分钟录像中一块 20 × 20 像素的画面和完整的声轨。持有者可以出售、拍卖或转让原子，也可以随时开启或关闭出借。任何原子持有者都可以申请借用社群的原子来举办为期一天、只对持有者开放的放映；被借出原子的持有者会收到放映地点的通知。",
+      "collective": "Snark.art launched the work in November 2018 as its first project; the project page lists more than 300 atom holders. Because no one owns the whole film, every complete screening is assembled from fragments that many holders agree to lend.",
+      "collective_zh": "Snark.art 于 2018 年 11 月推出这件作品，作为工作室的第一个项目；项目页面列出的原子持有者超过 300 位。由于没有人拥有整部影片，每一次完整放映都由许多持有者同意出借的碎片拼合而成。",
+      "keywords": [
+        "Snark.art",
+        "ERC-721",
+        "fractional ownership",
+        "lending",
+        "screening",
+        "Las Meninas"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=uUzLLHUqQnE"
+      },
+      "images": [
+        "https://snark.art/images/production/89sa.png"
+      ],
+      "source_url": "https://snark.art/89seconds"
+    },
+    {
+      "id": "jennifer-mccoy--public-key-private-key",
+      "creator_ids": [
+        "jennifer-mccoy",
+        "kevin-mccoy"
+      ],
+      "title": "Public Key / Private Key",
+      "year": 2019,
+      "field": "onchain",
+      "sub": "ownership",
+      "also": [
+        "social"
+      ],
+      "mechanisms": [
+        "contract",
+        "circulation"
+      ],
+      "substrate": "ethereum",
+      "kind": "artwork",
+      "description": "Jennifer and Kevin McCoy donated a 16mm film to the Whitney Museum's collection on behalf of the public and made 50 people its 'donors of record', each holding a blockchain certificate they could give away or sell.",
+      "description_zh": "Jennifer 和 Kevin McCoy 以公众的名义把一部 16 毫米影片捐给惠特尼美术馆，并让 50 个人成为它的“登记捐赠人”，每人持有一份可以赠送或出售的区块链证书。",
+      "idea_en": "Turn the museum's credit line into a public role that keeps changing hands.",
+      "idea_zh": "把博物馆的捐赠署名变成一个不断易手的公共身份。",
+      "protocol": "Members of the public registered on the project page and wrote why they wanted to be donors; the artists chose 50 for the originality of their answers. Each donor received a blockchain-based certificate, issued with Monegraph, that they could transfer, gift or sell, and the changing donor list was tracked on whitney.org for six months. A key is hidden in the film: the first viewer in a Whitney exhibition to spot it and send it to the artists becomes the 51st donor.",
+      "protocol_zh": "公众在项目页面登记姓名，并写下自己为何想成为捐赠人；艺术家根据回答的原创性选出 50 人。每位捐赠人获得一份通过 Monegraph 发行的区块链证书，可以转让、赠送或出售；变化中的捐赠人名单在 whitney.org 上追踪六个月。影片里藏着一把密钥：在惠特尼展览中第一个发现它并寄给艺术家的观众，将成为第 51 位捐赠人。",
+      "collective": "Applicants competed with short texts for a place in the credit line, and the selected donors could pass that place on. Donors were recorded until 4 November 2019; the Whitney's collection record credits the film as a gift courtesy of the named donors of record, including 'the fifty current block chain token owners as of July 22, 2019'.",
+      "collective_zh": "申请者用短文竞争捐赠署名中的一个位置，入选者还可以把这个位置转给别人。捐赠人名单记录至 2019 年 11 月 4 日；惠特尼的馆藏记录将这部影片列为由登记捐赠人促成的捐赠，其中包括“截至 2019 年 7 月 22 日的五十位区块链代币持有者”。",
+      "keywords": [
+        "Whitney Museum",
+        "artport",
+        "donor of record",
+        "Monegraph",
+        "16mm film",
+        "museum collection"
+      ],
+      "images": [
+        "https://whitneymedia.org/assets/artwork/60632/AP_2018_4.jpg",
+        "https://static.wixstatic.com/media/5af655_c2b8cbf4a39b4e80b70541c5771be02b~mv2.jpg",
+        "https://static.wixstatic.com/media/5af655_4e8c6f763c3b4d748823ae2f427cf26f~mv2.jpg"
+      ],
+      "source_url": "https://whitney.org/exhibitions/public-key-private-key"
+    },
+    {
+      "id": "sarah-meyohas--cloud-of-petals",
+      "creator_ids": [
+        "sarah-meyohas"
+      ],
+      "title": "Cloud of Petals",
+      "year": 2017,
+      "field": "score",
+      "sub": "execution",
+      "also": [],
+      "mechanisms": [
+        "instruction",
+        "currency"
+      ],
+      "substrate": "body",
+      "kind": "artwork",
+      "description": "Sixteen male workers brought together by Sarah Meyohas photographed 100,000 rose petals, one by one, at the former Bell Labs in New Jersey; the photographs trained a GAN that generates new petals, and the work was shown at Red Bull Arts New York in 2017.",
+      "description_zh": "Sarah Meyohas 召集的十六名男性工人，在新泽西州贝尔实验室旧址把 100,000 片玫瑰花瓣逐一拍照；这些照片训练出一个能生成新花瓣的 GAN。作品于 2017 年在 Red Bull Arts New York 展出。",
+      "idea_en": "Show the human labour behind a machine's idea of beauty as the work itself.",
+      "idea_zh": "把机器审美背后的人类劳动本身作为作品呈现。",
+      "protocol": "The artist set one repetitive task for a team of sixteen men: photograph rose petals one at a time at the former Bell Labs site until the archive held 100,000 images. The archive then became the training set for a generative adversarial network.",
+      "protocol_zh": "艺术家给十六名男性工人设定了一项重复任务：在贝尔实验室旧址把玫瑰花瓣一片一片地拍照，直到档案里有 100,000 张图像。这个档案随后成为一个生成对抗网络的训练数据。",
+      "collective": "The workers' repeated gestures produced the dataset, a film of their labour and the installation at Red Bull Arts New York; the GAN later produced the Infinite Petals works. Pressed petals from the project now back Meyohas's artist currency Bitchcoin, and the film is in the collection of the Centre Pompidou.",
+      "collective_zh": "工人们重复的动作产生了数据集、记录他们劳动的影片，以及 Red Bull Arts New York 的展览装置；这个 GAN 后来生成了《Infinite Petals》系列。项目中压制的花瓣如今为 Meyohas 的艺术家货币 Bitchcoin 提供储备，影片则被蓬皮杜中心收藏。",
+      "keywords": [
+        "Bell Labs",
+        "rose petals",
+        "GAN",
+        "labour",
+        "Red Bull Arts",
+        "Bitchcoin"
+      ],
+      "images": [
+        "https://freight.cargo.site/w/1200/i/Y2559129957062607361238138036539/23.jpeg",
+        "https://freight.cargo.site/w/1200/i/J2568857313073915301622287114555/LB_20171010_Red-Bull-Arts-New-York-2017-Cloud_of_Petals_0003-copy.jpg"
+      ],
+      "source_url": "https://www.sarahmeyohas.com/cloud-of-petals"
+    },
+    {
+      "id": "simon-de-la-rouviere--logged-universe",
+      "creator_ids": [
+        "simon-de-la-rouviere"
+      ],
+      "title": "The Logged Universe (Untitled Frontier)",
+      "year": 2021,
+      "field": "onchain",
+      "sub": "co-authored",
+      "also": [],
+      "mechanisms": [
+        "co-authorship",
+        "time",
+        "exchange"
+      ],
+      "substrate": "ethereum",
+      "kind": "series",
+      "description": "A shared science-fiction world run by Simon de la Rouviere's studio Untitled Frontier: guest writers publish stories under a Creative Commons licence, each story comes with on-chain generative collectibles whose sales are split with its writer, and holding pieces from earlier stories unlocks free mints of later ones.",
+      "description_zh": "由 Simon de la Rouviere 的工作室 Untitled Frontier 运营的共享科幻世界：受邀作者以知识共享许可发表故事，每个故事都配有链上生成式收藏品，销售收入与作者分成；持有早期故事的作品，可以免费铸造后来的作品。",
+      "idea_en": "Let collectors' holdings carry them from chapter to chapter of a story written by many hands.",
+      "idea_zh": "让藏家手中的代币带着他们，从一个故事章节走到下一个，而这些故事出自多位作者之手。",
+      "protocol": "Writers join through an open call; each story is published under CC BY-SA 4.0 so anyone may reuse its elements, and the studio splits primary and secondary NFT revenue 50/50 with the writer. Each story's on-chain SVG collectibles can be minted only during a window of about four weeks. Holders of earlier pieces get later ones free: an Anchor Certificate let its holder claim a Painting of Forgotten Souls, an Anchor Certificate plus a Painting gave a free Little Martian, and later drops were free to holders of other Logged Universe NFTs. Deluxe Anchor Certificates permanently record the buyer's address as sponsor, even after transfer.",
+      "protocol_zh": "作者通过公开征稿加入；每个故事以 CC BY-SA 4.0 发布，任何人都可以复用其中的元素，工作室与作者五五分成 NFT 的一级和二级收入。每个故事的链上 SVG 收藏品只能在大约四周的窗口内铸造。持有早期作品的人可以免费获得后来的作品：持有 Anchor Certificate 可以领取一幅 Painting of Forgotten Souls，同时持有 Anchor Certificate 和 Painting 可以免费领取一个 Little Martian，之后的发行则对其他 Logged Universe NFT 的持有者免费。豪华版 Anchor Certificate 会把买家地址作为赞助人永久写入代币，转手后也不会改变。",
+      "collective": "Five stories by five writers appeared between June 2021 and May 2023. For the first story, 95 fans bought 100 deluxe and 60 default Anchor Certificates, earning about $12,000; 288 Paintings of Forgotten Souls followed, and the studio's site lists 119 Little Martians, 95 Capsules of All Our Lives and 33 Daisychains, alongside the free mid-season Room of Infinite Paintings.",
+      "collective_zh": "2021 年 6 月至 2023 年 5 月间，五位作者发表了五个故事。第一个故事中，95 位读者买下 100 张豪华版和 60 张普通版 Anchor Certificate，带来约 12,000 美元收入；随后铸造了 288 幅 Paintings of Forgotten Souls，工作室网站还列出 119 个 Little Martians、95 个 Capsules of All Our Lives 和 33 个 Daisychains，以及免费的季中项目 The Room of Infinite Paintings。",
+      "keywords": [
+        "Untitled Frontier",
+        "science fiction",
+        "CC BY-SA",
+        "revenue split",
+        "holder claims",
+        "on-chain SVG"
+      ],
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5e708f9fb2e3335af0efcc66/1624629254457-X12WHQZ4R9Q67O57F99M/ac.png",
+        "https://images.squarespace-cdn.com/content/v1/5e708f9fb2e3335af0efcc66/1632317624510-N2VDAWJAL6SXYWUWKE7U/moa2.png",
+        "https://images.squarespace-cdn.com/content/v1/5e708f9fb2e3335af0efcc66/23330594-a1ba-4eae-91d5-edbe15701741/Screenshot+2022-04-19+at+16.36.30.png"
+      ],
+      "source_url": "https://www.untitledfrontier.studio/the-logged-universe"
+    },
+    {
+      "id": "sarah-friend--protective-rituals",
+      "creator_ids": [
+        "sarah-friend"
+      ],
+      "title": "Protective Rituals for Posthumans",
+      "year": 2016,
+      "field": "social",
+      "sub": "performance",
+      "also": [
+        "network"
+      ],
+      "mechanisms": [
+        "participation",
+        "instruction"
+      ],
+      "substrate": "body",
+      "kind": "artwork",
+      "description": "A participatory performance at the Radical Networks conference in Brooklyn in 2016, in which Sarah Friend and a fellow member of the Chaos Computer Coven led the audience through a chaos-magic ritual to feed the 'egregore', the collective spirit, of the NYC Mesh community network and ward off intruders.",
+      "description_zh": "2016 年在布鲁克林 Radical Networks 大会上的一场参与式表演：Sarah Friend 与 Chaos Computer Coven 的另一位成员带领观众进行一场混沌魔法仪式，为社区网络 NYC Mesh 的“egregore”（集体之灵）提供养分，并抵御入侵者。",
+      "idea_en": "Use a ritual to let a network's users build its shared spirit together.",
+      "idea_zh": "用一场仪式，让网络的使用者一起塑造它的共同之灵。",
+      "protocol": "Participants followed a guided ritual: they drew sigils with Sigil Pro, a network-hosted phone app that draws with the phone's accelerometer, directed their intention at the egregore of NYC Mesh, and joined warding exercises such as forming an ethernet circle, a human mesh network, and making tinfoil shields for their phones.",
+      "protocol_zh": "参与者按引导完成仪式：用托管在网络上的手机应用 Sigil Pro 借助手机加速度计绘制符印，把意念指向 NYC Mesh 的集体之灵，并参加一系列守护练习，例如围成一圈以太网线、组成一张人肉网状网络，以及为手机制作锡纸护罩。",
+      "collective": "The audience acted as the coven: together they co-created a communal entity for the mesh network, in a piece the artist describes as part community-driven design practice, part situationist happening.",
+      "collective_zh": "观众成了巫团本身：他们一起为这个网状网络共同塑造出一个集体存在。艺术家把这件作品描述为一半是社区驱动的设计实践，一半是情境主义式的偶发事件。",
+      "keywords": [
+        "Chaos Computer Coven",
+        "NYC Mesh",
+        "Radical Networks",
+        "chaos magic",
+        "egregore",
+        "sigil"
+      ],
+      "images": [
+        "https://isthisa.com/static/ProtectiveRituals/Pic1.jpg",
+        "https://isthisa.com/static/ProtectiveRituals/Pic5.jpg",
+        "https://isthisa.com/static/ProtectiveRituals/Pic0.jpg"
+      ],
+      "source_url": "https://isthisa.com/protectiverituals"
+    },
+    {
+      "id": "coin-artist--torched-h34r7s",
+      "creator_ids": [
+        "coin-artist",
+        "rhea-myers"
+      ],
+      "title": "TORCHED H34R7S (The Legend of Satoshi Nakamoto)",
+      "year": 2015,
+      "field": "network",
+      "sub": "collective-games",
+      "also": [
+        "onchain"
+      ],
+      "mechanisms": [
+        "constraint",
+        "currency"
+      ],
+      "substrate": "bitcoin",
+      "kind": "artwork",
+      "description": "A painting by Coin Artist, the last step of her puzzle trail The Legend of Satoshi Nakamoto, whose border of flames encodes the private key of a Bitcoin wallet holding about five bitcoins; whoever decoded it could take the coins.",
+      "description_zh": "Coin Artist 的一幅画，是她的谜题之路《The Legend of Satoshi Nakamoto》的最后一步。画框四周的火焰编码了一个比特币钱包的私钥，钱包里约有五枚比特币；谁能解出私钥，谁就能拿走这些币。",
+      "idea_en": "Hide the prize inside the picture and let a crowd's years of attention become part of the work.",
+      "idea_zh": "把奖金藏进画里，让一群人多年的专注成为作品的一部分。",
+      "protocol": "Players first had to solve a trail of smaller puzzles posted on the Bitcointalk forum to reach the painting. The wallet's private key, prefixed with the phrase 'b34u7y, truth, and rarity', was cut into 6-bit chunks, XORed with a cipher read from the ribbons of a painted key and painted as coloured flames around the border, a scheme designed with Rhea Myers. Only someone holding the decoded key can move the coins, so the Bitcoin network itself confirms the winner.",
+      "protocol_zh": "玩家要先解开发布在 Bitcointalk 论坛上的一串小谜题，才能找到这幅画。钱包私钥前加上短语“b34u7y, truth, and rarity”，切成 6 位一段，与画中钥匙丝带上读出的密码做异或运算，再画成画框四周不同颜色的火焰，这套方案由她与 Rhea Myers 一起设计。只有掌握解码私钥的人才能转走比特币，因此由比特币网络本身确认赢家。",
+      "collective": "An obsessive community formed on Bitcointalk and in a Telegram group; interest faded after months without a solution and returned during the 2017 price surge. After a higher-resolution image appeared in December 2017, a solver called Trinitas saw that each flame was a 4-bit string, and a 30-year-old programmer called Isaac decoded the key and emptied the 1FLAMEN6 wallet in early February 2018, almost three years after the puzzle was made; he sent half a bitcoin to Trinitas.",
+      "collective_zh": "Bitcointalk 和一个 Telegram 群里形成了一个执着的社群；几个月无人解出后热度消退，2017 年币价飙升时又重新燃起。2017 年 12 月一张更高分辨率的图片发布后，一位名为 Trinitas 的解谜者发现每朵火焰都是一个 4 位字符串，30 岁的程序员 Isaac 随后解出私钥，于 2018 年 2 月初转空了 1FLAMEN6 钱包，距谜题完成已近三年；他把半枚比特币转给了 Trinitas。",
+      "keywords": [
+        "1FLAMEN6",
+        "Bitcointalk",
+        "puzzle",
+        "private key",
+        "bounty",
+        "Rhea Myers"
+      ],
+      "images": [
+        "https://rhea.art/processed_images/1FLAMEN6.d2acd07ab4d44892.jpg",
+        "https://www.vice.com/wp-content/uploads/sites/2/2018/02/1517622121322-1FLAMEN6.jpeg?resize=2000,1500"
+      ],
+      "source_url": "https://www.vice.com/en/article/kzpqzz/heres-the-solution-to-the-3-year-old-dollar50000-bitcoin-puzzle"
+    },
+    {
+      "id": "scarab-experiment--scarab",
+      "creator_ids": [
+        "scarab-experiment"
+      ],
+      "title": "SCARAB",
+      "year": 2015,
+      "field": "onchain",
+      "sub": "provenance",
+      "also": [
+        "autonomous"
+      ],
+      "mechanisms": [
+        "merge",
+        "governance",
+        "currency"
+      ],
+      "substrate": "bitcoin",
+      "kind": "organization",
+      "description": "A Counterparty token declared an artwork by the pseudonymous S. Satoshi and used as membership in an artist collective: every 1,000 artworks that members submit are to be merged into one image, fabricated and credited only to the collective persona SCARAB.",
+      "description_zh": "化名 S. Satoshi 宣布为艺术品的一种 Counterparty 代币，同时也是一个艺术家集体的会员凭证：成员每提交 1,000 件作品，就要融合成一幅图像并制作出来，只署名集体人格 SCARAB。",
+      "idea_en": "Dissolve many artists into one shared persona whose works no single member can claim.",
+      "idea_zh": "把许多艺术家融进一个共同人格，它的作品不属于任何一位成员。",
+      "protocol": "SCARAB is 100,000 indivisible Counterparty tokens with a locked supply, 50,000 of them reserved for artists. Anyone may submit an artwork and receives one token; each submission is merged with the one before it by an algorithmic imaging process, and the 1,000th closes the cycle and sends the image out for fabrication, with no individual credit. The series is capped at 50 works, each authenticated by its own token. Holders who link their token address can vote on inclusion in the experiment and on gallery showings.",
+      "protocol_zh": "SCARAB 由 100,000 枚不可分割的 Counterparty 代币组成，供应量已锁定，其中 50,000 枚留给艺术家。任何人都可以提交作品并获得一枚代币；每份提交都通过算法成像过程与前一份融合，第 1,000 份提交结束一个周期，图像随即送去制作，不署任何个人的名字。整个系列最多 50 件作品，每件由各自的代币认证。把代币地址关联到账户的持有者，可以投票决定谁能加入实验以及作品在哪些画廊展出。",
+      "collective": "Artists submitted work and traders held the token; in March 2018 CoinCentral counted 2,298 tokens in circulation. The first cycle has never closed: the project page still shows '#01 Pending... 795/1000', so no SCARAB artwork has been fabricated.",
+      "collective_zh": "艺术家提交作品，交易者持有代币；2018 年 3 月 CoinCentral 统计流通中的代币为 2,298 枚。第一个周期至今没有完成：项目页面仍显示“#01 Pending... 795/1000”，因此还没有任何一件 SCARAB 作品被制作出来。",
+      "keywords": [
+        "Counterparty",
+        "S. Satoshi",
+        "multi-user persona",
+        "merged artwork",
+        "token voting",
+        "cryptocurrency as art"
+      ],
+      "images": [
+        "https://www.thescarabexperiment.org/uploads/1/4/2/6/14267311/95d29549c0d9fcc2a96d19977f58cdfa19db0e5b_orig.jpeg",
+        "https://www.thescarabexperiment.org/uploads/1/4/2/6/14267311/how-scarab-works_orig.png"
+      ],
+      "source_url": "https://www.thescarabexperiment.org/faq1.html",
+      "contract_url": "https://tokenscan.io/asset/SCARAB"
+    }
+  ],
+  "leads": [
+    {
+      "name": "Eve Sussman, 89 Seconds Atomized (Snark.art, 2018)",
+      "why": "added as eve-sussman--89-seconds-atomized",
+      "link": "https://snark.art/89seconds",
+      "found_via": "kevin-mccoy",
+      "status": "covered"
+    },
+    {
+      "name": "Jennifer & Kevin McCoy, Public Key/Private Key (Whitney, 2019)",
+      "why": "added as jennifer-mccoy--public-key-private-key",
+      "link": "https://whitney.org/exhibitions/public-key-private-key",
+      "found_via": "kevin-mccoy",
+      "status": "covered"
+    },
+    {
+      "name": "Scarab Experiment (2015)",
+      "why": "added as scarab-experiment--scarab",
+      "link": "https://www.thescarabexperiment.org/",
+      "found_via": "rare-pepe-directory",
+      "status": "covered"
+    },
+    {
+      "name": "Coin Artist (Marguerite deCourcelle), Bitcoin puzzle paintings (2015–)",
+      "why": "added as coin-artist--torched-h34r7s (TORCHED H34R7S, 2015, co-designed with Rhea Myers); her earlier Dark Wallet Puzzle (2014) is kept as a separate open lead.",
+      "link": "https://rhea.art/1flamen6/",
+      "found_via": "rare-pepe-directory",
+      "status": "covered"
+    },
+    {
+      "name": "Memorychain (2017)",
+      "why": "Counterparty card collection (April–August 2017) curated through a Telegram group around IndieSquare; no identifiable author's rule set, no published rules and no images found.",
+      "link": "https://mlo.art/research/history-of-crypto-art/",
+      "found_via": "rare-pepe-directory",
+      "status": "off_topic"
+    },
+    {
+      "name": "Bitcorn (2018)",
+      "why": "Idle farming game by developer Dan Anderson, funded by a CROPS token sale (February–March 2018); framed as a game product, with card rules modelled on Rare Pepe's, not as an artwork.",
+      "link": "https://bitcorns.com/rules",
+      "found_via": "rare-pepe-directory",
+      "status": "off_topic"
+    },
+    {
+      "name": "Pixel Map (2016) and WeiCards (2017)",
+      "why": "Pixel Map added as ken-erwin--pixelmap (pass3-leads-onchain-a); WeiCards off_topic: anonymous ad-card DApp, no artistic framing or recorded owner activity.",
+      "link": "https://mlo.art/research/history-of-crypto-art/",
+      "found_via": "peter-porobov",
+      "status": "covered"
+    },
+    {
+      "name": "Conlan Rios, NFT-Scribe (2019)",
+      "why": "Utility contract (December 2019) that lets each ERC-721 owner append messages to their own token; no shared work or rule for a group.",
+      "link": "https://github.com/conlan/nft-scribe",
+      "found_via": "larva-labs",
+      "status": "off_topic"
+    },
+    {
+      "name": "Sarah Meyohas, Cloud of Petals (2017)",
+      "why": "added as sarah-meyohas--cloud-of-petals",
+      "link": "https://www.sarahmeyohas.com/cloud-of-petals",
+      "found_via": "sarah-meyohas",
+      "status": "covered"
+    },
+    {
+      "name": "Moxie Marlinspike, First Derivative (2021)",
+      "why": "dApp that lets anyone mint the single look-alike 'derivative' of any NFT (the contract holds 77); a market tool, and users' mints do not form a shared work.",
+      "link": "https://firstderivative.market",
+      "found_via": "moxie-marlinspike",
+      "status": "off_topic"
+    },
+    {
+      "name": "Rhea Myers, The Fractionalized Phallus (2025)",
+      "why": "30 glitched 3D-scan fragments sold one by one through Galerie Nagel Draxler; the artist's page states no rule that links the holders.",
+      "link": "https://rhea.art/the-fractionalized-phallus/",
+      "found_via": "rhea-myers",
+      "status": "off_topic"
+    },
+    {
+      "name": "Rhea Myers, Ethereum Art Market (2014)",
+      "why": "Proof-of-concept market contract posted on the artist's site on 24 July 2014, a year before Ethereum's mainnet; a template for registering and selling works, with no record of a group acting under it.",
+      "link": "https://mlo.art/research/history-of-crypto-art/",
+      "found_via": "rhea-myers",
+      "status": "off_topic"
+    },
+    {
+      "name": "Simon de la Rouviere / Untitled Frontier, Logged Universe (2021–2023)",
+      "why": "added as simon-de-la-rouviere--logged-universe",
+      "link": "https://www.untitledfrontier.studio/the-logged-universe",
+      "found_via": "simon-de-la-rouviere",
+      "status": "covered"
+    },
+    {
+      "name": "Hundreds (attributed to Simon de la Rouviere in the brief)",
+      "why": "No work called Hundreds appears in the artist's own list of works (blog.simondlr.com/art) or among Untitled Frontier's projects; the attribution looks like an error.",
+      "link": "https://blog.simondlr.com/art",
+      "found_via": "simon-de-la-rouviere",
+      "status": "off_topic"
+    },
+    {
+      "name": "Sarah Friend, Perverse Affordances / Terraforming",
+      "why": "Perverse Affordances (2018) is a GAN trained on social-media screenshots, and Terraforming (Nagel Draxler Crypto Kiosk, 2022) is a solo show of sculptures about network infrastructure; neither has a rule for a group. Her participatory Protective Rituals for Posthumans (2016) was added as sarah-friend--protective-rituals.",
+      "link": "https://isthisa.com",
+      "found_via": "sarah-friend",
+      "status": "off_topic"
+    },
+    {
+      "name": "Gordon Berger",
+      "why": "Checked all series on his site: Circularity's burns and re-mints run automatically, Unveiling Emotions collects individual viewer responses to one painting; no rule shapes what holders or a group do.",
+      "link": "https://www.gordonberger.com/",
+      "found_via": "seed",
+      "status": "off_topic"
+    },
+    {
+      "name": "Matthew Plummer-Fernandez, Echo Alarm (2019)",
+      "why": "AR app and stickers that reveal photographed Extinction Rebellion and climate-strike placards; no source shows protesters using it, so their placards are material, not actions under the artist's rules.",
+      "link": "https://www.plummerfernandez.com/works/echo-alarm",
+      "found_via": "seed",
+      "status": "off_topic"
+    },
+    {
+      "name": "Matthew Plummer-Fernandez & Julien Deswaef, Shiv Integer (2016)",
+      "why": "The rules govern a bot that remixes random Copyleft Thingiverse files; uploaders are material and commenters an audience, not a group acting under rules.",
+      "link": "https://www.plummerfernandez.com/works/shiv-integer",
+      "found_via": "seed",
+      "status": "off_topic"
+    },
+    {
+      "name": "Joel Simon, LatentScape (2024)",
+      "why": "Site offers only 'explore and create images with friends'; no rules, write-up or documented collective activity, so it reads as a tool.",
+      "link": "https://latentscape.com",
+      "found_via": "joel-simon",
+      "status": "off_topic"
+    },
+    {
+      "name": "Joel Simon / StudioMorphogen, Puppets App (2024)",
+      "why": "A 'group sandbox' for cutting out, rigging and performing puppets alone or with others; a tool with no rules or documented collective work.",
+      "link": "https://www.joelsimon.net/puppets",
+      "found_via": "joel-simon",
+      "status": "off_topic"
+    },
+    {
+      "name": "Joel Simon, Brushbloom (2025)",
+      "why": "Painting tool where people breed and share brushes and post individual paintings to a gallery; no group rule shapes a shared result.",
+      "link": "https://www.brushbloom.art",
+      "found_via": "joel-simon",
+      "status": "off_topic"
+    },
+    {
+      "name": "Jessy Kate Schingler & Primavera De Filippi, 'extitutional' theory",
+      "why": "Sociological framework (P. De Filippi & M. Santolini, 'Extitutional theory', ephemera 23(2), 2023; primer by Schingler & De Filippi, Berkman Klein Center, 2021) on institutions versus relationships; it does not address art, protocols or blockchains.",
+      "link": "https://ephemerajournal.org/contribution/extitutional-theory-modelling-structured-social-dynamics-beyond-institutions-0",
+      "found_via": "primavera-de-filippi",
+      "status": "off_topic"
+    },
+    {
+      "name": "Goodbye Monkey, How to Navigate the Singularity (2026)",
+      "why": "Narrative film around S.A.N made over two years by a team of three (trailer uploaded August 2026); no audience or token rule shapes it. S.A.N itself is covered by goodbye-monkey--san.",
+      "link": "https://www.youtube.com/watch?v=6CdE-V8bxas",
+      "found_via": "goodbye-monkey",
+      "status": "off_topic"
+    },
+    {
+      "name": "Symbients: 共生的な未来に向けて (Tokyo, 4–14 Dec 2025)",
+      "why": "A programme of talks, seminars and demos (symbient.life/tokyo, December 2025), not a work or a display of works; the symbients it discussed are already gathered in the symbient-life collection.",
+      "link": "https://symbient.life/tokyo",
+      "found_via": "seed",
+      "status": "off_topic"
+    },
+    {
+      "name": "Sarah Friend, Remembering Network (2019)",
+      "why": "Peer-to-peer 'seed vault' memorial to threatened species on IPFS, described as open to contributions (shown at IPFS Camp and Radical Networks, 2019); check how contributors add to it before adding.",
+      "link": "https://isthisa.com/rememberingnetwork",
+      "found_via": "sarah-friend",
+      "status": "open"
+    },
+    {
+      "name": "Sarah Friend, Portal Constellation: Reviving the Webring (2020)",
+      "why": "Functional webring made in an Arebyte On Screen residency and installed on other artists' sites; check whether members' linking is framed as the work.",
+      "link": "https://isthisa.com/webring",
+      "found_via": "sarah-friend",
+      "status": "open"
+    },
+    {
+      "name": "Snark.art, other artist projects (2018–)",
+      "why": "The studio lists about a dozen further blockchain projects on snark.art after 89 Seconds Atomized; check which give owners a shared rule.",
+      "link": "https://snark.art",
+      "found_via": "snark-art",
+      "status": "open"
+    },
+    {
+      "name": "Coin Artist, The Dark Wallet Puzzle (2014)",
+      "why": "Her first crypto-puzzle, a set of 12 puzzles for the Bitcoin community whose complexity was meant to make people work together (Bitcoin Magazine, July 2014); find primary documentation and images before adding.",
+      "link": "https://bitcoinmagazine.com/culture/coin-artists-latest-dark-wallet-puzzle-32-page-solution",
+      "found_via": "coin-artist",
+      "status": "open"
+    }
+  ]
+}

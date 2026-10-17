@@ -1,0 +1,1191 @@
+{
+  "batch": "pass3-leads-social",
+  "creators": [
+    {
+      "id": "kenneth-o-stanley",
+      "name": "Kenneth O. Stanley",
+      "kind": "person",
+      "role": "AI researcher",
+      "based": "US",
+      "bio": "American computer scientist, formerly a professor at the University of Central Florida, known for the NEAT neuroevolution algorithm, compositional pattern-producing networks (CPPNs) and novelty search. He co-wrote Why Greatness Cannot Be Planned (2015) with Joel Lehman.",
+      "why": "Picbreeder turned open-ended search into a public protocol: strangers keep evolving each other's images, so the best results come from branches nobody planned.",
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Kenneth_Stanley"
+      },
+      "role_zh": "人工智能研究者",
+      "bio_zh": "美国计算机科学家，曾任中佛罗里达大学教授，以 NEAT 神经进化算法、组合模式生成网络（CPPN）和新颖性搜索闻名。他与 Joel Lehman 合著《Why Greatness Cannot Be Planned》（2015）。",
+      "why_zh": "Picbreeder 把开放式搜索变成一种公共协议：陌生人接着演化彼此的图像，最好的结果来自没人计划过的分支。",
+      "based_zh": "美国",
+      "connected_to": [],
+      "discovered_via": "holly-herndon"
+    },
+    {
+      "id": "ulises-carrion",
+      "name": "Ulises Carrión",
+      "kind": "person",
+      "role": "Artist, writer and bookseller",
+      "based": "Amsterdam, NL",
+      "bio": "Mexican artist and writer (1941–1989) who settled in Amsterdam, ran the artists' bookshop and gallery Other Books and So, and defined the artist's book in his manifesto The New Art of Making Books (1975).",
+      "why": "He wrote the rules of a private postal service for artists, the Erratic Art Mail International System, and ran it as its Postmaster.",
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Ulises_Carri%C3%B3n"
+      },
+      "role_zh": "艺术家、作家、书店经营者",
+      "bio_zh": "墨西哥艺术家、作家（1941–1989），定居阿姆斯特丹，经营艺术家书店兼画廊 Other Books and So，并以宣言《The New Art of Making Books》（1975）界定了“艺术家书”。",
+      "why_zh": "他为艺术家写下一套私人邮政服务的规则——Erratic Art Mail International System，并亲任其“邮政局长”。",
+      "based_zh": "阿姆斯特丹，荷兰",
+      "connected_to": [
+        "ray-johnson"
+      ],
+      "discovered_via": "ray-johnson"
+    },
+    {
+      "id": "image-bank",
+      "name": "Image Bank",
+      "kind": "collective",
+      "role": "Artists' mail-art project and network",
+      "based": "Vancouver, CA",
+      "bio": "Project started in 1970 by Michael Morris, Vincent Trasov and Gary Lee-Nova, artists around the Vancouver artist-run centre Intermedia. It ran until 1978; its papers form the Morris/Trasov Archive at the Morris and Helen Belkin Art Gallery.",
+      "why": "Its published request lists turned the postal network into a public exchange: anyone could ask for images and anyone could answer.",
+      "links": {
+        "site": "https://belkin.ubc.ca/?p=9480"
+      },
+      "role_zh": "艺术家邮件艺术项目与网络",
+      "bio_zh": "由 Michael Morris、Vincent Trasov 与 Gary Lee-Nova 于 1970 年发起的项目，三人都与温哥华艺术家自营中心 Intermedia 有关。项目持续到 1978 年，其档案构成贝尔金美术馆（Morris and Helen Belkin Art Gallery）的 Morris/Trasov 档案。",
+      "why_zh": "它公开发布的“图像请求清单”把邮政网络变成公共交换：任何人都可以索要图像，任何人都可以回应。",
+      "based_zh": "温哥华，加拿大",
+      "connected_to": [
+        "ray-johnson",
+        "robert-filliou"
+      ],
+      "discovered_via": "robert-filliou"
+    },
+    {
+      "id": "carey-young",
+      "name": "Carey Young",
+      "kind": "person",
+      "role": "Artist",
+      "based": "London, UK",
+      "bio": "Artist born in Lusaka, Zambia, in 1970, with US and UK citizenship, who uses legal language, contracts and disclaimers as her material.",
+      "why": "Her wall texts work as contracts that visitors accept simply by where they stand in the gallery.",
+      "links": {
+        "site": "https://www.careyyoung.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Carey_Young"
+      },
+      "role_zh": "艺术家",
+      "bio_zh": "艺术家，1970 年生于赞比亚卢萨卡，拥有美国与英国双重国籍，以法律语言、合同和免责声明为创作材料。",
+      "why_zh": "她的墙面文字就是合同，观众只要站到某个位置，就等于接受了条款。",
+      "based_zh": "伦敦，英国",
+      "connected_to": [],
+      "discovered_via": "seth-siegelaub"
+    },
+    {
+      "id": "bill-wasik",
+      "name": "Bill Wasik",
+      "kind": "person",
+      "role": "Journalist and editor",
+      "based": "New York, US",
+      "bio": "American journalist who was a senior editor at Harper's Magazine when he started the MOB Project in 2003, and later worked at Wired and The New York Times Magazine. He revealed his authorship of the flash mob in Harper's in 2006.",
+      "why": "His forwarded email instructions created the flash mob, a crowd form that anyone could copy.",
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Bill_Wasik"
+      },
+      "role_zh": "记者、编辑",
+      "bio_zh": "美国记者，2003 年发起 MOB Project 时任《哈泼斯》杂志资深编辑，后来供职于《连线》和《纽约时报杂志》。2006 年他在《哈泼斯》上公开自己是快闪族的发起人。",
+      "why_zh": "他那封被不断转发的指令邮件催生了“快闪族”，一种任何人都能照搬的群体形式。",
+      "based_zh": "纽约，美国",
+      "connected_to": [
+        "improv-everywhere"
+      ],
+      "discovered_via": "improv-everywhere"
+    },
+    {
+      "id": "stephen-willats",
+      "name": "Stephen Willats",
+      "kind": "person",
+      "role": "Artist",
+      "based": "London, UK",
+      "bio": "British artist born in London in 1943 who since the early 1960s has drawn on cybernetics, sociology and systems analysis to make projects with residents of estates and suburbs; in 1972–73 he ran the Centre for Behavioural Art at Gallery House, London.",
+      "why": "He designs manuals, questionnaires and public boards through which residents describe and remodel their own surroundings, so the work is what they say and decide.",
+      "links": {
+        "site": "https://stephenwillats.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Stephen_Willats"
+      },
+      "role_zh": "艺术家",
+      "bio_zh": "英国艺术家，1943 年生于伦敦，自 1960 年代初起借用控制论、社会学和系统分析，与住宅区和郊区居民合作完成项目；1972–73 年间他在伦敦 Gallery House 主持“行为艺术中心”（Centre for Behavioural Art）。",
+      "why_zh": "他设计手册、问卷和公共展板，让居民描述并重新构想自己的生活环境，作品就是居民说出和决定的内容。",
+      "based_zh": "伦敦，英国",
+      "connected_to": [],
+      "discovered_via": "hans-haacke"
+    }
+  ],
+  "works": [
+    {
+      "id": "kenneth-o-stanley--picbreeder",
+      "creator_ids": [
+        "kenneth-o-stanley"
+      ],
+      "title": "Picbreeder",
+      "year": 2007,
+      "field": "network",
+      "sub": "collective-games",
+      "mechanisms": [
+        "co-authorship",
+        "participation",
+        "chance"
+      ],
+      "substrate": "network",
+      "kind": "platform",
+      "description": "A website from Kenneth Stanley's lab at the University of Central Florida where visitors evolve abstract images by choosing the variations they like; any published image can be picked up by someone else and evolved further.",
+      "description_zh": "出自中佛罗里达大学 Kenneth Stanley 实验室的网站：访客通过挑选自己喜欢的变体来演化抽象图像；任何发布出来的图像都可以被别人接手，继续演化下去。",
+      "idea_en": "Search together without a goal: every finished image is a starting point for a stranger.",
+      "idea_zh": "没有目标地一起搜索：每张完成的图像都是陌生人的起点。",
+      "protocol": "Each image is drawn by a small evolving network (a CPPN grown with the NEAT algorithm). A user picks the variations they prefer and the system breeds the next generation from them; the user may publish any result, and every published image can be branched by any other user, while the site keeps the full lineage.",
+      "protocol_zh": "每张图像由一个不断演化的小网络（用 NEAT 算法生长的 CPPN）生成。用户从变体中挑出喜欢的，系统据此繁殖下一代；用户可以发布任何结果，任何已发布的图像都可以被其他用户分支继续演化，网站保留完整的谱系。",
+      "collective": "Users continued each other's images over long chains of branches; the 2011 Evolutionary Computation paper reports that branching from others' images, together with ever more complex networks, let evolved images proliferate in a way single-user systems did not. Stanley's story of a car that emerged from branching an alien-face image became the founding example of his argument against fixed objectives. Shown in Strange Rules at Palazzo Diedo, Venice, in 2026.",
+      "collective_zh": "用户沿着长长的分支链接力演化彼此的图像；2011 年发表于《Evolutionary Computation》的论文指出，正是“从别人的图像分支”加上不断变复杂的网络，让演化出的图像大量涌现，这是单人系统做不到的。Stanley 讲述的“从外星人脸分支出一辆汽车”的故事，成了他反对固定目标这一论点的起点。2026 年在威尼斯 Palazzo Diedo 的 Strange Rules 展中展出。",
+      "keywords": [
+        "CPPN",
+        "NEAT",
+        "interactive evolution",
+        "branching",
+        "University of Central Florida",
+        "Jimmy Secretan",
+        "Strange Rules"
+      ],
+      "images": [
+        "https://images-eflux.b-cdn.net/assets/18cafd20-b370-4de1-ab8f-6b8bc30f1330.jpg"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1162/EVCO_a_00030",
+        "doi": "10.1162/EVCO_a_00030",
+        "venue": "Evolutionary Computation, 2011",
+        "title": "Picbreeder: A Case Study in Collaborative Evolutionary Exploration of Design Space"
+      },
+      "source_url": "https://doi.org/10.1145/1357054.1357328",
+      "collections": [
+        "strange-rules"
+      ]
+    },
+    {
+      "id": "ulises-carrion--eamis",
+      "creator_ids": [
+        "ulises-carrion"
+      ],
+      "title": "Erratic Art Mail International System (E.A.M.I.S.)",
+      "year": 1977,
+      "field": "social",
+      "sub": "correspondence",
+      "mechanisms": [
+        "circulation",
+        "constraint",
+        "instruction"
+      ],
+      "substrate": "post",
+      "kind": "platform",
+      "description": "A postal service run from Amsterdam by Ulises Carrión as 'an alternative to the official Post Offices': artists could send mail art of any kind through it, on condition that it never passed through the state post.",
+      "description_zh": "Ulises Carrión 在阿姆斯特丹经营的一项邮政服务，自称“官方邮局之外的另一种选择”：艺术家可以通过它寄送任何形式的邮件艺术，条件是全程不经过国家邮政。",
+      "idea_en": "Write your own post office: eight rules make a parallel network for artists.",
+      "idea_zh": "自己写一个邮局：八条规则搭起一张艺术家的平行网络。",
+      "protocol": "Eight printed rules: E.A.M.I.S. carries messages in any format and medium; a piece must reach its office by any way other than the official post, delivered by the author or anyone else; the service is free, but each piece needs a duplicate, kept in its archive after delivery; it guarantees delivery by non-official means and returns pieces undelivered after three years; undelivered pieces can be seen by any visitor; any size, origin or destination is accepted; every piece carries E.A.M.I.S. stamps and seals; and using it 'strengthens the international artists community'.",
+      "protocol_zh": "印刷的八条规则：E.A.M.I.S. 承运任何格式、任何媒介的信息；邮件必须经由官方邮局以外的任何途径送到其办公室，可由作者本人或任何人递送；服务免费，但每件邮件须附一份副本，投递后副本存入档案；它保证以非官方方式投递，三年未能送达的邮件退回作者；未投递的邮件对任何访客开放查看；不论尺寸、来源地和目的地一律接收；每件邮件都盖上 E.A.M.I.S. 自己的邮票和印章；使用它就是“壮大国际艺术家社群”。",
+      "collective": "With Carrión as Postmaster, the system relayed dozens of mail artworks over the following years, some from artists living under political repression in Latin America, at the time when the Uruguayan artists Clemente Padín and Jorge Caraballo were imprisoned (from 1977) and the mail-art network campaigned for their release. Carrión presented E.A.M.I.S. at the I.AM meeting in Warsaw in 1978 with his essay 'Mail Art and the Big Monster'.",
+      "collective_zh": "在 Carrión 担任“邮政局长”的那几年里，这套系统转递了数十件邮件艺术作品，其中一些来自生活在拉美政治压迫下的艺术家；当时乌拉圭艺术家 Clemente Padín 与 Jorge Caraballo 自 1977 年起身陷囹圄，邮件艺术网络正为营救他们而奔走。1978 年，Carrión 在华沙的 I.AM 会议上介绍了 E.A.M.I.S.，并发表文章《Mail Art and the Big Monster》。",
+      "keywords": [
+        "mail art",
+        "Other Books and So",
+        "Amsterdam",
+        "Postmaster",
+        "stamps",
+        "Clemente Padín"
+      ],
+      "images": [
+        "https://dpul.princeton.edu/uploads/spotlight/attachment/file/3408/99120509383506421_eamis.jpg",
+        "https://dpul.princeton.edu/uploads/spotlight/attachment/file/3980/99120509383506421_eamis_2.jpg"
+      ],
+      "source_url": "https://dpul.princeton.edu/ulises_carrion/feature/postal-art-as-bureaucracy"
+    },
+    {
+      "id": "image-bank--image-request-lists",
+      "creator_ids": [
+        "image-bank"
+      ],
+      "title": "Image Request Lists and International Image Exchange Directory",
+      "year": 1970,
+      "field": "social",
+      "sub": "correspondence",
+      "mechanisms": [
+        "circulation",
+        "exchange",
+        "co-authorship"
+      ],
+      "substrate": "post",
+      "kind": "platform",
+      "description": "Image Bank published lists of what artists wanted to receive, each with a name or pseudonym and an address, so that strangers across the mail-art network could post each other the pictures they asked for.",
+      "description_zh": "Image Bank 把艺术家们“想收到什么”编成清单发布出来，每条附姓名或化名和地址，让邮件艺术网络里素不相识的人按请求互相寄送图像。",
+      "idea_en": "Publish your wants, not your works: a directory of requests makes strangers into suppliers.",
+      "idea_zh": "发布需求而不是作品：一份请求名录让陌生人变成供货人。",
+      "protocol": "A participant sends Image Bank a name or pseudonym, a mailing address and a request for images. Image Bank publishes the requests, first in monthly mailings, then in the International Image Exchange Directory (1972) and as Image Request Lists in General Idea's FILE Megazine (1974); anyone who reads a request may answer it by post.",
+      "protocol_zh": "参与者把姓名或化名、通信地址和想要的图像寄给 Image Bank。Image Bank 公布这些请求，先在每月的邮寄通讯中，后来在《International Image Exchange Directory》（1972）以及 General Idea 的《FILE Megazine》上的“图像请求清单”（1974）中刊登；任何读到请求的人都可以邮寄回应。",
+      "collective": "Networkers used the lists to build image archives for their own collages: Eric Metcalfe and Kate Craig's Leopard Realty collected leopard spots, Anna Banana asked for bananas and speech bubbles, Eleanor Antin wanted ideas for recycling her 100 boots. Image Bank also ran open calls in 1972, Piss Pics (after Duchamp) and 1984. The project ended in 1978; in 2021 the Belkin Art Gallery reopened an Image Request List.",
+      "collective_zh": "网络中的人借这些清单为自己的拼贴积累图像档案：Eric Metcalfe 与 Kate Craig 的 Leopard Realty 收集豹纹，Anna Banana 征集香蕉和对话气泡，Eleanor Antin 征求回收她那“100 双靴子”的点子。Image Bank 在 1972 年还发起过两次公开征集：向杜尚致敬的“Piss Pics”和“1984”。项目于 1978 年结束；2021 年贝尔金美术馆重新开放了一份图像请求清单。",
+      "keywords": [
+        "mail art",
+        "FILE Megazine",
+        "General Idea",
+        "Michael Morris",
+        "Vincent Trasov",
+        "Intermedia",
+        "Belkin Art Gallery"
+      ],
+      "images": [
+        "https://belkin.ubc.ca/wp-content/uploads/2021/05/Crop-of-MT034.01.07-45-for-Image-Request-copy-scaled-1800x0-c-default.jpg"
+      ],
+      "source_url": "https://belkin.ubc.ca/?p=9480"
+    },
+    {
+      "id": "superflex--free-shop",
+      "creator_ids": [
+        "superflex"
+      ],
+      "title": "Free Shop",
+      "year": 2003,
+      "field": "social",
+      "sub": "economies",
+      "mechanisms": [
+        "exchange",
+        "currency",
+        "constraint"
+      ],
+      "substrate": "body",
+      "kind": "artwork",
+      "description": "In shops in Tokyo, including a FamilyMart convenience store and the restaurant Mameda, Superflex had every purchase rung up at zero for an undisclosed period, as part of the exhibition Happiness at the Mori Art Museum.",
+      "description_zh": "在东京的几家店铺里，包括一家全家便利店和餐馆 Mameda，Superflex 让所有商品在一段不公开的时间内结账金额为零，这是森美术馆展览“Happiness”的一部分。",
+      "idea_en": "Switch off the price without telling anyone, and watch how people act when the market quietly stops.",
+      "idea_zh": "悄悄关掉价格，不告诉任何人，看看市场无声停摆时人们怎么做。",
+      "protocol": "Participating shops agree that, for a period that is not announced, the monetary value of their goods and services is void: customers shop as usual and the total at the till is zero. No sign or explanation is given; owners and cashiers keep working as normal.",
+      "protocol_zh": "参与的店铺同意在一段不公布的时间内取消商品和服务的价格：顾客照常购物，收银台的总额为零。店里不贴告示也不作解释，店主和收银员照常工作。",
+      "collective": "Customers filled their bags without being told why; some were suspicious and others pleased. Superflex present the free shopping both as a gift and as a glimpse of financial collapse that shoppers meet calmly, expecting business as usual the next day.",
+      "collective_zh": "顾客在不知原因的情况下装满了购物袋；有人起疑，有人欣喜。Superflex 把这次免费购物既看作一份礼物，也看作一次金融崩溃的预演：购物者平静以对，以为第二天一切照旧。",
+      "keywords": [
+        "Mori Art Museum",
+        "Happiness",
+        "Tokyo",
+        "FamilyMart",
+        "zero price",
+        "gift"
+      ],
+      "images": [
+        "https://superflex.net/superfleximages/2480w_Happiness_07_1619616180.jpg",
+        "https://superflex.net/superfleximages/2480w_Happiness_19_1619616313.jpg",
+        "https://superflex.net/superfleximages/2480w_Happiness_13_1619616222.jpg"
+      ],
+      "source_url": "https://superflex.net/works/free_shop"
+    },
+    {
+      "id": "superflex--2000-watt-society-contract",
+      "creator_ids": [
+        "superflex"
+      ],
+      "title": "2000 Watt Society Contract",
+      "year": 2010,
+      "field": "social",
+      "sub": "economies",
+      "mechanisms": [
+        "contract",
+        "constraint",
+        "participation"
+      ],
+      "substrate": "body",
+      "kind": "artwork",
+      "description": "A contract written across the façade of a cooperative housing block on Badenerstrasse in Zurich: the residents commit to keeping their energy use at or below 2,000 watts per person, and if they fail, 'the rest of the world' may claim compensation.",
+      "description_zh": "写在苏黎世 Badenerstrasse 一栋合作社住宅外立面上的一份合同：住户承诺把人均能耗控制在 2000 瓦以内，若违约，“世界其他所有人”有权索赔。",
+      "idea_en": "Turn a city's climate target into a binding contract between one building and everyone else.",
+      "idea_zh": "把城市的气候目标变成一栋楼与所有人之间的有约束力的合同。",
+      "protocol": "The parties are 'the residents of this building' and 'the rest of the world'. The residents undertake to reduce their total, continuous energy consumption to at most 2,000 watts per person; in case of breach, the rest of the world is entitled to social compensation or damages. Jurisdiction is Zurich and Swiss law applies; the contract is dated 1 May 2010.",
+      "protocol_zh": "合同双方是“本楼的住户”和“世界其他所有人”。住户承诺把各自全部的持续能耗降到人均不超过 2000 瓦；如违约，世界其他所有人有权要求社会补偿或损害赔偿。管辖地为苏黎世，适用瑞士法律；合同落款日期为 2010 年 5 月 1 日。",
+      "collective": "Moving into the building makes each resident a party to the contract, and every passer-by is named as the other party. The city of Zurich describes the residents as having committed to the 2,000-watt limit and later called the project visionary in light of its own climate strategy. Commissioned by the housing cooperative Baugenossenschaft Zurlinden.",
+      "collective_zh": "搬进这栋楼，每位住户就成了合同一方，而每个路人都被写成另一方。苏黎世市政府称住户们承诺遵守 2000 瓦上限，后来又从本市气候战略的角度称这一项目颇具远见。委托方是住房合作社 Baugenossenschaft Zurlinden。",
+      "keywords": [
+        "2000-watt society",
+        "Zurich",
+        "housing cooperative",
+        "energy",
+        "Baugenossenschaft Zurlinden",
+        "contract"
+      ],
+      "images": [
+        "https://superflex.net/pressimages/th_superflex_2000watt_contract_close_large_editjf.jpg.jpg",
+        "https://superflex.net/pressimages/th__mg_0958.jpg.jpg"
+      ],
+      "source_url": "https://superflex.net/press/label/2000_watt_society_contract"
+    },
+    {
+      "id": "carey-young--declared-void",
+      "creator_ids": [
+        "carey-young"
+      ],
+      "title": "Declared Void",
+      "year": 2005,
+      "field": "social",
+      "sub": "economies",
+      "also": [
+        "score"
+      ],
+      "mechanisms": [
+        "contract",
+        "participation",
+        "constraint"
+      ],
+      "substrate": "text",
+      "kind": "artwork",
+      "description": "A black line drawn on the floor and walls marks out a corner of the gallery; a wall text states that anyone who enters the zone agrees that the US Constitution will not apply to them while they remain inside.",
+      "description_zh": "地面和墙上的一道黑线在展厅一角圈出一块区域；墙上的文字写明，任何进入该区域的人都同意：只要待在里面，美国宪法就不适用于自己。",
+      "idea_en": "Consent by footstep: crossing a line on the floor signs you into a legal void.",
+      "idea_zh": "用脚步签字：跨过地上的线，就把自己签进了法律真空。",
+      "protocol": "The wall reads: 'By entering the zone created by this drawing, and for the period you remain there, you declare and agree that the US Constitution will not apply to you.' Stepping over the line is the act of agreement and stepping out ends it. In Declared Void II (2013) the same zone declares everyone inside a citizen of the United States.",
+      "protocol_zh": "墙上写着：“进入此图所划定的区域，并在你停留其中期间，你声明并同意美国宪法不适用于你。”跨过这条线就是表示同意，走出来即告终止。在《Declared Void II》（2013）中，同样的区域则宣布里面的每个人都是美国公民。",
+      "collective": "Each visitor has to decide whether to step in, so the work is the running sum of small acts of consent to a legal fiction. It has been shown at venues including Midway Contemporary Art, Minneapolis, and, as Declared Void II, at the Migros Museum für Gegenwartskunst, Zurich.",
+      "collective_zh": "每位观众都得决定要不要走进去，作品就是这些对一个法律虚构的微小“同意”的累积。它曾在明尼阿波利斯的 Midway Contemporary Art 等处展出，《Declared Void II》则在苏黎世 Migros 当代艺术博物馆展出。",
+      "keywords": [
+        "contract",
+        "US Constitution",
+        "jurisdiction",
+        "consent",
+        "wall text",
+        "Declared Void II"
+      ],
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/54be63fbe4b013117e15f3ba/1486734813115-AZVBUQH52TLKL9UJTQH0/image-asset.jpeg?format=1500w",
+        "https://images.squarespace-cdn.com/content/v1/54be63fbe4b013117e15f3ba/1600904217422-1MU7TOAW6QXYUB8QTQYK/Declared+Void+II_adj2.jpg?format=1500w"
+      ],
+      "source_url": "https://www.careyyoung.com/declared-void"
+    },
+    {
+      "id": "bill-wasik--mob-project",
+      "creator_ids": [
+        "bill-wasik"
+      ],
+      "title": "The MOB Project",
+      "year": 2003,
+      "field": "network",
+      "sub": "crowdsourced",
+      "also": [
+        "social"
+      ],
+      "mechanisms": [
+        "instruction",
+        "participation",
+        "circulation"
+      ],
+      "substrate": "network",
+      "kind": "series",
+      "description": "From May 2003 Bill Wasik emailed anonymous instructions that gathered strangers at a set time and place in Manhattan to perform a short, pointless act and then disperse; the form spread worldwide as the flash mob.",
+      "description_zh": "自 2003 年 5 月起，Bill Wasik 匿名群发指令邮件，把陌生人召集到曼哈顿指定的时间和地点，做一件短暂而无意义的事，然后散去；这种形式以“快闪族”之名传遍世界。",
+      "idea_en": "A crowd made of nothing but an email and a deadline: the scene itself is the artwork.",
+      "idea_zh": "只用一封邮件和一个时间点造出一群人：聚集这件事本身就是作品。",
+      "protocol": "An anonymous email invites people to join 'MOB' and to forward the message. Participants synchronise their watches, approach from directions set by birth month, receive the final site on slips of paper in nearby bars minutes before, perform the scripted act for a few fixed minutes and leave; 'NO ONE SHOULD REMAIN AT THE SITE AFTER 7:33.'",
+      "protocol_zh": "一封匿名邮件邀请人们加入“MOB”，并请他们转发。参与者对准手表，按出生月份从不同方向接近，开始前几分钟在附近酒吧拿到写有最终地点的纸条，在规定的几分钟里完成脚本动作后离开；“7:33 之后任何人都不得留在现场。”",
+      "collective": "MOB #1 on 3 June 2003 was blocked by police who had been tipped off. At MOB #2 on 17 June about two hundred people, by Wasik's count, gathered around a rug in Macy's asking for a 'love rug'; at MOB #3 the crowd lined the mezzanine of the Grand Hyatt and applauded itself for fifteen seconds. Groups in other cities soon ran their own mobs; Wasik revealed his authorship in Harper's in 2006.",
+      "collective_zh": "2003 年 6 月 3 日的 MOB #1 因警方事先得到消息而被拦下。6 月 17 日的 MOB #2，据 Wasik 估算约两百人围住梅西百货的一块地毯，说要买一块“爱之毯”；MOB #3 的人群站满君悦酒店的夹层回廊，为自己鼓掌十五秒。其他城市很快有人自发组织；2006 年 Wasik 在《哈泼斯》上公开了自己的身份。",
+      "keywords": [
+        "flash mob",
+        "email",
+        "Harper's Magazine",
+        "Macy's",
+        "Grand Hyatt",
+        "New York",
+        "2003"
+      ],
+      "images": [
+        "https://wp.harpers.org/wp-content/uploads/illus/Wasik_Crowd.jpg",
+        "https://wp.harpers.org/wp-content/uploads/illus/Wasik_02_500.jpg"
+      ],
+      "paper": {
+        "url": "https://harpers.org/archive/2006/03/my-crowd/",
+        "venue": "Harper's Magazine, March 2006",
+        "title": "My Crowd, or, Phase 5: A report from the inventor of the flash mob"
+      },
+      "source_url": "https://harpers.org/archive/2006/03/my-crowd/"
+    },
+    {
+      "id": "suzanne-lacy--whisper-the-waves-the-wind",
+      "creator_ids": [
+        "suzanne-lacy"
+      ],
+      "title": "Whisper, the Waves, the Wind",
+      "year": 1984,
+      "field": "social",
+      "sub": "performance",
+      "mechanisms": [
+        "participation",
+        "instruction"
+      ],
+      "substrate": "body",
+      "kind": "artwork",
+      "description": "A performance on a beach in La Jolla, California, made with Sharon Allen, in which 154 women over 65, dressed in white, sat at white tables talking about their lives while an audience of 1,000 listened from the cliffs.",
+      "description_zh": "与 Sharon Allen 合作、在加州拉霍亚海滩上演的表演：154 位 65 岁以上、身着白衣的女性坐在白色桌旁谈论自己的人生，1000 名观众在崖顶倾听。",
+      "idea_en": "Stage a conversation, not a script: older women's talk becomes a public tableau.",
+      "idea_zh": "排演的是一场对话而不是台词：老年女性的交谈成为公共的活人画。",
+      "protocol": "After months of policy and media work with older women in Southern California, the women process down steep stairs to two adjoining beaches, sit at white-clothed tables and talk unscripted about their lives, relationships, hopes and fears. The audience first watches from the cliffs, hearing a sound score by Susan Stone that replays the conversations, then is invited down onto the beach to listen up close.",
+      "protocol_zh": "在与南加州老年女性进行了数月的政策和媒体行动之后，她们沿陡峭的台阶列队走下两片相连的海滩，坐在铺着白桌布的桌旁，无脚本地谈论自己的生活、关系、希望与恐惧。观众先在崖顶观看，耳边是 Susan Stone 制作的声音作品，重放着桌边的对话；随后观众被邀请走下海滩近距离倾听。",
+      "collective": "154 women took part before an audience of 1,000, in a performance co-sponsored by the La Jolla Museum and the University of California, San Diego. It was the first time Lacy used this tableau of conversations, the form she later scaled up in The Crystal Quilt (1987).",
+      "collective_zh": "154 位女性在 1000 名观众面前参与演出，由拉霍亚博物馆和加州大学圣迭戈分校联合支持。这是 Lacy 第一次使用这种“对话活人画”的形式，后来她在《The Crystal Quilt》（1987）中把它放大。",
+      "keywords": [
+        "La Jolla",
+        "older women",
+        "tableau vivant",
+        "Sharon Allen",
+        "Susan Stone",
+        "conversation"
+      ],
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/52aa861ce4b04dd8c25987fb/1392008467457-7LTTU9YU1AT7IVEVDELM/WWW5+72dpi.jpg",
+        "https://images.squarespace-cdn.com/content/v1/52aa861ce4b04dd8c25987fb/1392008406940-BCF200QZX4JSA7BKEQRE/WWW4+72dpi.jpg"
+      ],
+      "source_url": "https://www.suzannelacy.com/whisper-the-waves-the-wind/"
+    },
+    {
+      "id": "suzanne-lacy--international-dinner-party",
+      "creator_ids": [
+        "suzanne-lacy"
+      ],
+      "title": "International Dinner Party",
+      "year": 1979,
+      "field": "social",
+      "sub": "correspondence",
+      "mechanisms": [
+        "participation",
+        "circulation",
+        "instruction"
+      ],
+      "substrate": "post",
+      "kind": "artwork",
+      "description": "A worldwide dinner happening by Suzanne Lacy and Linda Pruess: on one day women's groups around the world held dinners honouring women of their own regions and sent telegrams to the San Francisco Museum of Modern Art, where Judy Chicago's The Dinner Party was opening.",
+      "description_zh": "Suzanne Lacy 与 Linda Pruess 发起的一场全球晚宴偶发：同一天里，世界各地的女性团体各自举办晚宴，致敬本地区的杰出女性，并向旧金山现代艺术博物馆发去电报，当时 Judy Chicago 的《晚宴》正在那里开幕。",
+      "idea_en": "One rule, many tables: a simultaneous dinner turns a scattered movement into a visible map.",
+      "idea_zh": "一条规则，许多张餐桌：同步举行的晚宴让分散的运动变成一张看得见的地图。",
+      "protocol": "Groups anywhere are invited to host a dinner on the same date honouring accomplished women of their region and to report it by telegram to the museum. Lacy marks each dinner with a red inverted triangle on a twenty-foot black-and-white world map and shows the telegrams beside it.",
+      "protocol_zh": "邀请世界任何地方的团体在同一天举办晚宴，致敬本地区有成就的女性，并用电报向博物馆报告。Lacy 在一幅二十英尺宽的黑白世界地图上用倒置的红色三角形标出每一场晚宴，并把电报陈列在旁边。",
+      "collective": "Because of time zones the work ran as a 24-hour performance. More than 200 groups sent telegrams and over 2,000 people took part, showing the reach of feminist organising before the internet.",
+      "collective_zh": "由于时差，作品成了一场持续 24 小时的表演。200 多个团体发来电报，2000 多人参与，展示了互联网出现之前女性主义组织网络的覆盖面。",
+      "keywords": [
+        "Judy Chicago",
+        "The Dinner Party",
+        "SFMOMA",
+        "telegram",
+        "Linda Pruess",
+        "feminist networks"
+      ],
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/52aa861ce4b04dd8c25987fb/1405038195389-AI3PG56X5593VVCDN03U/idp3+72dpi.jpg",
+        "https://images.squarespace-cdn.com/content/v1/52aa861ce4b04dd8c25987fb/1405038198658-2TBXWK65WUN0PYXH1ZPQ/idp4+72dpi.jpg"
+      ],
+      "source_url": "https://www.suzannelacy.com/international-dinner-party/"
+    },
+    {
+      "id": "suzanne-lacy--the-roof-is-on-fire",
+      "creator_ids": [
+        "suzanne-lacy"
+      ],
+      "title": "The Roof Is on Fire",
+      "year": 1994,
+      "field": "social",
+      "sub": "performance",
+      "mechanisms": [
+        "participation",
+        "instruction"
+      ],
+      "substrate": "body",
+      "kind": "artwork",
+      "description": "A performance in Oakland, California, made with Annice Jacoby and Chris Johnson, in which 220 public high-school students sat in 100 cars parked on a rooftop garage and talked, unscripted, about their lives while more than 1,000 residents listened in.",
+      "description_zh": "与 Annice Jacoby、Chris Johnson 合作，在加州奥克兰上演的表演：220 名公立高中学生坐在停车楼楼顶的 100 辆车里，无脚本地谈论自己的生活，1000 多位市民在一旁旁听。",
+      "idea_en": "Give teenagers the floor and make adults the audience: the parked car becomes a public room.",
+      "idea_zh": "把话语权交给青少年，让成年人当观众：停着的汽车变成一个个公共房间。",
+      "protocol": "Over two years Lacy and Chris Johnson worked weekly with teachers at Oakland Technical High School on a media-literacy curriculum about teen identity and politics, and forty students from several schools planned the event. On the night, students sit in cars on the roof and talk, unscripted and unedited, about family, sexuality, drugs, culture, education and the future, while residents listen in.",
+      "protocol_zh": "两年间，Lacy 与 Chris Johnson 每周和奥克兰技术高中的教师一起开发关于青少年身份与政治的媒介素养课程，来自多所学校的四十名学生参与策划。演出当晚，学生们坐在楼顶的汽车里，无脚本、不剪辑地谈论家庭、性、毒品、文化、教育和未来，市民们在一旁旁听。",
+      "collective": "220 students in 100 cars spoke to more than 1,000 Oakland residents; the Bay Area NBC affiliate aired the event as a one-hour documentary and CNN covered it. It was one of eight works in Lacy's Oakland Projects (1991–2001) with young people.",
+      "collective_zh": "220 名学生在 100 辆车里向 1000 多位奥克兰市民讲述；湾区 NBC 附属台把活动制成一小时纪录片播出，CNN 也作了报道。它是 Lacy 与年轻人合作的“奥克兰项目”（1991–2001）八件作品之一。",
+      "keywords": [
+        "Oakland Projects",
+        "youth",
+        "cars",
+        "rooftop",
+        "media literacy",
+        "Chris Johnson",
+        "Annice Jacoby"
+      ],
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/52aa861ce4b04dd8c25987fb/1391458867932-3Y9HZU57LWTZTRKET1O0/roof01.jpg",
+        "https://images.squarespace-cdn.com/content/v1/52aa861ce4b04dd8c25987fb/1391459033177-KOVSV3MY3JBUVKPJPDRE/roof09.jpg"
+      ],
+      "source_url": "https://www.suzannelacy.com/the-oakland-projects/"
+    },
+    {
+      "id": "suzanne-lacy--silver-action",
+      "creator_ids": [
+        "suzanne-lacy"
+      ],
+      "title": "Silver Action",
+      "year": 2013,
+      "field": "social",
+      "sub": "performance",
+      "mechanisms": [
+        "participation",
+        "instruction",
+        "circulation"
+      ],
+      "substrate": "body",
+      "kind": "artwork",
+      "description": "A five-hour performance in The Tanks at Tate Modern, London, in which 400 older women who had been part of British activist movements between 1960 and 1985 talked with each other about how their activism began.",
+      "description_zh": "在伦敦泰特现代美术馆“油罐”空间上演的五小时表演：400 位曾在 1960 至 1985 年间参与英国各类社会运动的年长女性，彼此讲述自己是如何走上行动之路的。",
+      "idea_en": "Make the archive speak in person: a hundred conversations at a time, broadcast as they happen.",
+      "idea_zh": "让档案亲口说话：一次一百场对话，边谈边播。",
+      "protocol": "After preparatory workshops, the performance runs in four acts, one each hour, each bringing a hundred women to small tables to talk with each other without a script. Their accounts of first activism are relayed live on wall projections and on social media under #silveraction, while the audience walks among the tables.",
+      "protocol_zh": "经过前期工作坊后，表演分四幕进行，每小时一幕，每幕有一百位女性坐在小桌旁彼此交谈，没有脚本。她们讲述的第一次行动经历同步投影在墙上，并以 #silveraction 标签在社交媒体上直播，观众在桌间穿行。",
+      "collective": "Women from the miners' strike, disability, ecology and feminist movements took part; 400 participants and an audience of about 1,000 filled the Tanks. Lacy described it as a rethinking of The Crystal Quilt (1987); it was produced for the BMW Tate Live series.",
+      "collective_zh": "参与者来自矿工罢工、残障权利、生态和女性主义等运动；400 位参与者与约 1000 名观众挤满了油罐空间。Lacy 称这是对《The Crystal Quilt》（1987）的重新思考；作品属于 BMW Tate Live 系列。",
+      "keywords": [
+        "Tate Modern",
+        "The Tanks",
+        "older women",
+        "activism",
+        "#silveraction",
+        "BMW Tate Live"
+      ],
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/52aa861ce4b04dd8c25987fb/1387663362816-JKNG7XGJB5M4PNZTR2B1/Silver+Action_Tate+Photography_12.small.jpg",
+        "https://images.squarespace-cdn.com/content/v1/52aa861ce4b04dd8c25987fb/1387663372530-HDDKYQUKZS72QUZ0FD76/Silver+Action_Tate+Photography_21.small.jpg"
+      ],
+      "source_url": "https://www.suzannelacy.com/silver-action/"
+    },
+    {
+      "id": "suzanne-lacy--between-the-door-and-the-street",
+      "creator_ids": [
+        "suzanne-lacy"
+      ],
+      "title": "Between the Door and the Street",
+      "year": 2013,
+      "field": "social",
+      "sub": "performance",
+      "mechanisms": [
+        "participation",
+        "instruction"
+      ],
+      "substrate": "body",
+      "kind": "artwork",
+      "description": "A performance on a Brooklyn street in October 2013 in which almost 400 women, and a few men, from activist organisations sat on 60 stoops holding unscripted conversations about gender, race, ethnicity and class while an estimated 2,500 people walked the closed street and listened.",
+      "description_zh": "2013 年 10 月在布鲁克林一条街上演的表演：来自各类行动组织的近 400 位女性（也有几位男性）坐在 60 处门前台阶上，无脚本地讨论性别、种族、族裔与阶级，约 2500 人在封闭的街道上走动倾听。",
+      "idea_en": "The stoop as a stage: a whole street of small conversations adds up to a public forum.",
+      "idea_zh": "门前台阶就是舞台：一整条街的小对话汇成一场公共论坛。",
+      "protocol": "After five months of conversations with activist women and an advisory board of twenty, each participating group sends in its own questions. On the day, groups sit on separate stoops wrapped in yellow scarves and talk without a script, choreographed only by their questions; a yellow line along the curbs ties the stoops together, and the public walks the length of the closed street to listen.",
+      "protocol_zh": "在与行动派女性以及一个二十人顾问委员会进行了五个月的对话后，每个参与团体提出自己的问题。当天，各团体分坐不同的门前台阶，披着黄色披肩，没有脚本，只由各自的问题编排对话；路缘上一道黄线把这些台阶串在一起，公众沿着封闭的街道一路走、一路听。",
+      "collective": "Almost 400 participants from activist organisations took part and an estimated 2,500 people entered the street; at the close, residents set out tables and served hot drinks while conversations between performers and audience continued. Produced by Creative Time with the Elizabeth A. Sackler Center for Feminist Art at the Brooklyn Museum.",
+      "collective_zh": "近 400 名来自行动组织的参与者到场，估计有 2500 人走进这条街；结束时，居民在街心摆桌端上热饮，表演者与观众的交谈仍在继续。由 Creative Time 与布鲁克林博物馆 Elizabeth A. Sackler 女性主义艺术中心联合制作。",
+      "keywords": [
+        "Brooklyn",
+        "Creative Time",
+        "Brooklyn Museum",
+        "stoops",
+        "activism",
+        "conversation"
+      ],
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/52aa861ce4b04dd8c25987fb/1386909024218-OPERU2ZVFJAGDFVDFVU9/nicola-goode-6.jpg",
+        "https://images.squarespace-cdn.com/content/v1/52aa861ce4b04dd8c25987fb/1387661483047-0ZIV2VZ0YJ8WLBN5VD97/Suzanne_Lacy_101913_Jonathan_Dorado_06.small.jpg"
+      ],
+      "source_url": "https://www.suzannelacy.com/between-the-door-and-the-street/"
+    },
+    {
+      "id": "jeremy-deller--procession",
+      "creator_ids": [
+        "jeremy-deller"
+      ],
+      "title": "Procession",
+      "year": 2009,
+      "field": "social",
+      "sub": "collective-action",
+      "mechanisms": [
+        "participation",
+        "instruction"
+      ],
+      "substrate": "body",
+      "kind": "artwork",
+      "description": "A parade down Deansgate, Manchester, on 5 July 2009 that opened the Manchester International Festival: about 1,700 local people from groups across Greater Manchester marched as themselves, watched by around 25,000.",
+      "description_zh": "2009 年 7 月 5 日沿曼彻斯特 Deansgate 大街举行的游行，为曼彻斯特国际艺术节揭幕：来自大曼彻斯特各地团体的约 1700 名本地居民以本来的身份走上街头，约 25000 人围观。",
+      "idea_en": "A city's self-portrait drawn by its own clubs and crowds, walking in line.",
+      "idea_zh": "由城市自己的社团和人群排队走出来的一幅自画像。",
+      "protocol": "Deller spent more than twelve months with groups and individuals across Greater Manchester assembling a self-portrait of the city as one parade: each group appears as itself, many marching under banners made for the occasion by Ed Hall, along a single route down Deansgate on one afternoon.",
+      "protocol_zh": "Deller 用了十二个多月，与大曼彻斯特各地的团体和个人一起，把城市的自画像编成一场游行：每个团体以本来的样子出场，许多人举着 Ed Hall 为此专门制作的旗帜，在一个下午沿 Deansgate 走完同一条路线。",
+      "collective": "Ramblers, mobile libraries, the 3rd Davyhulme Scout & Guide Marching Band playing The Fall's Hit the North, modified-car enthusiasts playing a new Blackout Crew track and Big Issue sellers were among about 1,700 marchers. The project also included an exhibition at Cornerhouse; commissioned by Manchester International Festival and Cornerhouse.",
+      "collective_zh": "约 1700 名游行者中有徒步爱好者、流动图书馆、演奏 The Fall 乐队《Hit the North》的第三 Davyhulme 童子军军乐队、播放 Blackout Crew 新曲的改装车爱好者，以及《大志》杂志的街头售卖者。项目还包括在 Cornerhouse 的展览；由曼彻斯特国际艺术节与 Cornerhouse 委托制作。",
+      "keywords": [
+        "Manchester International Festival",
+        "Deansgate",
+        "parade",
+        "banners",
+        "Ed Hall",
+        "Cornerhouse"
+      ],
+      "images": [
+        "https://publicydn4hdgozyjrg.blob.core.windows.net/public/dd/images/procession-box.a63f4af.jpg"
+      ],
+      "source_url": "https://factoryinternational.org/whats-on/procession/"
+    },
+    {
+      "id": "santiago-sierra--133-persons-hair-dyed-blond",
+      "creator_ids": [
+        "santiago-sierra"
+      ],
+      "title": "133 Persons Paid to Have Their Hair Dyed Blond",
+      "year": 2001,
+      "field": "social",
+      "sub": "economies",
+      "mechanisms": [
+        "contract",
+        "exchange",
+        "participation"
+      ],
+      "substrate": "body",
+      "kind": "artwork",
+      "description": "At the opening of the 49th Venice Biennale in June 2001, Santiago Sierra paid 133 immigrants to have their hair dyed blond in a space in the Arsenale.",
+      "description_zh": "2001 年 6 月第 49 届威尼斯双年展开幕期间，Santiago Sierra 在军械库的一个空间里付钱让 133 名移民把头发染成金色。",
+      "idea_en": "The title is the contract: a fee, a number and a change of appearance that marks who passes as European.",
+      "idea_zh": "标题就是合同：一笔报酬、一个人数、一次外貌改变，标出谁“看起来像欧洲人”。",
+      "protocol": "Sierra offers a fixed fee to each person who agrees to have their hair bleached blond on site during the Biennale's opening days. The title records the number of people and the transaction.",
+      "protocol_zh": "Sierra 向每位同意在双年展开幕期间现场把头发漂成金色的人支付固定报酬。作品标题记录了人数和这笔交易。",
+      "collective": "133 immigrants took the job, each paid 60 US dollars; the bleaching was meant to make them read as European, and their blond heads mixed with the Biennale's opening crowd. Sierra later showed video of the action.",
+      "collective_zh": "133 名移民接受了这份工作，每人得到 60 美元；染发意在让他们“看起来像欧洲人”，一头金发混入双年展的开幕人群。Sierra 后来展出了这次行动的录像。",
+      "keywords": [
+        "Venice Biennale",
+        "Arsenale",
+        "wage",
+        "immigrants",
+        "hair dye",
+        "2001"
+      ],
+      "images": [
+        "https://www.santiago-sierra.com/imagenes/2001032.jpg",
+        "https://www.santiago-sierra.com/imagenes/2001031.jpg"
+      ],
+      "source_url": "https://www.santiago-sierra.com/200103_1024.php"
+    },
+    {
+      "id": "santiago-sierra--wall-enclosing-a-space",
+      "creator_ids": [
+        "santiago-sierra"
+      ],
+      "title": "Wall Enclosing a Space (Muro cerrando un espacio)",
+      "year": 2003,
+      "field": "social",
+      "sub": "economies",
+      "mechanisms": [
+        "constraint",
+        "participation"
+      ],
+      "substrate": "body",
+      "kind": "artwork",
+      "description": "For the Spanish Pavilion at the 2003 Venice Biennale, Sierra bricked up the entrance and posted guards; only visitors who showed a Spanish passport were let in, and inside lay only remains of the previous exhibition.",
+      "description_zh": "在 2003 年威尼斯双年展西班牙馆，Sierra 用砖封住入口并派人看守；只有出示西班牙护照的观众才能进入，馆内只剩上一届展览的残余物。",
+      "idea_en": "A border rule applied to an art audience: the crowd is sorted by citizenship at the gallery door.",
+      "idea_zh": "把边境规则用在艺术观众身上：人群在展馆门口按国籍被分拣。",
+      "protocol": "The pavilion's entrance is walled off. Guards admit only visitors who show a Spanish passport; everyone else, including most of the Biennale's international public, is turned away.",
+      "protocol_zh": "展馆入口被砖墙封住。看守只放行出示西班牙护照的观众；其他所有人，包括双年展的大部分国际观众，都被挡在门外。",
+      "collective": "Visitors were sorted by nationality at the door: Spanish citizens could enter the emptied rooms, while most of the international public could only stand outside the wall. Sierra said he wanted to show national pride as 'the principal system of every pavilion'.",
+      "collective_zh": "观众在门口按国籍被分开：西班牙公民可以走进空荡的展厅，大部分国际观众只能站在墙外。Sierra 说，他想揭示国家荣誉正是“每一个国家馆的基本系统”。",
+      "keywords": [
+        "Venice Biennale",
+        "Spanish Pavilion",
+        "passport",
+        "nationality",
+        "border",
+        "2003"
+      ],
+      "images": [
+        "https://www.santiago-sierra.com/imagenes/immuro/1.jpg"
+      ],
+      "source_url": "https://www.santiago-sierra.com/200303_1024.php"
+    },
+    {
+      "id": "marina-abramovic--abramovic-method",
+      "creator_ids": [
+        "marina-abramovic"
+      ],
+      "title": "The Abramović Method",
+      "year": 2012,
+      "field": "social",
+      "sub": "performance",
+      "also": [
+        "score"
+      ],
+      "mechanisms": [
+        "instruction",
+        "participation",
+        "time"
+      ],
+      "substrate": "body",
+      "kind": "score",
+      "description": "A set of exercises first presented as an exhibition at PAC, Milan, in 2012, in which visitors give up their belongings, put on lab coats and noise-cancelling headphones and spend two and a half hours in slow exercises with Abramović's transitory objects while another public watches them.",
+      "description_zh": "一套练习，2012 年首次以展览形式在米兰当代艺术馆（PAC）推出：观众交出随身物品，穿上白大褂、戴上降噪耳机，用两个半小时在 Abramović 的“过渡物”上做缓慢的练习，另一批观众在旁观看他们。",
+      "idea_en": "Swap the roles: the audience performs and is watched, guided only by simple rules of attention.",
+      "idea_zh": "交换角色：观众成为表演者并被观看，只靠几条关于专注的简单规则引导。",
+      "protocol": "Participants check in phones, watches and bags, wear white lab coats and noise-cancelling headphones, and follow guided exercises of sitting, standing and lying on transitory objects (at PAC, made of copper and magnets) for the full session; a second public may only observe.",
+      "protocol_zh": "参与者寄存手机、手表和包，穿上白大褂、戴上降噪耳机，在整个时段里按引导在“过渡物”上坐、站、躺（PAC 的版本由铜和磁铁制成）；另一批观众只能旁观。",
+      "collective": "The format reverses the usual roles of performance: the public performs and is observed. Abramović developed it further in later projects such as Terra Comunal in São Paulo (2015), and it shaped 512 Hours at the Serpentine (2014) and her Cleaning the House workshops, now open to anyone.",
+      "collective_zh": "这一形式颠倒了表演中惯常的角色：公众表演，并被观看。Abramović 在之后的项目里继续发展它，例如圣保罗的 Terra Comunal（2015）；它也塑造了蛇形画廊的《512 Hours》（2014）和如今向所有人开放的“Cleaning the House”工作坊。",
+      "keywords": [
+        "PAC Milan",
+        "Marina Abramović Institute",
+        "transitory objects",
+        "noise-cancelling headphones",
+        "durational",
+        "Terra Comunal"
+      ],
+      "images": [
+        "https://cdn.prod.website-files.com/6554c91ba6abd9f31939d661/65a248bf5b20a7117272e5ba_The%20Abramovic%CC%81%20Method%20Header%20(by%20Marina%20Abramovic%CC%81%20Institute).jpg",
+        "https://cdn.prod.website-files.com/6554c91ba6abd9f31939d661/6576dd842d83e2dbd5135daa_terra-communal-abramovich-image-4-992x662.jpg.webp"
+      ],
+      "source_url": "https://mai.art/the-abramovic-method"
+    },
+    {
+      "id": "marina-abramovic--512-hours",
+      "creator_ids": [
+        "marina-abramovic"
+      ],
+      "title": "512 Hours",
+      "year": 2014,
+      "field": "social",
+      "sub": "performance",
+      "mechanisms": [
+        "participation",
+        "instruction",
+        "time"
+      ],
+      "substrate": "body",
+      "kind": "artwork",
+      "description": "A durational work at the Serpentine Gallery, London (11 June – 25 August 2014), in which Abramović and trained facilitators guided visitors through simple exercises in nearly empty rooms for 512 hours, so that the public became the performing body.",
+      "description_zh": "在伦敦蛇形画廊上演的长时作品（2014 年 6 月 11 日至 8 月 25 日）：Abramović 与受过训练的引导员在几乎空无一物的展厅里带领观众做简单的练习，共 512 小时，公众成了表演的身体。",
+      "idea_en": "An exhibition with nothing in it but people following instructions.",
+      "idea_zh": "一个展览里什么都没有，只有按指令行动的人。",
+      "protocol": "Visitors leave bags, jackets, phones, watches and cameras in lockers and receive noise-cancelling headphones. Each morning Abramović and facilitators set out props and exercises (slow walking, blindfolds, beds, platforms, chairs); each exercise has guidelines but no set order or duration, and visitors take part as long as they wish, 10am to 6pm, six days a week.",
+      "protocol_zh": "观众把包、外套、手机、手表和相机存入储物柜，领取降噪耳机。每天早上，Abramović 和引导员布置道具与练习（慢走、蒙眼、床、平台、椅子）；每项练习都有要求，但没有固定顺序和时长，观众想参与多久都可以，开放时间为每周六天、上午 10 点到下午 6 点。",
+      "collective": "129,916 visitors took part over the run. In her daily diary Abramović describes visitors drawn to the central platform until there was no space left on it.",
+      "collective_zh": "展期内共有 129916 名观众参与。Abramović 在每日日记中写到，观众被中央平台吸引，直到上面再无立足之地。",
+      "keywords": [
+        "Serpentine Gallery",
+        "durational",
+        "lockers",
+        "noise-cancelling headphones",
+        "Abramović Method",
+        "London"
+      ],
+      "images": [
+        "https://d37zoqglehb9o7.cloudfront.net/uploads/2020/04/Anelli_IMG_1321_1-scaled.jpg"
+      ],
+      "source_url": "https://www.serpentinegalleries.org/whats-on/marina-abramovic-512-hours/"
+    },
+    {
+      "id": "lee-mingwei--the-mending-project",
+      "creator_ids": [
+        "lee-mingwei"
+      ],
+      "title": "The Mending Project",
+      "year": 2009,
+      "field": "social",
+      "sub": "performance",
+      "mechanisms": [
+        "participation",
+        "exchange",
+        "co-authorship"
+      ],
+      "substrate": "body",
+      "kind": "artwork",
+      "description": "An installation in which a mender, Lee or a host, sits at a long table in front of a wall of coloured thread spools and repairs items that visitors bring, talking with them while they wait.",
+      "description_zh": "一件装置：缝补者（李明维本人或一位主持人）坐在长桌旁，背后是一整面彩色线轴墙，为观众带来的衣物缝补，并在等待时与他们交谈。",
+      "idea_en": "A repair as a gift and a conversation, with every garment left behind still tied to the wall.",
+      "idea_zh": "一次缝补就是一份礼物和一场对话，每件留下的衣服仍用线连在墙上。",
+      "protocol": "Any visitor may bring something to be mended or embellished and sit across from the mender while it is done. Afterwards they choose: take it away, or leave it on the table, still attached by its threads to the spools on the wall, and collect it when the exhibition closes.",
+      "protocol_zh": "任何观众都可以带来需要缝补或装饰的物品，坐在缝补者对面等它完成。之后由观众选择：带走，或把它留在桌上——仍用线连着墙上的线轴——等展览结束再来取。",
+      "collective": "Garments left by visitors accumulate on the table over the run, each linked to the wall by its threads, so the installation grows into a record of the conversations. It has been shown at venues including the Liverpool Biennial (2010).",
+      "collective_zh": "观众留下的衣物在展期内越积越多，每件都由线与墙相连，装置因此变成一份对话的记录。作品曾在利物浦双年展（2010）等处展出。",
+      "keywords": [
+        "mending",
+        "gift",
+        "thread",
+        "conversation",
+        "Liverpool Biennial",
+        "participation"
+      ],
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Mingwei-_5619-sm_%285133415424%29.jpg/960px-Mingwei-_5619-sm_%285133415424%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d7/Lei_Mingwei_-_Mending_Project_-_Liverpool_Biennail_2010.jpg"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Lee_Mingwei"
+    },
+    {
+      "id": "hans-haacke--der-bevoelkerung",
+      "creator_ids": [
+        "hans-haacke"
+      ],
+      "title": "DER BEVÖLKERUNG (To the Population)",
+      "year": 2000,
+      "field": "social",
+      "sub": "collective-action",
+      "mechanisms": [
+        "participation",
+        "time",
+        "governance"
+      ],
+      "substrate": "body",
+      "kind": "artwork",
+      "description": "A 21 × 7 m trough of earth in the north courtyard of the Reichstag building in Berlin, with the words DER BEVÖLKERUNG in white neon; members of the Bundestag are invited to add soil from their constituencies.",
+      "description_zh": "柏林国会大厦北侧内院一个 21 × 7 米的土槽，中央以白色霓虹写着“DER BEVÖLKERUNG”（致全体居民）；联邦议院议员受邀把各自选区的泥土倒进来。",
+      "idea_en": "A parliament fills its own artwork: every member's handful of soil grows into one unplanned garden.",
+      "idea_zh": "议会亲手填满一件艺术品：每位议员带来的一捧土，长成一片没人规划的花园。",
+      "protocol": "Every member of the German Bundestag is invited to bring soil from their constituency and add it to the trough. Nothing is planted or weeded: whatever grows from seeds in the soil is left alone, and a webcam photographs the bed twice a day. The lettering answers the inscription DEM DEUTSCHEN VOLKE (to the German people) on the building's portico.",
+      "protocol_zh": "每一位德国联邦议院议员都受邀从自己的选区带来泥土倒入槽中。这里不种植、不除草：土里的种子长出什么就留什么，一台网络摄像头每天拍摄两次。这行字回应着大厦门廊上的铭文“DEM DEUTSCHEN VOLKE”（致德意志人民）。",
+      "collective": "After a fierce debate, a cross-party motion to stop the work was rejected by 260 votes to 258 on 5 April 2000, and it was inaugurated that September. Since then more than 400 members of parliament have contributed soil, and the trough has become an unmanaged biotope of their regions' seeds.",
+      "collective_zh": "经过激烈辩论，一项跨党派的叫停动议于 2000 年 4 月 5 日以 260 票对 258 票被否决，作品于当年 9 月落成。此后已有 400 多位议员带来泥土，土槽长成一片由各地种子构成、无人管理的小生境。",
+      "keywords": [
+        "Reichstag",
+        "Bundestag",
+        "soil",
+        "constituency",
+        "Kunst am Bau",
+        "webcam"
+      ],
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/2019-05-05_Reichstag_03.jpg/960px-2019-05-05_Reichstag_03.jpg"
+      ],
+      "source_url": "https://de.wikipedia.org/wiki/Der_Bev%C3%B6lkerung"
+    },
+    {
+      "id": "stephen-willats--west-london-social-resource-project",
+      "creator_ids": [
+        "stephen-willats"
+      ],
+      "title": "The West London Social Resource Project",
+      "year": 1972,
+      "field": "social",
+      "sub": "collective-action",
+      "mechanisms": [
+        "participation",
+        "governance",
+        "instruction"
+      ],
+      "substrate": "text",
+      "kind": "artwork",
+      "description": "A six-week project in four residential areas of West London (Osterley, Hanwell, Greenford and Harrow) in which residents described and then remodelled their own surroundings in manuals, with everyone's answers displayed on boards in local libraries.",
+      "description_zh": "在西伦敦四个住宅区（Osterley、Hanwell、Greenford 和 Harrow）进行的为期六周的项目：居民在手册里描述并重新构想自己的生活环境，所有人的回答都展示在当地图书馆的展板上。",
+      "idea_en": "A questionnaire as a public mirror: residents see their neighbours' answers and vote on how to rebuild their world.",
+      "idea_zh": "把问卷变成公共镜子：居民看到邻居的回答，再投票决定如何重塑自己的世界。",
+      "protocol": "Project Operators call at homes in four socially different areas; residents who agree receive the West London Manual of visual cues and question sheets ('Draw / describe / make a plan of what is on your living room mantelpiece'). All answers are copied onto Public Register Boards in each area's library. A second Re-modelling Book asks how the household and neighbourhood should be organised; those answers go on new boards with a ballot box for voting on preferred models, from which Final Models are made.",
+      "protocol_zh": "“项目操作员”上门拜访四个社会构成不同的街区；同意参与的居民领到《西伦敦手册》，里面有视觉提示和问题页（“画出／描述／规划你客厅壁炉台上摆着什么”）。所有回答被誊写到各区图书馆的“公共登记板”上。第二本《重塑之书》询问家庭和街坊应如何组织；这些回答贴上新的展板，旁边设投票箱供大家为喜欢的方案投票，再据此制作“最终模型”。",
+      "collective": "Residents of four areas filled in the manuals, read their neighbours' answers in the libraries and voted on each other's proposals. A Public Monitor about the project, a free-standing room inside a room, was shown at Gallery House, London, where Willats ran the Centre for Behavioural Art in 1972–73.",
+      "collective_zh": "四个街区的居民填写手册，在图书馆读到邻居的回答，并为彼此的方案投票。关于项目的“公共监视器”（一个房间中的独立小房间）在伦敦 Gallery House 展出，1972–73 年间 Willats 在那里主持“行为艺术中心”。",
+      "keywords": [
+        "West London",
+        "questionnaire",
+        "Public Register Boards",
+        "libraries",
+        "cybernetics",
+        "Gallery House"
+      ],
+      "images": [
+        "https://stephenwillats.com/media/uploads/projects/West-London-Social-ResPro.-Monitor-Board-2_jpg_440x880_q85.jpg",
+        "https://stephenwillats.com/media/uploads/projects/1972-Web-Recent-Installation-view-of-West-London-Social-Resource-Project-_jpg_680x1360_q85.jpg",
+        "https://stephenwillats.com/media/uploads/projects/West-London-Social-Resource-Project-.Flow-Diagram.-1973_jpg_440x880_q85.jpg"
+      ],
+      "source_url": "https://stephenwillats.com/work/west-london-social-resource-project/"
+    }
+  ],
+  "leads": [
+    {
+      "name": "Holly Herndon & Mat Dryhurst, Infinite Images and the Latent Camera (essay, 2022)",
+      "why": "An essay on generative images and latent space; it does not deal with rules carried out by a group.",
+      "link": "https://mirror.xyz/herndondryhurst.eth/eZG6mucl9fqU897XvJs0vUUMnm5OITpSWN8S-6KWamY",
+      "found_via": "holly-herndon",
+      "status": "off_topic"
+    },
+    {
+      "name": "Strange Rules, Palazzo Diedo, Venice (4 May - 22 Nov 2026)",
+      "why": "Defined as collection strange-rules (exhibition, 2026): holly-herndon--attention-guild, primavera-de-filippi--plantoid and kenneth-o-stanley--picbreeder (a Harold Cohen work is reported but not named, so AARON is not listed); terra0's courtyard project and Agnieszka Kurant's work are listed as new leads.",
+      "link": "https://berggruenarts.org/en/exhibitions/current-exhibitions-palazzo-diedo/current-exhibitions-palazzo-diedo-strange-rules",
+      "found_via": "holly-herndon",
+      "status": "covered"
+    },
+    {
+      "name": "Ken Stanley, Picbreeder (2007)",
+      "why": "added as kenneth-o-stanley--picbreeder",
+      "link": "https://berggruenarts.org/en/exhibitions/current-exhibitions-palazzo-diedo/current-exhibitions-palazzo-diedo-strange-rules",
+      "found_via": "holly-herndon",
+      "status": "covered"
+    },
+    {
+      "name": "Joshua Citarella & New Models, Marketplace of Ideas (2026)",
+      "why": "The Online Marketplace of Ideas (2026) is a room of 400-plus pieces of podcast and pundit merchandise; it maps the attention economy but sets no rule for a group to carry out.",
+      "link": "https://berggruenarts.org/en/exhibitions/current-exhibitions-palazzo-diedo/current-exhibitions-palazzo-diedo-strange-rules",
+      "found_via": "holly-herndon",
+      "status": "off_topic"
+    },
+    {
+      "name": "Holly Herndon & Mat Dryhurst, Okayama Art Summit (2025)",
+      "why": "covered by holly-herndon--starmirror: the Okayama work was Starmirror/Public Diffusion (2025), in which people were guided to record their city as public-domain data for the Public Diffusion model.",
+      "link": "https://herndondryhurst.studio/projects/okayama",
+      "found_via": "holly-herndon",
+      "status": "duplicate"
+    },
+    {
+      "name": "Holly Herndon & Mat Dryhurst, MoMA x Feral File edition, Minnesang, I'M HERE 17122022 5:44 (2022-2023)",
+      "why": "Single editions and a 2023 film (I'M HERE 17.12.2022 5:44); no rule addressed to a group is documented. The MoMA Postcard project is listed as a separate lead.",
+      "link": "https://herndondryhurst.studio",
+      "found_via": "holly-herndon",
+      "status": "off_topic"
+    },
+    {
+      "name": "Ulises Carrión, Erratic Art Mail International System (1977)",
+      "why": "added as ulises-carrion--eamis",
+      "link": "https://en.wikipedia.org/wiki/Ulises_Carri%C3%B3n",
+      "found_via": "ray-johnson",
+      "status": "covered"
+    },
+    {
+      "name": "Image Bank (Vancouver), image request lists (1970–)",
+      "why": "added as image-bank--image-request-lists",
+      "link": "https://en.wikipedia.org/wiki/Image_Bank",
+      "found_via": "robert-filliou",
+      "status": "covered"
+    },
+    {
+      "name": "Clemente Padín / Edgardo Antonio Vigo, Latin American mail-art networks",
+      "why": "A regional mail-art movement rather than one authored protocol; the network's campaign for Padín's release is noted in ulises-carrion--eamis, and Padín's 1974 Festival de la Postal Creativa is listed as a separate lead.",
+      "link": "https://en.wikipedia.org/wiki/Mail_art",
+      "found_via": "ray-johnson",
+      "status": "off_topic"
+    },
+    {
+      "name": "Robert Filliou and Joachim Pfeufer, Poïpoïdrome (1963–)",
+      "why": "A modular space for 'permanent creation' that visitors pass through; no rule set addressed to a group could be found.",
+      "link": "https://en.wikipedia.org/wiki/Robert_Filliou",
+      "found_via": "robert-filliou",
+      "status": "off_topic"
+    },
+    {
+      "name": "Superflex, Free Shop (2003)",
+      "why": "added as superflex--free-shop",
+      "link": "https://superflex.net/works/free_shop",
+      "found_via": "superflex",
+      "status": "covered"
+    },
+    {
+      "name": "Superflex, Corruption Contract (2009) and 2000 Watt Society Contract (2010)",
+      "why": "added 2000 Watt Society Contract as superflex--2000-watt-society-contract; Corruption Contract (2009) left out because it binds a single buyer, not a group.",
+      "link": "https://superflex.net/works/corruption_contract",
+      "found_via": "superflex",
+      "status": "covered"
+    },
+    {
+      "name": "Carey Young, Declared Void (2005)",
+      "why": "added as carey-young--declared-void (note: the wall text says the US Constitution will NOT apply inside the zone).",
+      "link": "https://en.wikipedia.org/wiki/Carey_Young",
+      "found_via": "seth-siegelaub",
+      "status": "covered"
+    },
+    {
+      "name": "Platoniq, Banco Común de Conocimientos (Bank of Common Knowledge)",
+      "why": "Passes as a skill-exchange protocol, but bancocomun.org is gone (HTTP 410) and platoniq.net no longer lists the project; no verifiable image, video or paper found in pass 3.",
+      "link": "https://en.wikipedia.org/wiki/Platoniq",
+      "found_via": "julieta-aranda",
+      "status": "no_media"
+    },
+    {
+      "name": "Santiago Sierra, Persons Paid to Have Their Hair Dyed Blond (2001) and other paid-participant works",
+      "why": "added as santiago-sierra--133-persons-hair-dyed-blond and santiago-sierra--wall-enclosing-a-space",
+      "link": "https://en.wikipedia.org/wiki/Santiago_Sierra",
+      "found_via": "santiago-sierra",
+      "status": "covered"
+    },
+    {
+      "name": "Cildo Meireles, Zero Cruzeiro / Zero Dollar (1974–78)",
+      "why": "Zero-value banknotes printed as editions; they set no rule a group carries out. The circulation protocol is already in cildo-meireles--insertions-into-ideological-circuits.",
+      "link": "https://en.wikipedia.org/wiki/Cildo_Meireles",
+      "found_via": "cildo-meireles",
+      "status": "off_topic"
+    },
+    {
+      "name": "Temporary Services (Chicago)",
+      "why": "A collective working mainly in publishing, archives and community spaces (Half Letter Press, Mess Hall); no single authored rule set for a group was found.",
+      "link": "https://temporaryservices.org/",
+      "found_via": "superflex",
+      "status": "off_topic"
+    },
+    {
+      "name": "Joseph Beuys, Honigpumpe am Arbeitsplatz / Free International University (documenta 6, 1977)",
+      "why": "The 100-day Free International University forum was an open lecture and discussion programme without a rule set for participants; the closer precedent, the 1972 direct-democracy office, is already joseph-beuys--direct-democracy-office.",
+      "link": "https://oa.ici-berlin.org/repository/doi/10.37050/ci-11~wedemeyer_pumping_honey.pdf",
+      "found_via": "joseph-beuys",
+      "status": "off_topic"
+    },
+    {
+      "name": "Bill Wasik, The MOB Project (2003)",
+      "why": "added as bill-wasik--mob-project",
+      "link": "https://en.wikipedia.org/wiki/Flash_mob",
+      "found_via": "improv-everywhere",
+      "status": "covered"
+    },
+    {
+      "name": "Yoko Ono, Cut Piece (1964)",
+      "why": "covered by yoko-ono--cut-piece",
+      "link": "https://en.wikipedia.org/wiki/Cut_Piece",
+      "found_via": "marina-abramovic",
+      "status": "duplicate"
+    },
+    {
+      "name": "Mieko Shiomi, Spatial Poem (1965–75)",
+      "why": "covered by mieko-shiomi--spatial-poem",
+      "link": "https://www.moma.org/artists/36213",
+      "found_via": "ray-johnson",
+      "status": "duplicate"
+    },
+    {
+      "name": "Suzanne Lacy, Whisper, the Waves, the Wind (1984) and Between the Door and the Street (2013)",
+      "why": "added as suzanne-lacy--whisper-the-waves-the-wind and suzanne-lacy--between-the-door-and-the-street (also suzanne-lacy--silver-action, suzanne-lacy--international-dinner-party, suzanne-lacy--the-roof-is-on-fire)",
+      "link": "https://www.suzannelacy.com/",
+      "found_via": "suzanne-lacy",
+      "status": "covered"
+    },
+    {
+      "name": "Jeremy Deller, Procession (Manchester, 2009)",
+      "why": "added as jeremy-deller--procession",
+      "link": "https://www.jeremydeller.org/",
+      "found_via": "jeremy-deller",
+      "status": "covered"
+    },
+    {
+      "name": "Tania Bruguera, Association of Arte Útil / Hannah Arendt International Institute for Artivism (INSTAR)",
+      "why": "Institutions: an archive of 'useful art' projects with criteria, and an institute for activism; they host and frame projects rather than set a rule a group carries out.",
+      "link": "https://www.arte-util.org/",
+      "found_via": "tania-bruguera",
+      "status": "off_topic"
+    },
+    {
+      "name": "Marina Abramović, Abramović Method (2012–)",
+      "why": "added as marina-abramovic--abramovic-method (and marina-abramovic--512-hours)",
+      "link": "https://mai.art/",
+      "found_via": "marina-abramovic",
+      "status": "covered"
+    },
+    {
+      "name": "Lee Mingwei, The Dining Project / Sonic Blossom / The Mending Project",
+      "why": "added as lee-mingwei--the-mending-project; Sonic Blossom, The Dining Project and The Letter Writing Project lacked verifiable media in pass 3 and are listed as a new lead.",
+      "link": "https://en.wikipedia.org/wiki/Lee_Mingwei",
+      "found_via": "lee-mingwei",
+      "status": "covered"
+    },
+    {
+      "name": "Hans Haacke, Gallery-Goers' Birthplace and Residence Profile (1969)",
+      "why": "Passes (visitors pin their birthplace and residence on maps), but no verifiable image or source text was reachable in pass 3; Haacke's DER BEVÖLKERUNG was added instead as hans-haacke--der-bevoelkerung.",
+      "link": "https://en.wikipedia.org/wiki/Hans_Haacke",
+      "found_via": "hans-haacke",
+      "status": "no_media"
+    },
+    {
+      "name": "Stephen Willats, West London Social Resource Project (1972)",
+      "why": "added as stephen-willats--west-london-social-resource-project",
+      "link": "https://en.wikipedia.org/wiki/Stephen_Willats",
+      "found_via": "hans-haacke",
+      "status": "covered"
+    },
+    {
+      "name": "Spencer Tunick, mass nude installations (1992–)",
+      "why": "A directed photo shoot: volunteers are posed by the artist for his photograph rather than acting under rules of their own.",
+      "link": "https://en.wikipedia.org/wiki/Spencer_Tunick",
+      "found_via": "francis-alys",
+      "status": "off_topic"
+    },
+    {
+      "name": "Hélio Oiticica, Tropicália (1967) and Éden (1969)",
+      "why": "Walk-through environments ('penetrables'); no rule set addressed to visitors, unlike helio-oiticica--parangole.",
+      "link": "https://en.wikipedia.org/wiki/H%C3%A9lio_Oiticica",
+      "found_via": "helio-oiticica",
+      "status": "off_topic"
+    },
+    {
+      "name": "Theaster Gates, Dorchester Projects / Rick Lowe, Project Row Houses",
+      "why": "Neighbourhood housing and cultural institutions; no authored rule set addressed to a group.",
+      "link": "https://projectrowhouses.org/",
+      "found_via": "thomas-hirschhorn",
+      "status": "off_topic"
+    },
+    {
+      "name": "Marinella Senatore, The School of Narrative Dance",
+      "why": "Likely passes (a free, nomadic school where participants teach each other and stage collective dances and parades), but the artist's site was unreachable and no verifiable image or document was found in pass 3.",
+      "link": "https://www.marinellasenatore.com/",
+      "found_via": "suzanne-lacy",
+      "status": "no_media"
+    },
+    {
+      "name": "Clemente Padín, Festival de la Postal Creativa (Galería U, Montevideo, 1974)",
+      "why": "Described as the first documented mail-art exhibition in Latin America; check whether its open call set the no-jury, show-everything rules of mail-art shows.",
+      "link": "https://lomholtmailartarchive.dk/networkers/clemente-padin",
+      "found_via": "ulises-carrion",
+      "status": "open"
+    },
+    {
+      "name": "Feral File and MoMA, MoMA Postcard (2023–2024)",
+      "why": "Online project in which each postcard has 15 blank stamps; participants design a pixel stamp, record it on chain and pass the card on. Check authorship and media.",
+      "link": "https://www.moma.org/calendar/exhibitions/5618",
+      "found_via": "holly-herndon",
+      "status": "open"
+    },
+    {
+      "name": "Hans Haacke, World Poll (Venice Biennale, 2015)",
+      "why": "Visitors answer a questionnaire on iPads and the tallies are shown; sibling of MoMA Poll. Needs a description source.",
+      "link": "https://www.paulacoopergallery.com/artists/hans-haacke",
+      "found_via": "hans-haacke",
+      "status": "open"
+    },
+    {
+      "name": "Hans Haacke, John Weber Gallery Visitors' Profile (1972–73)",
+      "why": "Visitors fill in a 20-question survey; results shown as charts in the gallery. Needs media.",
+      "link": "https://en.wikipedia.org/wiki/Hans_Haacke",
+      "found_via": "hans-haacke",
+      "status": "open"
+    },
+    {
+      "name": "Lee Mingwei, Sonic Blossom (2013), The Letter Writing Project (1998) and The Dining Project (1997)",
+      "why": "Singers offer a stranger the gift of a Schubert song; visitors write letters they never sent and the museum posts them; a host shares a meal with a visitor. Need verifiable media (leemingwei.com is gone).",
+      "link": "https://en.wikipedia.org/wiki/Lee_Mingwei",
+      "found_via": "lee-mingwei",
+      "status": "open"
+    },
+    {
+      "name": "terra0, courtyard project in Strange Rules (Venice, 2026)",
+      "why": "Strange Rules shows a terra0 project in the Palazzo Diedo courtyard; identify the work and add it to the strange-rules collection.",
+      "link": "https://www.e-flux.com/announcements/6786944/strange-rules",
+      "found_via": "holly-herndon",
+      "status": "open"
+    },
+    {
+      "name": "Agnieszka Kurant, work in Strange Rules (Venice, 2026)",
+      "why": "Kurant's works use collective intelligence (crowds, termites, social-media sentiment); identify the Strange Rules work and test it.",
+      "link": "https://www.e-flux.com/announcements/6786944/strange-rules",
+      "found_via": "holly-herndon",
+      "status": "open"
+    },
+    {
+      "name": "Stephen Willats, Social Resource Project for Tennis Clubs (Nottingham, 1971–72)",
+      "why": "Members of four tennis clubs were to remodel the game around their reasons for joining; the project was not completed. Check whether it belongs as a work.",
+      "link": "https://stephenwillats.com/work/social-resource-project-tennis-clubs/",
+      "found_via": "stephen-willats",
+      "status": "open"
+    },
+    {
+      "name": "Carey Young, Plato Contract (2008), Obsidian Contract (2010) and Uncertain Contract (2008)",
+      "why": "Contract works addressed to a single collector or performed by an actor, not carried out by a group.",
+      "link": "https://www.careyyoung.com/works",
+      "found_via": "carey-young",
+      "status": "off_topic"
+    }
+  ]
+}

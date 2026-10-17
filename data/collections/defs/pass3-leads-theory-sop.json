@@ -1,0 +1,12 @@
+[
+  {
+    "id": "world-computer-sculpture-garden",
+    "type": "exhibition",
+    "en": "World Computer Sculpture Garden (contract show, 2024)",
+    "zh": "World Computer Sculpture Garden（合约展，2024）",
+    "desc_en": "Exhibition curated by 0xfff that opened on Ethereum mainnet on 12 November 2024 and exists only as a smart contract pointing to seven contract artworks, with an introductory essay by Malte Rauch; it has no closing date.",
+    "desc_zh": "由 0xfff 策划、2024 年 11 月 12 日在以太坊主网开幕的展览，仅以一个指向七件合约作品的智能合约形式存在，附 Malte Rauch 的导言文章；展览没有闭幕日期。",
+    "url": "https://worldcomputersculpture.garden/",
+    "work": "0xfff--world-computer-sculpture-garden"
+  }
+]

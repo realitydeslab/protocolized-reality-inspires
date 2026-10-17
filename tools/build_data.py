@@ -266,14 +266,17 @@ def apply_collections(works: list, known: set) -> None:
 
 def classify_leads(leads: list, creators: dict) -> tuple[list, list]:
     names = {re.sub(r"[^a-z]", "", c.get("name", "").lower()) for c in creators.values()}
-    open_, checked, seen = [], [], set()
+    by_key: dict[str, dict] = {}
     for lead in leads:
         key = re.sub(r"[^a-z]", "", (lead.get("name") or "").lower())
-        if not key or key in seen:
+        if not key:
             continue
-        seen.add(key)
         status = "covered" if key in names else lead.get("status", "open")
-        (open_ if status == "open" else checked).append({**lead, "status": status})
+        # A later pass closes an open lead by repeating its name with a resolved status.
+        if key not in by_key or (by_key[key]["status"] == "open" and status != "open"):
+            by_key[key] = {**lead, "status": status}
+    open_ = [lead for lead in by_key.values() if lead["status"] == "open"]
+    checked = [lead for lead in by_key.values() if lead["status"] != "open"]
     return open_, checked
 
 

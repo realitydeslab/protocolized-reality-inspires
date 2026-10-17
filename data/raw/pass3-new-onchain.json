@@ -1,0 +1,589 @@
+{
+  "batch": "pass3-new-onchain",
+  "creators": [
+    {
+      "id": "snowfro",
+      "name": "Snowfro (Erick Calderon)",
+      "kind": "person",
+      "role": "Artist; founder of Art Blocks",
+      "based": "",
+      "bio": "Erick Calderon, known as Snowfro, founded the generative art platform Art Blocks in 2020 and made its first project, Chromie Squiggle.",
+      "why": "His send/receive turns a large edition into a single network whose appearance depends on how many holders choose to give or to take.",
+      "links": {
+        "site": "https://www.artblocks.io"
+      },
+      "role_zh": "艺术家；Art Blocks 创始人",
+      "bio_zh": "Erick Calderon，网名 Snowfro，2020 年创立生成艺术平台 Art Blocks，并创作了平台上的第一个项目 Chromie Squiggle。",
+      "why_zh": "他的 send/receive 把一个大版次变成一张网络，网络的样貌取决于有多少持有者选择给予、多少选择索取。",
+      "based_zh": "",
+      "connected_to": [
+        "alexis-andre"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "kim-asendorf",
+      "name": "Kim Asendorf",
+      "kind": "person",
+      "role": "Generative artist",
+      "based": "",
+      "bio": "Generative artist known for pixel sorting, a glitch technique he released as free code; since 2025 he has built the PXL series, in which every pixel is a token.",
+      "why": "PXL turns the pixel into a shared currency, so collectors set an image's density by how many tokens they put into it or take out.",
+      "links": {
+        "site": "https://kimasendorf.com"
+      },
+      "role_zh": "生成艺术家",
+      "bio_zh": "生成艺术家，以像素排序（pixel sorting）闻名，这是他作为免费代码公开的一种故障美学技法；2025 年起他创作 PXL 系列，其中每个像素都是一枚代币。",
+      "why_zh": "PXL 把像素变成一种共享货币，藏家放进或取出多少代币，就决定了图像有多稠密。",
+      "based_zh": "",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "leander-herzog",
+      "name": "Leander Herzog",
+      "kind": "person",
+      "role": "Visual artist working with code",
+      "based": "Switzerland",
+      "bio": "Swiss visual artist (born 1984) who has made images with code since 2006, moving from static images to real-time web animation, installations and data-driven sculpture; his work is in the collections of ZKM, HEK and Francisco Carolinum Linz.",
+      "why": "Infinite Garden makes an open edition into a shared garden that collectors plant, give away and merge.",
+      "links": {
+        "site": "https://leanderherzog.ch",
+        "x": "https://twitter.com/lennyjpg",
+        "instagram": "https://www.instagram.com/leander.herzog/"
+      },
+      "role_zh": "以代码创作的视觉艺术家",
+      "bio_zh": "瑞士视觉艺术家（1984 年生），2006 年起用代码创作图像，从静态图像走向实时网页动画、装置和数据驱动的雕塑；作品被 ZKM、HEK 和林茨 Francisco Carolinum 收藏。",
+      "why_zh": "Infinite Garden 把开放版次变成一座共享花园，由藏家种植、赠送和合并。",
+      "based_zh": "瑞士",
+      "connected_to": [
+        "0xfff"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "figure31",
+      "name": "Figure31 (Loucas Braconnier)",
+      "kind": "person",
+      "role": "Artist working with photography and blockchain",
+      "based": "Montreal, CA",
+      "bio": "Montreal artist born in the late 1990s and trained in visual and media arts at UQAM, who has released a long run of contract-based works on Ethereum and other chains since 2021.",
+      "why": "Figure31 treats contract logic itself as the medium: trades paint grids, minters seed each other's work, and owners are made responsible for keeping pieces alive.",
+      "links": {
+        "site": "https://figure31.com",
+        "x": "https://twitter.com/figure31"
+      },
+      "role_zh": "从事摄影与区块链创作的艺术家",
+      "bio_zh": "蒙特利尔艺术家，生于 1990 年代末，在魁北克大学蒙特利尔分校（UQAM）学习视觉与媒体艺术；2021 年以来在以太坊及其他链上发布了一系列以合约为核心的作品。",
+      "why_zh": "Figure31 把合约逻辑本身当作媒介：交易为网格上色，铸造者为彼此的作品播种，持有者要负责让作品继续活下去。",
+      "based_zh": "蒙特利尔，加拿大",
+      "connected_to": [
+        "0xfff",
+        "sarah-friend",
+        "rhea-myers"
+      ],
+      "discovered_via": "seed"
+    }
+  ],
+  "works": [
+    {
+      "id": "snowfro--send-receive",
+      "creator_ids": [
+        "snowfro"
+      ],
+      "title": "send/receive",
+      "year": 2025,
+      "field": "onchain",
+      "sub": "co-authored",
+      "also": [],
+      "mechanisms": [
+        "participation",
+        "co-authorship",
+        "circulation"
+      ],
+      "substrate": "ethereum",
+      "kind": "series",
+      "description": "An Art Blocks release in which every token is a node in one network: each holder draws a 64 × 64 pixel sprite, can add a short four-track tune, and sets the token to send, receive or both. What each piece shows depends on the balance of senders and receivers across the whole edition, recalculated every block.",
+      "description_zh": "Art Blocks 上的一件作品，每枚代币都是同一张网络中的一个节点：持有者绘制一个 64 × 64 像素的小精灵，可以配上一段四轨小曲，并把代币设为“发送”“接收”或两者兼有。每件作品显示什么，取决于整个版次中发送者与接收者之间的平衡，每个区块重新计算一次。",
+      "idea_en": "Treat care as a shared budget: the more one token takes, the less the others receive.",
+      "idea_zh": "把关怀当作一份共享的额度：一枚代币拿得越多，其他代币收到的就越少。",
+      "protocol": "Holders write a sprite (and an optional tune) to the Ethereum contract through the Art Blocks site or by hand via Etherscan, then choose a mode, which they can change at any time. Receiving tokens show incoming sprites in one of four layouts assigned at mint; sending tokens pulse their own sprite outward. Each block, the balance across all tokens sets the pace: more senders make receivers fill faster, more receivers spread each sender more thinly. From 15 to 31 December 2025 any Art Blocks token holder could mint one per wallet; top collectors received airdrops.",
+      "protocol_zh": "持有者通过 Art Blocks 网站，或在 Etherscan 上手动，把小精灵（以及可选的小曲）写入以太坊合约，然后选择模式，并可随时更改。处于“接收”模式的代币，以铸造时分配的四种布局之一显示源源涌入的小精灵；处于“发送”模式的代币让自己的小精灵向外脉动。每个区块，所有代币之间的平衡决定节奏：发送者越多，接收者填满得越快；接收者越多，每个发送者被分散得越稀。2025 年 12 月 15 日至 31 日，任何持有 Art Blocks 代币的人每个钱包可铸造一枚，头部藏家另获空投。",
+      "collective": "The edition closed at 8,983 tokens. The picture on any one token is produced by everyone else's settings, so the network changes as holders draw sprites, compose tunes and switch between giving and taking. Calderon described the work as starting from the phrase 'sending thoughts and prayers' and as an attempt to make empathy visible on-chain.",
+      "collective_zh": "版次最终定格在 8,983 枚。任何一枚代币上的画面都由其他所有人的设置共同生成，因此随着持有者绘制小精灵、编写小曲、在给予和索取之间切换，整张网络不断变化。Calderon 说，这件作品源自“送上思念与祈祷”这句话，想在链上让共情变得可见。",
+      "keywords": [
+        "Art Blocks",
+        "AB500",
+        "network",
+        "sprite",
+        "send",
+        "receive",
+        "on-chain audio"
+      ],
+      "images": [
+        "https://production-cms-bucket.s3.us-east-1.amazonaws.com/final3_snowfro_33b51be92c.png",
+        "https://media-proxy.artblocks.io/1/0xababababab20053426ad1c782de9ea8444358070/5004656.png",
+        "https://production-cms-bucket.s3.us-east-1.amazonaws.com/gif_721defca7b.gif"
+      ],
+      "source_url": "https://www.artblocks.io/collection/sendreceive-by-snowfro",
+      "contract_url": "https://etherscan.io/address/0xababababab20053426ad1c782de9ea8444358070"
+    },
+    {
+      "id": "kim-asendorf--pxl-dex",
+      "creator_ids": [
+        "kim-asendorf"
+      ],
+      "title": "PXL DEX",
+      "year": 2025,
+      "field": "onchain",
+      "sub": "supply",
+      "also": [],
+      "mechanisms": [
+        "currency",
+        "scarcity",
+        "exchange"
+      ],
+      "substrate": "ethereum",
+      "kind": "series",
+      "description": "256 fully on-chain 3D animations, called Decks, whose pixels are a fungible ERC-20 token, PXL. How dense or empty each animation looks depends on how many PXL its owner keeps inside it.",
+      "description_zh": "256 件完全链上的三维动画（称为 Deck），画面中的像素是一种可替代的 ERC-20 代币 PXL。每件动画看起来稠密还是空荡，取决于它的主人在其中存放了多少 PXL。",
+      "idea_en": "Make the pixel a currency, so an image's density is a balance that owners can fill, drain or move into another work.",
+      "idea_zh": "把像素变成货币，让图像的密度成为一笔余额：主人可以把它填满、抽空，或转移到另一件作品里。",
+      "protocol": "A Deck cost 0.5 ETH plus 0.000001 ETH per pixel, with up to 500,000 PXL at mint and a further 500,000-pixel allowance bound to the Deck that passes to any later owner. Owners can deposit and withdraw PXL at any time, and a drained Deck goes black. PXL is capped at 1,024,000,000 tokens shared by every work in the series, so pixels taken out of one work can be put into another.",
+      "protocol_zh": "铸造一个 Deck 需要 0.5 ETH，外加每个像素 0.000001 ETH；铸造时最多可放入 500,000 个 PXL，另有 500,000 个像素的额度绑定在 Deck 上，随作品转给之后的主人。主人可以随时存入或取出 PXL，被抽空的 Deck 会变成一片黑。PXL 总量上限为 1,024,000,000，由整个系列的所有作品共享，因此从一件作品取出的像素可以放进另一件。",
+      "collective": "The contract went live on 17 January 2025 and, according to an essay by Bright Moments founder Seth Goldstein, all 256 Decks were minted by February. Each work's look is set by its owner's balance; the same essay counts about 301.7 million of the 1.024 billion pixels minted by July 2026. The token then carried into later works: PXL POD (2026), 256 pieces that only PXL DEX holders could mint, and PXL NET.",
+      "collective_zh": "合约于 2025 年 1 月 17 日上线；据 Bright Moments 创始人 Seth Goldstein 的文章，256 个 Deck 在 2 月前全部铸出。每件作品的样子由主人的余额决定；同一篇文章统计，到 2026 年 7 月，10.24 亿个像素中约有 3.017 亿个已被铸出。这一代币随后延续到之后的作品：只有 PXL DEX 持有者才能铸造的 256 件 PXL POD（2026），以及 PXL NET。",
+      "keywords": [
+        "PXL",
+        "ERC-20",
+        "ERC-721",
+        "pixel token",
+        "density",
+        "PXL POD"
+      ],
+      "images": [
+        "https://pxl.onl/assets/pxl-dex-index.png",
+        "https://log.fakewhale.xyz/wp-content/uploads/2025/03/kimstill1.jpg"
+      ],
+      "paper": {
+        "url": "https://pxl.onl/dex/editorial",
+        "doi": "",
+        "arxiv": "",
+        "venue": "PXL DEX editorial (Kevin Buist, 2025)",
+        "title": "Tokenizing Pixels"
+      },
+      "source_url": "https://pxl.onl/dex",
+      "contract_url": "https://etherscan.io/address/0x81345761670fc8b90665466A94C196E26b92EcFB"
+    },
+    {
+      "id": "kim-asendorf--pxl-net",
+      "creator_ids": [
+        "kim-asendorf"
+      ],
+      "title": "PXL NET",
+      "year": 2026,
+      "field": "onchain",
+      "sub": "supply",
+      "also": [],
+      "mechanisms": [
+        "participation",
+        "currency",
+        "scarcity"
+      ],
+      "substrate": "ethereum",
+      "kind": "artwork",
+      "description": "A one-of-one opened at NODE in Palo Alto on 11 July 2026: visitors buy pixels at the front desk on RFID cards and deposit them into a shared on-chain network, which a single token renders but does not own.",
+      "description_zh": "一件独版作品，2026 年 7 月 11 日在帕洛阿尔托的 NODE 开幕：观众在前台用 RFID 卡购买像素，把它们存入一张共享的链上网络；这张网络由一枚代币呈现，但这枚代币并不拥有其中任何像素。",
+      "idea_en": "An artwork made only of what the audience puts in, and which anyone can leave by taking their share back.",
+      "idea_zh": "一件只由观众投入之物构成的作品，任何人都可以取回自己的那一份，就此离开。",
+      "protocol": "Pixels are sold only in the venue, through RFID cards and a NODE iOS wallet, at a flat fifth of a cent each: cards run from $8 (4,000 pixels) to $2,560 (1.28 million), up to five per person. The contract accepts each deposit only between 4,000 and 1.28 million pixels and issues a receipt token in the PXL NODE collection; burning the receipt returns every deposited pixel, all or nothing. Token 0 is the network itself: it sees every pixel and owns none.",
+      "protocol_zh": "像素只在场馆内出售，通过 RFID 卡和 NODE 的 iOS 钱包完成，统一价格为每个像素五分之一美分：卡片从 8 美元（4,000 个像素）到 2,560 美元（128 万个像素）不等，每人最多五张。合约只接受每次 4,000 到 128 万个像素之间的存入，并发放一枚 PXL NODE 系列的收据代币；销毁收据，所有存入的像素就全部返还，要么全取，要么不取。0 号代币就是网络本身：它看得见每一个像素，却一个也不拥有。",
+      "collective": "Visitors filled much of the network on its first day: by midnight 75,030,254 pixels had entered a 128-million capacity, as Seth Goldstein reports. The image is the sum of their deposits and thins out whenever someone burns a receipt to take their pixels back.",
+      "collective_zh": "开幕第一天，观众就填满了网络的一大部分：据 Seth Goldstein 记录，到午夜已有 75,030,254 个像素进入容量为 1.28 亿的网络。画面是所有存入的总和，每当有人销毁收据取回像素，它就会变得稀疏一些。",
+      "keywords": [
+        "PXL",
+        "NODE",
+        "RFID",
+        "receipt token",
+        "deposit",
+        "Palo Alto"
+      ],
+      "images": [
+        "https://cdn.prod.website-files.com/69a148c2e36be434639e3978/6a5e8aa44b632ef361736949_01-front-desk-price-board.jpg",
+        "https://cdn.prod.website-files.com/69a148c2e36be434639e3978/6a5e8cc9aa4c6acf4d4f6b1f_Screenshot%202026-07-20%20at%2022.01.56.png"
+      ],
+      "paper": {
+        "url": "https://www.tetragrammaton.com/article/the-economy-is-the-medium-pt-i---the-market",
+        "doi": "",
+        "arxiv": "",
+        "venue": "Tetragrammaton (Seth Goldstein, 2026)",
+        "title": "The Economy Is The Medium Pt. I - The Market"
+      },
+      "source_url": "https://www.tetragrammaton.com/article/the-economy-is-the-medium-pt-i---the-market"
+    },
+    {
+      "id": "leander-herzog--infinite-garden",
+      "creator_ids": [
+        "leander-herzog"
+      ],
+      "title": "Infinite Garden",
+      "year": 2025,
+      "field": "onchain",
+      "sub": "co-authored",
+      "also": [],
+      "mechanisms": [
+        "participation",
+        "merge",
+        "circulation"
+      ],
+      "substrate": "ethereum",
+      "kind": "artwork",
+      "description": "An open-edition, on-chain garden on the Shape network: collectors plant generative flowers, arrange them, give them to one another and merge them into new gardens, while the flowers change with the time of day and the seasons.",
+      "description_zh": "一座建在 Shape 网络上的开放版次链上花园：藏家种下生成式花朵、加以布置、彼此赠送，并把它们合并成新的花园；花朵随昼夜和四季而变化。",
+      "idea_en": "A collection that is tended rather than held: flowers are planted, given away and merged, so no garden stays the same.",
+      "idea_zh": "一份需要照料而不是持有的收藏：花被种下、送出、合并，没有哪座花园会保持原样。",
+      "protocol": "Anyone can mint a first composition of flowers for an ETH fee and add more flowers later for a further fee. Owners arrange their flowers into a garden, or gift a flower to another collector, where it merges into that collector's garden. The rendering responds to daily and seasonal cycles. Half of the proceeds go to Protocol Guild, which funds Ethereum core developers.",
+      "protocol_zh": "任何人都可以支付一笔 ETH 铸造第一组花，之后再付费添加更多的花。主人把自己的花布置成花园，或把一朵花送给另一位藏家，让它并入对方的花园。画面随昼夜与季节的循环而变化。一半收入捐给为以太坊核心开发者提供资金的 Protocol Guild。",
+      "collective": "It opened with Herzog's solo show at Nguyen Wahed, New York (17 March–2 May 2025), presented with Shape, where a real-time installation showed the garden. By October 2026 the project page counted 1,801 collectors who had planted 315,730,521 flowers through 38,669 on-chain interactions.",
+      "collective_zh": "作品随 Herzog 在纽约 Nguyen Wahed 的个展（2025 年 3 月 17 日至 5 月 2 日）推出，与 Shape 合作，展厅里的实时装置呈现这座花园。到 2026 年 10 月，项目页面统计有 1,801 位藏家通过 38,669 次链上操作种下了 315,730,521 朵花。",
+      "keywords": [
+        "Shape",
+        "open edition",
+        "garden",
+        "merge",
+        "gift",
+        "Protocol Guild",
+        "Nguyen Wahed"
+      ],
+      "images": [
+        "https://www.infinite-garden.xyz/opengraph-image.jpeg?3f2102d76220658a"
+      ],
+      "source_url": "https://www.infinite-garden.xyz/",
+      "contract_url": "https://shapescan.xyz/address/0xbB8F2711bd4BC98223990267f771E97d2d9Bc167"
+    },
+    {
+      "id": "figure31--blue-moon-flaming-star",
+      "creator_ids": [
+        "figure31"
+      ],
+      "title": "Blue Moon and Flaming Star",
+      "year": 2025,
+      "field": "onchain",
+      "sub": "supply",
+      "also": [],
+      "mechanisms": [
+        "currency",
+        "participation",
+        "exchange"
+      ],
+      "substrate": "ethereum",
+      "kind": "series",
+      "description": "Two linked releases on Base that pair a fungible token with a few dynamic NFTs. Every mint of Blue Moon, and every mint and transfer of Flaming Star, writes a colour into shared grids, so the token's trading history becomes the picture.",
+      "description_zh": "两件相互关联、发行在 Base 上的作品，都把一种可替代代币与少量动态 NFT 配对。Blue Moon 的每一次铸造、Flaming Star 的每一次铸造和转账，都会在共享网格中写入一种颜色，于是代币的交易历史就成了画面。",
+      "idea_en": "Let the market paint: every transaction by any holder adds a colour to a picture owned in common.",
+      "idea_zh": "让市场来作画：任何持有者的每一笔交易，都为一幅共有的画面添上一种颜色。",
+      "protocol": "Blue Moon ($BMOON, October 2025) has 88,888,888 tokens; each mint generates a random blue HSL value stored on-chain, and the event log of every participating address is indexed into a collectively owned artwork. Flaming Star ($FSTAR, November 2025) has 666,666,666,666 tokens; mints fill a fixed 100,000-cell grid, transfers fill a live 3,000-cell grid and an ever-growing canvas, and a helper contract can send 1 $FSTAR to 33 random addresses in one transaction to multiply colour events. Token holders can claim a few dynamic NFTs (22 for Blue Moon, 33 for Flaming Star) seeded by their address and the latest block; Flaming Star NFT owners receive half of the trading-pool fees through a Uniswap hook.",
+      "protocol_zh": "Blue Moon（$BMOON，2025 年 10 月）共 88,888,888 枚代币；每次铸造生成一个随机的蓝色 HSL 数值并存于链上，每个参与地址在合约事件日志中留下的记录被汇编成一件集体拥有的作品。Flaming Star（$FSTAR，2025 年 11 月）共 666,666,666,666 枚代币；铸造填充一张固定的 100,000 格网格，转账填充一张实时的 3,000 格网格和一块不断扩张的画布，另有一个辅助合约能在一笔交易中向 33 个随机地址各发送 1 枚 $FSTAR，成倍增加颜色事件。代币持有者可以领取少量动态 NFT（Blue Moon 22 枚，Flaming Star 33 枚），由持有者地址和最新区块生成；Flaming Star 的 NFT 持有者通过一个 Uniswap hook 分得交易池一半的手续费。",
+      "collective": "The pictures are made by whoever mints and trades: the more addresses move the tokens, the fuller the canvases. Figure31 describes this as authorship moving 'from composition to participative system design'.",
+      "collective_zh": "画面由所有铸造和交易的人共同完成：移动代币的地址越多，画布就越满。Figure31 把这称为作者身份“从构图转向参与式的系统设计”。",
+      "keywords": [
+        "Base",
+        "ERC-20",
+        "ERC-721",
+        "HSL",
+        "Uniswap v4 hook",
+        "transfer events",
+        "Richter"
+      ],
+      "images": [
+        "https://flamingstar.figure31.com/flamingstar_card.png",
+        "https://bluemoon.figure31.com/bluemoon_card.png"
+      ],
+      "source_url": "https://flamingstar.figure31.com/",
+      "contract_url": "https://basescan.org/address/0x727BcEDaEa3661fd31A9e03b4f59ddA6E5aA38c4"
+    },
+    {
+      "id": "figure31--sprawl",
+      "creator_ids": [
+        "figure31"
+      ],
+      "title": "Sprawl",
+      "year": 2026,
+      "field": "onchain",
+      "sub": "co-authored",
+      "also": [
+        "network"
+      ],
+      "mechanisms": [
+        "co-authorship",
+        "governance",
+        "participation"
+      ],
+      "substrate": "ethereum",
+      "kind": "artwork",
+      "description": "A branching story written by humans and AI agents from one opening passage. Contributors add links to the tree and reuse shared characters, places and plot arcs; anyone can pay to store a passage on Ethereum for good.",
+      "description_zh": "一个由人类和 AI 智能体从同一段开头写起的分叉故事。参与者往故事树上添加段落，并沿用共享的人物、地点和情节线；任何人都可以付费，把某一段永久存上以太坊。",
+      "idea_en": "A novel as a public tree: no one writes the book, everyone writes a branch, and collecting a passage is what makes it permanent.",
+      "idea_zh": "把小说写成一棵公共的树：没有人写整本书，每个人写一根枝，而收藏某一段，才让它成为永久。",
+      "protocol": "Writers register as 'citizens' with a one-time 0.01 ETH fee and then write through an AI agent kit that signs each contribution off-chain. A link is up to 1,000 bytes of plain text attached to one parent and cannot be edited; entities (characters, objects, places, events) belong to whoever names them first; arcs mark plans that span several links; each citizen may vote once per link. Anyone can collect a link, entity or arc for 0.005 ETH, which writes it to Ethereum permanently and pays its author 25%; uncollected text stays off-chain. Resales carry a 25% buyer's premium to the protocol.",
+      "protocol_zh": "写作者支付一次性 0.01 ETH 注册为“公民”，此后通过一套 AI 智能体工具写作，每次投稿都在链下签名。一个段落最多 1,000 字节纯文本，只能接在一个上级段落之后，提交后不可修改；实体（人物、物件、地点、事件）归第一个命名的人；情节线标示跨越多个段落的意图；每位公民对每个段落只能投一票。任何人都可以花 0.005 ETH 收藏一个段落、实体或情节线，把它永久写入以太坊，作者分得 25%；没有被收藏的文字留在链下。转售时买方另付 25% 的溢价归协议所有。",
+      "collective": "Since the contract went live on 29 April 2026, people and their agents have grown the tree outward from link #0. A story is any path from the root to a leaf, and which branches survive on-chain depends on what readers choose to collect.",
+      "collective_zh": "合约于 2026 年 4 月 29 日上线以来，人们和他们的智能体从 0 号段落出发，让这棵树不断向外生长。从根到任一叶子的路径就是一个故事，而哪些枝条能留在链上，取决于读者选择收藏什么。",
+      "keywords": [
+        "branching narrative",
+        "AI agents",
+        "citizens",
+        "collect to store",
+        "agent kit",
+        "Ethereum"
+      ],
+      "images": [
+        "https://figure31.github.io/sprawl-hybrid/preview.png"
+      ],
+      "source_url": "https://sprawl.figure31.com/",
+      "contract_url": "https://etherscan.io/address/0x29E485CE51a4dF0b9f4e468855c1C9B4145bdeE2",
+      "code_url": "https://github.com/figure31/sprawl-agent-kit"
+    },
+    {
+      "id": "figure31--melancholia",
+      "creator_ids": [
+        "figure31"
+      ],
+      "title": "Melancholia",
+      "year": 2026,
+      "field": "onchain",
+      "sub": "ownership",
+      "also": [],
+      "mechanisms": [
+        "contract",
+        "time",
+        "circulation"
+      ],
+      "substrate": "ethereum",
+      "kind": "series",
+      "description": "A library of 24 on-chain text-image compositions, each redrawing a historical print (by Dürer, Goya, Doré and Bruegel, among others) from an external source link. Owners are 'tenders' who share the job of keeping those links alive.",
+      "description_zh": "一座由 24 件链上图文作品组成的图书馆，每件都根据一个外部来源链接，重新绘制一幅历史版画（出自丢勒、戈雅、多雷、勃鲁盖尔等人之手）。持有者被称为“照看者”，共同负责让这些链接一直有效。",
+      "idea_en": "Ownership as maintenance: whoever holds the work also holds the duty to repair it.",
+      "idea_zh": "所有权即维护：谁持有作品，谁就同时承担修复它的责任。",
+      "protocol": "Each composition is a contract entry with an ID, title, artist, source link and rendering settings (crop, scale, contrast, threshold); the source image is never altered, only redrawn. The artist and the current owner can change the link and the settings at any time, and every change is recorded on-chain. Compositions are not NFTs: ownership, transfers and an integrated market live inside the contract, at an initial 0.025 ETH each with a 15% buyer's premium on resales, and everything can be done through the contract if the website disappears.",
+      "protocol_zh": "每件作品都是合约中的一个条目，包含编号、标题、原作者、来源链接和渲染参数（裁切、缩放、对比度、阈值）；原图从不被修改，只被重新绘制。艺术家和当前持有者可以随时修改链接和参数，每次修改都记录在链上。这些作品不是 NFT：所有权、转让和一个内置市场都在合约内部运行，初始价格每件 0.025 ETH，转售时买方另付 15% 溢价；即使网站消失，一切操作仍可直接通过合约完成。",
+      "collective": "The 24 compositions, made in 12 thematic pairs, depend on their tenders: when a host removes a print, a work survives only if its owner finds a new source and updates the link, and any such repair is written to the chain.",
+      "collective_zh": "这 24 件作品分成 12 组主题对，它们的存续取决于照看者：一旦托管网站删除某幅版画，只有持有者找到新的来源并更新链接，作品才能活下来，而每一次这样的修复都会写进链上。",
+      "keywords": [
+        "tender",
+        "link rot",
+        "maintenance",
+        "historical prints",
+        "Dürer",
+        "non-NFT ownership"
+      ],
+      "images": [
+        "https://melancholia.figure31.com/preview.png"
+      ],
+      "source_url": "https://melancholia.figure31.com/",
+      "contract_url": "https://etherscan.io/address/0x26f609Db4b517cEDEcFc9422cB85dEBd16dA883E"
+    },
+    {
+      "id": "figure31--throwofdice",
+      "creator_ids": [
+        "figure31"
+      ],
+      "title": "throwOfDice",
+      "year": 2026,
+      "field": "onchain",
+      "sub": "co-authored",
+      "also": [],
+      "mechanisms": [
+        "chance",
+        "participation",
+        "co-authorship"
+      ],
+      "substrate": "tezos",
+      "kind": "series",
+      "description": "A live, fully on-chain series on Etherlink, Tezos' EVM layer 2, in which each token is a throw of one to nine dice. Collectors choose the faces that land on top; the hidden faces come from the wallet of the collector who minted before them.",
+      "description_zh": "一个发行在 Etherlink（Tezos 的 EVM 二层网络）上、完全链上且实时运行的系列，每枚代币都是一次一到九颗骰子的投掷。藏家自己选择朝上的点数；看不见的侧面则来自前一位铸造者的钱包。",
+      "idea_en": "Chance is not abolished, only moved: you choose what shows, and inherit what is hidden from the stranger before you.",
+      "idea_zh": "偶然并未被消除，只是被挪动了：露在外面的由你选择，藏在里面的继承自你之前那位陌生人。",
+      "protocol": "At mint, the collector sets the number of dice (1–9) and their top-face values (1–9), which are then fixed. Side values are derived from the previous minter's wallet address and keep changing; dice positions, light source and camera orbit are re-rolled on every view. The contract renders the work as HTML and SVG on-chain.",
+      "protocol_zh": "铸造时，藏家设定骰子数量（1 到 9 颗）和朝上的点数（1 到 9），此后不可更改。侧面的点数由前一位铸造者的钱包地址生成，并持续变化；骰子的位置、光源和镜头轨道在每次查看时重新随机。合约在链上以 HTML 和 SVG 渲染作品。",
+      "collective": "The series forms a chain of collectors: each new throw carries a trace of the previous minter, so the order in which people arrived is written into the set. Curated by Grida with support from Trilitech, it was shown at the Non Fungible Conference in Lisbon in 2026.",
+      "collective_zh": "整个系列构成一条藏家链：每一次新投掷都带着上一位铸造者的痕迹，人们到来的先后顺序因此写进了整套作品。作品由 Grida 策划、Trilitech 支持，2026 年在里斯本的 Non Fungible Conference 展出。",
+      "keywords": [
+        "Etherlink",
+        "dice",
+        "Mallarmé",
+        "chance",
+        "previous minter",
+        "Grida"
+      ],
+      "images": [
+        "https://throwofdice.figure31.com/preview.png"
+      ],
+      "source_url": "https://throwofdice.figure31.com/",
+      "contract_url": "https://explorer.etherlink.com/address/0x9C4eBDfF80e8F3825B67b7E78592a62e4BBAe8b3"
+    }
+  ],
+  "leads": [
+    {
+      "name": "dmstfctn, Fango 1000 (2024–25)",
+      "why": "On-chain 'large lore model' game built with MUD: players join Monks, Scholars or Fools, write interpretations of 1,000 chronicles and vote by throwing mud, so only consensus texts survive. Prototypes shown in 2024 (Koelhuis Eindhoven, Etopia Zaragoza), free-to-play testnet release 2025; outside this batch's 2025+ window by first showing.",
+      "link": "https://www.lerandom.art/editorial/post-generative-language-games",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "0xfff, Transaction Sculptures (2018–2026)",
+      "why": "Arrangements of Ethereum contracts that pass value between each other; anyone can send ETH through a sculpture and the path is drawn. Shown in 1 BILLION DOLLAR SHOW, Nguyen Wahed, New York (25 Sep–19 Oct 2026). Needs per-sculpture rules and first-deployment dates.",
+      "link": "https://tx.0xfff.love/",
+      "found_via": "0xfff",
+      "status": "open"
+    },
+    {
+      "name": "DX Research Group, DX Terminal (2025) and DX Terminal Pro (2026)",
+      "why": "Simulation in which about 36,000 AI trader personas act on players' instructions with trading data published on-chain (pixel art by Gremplin). Check whether it is an authored art protocol or a commercial game.",
+      "link": "https://www.lerandom.art/editorial/dx-research-group-on-the-agent-arena",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "CROSSLUCID, The Way of Flowers (2023–2025)",
+      "why": "Blockchain-registered digital seeds change form when collectors fund verified conservation projects (Regen Network, ArtEcology); solo show at Office Impart, Berlin, 2025. First iteration 2023; needs chain and contract details.",
+      "link": "https://crosslucid.zone/",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "Figure31, DEAD ENDS (Canto, 2022)",
+      "why": "Each mint comes with $UP tokens that collectors spend to upsample images up to five times, shaping the final collection together.",
+      "link": "https://figure31.com/",
+      "found_via": "figure31",
+      "status": "open"
+    },
+    {
+      "name": "Figure31, Reaper's Gambit (2023)",
+      "why": "$RG becomes non-transferable after 64,800 blocks unless holders move it to a new address; holders can burn it into an 'Immortal' NFT.",
+      "link": "https://figure31.com/",
+      "found_via": "figure31",
+      "status": "open"
+    },
+    {
+      "name": "Figure31, LINE (Fingerprints DAO, 2024)",
+      "why": "100 dynamic NFTs whose holders move them to new grid coordinates; position decides the image each token sees.",
+      "link": "https://line.fingerprintsdao.xyz/about",
+      "found_via": "figure31",
+      "status": "open"
+    },
+    {
+      "name": "Matt Kane, ANONS & Multitudes (2023–)",
+      "why": "Auction-based series by an existing gallery artist; rules not yet checked.",
+      "link": "https://anons.art",
+      "found_via": "matt-kane",
+      "status": "open"
+    },
+    {
+      "name": "Leander Herzog, 1000 True Fans (2023)",
+      "why": "Title suggests a patronage protocol; not yet checked.",
+      "link": "https://leanderherzog.ch",
+      "found_via": "leander-herzog",
+      "status": "open"
+    },
+    {
+      "name": "Anna Ridler, The Shell Record: Breathings of the Moon",
+      "why": "Machine-made shell images that can be seen and traded only at low tide on the Thames; check year and whether the tide rule shapes collector behaviour.",
+      "link": "https://nguyenwahed.com/exhibitions/24-face-value-john-gerrard-anna-ridler-addie-wagenknecht-rachel-maclean/overview/",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "Ana María Caballero, In Record Time (2025)",
+      "why": "OpenSea and Art Basel commission for Zero 10: an open edition built around the poem Training Data, which Caballero invited other artists to annotate by hand (continuing her Fifty Ways of Looking at a Poem). Check whether the annotators' contributions are recorded on-chain and how many took part.",
+      "link": "https://opensea.io/collection/in-record-time-by-ana-maria-caballero/overview",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "Material Protocol Arts, Cycles (2025)",
+      "why": "512-lens on-chain kinetic sculpture that runs on its own; holders can only freeze a lens, so collective behaviour is not the work.",
+      "link": "https://opensea.io/blog/articles/in-conversation-with-material-protocol-arts-team-the-creative-studio-behind-cycles",
+      "found_via": "seed",
+      "status": "off_topic"
+    },
+    {
+      "name": "Larva Labs, Quine (Art Blocks, 2025)",
+      "why": "Generative outputs whose code regenerates other outputs; viewers can run it individually, but no rule addressed to a group.",
+      "link": "https://www.lerandom.art/editorial/larva-labs-on-computations-strangeness",
+      "found_via": "larva-labs",
+      "status": "off_topic"
+    },
+    {
+      "name": "Snowfro, LIFT (a self portrait) (2025)",
+      "why": "Single-player daily-return game on Art Blocks; no collective rule.",
+      "link": "https://www.rightclicksave.com/article/the-art-of-the-game-snowfro-mitchell-f-chan-interview-alex-estorick",
+      "found_via": "snowfro",
+      "status": "off_topic"
+    },
+    {
+      "name": "DCA, Diggly Collects All (Art Blocks, 2025)",
+      "why": "Individual on-chain game; each owner's arrangement is stored via PostParams, no group behaviour.",
+      "link": "https://www.artblocks.io/articles/the-final-three-ab500-comes-full-circle",
+      "found_via": "snowfro",
+      "status": "off_topic"
+    },
+    {
+      "name": "BASEMENT x Ryley-O, pool party (Art Blocks, 2026)",
+      "why": "Each token buys an ERC-20 and tracks its price; individual, not collective.",
+      "link": "https://www.pool-party.fun",
+      "found_via": "seed",
+      "status": "off_topic"
+    },
+    {
+      "name": "Rhea Myers, Non (2025)",
+      "why": "NFT edition framed as a service-contract offer between work and owner; no rule that shapes a group.",
+      "link": "https://rhea.art/non/",
+      "found_via": "rhea-myers",
+      "status": "off_topic"
+    },
+    {
+      "name": "Rhea Myers, Koala Noosphere, Grinding and Context Collapse (2026)",
+      "why": "NFT editions and a generative animation without collective rules.",
+      "link": "https://rhea.art/",
+      "found_via": "rhea-myers",
+      "status": "off_topic"
+    },
+    {
+      "name": "Leander Herzog & 0xfff, ABO (2025)",
+      "why": "Allowlisted, on-chain-generated animation; no collective rule found.",
+      "link": "https://abo.leanderherzog.ch/",
+      "found_via": "leander-herzog",
+      "status": "off_topic"
+    },
+    {
+      "name": "Evil Biscuit, card nft 2 (2026)",
+      "why": "Packs of NFTs that holders can burn to redeem physical cards; individual redemption, not a group protocol.",
+      "link": "https://www.lerandom.art/editorial/evil-biscuit-on-card-nft-2-destruction-rebirth",
+      "found_via": "seed",
+      "status": "off_topic"
+    },
+    {
+      "name": "Nicolas Sassoon, DOORS (2025)",
+      "why": "Works lock and unlock from temperature data via blockchain; collectors do not shape them.",
+      "link": "https://nguyenwahed.com/exhibitions/",
+      "found_via": "seed",
+      "status": "off_topic"
+    },
+    {
+      "name": "PunkStrategy / $PNKSTR (TokenWorks, 2025)",
+      "why": "DeFi token whose trading fees buy and relist CryptoPunks; no artistic author.",
+      "link": "https://www.bankless.com/read/metaversal-2025-retro",
+      "found_via": "seed",
+      "status": "off_topic"
+    },
+    {
+      "name": "Uniswap v4 hook collectibles: Unipeg, Slonks, SATO (2026)",
+      "why": "Anonymous or commercial token-NFT hybrids; no identifiable artist.",
+      "link": "https://github.com/fewwwww/awesome-uniswap-hooks",
+      "found_via": "seed",
+      "status": "off_topic"
+    }
+  ]
+}

@@ -1,0 +1,1227 @@
+{
+ "batch": "pass3-leads-score",
+ "creators": [
+  {
+   "id": "olafur-eliasson",
+   "name": "Olafur Eliasson",
+   "kind": "person",
+   "role": "Artist",
+   "role_zh": "艺术家",
+   "based": "Berlin, DE",
+   "based_zh": "柏林，德国",
+   "bio": "Danish-Icelandic artist (born 1967) who founded Studio Olafur Eliasson in Berlin in 1995 and makes installations with light, water, air temperature and public participation.",
+   "bio_zh": "丹麦—冰岛艺术家（1967 年生），1995 年在柏林创立 Studio Olafur Eliasson，以光、水、气温和公众参与创作装置。",
+   "why": "His collectivity project hands a city of white LEGO bricks to passers-by, who keep building and rebuilding it.",
+   "why_zh": "他的《集体计划》把一座白色乐高积木之城交给路人，由他们不断搭建和改造。",
+   "links": {
+    "site": "https://olafureliasson.net",
+    "wikipedia": "https://en.wikipedia.org/wiki/Olafur_Eliasson"
+   },
+   "connected_to": [],
+   "discovered_via": "erwin-wurm"
+  },
+  {
+   "id": "lygia-pape",
+   "name": "Lygia Pape",
+   "kind": "person",
+   "role": "Artist",
+   "role_zh": "艺术家",
+   "based": "Rio de Janeiro, BR",
+   "based_zh": "里约热内卢，巴西",
+   "bio": "Brazilian artist (1927–2004) and member of the Neo-Concrete movement in Rio de Janeiro, who moved from abstract prints and books to works that people wear, walk through and perform.",
+   "bio_zh": "巴西艺术家（1927—2004），里约热内卢新具体主义运动的成员，从抽象版画和书籍转向让人穿戴、穿行和表演的作品。",
+   "why": "Divisor turns one large cloth into a rule for moving as a crowd: everyone's head goes through the same sheet.",
+   "why_zh": "《分隔者》把一块巨大的布变成一条集体移动的规则：所有人的头都穿过同一张布。",
+   "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Lygia_Pape"
+   },
+   "connected_to": [
+    "lygia-clark",
+    "helio-oiticica"
+   ],
+   "discovered_via": "anna-halprin"
+  },
+  {
+   "id": "joseph-kosuth",
+   "name": "Joseph Kosuth",
+   "kind": "person",
+   "role": "Conceptual artist",
+   "role_zh": "观念艺术家",
+   "based": "New York, US; Rome, IT",
+   "based_zh": "纽约，美国；罗马，意大利",
+   "bio": "American conceptual artist (born 1945) whose works from 1965 onward set objects, photographs and dictionary definitions side by side to ask what an artwork is; he also wrote the essay 'Art after Philosophy' (1969).",
+   "bio_zh": "美国观念艺术家（1945 年生），自 1965 年起把物件、照片和词典释义并置，追问什么是艺术作品；他还写了文章《哲学之后的艺术》（1969）。",
+   "why": "One and Three Chairs travels as instructions, so whoever installs it photographs a new chair.",
+   "why_zh": "《一把和三把椅子》以指令的形式流转，每次安装都要为一把新椅子拍一张新照片。",
+   "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Kosuth"
+   },
+   "connected_to": [
+    "seth-siegelaub",
+    "sol-lewitt",
+    "lawrence-weiner"
+   ],
+   "discovered_via": "sol-lewitt"
+  },
+  {
+   "id": "lucy-lippard",
+   "name": "Lucy R. Lippard",
+   "kind": "person",
+   "role": "Writer, critic and curator",
+   "role_zh": "作家、评论家、策展人",
+   "based": "New York, US; Galisteo, New Mexico, US",
+   "based_zh": "美国纽约；美国新墨西哥州加利斯特奥",
+   "bio": "American writer, critic and curator (born 1937) who was among the first to describe the 'dematerialization' of the art object in conceptual art, chronicled it in her book Six Years, and was an early champion of feminist art.",
+   "bio_zh": "美国作家、评论家和策展人（1937 年生），最早论述观念艺术中艺术对象“去物质化”的作者之一，在《六年》一书中记录了这段历史，也是女性主义艺术的早期倡导者。",
+   "why": "Her 'numbers shows' were exhibitions in which artists sent instructions on index cards and volunteers carried most of them out.",
+   "why_zh": "她的“数字展”让艺术家把指令写在索引卡上寄来，大部分作品由志愿者执行。",
+   "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Lucy_R._Lippard"
+   },
+   "connected_to": [
+    "seth-siegelaub",
+    "sol-lewitt"
+   ],
+   "discovered_via": "sol-lewitt"
+  },
+  {
+   "id": "yvonne-rainer",
+   "name": "Yvonne Rainer",
+   "kind": "person",
+   "role": "Choreographer and filmmaker",
+   "role_zh": "编舞家、电影人",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "bio": "American choreographer and filmmaker (born 1934), a founder of Judson Dance Theater, whose 1960s dances used ordinary movements, tasks and untrained performers.",
+   "bio_zh": "美国编舞家和电影人（1934 年生），贾德森舞蹈剧场的创始成员之一；她在 1960 年代的舞作使用日常动作、任务和未经训练的表演者。",
+   "why": "In We Shall Run a set of floor plans turns a mixed group of dancers and non-dancers into a running crowd.",
+   "why_zh": "在《我们将奔跑》中，几张路线平面图把舞者与非舞者混合的一群人变成一支奔跑的人群。",
+   "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Yvonne_Rainer"
+   },
+   "connected_to": [
+    "simone-forti",
+    "anna-halprin",
+    "la-monte-young"
+   ],
+   "discovered_via": "la-monte-young"
+  },
+  {
+   "id": "takehisa-kosugi",
+   "name": "Takehisa Kosugi",
+   "kind": "person",
+   "role": "Composer and violinist",
+   "role_zh": "作曲家、小提琴家",
+   "based": "Tokyo, JP; New York, US",
+   "based_zh": "东京，日本；纽约，美国",
+   "bio": "Japanese composer and violinist (1938–2018) who co-founded the improvisation group Group Ongaku in Tokyo around 1960, became an affiliate member of Fluxus, and was music director of the Merce Cunningham Dance Company from 1995 to 2012.",
+   "bio_zh": "日本作曲家、小提琴家（1938—2018），约 1960 年在东京参与创立即兴团体“集团音乐”（Group Ongaku），随后成为激浪派的外围成员，1995 至 2012 年担任默斯·坎宁汉舞团的音乐总监。",
+   "why": "His event scores, such as Micro 1, reduce a piece to one action that any performer can carry out.",
+   "why_zh": "他的事件乐谱（如《Micro 1》）把一首作品压缩成一个任何表演者都能完成的动作。",
+   "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Takehisa_Kosugi"
+   },
+   "connected_to": [
+    "mieko-shiomi",
+    "george-maciunas",
+    "la-monte-young"
+   ],
+   "discovered_via": "la-monte-young"
+  },
+  {
+   "id": "walter-de-maria",
+   "name": "Walter De Maria",
+   "kind": "person",
+   "role": "Sculptor and land artist",
+   "role_zh": "雕塑家、大地艺术家",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "bio": "American artist (1935–2013) known for minimalist sculpture and land art such as The Lightning Field (1977); around 1960 he wrote text scores and the essay 'Meaningless Work' for La Monte Young's Anthology.",
+   "bio_zh": "美国艺术家（1935—2013），以极简主义雕塑和大地艺术（如 1977 年的《闪电原野》）闻名；约 1960 年，他为拉蒙特·扬编的《偶然操作选集》写了文字乐谱和文章《无意义的工作》。",
+   "why": "Beach Crawl is a group score for the seashore, written by a sculptor for other people's bodies and a handful of stones.",
+   "why_zh": "《海滩爬行》是一份写给海边群体的乐谱：一位雕塑家为他人的身体和几块石头写下的规则。",
+   "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Walter_De_Maria"
+   },
+   "connected_to": [
+    "la-monte-young"
+   ],
+   "discovered_via": "la-monte-young"
+  },
+  {
+   "id": "earle-brown",
+   "name": "Earle Brown",
+   "kind": "person",
+   "role": "Composer",
+   "role_zh": "作曲家",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "bio": "American composer (1926–2002) associated with John Cage, Morton Feldman and Christian Wolff in the New York School, known for graphic notation and open-form works.",
+   "bio_zh": "美国作曲家（1926—2002），与约翰·凯奇、莫顿·费尔德曼、克里斯蒂安·沃尔夫同属纽约乐派，以图形记谱和开放形式作品闻名。",
+   "why": "December 1952, a page of black rectangles, is one of the first graphic scores whose sound is decided by whoever plays it.",
+   "why_zh": "《1952 年 12 月》只是一页黑色矩形，是最早由演奏者决定声音的图形乐谱之一。",
+   "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Earle_Brown"
+   },
+   "connected_to": [
+    "john-cage",
+    "christian-wolff"
+   ],
+   "discovered_via": "john-cage"
+  },
+  {
+   "id": "dick-higgins",
+   "name": "Dick Higgins",
+   "kind": "person",
+   "role": "Composer, poet and publisher",
+   "role_zh": "作曲家、诗人、出版人",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "bio": "American composer, poet and publisher (1938–1998), a co-founder of Fluxus who founded the Something Else Press in 1963 and coined the term 'intermedia'.",
+   "bio_zh": "美国作曲家、诗人和出版人（1938—1998），激浪派的共同创始人之一，1963 年创办 Something Else Press 出版社，并提出“跨媒介”（intermedia）一词。",
+   "why": "His Danger Music scores put performers, and sometimes a whole audience, at physical or psychological risk.",
+   "why_zh": "他的《危险音乐》乐谱让表演者、有时也让全体观众承受身体或心理上的风险。",
+   "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Dick_Higgins"
+   },
+   "connected_to": [
+    "alison-knowles",
+    "george-maciunas",
+    "john-cage"
+   ],
+   "discovered_via": "george-maciunas"
+  }
+ ],
+ "works": [
+  {
+   "id": "olafur-eliasson--the-collectivity-project",
+   "creator_ids": [
+    "olafur-eliasson"
+   ],
+   "title": "The collectivity project",
+   "year": 2005,
+   "field": "social",
+   "sub": "collective-action",
+   "also": [
+    "score"
+   ],
+   "mechanisms": [
+    "participation",
+    "co-authorship"
+   ],
+   "substrate": "body",
+   "kind": "artwork",
+   "description": "Large tables heaped with about three tons of white LEGO bricks in a public square, where passers-by are invited to build their vision of a future city. First shown at the 3rd Tirana Biennale in 2005, then in Oslo (2006), Copenhagen (2008), Houston and New York (2015) and Bonn (2018).",
+   "description_zh": "在公共广场的长桌上堆放约三吨白色乐高积木，邀请路人搭建他们心目中的未来城市。2005 年首次在第三届地拉那双年展展出，此后到过奥斯陆（2006）、哥本哈根（2008）、休斯敦和纽约（2015）以及波恩（2018）。",
+   "idea_en": "Give a crowd one material and one prompt, and a city plans itself in public.",
+   "idea_zh": "给人群一种材料和一个提示，一座城市就在公共空间里自己规划自己。",
+   "protocol": "Anyone passing may sit down and build, extend or take apart the white-brick structures on the tables; the only prompt is to imagine a future or ideal city. On the High Line in 2015, ten invited architecture firms built starting structures that the public was free to alter.",
+   "protocol_zh": "任何路过的人都可以坐下来，在桌上搭建、扩建或拆改白色积木结构；唯一的提示是想象一座未来的或理想的城市。2015 年在纽约高线公园，十家受邀建筑事务所先搭好起始结构，公众可以随意改动。",
+   "collective": "Children and adults built towers, houses and whole districts that later visitors altered, so the model city kept changing for the length of each showing. On the High Line (29 May–30 September 2015) the public spent four months altering the firms' structures, Selldorf Architects' among them, and adding new ones.",
+   "collective_zh": "孩子和成人搭起高塔、房屋乃至整片街区，又被后来的人改动，因此每次展出期间这座模型城市都在不断变化。在高线公园（2015 年 5 月 29 日至 9 月 30 日），公众用四个月时间改造这些事务所（包括 Selldorf Architects）留下的结构，并加上新的建筑。",
+   "keywords": [
+    "LEGO",
+    "Tirana Biennale",
+    "High Line",
+    "model city",
+    "utopia"
+   ],
+   "images": [
+    "https://media.olafureliasson.net/img/de3416323836b2eab579-3840/the-collectivity-project_2526.jpg?width=1280&quality=80",
+    "https://media.olafureliasson.net/img/76cd6281460e642f28eb-3840/the-collectivity-project_12298.jpg?width=1280&quality=80"
+   ],
+   "source_url": "https://olafureliasson.net/artwork/the-collectivity-project-2005/"
+  },
+  {
+   "id": "lygia-pape--divisor",
+   "creator_ids": [
+    "lygia-pape"
+   ],
+   "title": "Divisor (Divider)",
+   "year": 1968,
+   "field": "social",
+   "sub": "collective-action",
+   "also": [
+    "score"
+   ],
+   "mechanisms": [
+    "participation",
+    "constraint"
+   ],
+   "substrate": "body",
+   "kind": "artwork",
+   "description": "A very large white cloth cut with rows of slits, through which dozens of people put their heads and then move together as one body. Pape staged it in Rio de Janeiro during the military dictatorship, first with children from a favela and then in the gardens of the Museu de Arte Moderna.",
+   "description_zh": "一块开有成排切口的巨大白布，几十个人把头从切口中伸出，然后像一个身体那样一起移动。帕佩在军事独裁时期的里约热内卢上演此作，先是与一个贫民窟的孩子们，后来在现代艺术博物馆的花园里。",
+   "idea_en": "A shared object can be the rule: once everyone is inside one cloth, no one can move alone.",
+   "idea_zh": "一件共享的物件本身就可以是规则：所有人都在同一块布里，就没有人能单独行动。",
+   "protocol": "Each participant puts their head through one slit; the cloth ties everyone together, so walking, turning or jumping only works if the neighbours move too. In restagings a guide calls out the route and the actions.",
+   "protocol_zh": "每位参与者把头伸进一个切口；布把所有人连在一起，只有身边的人一起动，走路、转身或跳跃才做得成。在重演中，由一位引导者喊出路线和动作。",
+   "collective": "The crowd under the sheet has to find a common pace and shape that no one controls. Recent restagings include Hong Kong (Para Site) and Lisbon (Galeria Graça Brandão), where the cloth was taken to a public square for passers-by. For Pape's retrospective at the Met Breuer in March 2017, about 60 people walked under it from Madison Avenue and 75th Street to the Metropolitan Museum, jumped and turned on staff calls, and onlookers filled the empty slits.",
+   "collective_zh": "布下的人群必须找到一个没人能单独控制的共同步调和形状。近年的重演包括香港（Para Site）和里斯本（Galeria Graça Brandão），在里斯本，这块布被带到公共广场，由路人来启动。2017 年 3 月，为配合大都会布劳耶馆的帕佩回顾展，约 60 人披着这块布从麦迪逊大道 75 街走到大都会艺术博物馆，按工作人员的口令跳跃和转身，围观者也钻进了空着的切口。",
+   "keywords": [
+    "Neo-Concrete",
+    "Rio de Janeiro",
+    "Met Breuer",
+    "cloth",
+    "crowd"
+   ],
+   "images": [
+    "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/hyperallergic-newspack-s3-amazonaws-com/uploads/2017/03/img_6941.jpg",
+    "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/hyperallergic-newspack-s3-amazonaws-com/uploads/2017/03/divisor_-travis-magee-2.jpg"
+   ],
+   "source_url": "https://hyperallergic.com/368222/channeling-lygia-papes-radical-relationship-to-space/"
+  },
+  {
+   "id": "joseph-kosuth--one-and-three-chairs",
+   "creator_ids": [
+    "joseph-kosuth"
+   ],
+   "title": "One and Three Chairs",
+   "year": 1965,
+   "field": "score",
+   "sub": "execution",
+   "mechanisms": [
+    "instruction",
+    "contract"
+   ],
+   "substrate": "text",
+   "kind": "artwork",
+   "description": "A chair, a life-size photograph of that chair and an enlarged dictionary definition of 'chair', installed side by side. Only the definition and an installation diagram, both signed by Kosuth, stay the same; the chair and its photograph change with each installation.",
+   "description_zh": "一把椅子、这把椅子的等大照片，以及放大的词典“椅子”释义，三者并排安装。只有释义和安装示意图（均有科苏斯签名）保持不变；椅子和照片随每次安装而改变。",
+   "idea_en": "Ship the rule, not the object: each venue supplies its own chair.",
+   "idea_zh": "寄出的是规则而不是物件：每个场地自己提供椅子。",
+   "protocol": "Whoever installs the work picks a chair, photographs it against the wall, enlarges the print to the chair's size and hangs it on the left, with the enlarged definition on the right, its top edge aligned with the photograph. Kosuth said each new installation needs a new photograph.",
+   "protocol_zh": "安装者挑一把椅子，靠墙拍照，把照片放大到与椅子等大挂在左边，再把放大的释义挂在右边，上缘与照片对齐。科苏斯说过，每一次新的安装都需要一张新照片。",
+   "collective": "Museums that hold versions, among them MoMA and the Centre Pompidou, realize it with their own chairs and photographs, so the work exists as a series of local executions of one instruction rather than as one fixed object.",
+   "collective_zh": "收藏不同版本的美术馆（包括纽约现代艺术博物馆和蓬皮杜中心）用各自的椅子和照片来实现它，因此这件作品是一条指令在各地的多次执行，而不是一个固定的物件。",
+   "keywords": [
+    "conceptual art",
+    "installation diagram",
+    "dictionary definition",
+    "photograph",
+    "MoMA"
+   ],
+   "images": [
+    "https://www.moma.org/media/W1siZiIsIjE3MDMzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=9ec6b1b0f44ccf97"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/One_and_Three_Chairs"
+  },
+  {
+   "id": "lucy-lippard--557087",
+   "creator_ids": [
+    "lucy-lippard"
+   ],
+   "title": "557,087 / 955,000",
+   "year": 1969,
+   "field": "score",
+   "sub": "execution",
+   "also": [
+    "social"
+   ],
+   "mechanisms": [
+    "instruction",
+    "participation"
+   ],
+   "substrate": "text",
+   "kind": "artwork",
+   "description": "An exhibition organized by Lucy Lippard for the Seattle Art Museum (5 September–5 October 1969), titled after the city's population and restaged at the Vancouver Art Gallery as 955,000 in early 1970. Its catalogue was a pack of loose index cards, one per artist.",
+   "description_zh": "露西·利帕德为西雅图艺术博物馆策划的展览（1969 年 9 月 5 日至 10 月 5 日），以城市人口数命名，1970 年初又以《955,000》为题在温哥华美术馆重办。展览图录是一叠散装索引卡，每位艺术家一张。",
+   "idea_en": "An exhibition can be a stack of instructions that other people turn into works around a city.",
+   "idea_zh": "一个展览可以是一叠指令，由别人在城市各处把它们变成作品。",
+   "protocol": "Lippard invited more than 60 artists to send proposals written on four-by-six-inch index cards; volunteers carried most of them out in the museum pavilion or around the city, and some works existed only as cards.",
+   "protocol_zh": "利帕德邀请 60 多位艺术家把方案写在 4×6 英寸的索引卡上寄来；大部分方案由志愿者在美术馆展厅或城市各处实施，也有一些作品只以卡片形式存在。",
+   "collective": "Volunteers realized the absent artists' instructions, many of them scattered around Seattle rather than in the galleries; Daniel Buren's striped papers, for example, were pasted up by seven people, Lippard among them, who were credited on the same footing as the invited artists. It was the first of four 'numbers shows', followed by Vancouver, Buenos Aires (2,972,453) and c.7,500 in Valencia, California.",
+   "collective_zh": "志愿者替不在场的艺术家实现了他们的指令，其中许多作品散布在西雅图城中而不在展厅里；例如丹尼尔·布伦的条纹纸由包括利帕德在内的七个人张贴，他们与受邀艺术家享有同等的署名。这是四个“数字展”中的第一个，此后还有温哥华、布宜诺斯艾利斯（2,972,453）以及加州瓦伦西亚的 c.7,500。",
+   "keywords": [
+    "numbers shows",
+    "index cards",
+    "Seattle Art Museum",
+    "Vancouver Art Gallery",
+    "conceptual art"
+   ],
+   "images": [
+    "https://d2zy2h1755x359.cloudfront.net/public/DigitalAsset/11350-51589-a03255/43534d180fc7705860febc9637aa721d/full/large/0/default.jpg"
+   ],
+   "paper": {
+    "url": "https://afterall.org/book/from-conceptualism-to-feminism",
+    "title": "From Conceptualism to Feminism: Lucy Lippard's Numbers Shows 1969–74",
+    "venue": "Afterall Books, Exhibition Histories (2012)"
+   },
+   "source_url": "https://www.thestranger.com/visual-art/dematerialized-16701362/"
+  },
+  {
+   "id": "seth-siegelaub--the-xerox-book",
+   "creator_ids": [
+    "seth-siegelaub"
+   ],
+   "title": "The Xerox Book",
+   "year": 1968,
+   "field": "score",
+   "sub": "constraints",
+   "mechanisms": [
+    "constraint",
+    "co-authorship"
+   ],
+   "substrate": "text",
+   "kind": "publication",
+   "description": "A group exhibition in book form, published in New York in 1968 by Seth Siegelaub and Jack Wendler, in which seven artists, Carl Andre, Robert Barry, Douglas Huebler, Joseph Kosuth, Sol LeWitt, Robert Morris and Lawrence Weiner, each filled 25 pages.",
+   "description_zh": "一本以书的形式举办的群展，由塞斯·西格尔劳布与杰克·温德勒于 1968 年在纽约出版：卡尔·安德烈、罗伯特·巴里、道格拉斯·休布勒、约瑟夫·科苏斯、索尔·勒维特、罗伯特·莫里斯和劳伦斯·韦纳七位艺术家各自填满 25 页。",
+   "idea_en": "Give several artists the same pages and the same limits, and the book becomes the exhibition.",
+   "idea_zh": "给几位艺术家同样的页数和同样的限制，书本身就成了展览。",
+   "protocol": "Every artist received the same constraint: fill 25 pages 'in any way they desired', on the understanding that the book would be reproduced by Xerox; the seven contributions are printed one after another.",
+   "protocol_zh": "每位艺术家拿到同一个限制：以任何方式填满 25 页，前提是全书将用施乐复印机复制；七份作品在书中依次排印。",
+   "collective": "The seven responses differ widely: Andre filled his pages with proliferating squares, and each of Kosuth's pages names a document of the book's own making, such as 'PHOTOGRAPH OF XEROX MACHINE USED'. Photocopying proved too expensive, so the first edition of 1,000 copies was printed by offset; Paula Cooper Gallery revisited the book in an exhibition in 2015.",
+   "collective_zh": "七份回应差别很大：安德烈用不断增殖的方格填满页面，科苏斯的每一页都写着一份与本书制作过程有关的文件名，例如“所用施乐复印机的照片”。复印成本过高，首版 1,000 册最终改用胶印；2015 年葆拉·库珀画廊又为这本书办了一场展览。",
+   "keywords": [
+    "artist's book",
+    "Xerox",
+    "Jack Wendler",
+    "conceptual art",
+    "group exhibition"
+   ],
+   "images": [
+    "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/hyperallergic-newspack-s3-amazonaws-com/uploads/2015/10/xerox-book-cover2.jpg",
+    "https://graphicarts.princeton.edu/wp-content/uploads/sites/158/2015/09/andre11.jpg"
+   ],
+   "paper": {
+    "url": "https://graphicarts.princeton.edu/2015/09/14/the-xerox-book",
+    "title": "The Xerox Book (New York: Siegelaub/Wendler, 1968)",
+    "venue": "Artist's book"
+   },
+   "source_url": "https://hyperallergic.com/240038/7-artists-25-pages-each-1-half-century-later-revisiting-the-xerox-book/"
+  },
+  {
+   "id": "yoko-ono--play-it-by-trust",
+   "creator_ids": [
+    "yoko-ono"
+   ],
+   "title": "Play It by Trust",
+   "year": 1966,
+   "field": "score",
+   "sub": "public-instructions",
+   "mechanisms": [
+    "constraint",
+    "participation"
+   ],
+   "substrate": "body",
+   "kind": "artwork",
+   "description": "A chess set in which the board and all the pieces are white, first shown as White Chess Set at the Indica Gallery in London in 1966 and later retitled as an instruction. It has been re-presented in many sizes, often as an interactive installation for visitors.",
+   "description_zh": "一副棋盘和所有棋子都是白色的国际象棋，1966 年以《白色棋具》为名首展于伦敦 Indica 画廊，后来改用一句指令作标题。此后它以多种尺寸再度展出，常作为观众可以参与的互动装置。",
+   "idea_en": "Remove the colour that marks the sides, and a game of conquest becomes a game of trust.",
+   "idea_zh": "去掉区分敌我的颜色，一场征服的游戏就变成一场关于信任的游戏。",
+   "protocol": "Two players start an ordinary game, but because both sides are white they cannot easily tell which pieces belong to whom; they have to trust each other and cooperate, and may invent new rules or goals.",
+   "protocol_zh": "两位棋手按常规开局，但因为双方都是白色，很难分清哪些棋子属于谁；他们必须彼此信任、相互合作，也可以自己发明新的规则或目标。",
+   "collective": "With no colour to mark the sides, each game turns from a contest into an agreement between the players. The Contemporary Art Museum St. Louis showed it as an interactive installation in 2011, and M+ in Hong Kong holds the bronze version made in 1987 as a tribute to John Cage on his 75th birthday.",
+   "collective_zh": "没有颜色区分双方，每一局都从对抗变成了两位棋手之间的约定。圣路易斯当代艺术博物馆于 2011 年把它作为互动装置展出，香港 M+ 收藏了 1987 年为祝贺约翰·凯奇 75 岁生日而制作的青铜版本。",
+   "keywords": [
+    "chess",
+    "Indica Gallery",
+    "anti-war",
+    "John Cage",
+    "M+"
+   ],
+   "images": [
+    "https://res.cloudinary.com/mplustms/image/upload/w_1000/v1645416311/v2/prod/small/005501_006000/005861_013.jpg",
+    "https://camstl.org/wp-content/uploads/2018/01/Yoko-Ono_1.jpg"
+   ],
+   "source_url": "https://www.mplus.org.hk/en/collection/objects/play-it-by-trust-2015571/"
+  },
+  {
+   "id": "yoko-ono--my-mummy-was-beautiful",
+   "creator_ids": [
+    "yoko-ono"
+   ],
+   "title": "My Mummy Was Beautiful",
+   "year": 2004,
+   "field": "score",
+   "sub": "public-instructions",
+   "mechanisms": [
+    "instruction",
+    "participation"
+   ],
+   "substrate": "text",
+   "kind": "artwork",
+   "description": "Commissioned by the Liverpool Biennial in 2004: close-up photographs of a woman's breast and pubis on banners across the city and on the ceiling of Tate Liverpool, with a participation wall where visitors wrote about their mothers. Later versions, titled My Mommy Is Beautiful, include one at the NGV Triennial in Melbourne (2023–24).",
+   "description_zh": "2004 年利物浦双年展委托作品：女性乳房和阴部的特写照片印在全城的横幅和泰特利物浦美术馆的天花板上，另设一面参与墙，让观众写下关于母亲的文字。之后以《My Mommy Is Beautiful》为题的版本包括墨尔本 NGV 三年展（2023—24）上的一件。",
+   "idea_en": "A single prompt about one's mother turns a gallery wall into a shared archive of private memories.",
+   "idea_zh": "一句关于母亲的提示，就把一面展墙变成了私人记忆的公共档案。",
+   "protocol": "A sign invites visitors to share a memory of their mother; they write on slips of paper or on canvas, or pin up photographs, and leave them on the wall for others to read.",
+   "protocol_zh": "一块告示邀请观众分享对母亲的记忆；他们写在纸条或画布上，或者钉上照片，留在墙上供他人阅读。",
+   "collective": "In Liverpool visitors left slips about their mothers, most of love and thanks, some angry or grieving, one embossed in braille; the cards are now kept in the Tate Archive. At the NGV Triennial in Melbourne (2023–24), visitors' reflections and photographs of their mothers spread from the canvases onto the surrounding walls.",
+   "collective_zh": "在利物浦，观众留下了关于母亲的纸条，大多是爱与感谢，也有愤怒或哀伤的，还有一张是盲文；这些卡片现存于泰特档案馆。在墨尔本 NGV 三年展（2023—24）上，观众写下的回忆和母亲的照片从画布一直蔓延到四周墙面。",
+   "keywords": [
+    "Liverpool Biennial",
+    "Tate Liverpool",
+    "mothers",
+    "participation wall",
+    "NGV Triennial"
+   ],
+   "images": [
+    "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/messages_left_by_visitors_to_yoko_onos_my_mumm.width-600.jpg",
+    "https://content.ngv.vic.gov.au/col-images/api/INST057476/1920"
+   ],
+   "source_url": "https://www.tate.org.uk/tate-etc/issue-44-autumn-2018/archive-yoko-ono-mothers-daisy-johnson"
+  },
+  {
+   "id": "allan-kaprow--words",
+   "creator_ids": [
+    "allan-kaprow"
+   ],
+   "title": "Words",
+   "year": 1962,
+   "field": "score",
+   "sub": "public-instructions",
+   "also": [
+    "social"
+   ],
+   "mechanisms": [
+    "participation",
+    "co-authorship"
+   ],
+   "substrate": "body",
+   "kind": "artwork",
+   "description": "An environment at the Smolin Gallery in New York (September 1962) lined from floor to ceiling with words on rolls of cloth, taken from poems, newspapers, comics and telephone books, which visitors were asked to rearrange.",
+   "description_zh": "1962 年 9 月在纽约 Smolin 画廊的一个环境作品：从地板到天花板贴满写在布卷上的词语，取自诗歌、报纸、漫画和电话簿，观众被邀请重新排列它们。",
+   "idea_en": "Post the instructions on the walls, and visitors become the authors of the room.",
+   "idea_zh": "把指令写在墙上，观众就成了这个房间的作者。",
+   "protocol": "Hand-lettered signs tell visitors what to do, such as 'roll the rolls and see the words line up' and 'make new poems'; they may tear words off, staple them together, write notes and add their own.",
+   "protocol_zh": "手写的标牌告诉观众该做什么，例如“转动卷轴，看词语排成一行”“写新的诗”；观众可以撕下词语、把它们订在一起、写下便条、加上自己的文字。",
+   "collective": "Visitors rolled the scrolls, tore words off, stapled them into new lines and wrote their own notes, so the walls were rewritten by each day's audience.",
+   "collective_zh": "观众转动卷轴、撕下词语、订成新的句子并写下自己的便条，于是墙面每天都被新的观众改写。",
+   "keywords": [
+    "environment",
+    "Smolin Gallery",
+    "happening",
+    "words",
+    "audience participation"
+   ],
+   "images": [
+    "https://uploads8.wikiart.org/00199/images/allan-kaprow/words-1962.jpg!Large.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Smolin_Gallery"
+  },
+  {
+   "id": "allan-kaprow--scales",
+   "creator_ids": [
+    "allan-kaprow"
+   ],
+   "title": "Scales",
+   "year": 1971,
+   "field": "score",
+   "sub": "event-scores",
+   "also": [
+    "social"
+   ],
+   "mechanisms": [
+    "instruction",
+    "participation",
+    "time"
+   ],
+   "substrate": "body",
+   "kind": "score",
+   "description": "An activity first carried out in 1971 in the stairwells of the California Institute of the Arts, in which participants lay cement blocks on a staircase as new steps, climb them and move the blocks on.",
+   "description_zh": "1971 年首次在加州艺术学院楼梯间进行的一项“活动”：参与者把水泥砖放在楼梯上当作新的台阶，爬上去，再把砖搬往别处。",
+   "idea_en": "A task that builds nothing lasting lets a group feel the labour itself.",
+   "idea_zh": "一项不留下任何成果的任务，让一群人感受劳动本身。",
+   "protocol": "Participants place cement blocks on the steps of a stairwell so they act as new treads, climb the new stairs, then collect the blocks and repeat the process on another flight. Kaprow did not authorize re-enactments but allowed others to reinvent his scores without him.",
+   "protocol_zh": "参与者把水泥砖放在楼梯台阶上当作新的踏步，爬上这段“新”楼梯，然后收起砖块，到另一段楼梯重复这一过程。卡普罗不认可原样重演，但允许别人在他缺席时重新诠释他的乐谱。",
+   "collective": "Tate Modern reinvented it on 29 March 2008 with fifteen volunteers recruited through its website; after a preparatory workshop they worked their way up the building's internal stairwells block by block, and the stairs kept moving until they were removed, leaving no product.",
+   "collective_zh": "泰特现代美术馆于 2008 年 3 月 29 日重新诠释了这件作品，通过官网招募了十五名志愿者；他们参加准备工作坊后，在馆内楼梯间一块砖一块砖地向上推进，台阶不断移动，最后被全部撤走，什么也没有留下。",
+   "keywords": [
+    "activity",
+    "CalArts",
+    "Tate Modern",
+    "cement blocks",
+    "reinvention"
+   ],
+   "paper": {
+    "url": "https://www.tate.org.uk/research/publications/performance-at-tate/case-studies/allan-kaprow",
+    "title": "Allan Kaprow 1927–2006: Fluids 1967 and Scales 1971",
+    "venue": "Performance at Tate: Into the Space of Art (Tate Research, 2016)"
+   },
+   "source_url": "https://www.tate.org.uk/research/publications/performance-at-tate/case-studies/allan-kaprow"
+  },
+  {
+   "id": "christian-marclay--shuffle",
+   "creator_ids": [
+    "christian-marclay"
+   ],
+   "title": "Shuffle",
+   "year": 2007,
+   "field": "score",
+   "sub": "constraints",
+   "mechanisms": [
+    "chance",
+    "instruction"
+   ],
+   "substrate": "text",
+   "kind": "score",
+   "description": "A boxed deck of 75 cards published by Aperture in 2007, each a photograph of musical notation that Marclay found in daily life, on shop awnings, chocolate tins, T-shirts and underwear, with his text and instructions for playing the deck as a score.",
+   "description_zh": "Aperture 于 2007 年出版的一盒 75 张卡片，每张都是马克雷在日常生活中发现的乐谱符号的照片，出现在店铺遮阳篷、巧克力罐、T恤和内衣上，并附有把整副牌当作乐谱演奏的说明。",
+   "idea_en": "A shuffled deck of found notation makes every performance a new score.",
+   "idea_zh": "一副洗过的现成乐谱卡，让每一次演出都成为一份新乐谱。",
+   "protocol": "Performers shuffle the deck, draw cards and play what they see in the order the cards fall; how a clef printed on a T-shirt or a stave on a chocolate tin should sound is left to them.",
+   "protocol_zh": "演奏者洗牌、抽牌，按卡片落下的顺序演奏所见的内容；印在T恤上的谱号或巧克力罐上的五线谱该怎样发声，全由他们决定。",
+   "collective": "Musicians have improvised from the deck, for example pianist Marilyn Crispell at the Whitney Museum on 6 August 2010 and bass clarinettist Gareth Davis at the Fondazione Antonio Dalle Nogare, with Transart, on 23 September 2024; each draw produces a different sequence.",
+   "collective_zh": "音乐家们据此即兴演奏，例如钢琴家玛丽琳·克里斯佩尔 2010 年 8 月 6 日在惠特尼美术馆、低音单簧管演奏家加雷斯·戴维斯 2024 年 9 月 23 日在 Fondazione Antonio Dalle Nogare 与 Transart 合办的活动中；每一次抽牌都产生不同的顺序。",
+   "keywords": [
+    "found notation",
+    "playing cards",
+    "Aperture",
+    "graphic score",
+    "improvisation"
+   ],
+   "images": [
+    "https://store.aperture.org/cdn/shop/files/9781597110389.jpg?v=1772649688&width=2048"
+   ],
+   "source_url": "https://aperture.org/shop/shuffle/"
+  },
+  {
+   "id": "christian-marclay--chalkboard",
+   "creator_ids": [
+    "christian-marclay"
+   ],
+   "title": "Chalkboard",
+   "year": 2010,
+   "field": "score",
+   "sub": "public-instructions",
+   "mechanisms": [
+    "participation",
+    "co-authorship"
+   ],
+   "substrate": "body",
+   "kind": "artwork",
+   "description": "A wall-sized chalkboard printed with musical staff lines in Marclay's exhibition Festival at the Whitney Museum of American Art (1 July–26 September 2010). Visitors drew on it, and musicians performed whatever was there.",
+   "description_zh": "马克雷在惠特尼美国艺术博物馆的展览《Festival》（2010 年 7 月 1 日至 9 月 26 日）中设置的一整面印有五线谱的黑板。观众在上面随意书写，音乐家再把板上的一切演奏出来。",
+   "idea_en": "Let the public write the score in chalk, and the concert changes every time the board fills up.",
+   "idea_zh": "让公众用粉笔写乐谱，黑板每写满一次，音乐会就变一次。",
+   "protocol": "Visitors may mark or erase anything on the staves with chalk; at intervals during the exhibition, musicians interpret the accumulated marks as a score.",
+   "protocol_zh": "观众可以用粉笔在五线谱上写任何东西，也可以擦掉；展览期间，音乐家不时把板上积累的记号当作乐谱来演绎。",
+   "collective": "The public's ephemeral marks became the score that performers such as Rob Schwimmer played on 8 July 2010; the exhibition presented about fifty musicians interpreting Marclay's scores, and on Chalkboard the visitors wrote part of their programme.",
+   "collective_zh": "公众留下的短暂记号成了乐谱，由罗布·施维默等演奏者在 2010 年 7 月 8 日演奏出来；整个展览约有五十位音乐家演绎马克雷的乐谱，而在《Chalkboard》上，观众写下了其中一部分曲目。",
+   "keywords": [
+    "graphic score",
+    "Whitney Museum",
+    "chalk",
+    "audience notation",
+    "Festival"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=QNXsafA10eo"
+   },
+   "images": [
+    "https://i.ytimg.com/vi/QNXsafA10eo/hqdefault.jpg"
+   ],
+   "source_url": "https://whitney.org/exhibitions/christian-marclay"
+  },
+  {
+   "id": "jackson-mac-low--three-social-projects",
+   "creator_ids": [
+    "jackson-mac-low"
+   ],
+   "title": "Three Social Projects",
+   "year": 1963,
+   "field": "score",
+   "sub": "event-scores",
+   "also": [
+    "social"
+   ],
+   "mechanisms": [
+    "instruction",
+    "circulation"
+   ],
+   "substrate": "post",
+   "kind": "score",
+   "description": "Three event scores that Mac Low typed on index cards and mailed as postcards on 29 April 1963 to Benjamin Patterson in New York and to Daniel Spoerri, Emmett Williams and Robert Filliou in Paris.",
+   "description_zh": "麦克·洛把三份事件乐谱打在索引卡上，于 1963 年 4 月 29 日作为明信片寄给纽约的本杰明·帕特森，以及巴黎的丹尼尔·斯波埃里、埃米特·威廉姆斯和罗贝尔·菲利乌。",
+   "idea_en": "A score can set a task so large that only a whole society could perform it.",
+   "idea_zh": "一份乐谱可以设定一个大到只有整个社会才能完成的任务。",
+   "protocol": "Each card gives its reader one task: 'Find a way to end war / make it work'; 'Find a way to produce everything everybody needs and to get it to them / make it work'; the first asks the reader to end unemployment, or to find a way for people to live without employment. There is no time limit and no test of success.",
+   "protocol_zh": "每张卡片给读者一个任务：“找到结束战争的办法／让它奏效”；“找到生产人人所需之物并送到他们手中的办法／让它奏效”；第一张则要求读者消除失业，或找到让人不靠工作也能生活的办法。没有时间限制，也没有检验成败的标准。",
+   "collective": "No single performer can realize them; any performance would have to be collective and social. Mac Low sent them four days after protesting George Maciunas's Fluxus 'propaganda' proposals, and the cards pressed fellow Fluxus artists to state what kind of social change their actions served. The Getty's Scores Project republished them in 2025.",
+   "collective_zh": "任何个人都无法完成它们，真正的演出只能是集体的、社会性的。麦克·洛在抗议乔治·马修纳斯的激浪派“宣传”方案四天之后寄出这些卡片，借此追问激浪派同伴：他们的行动究竟服务于怎样的社会变革。盖蒂研究所的《乐谱计划》于 2025 年重新发表了它们。",
+   "keywords": [
+    "event score",
+    "postcard",
+    "Fluxus",
+    "anarchism",
+    "Benjamin Patterson"
+   ],
+   "images": [
+    "https://www.getty.edu/publications/scores/_assets/images/figures/thumbnails/AR6153541_th.jpg",
+    "https://www.getty.edu/publications/scores/_assets/images/figures/thumbnails/r32814_890164_b39_004_th.jpg"
+   ],
+   "paper": {
+    "url": "https://www.getty.edu/publications/scores/07/commentary/",
+    "title": "Jackson Mac Low: Three Social Projects (1963)",
+    "venue": "The Scores Project (Getty Research Institute, 2025)"
+   },
+   "source_url": "https://www.getty.edu/publications/scores/07/",
+   "collections": [
+    "the-scores-project"
+   ]
+  },
+  {
+   "id": "yvonne-rainer--we-shall-run",
+   "creator_ids": [
+    "yvonne-rainer"
+   ],
+   "title": "We Shall Run",
+   "year": 1963,
+   "field": "score",
+   "sub": "execution",
+   "also": [
+    "social"
+   ],
+   "mechanisms": [
+    "instruction",
+    "participation"
+   ],
+   "substrate": "body",
+   "kind": "score",
+   "description": "A dance first performed in 1963 in the gym of Judson Memorial Church, New York: twelve 'runners' in everyday clothes, trained dancers and untrained people, stand still for about five minutes and then jog in shifting formations to the 'Tuba mirum' of Berlioz's Requiem.",
+   "description_zh": "1963 年首演于纽约贾德森纪念教堂体育馆的舞作：十二名穿日常衣服的“跑者”（既有受过训练的舞者，也有普通人）先静立约五分钟，然后伴着柏辽兹《安魂曲》中的“神奇号角”以不断变化的队形慢跑。",
+   "idea_en": "One ordinary step and a set of floor plans are enough to make a crowd into a choreography.",
+   "idea_zh": "一个普通的步伐加上几张路线图，就足以把一群人变成一支编舞。",
+   "protocol": "Rainer's pencil floor plans set routes, step counts and groupings; everyone uses the same single step, a jog with arms at waist level, and must remember when to cluster, split off and regroup.",
+   "protocol_zh": "雷纳用铅笔画的平面图规定了路线、步数和分组；所有人只用同一个步伐，即双臂垂在腰间的慢跑，并且必须记住何时聚拢、何时分开、何时重新集合。",
+   "collective": "The sequence was hard to hold in memory: Lucinda Childs recalled struggling with it, and Tony Holder made his own flip-card score. The 1965 cast at the Wadsworth Atheneum included Robert Rauschenberg, Robert Morris, Deborah Hay and Sally Gross, and the dance was performed again at Bennington College in the early 1980s.",
+   "collective_zh": "这套顺序很难记住：露辛达·蔡尔兹回忆说她记不牢，托尼·霍尔德干脆自己做了一套翻页卡片乐谱。1965 年在沃兹沃思学会的演出阵容包括罗伯特·劳森伯格、罗伯特·莫里斯、黛博拉·海和萨莉·格罗斯；1980 年代初，本宁顿学院再次上演了这支舞。",
+   "keywords": [
+    "Judson Dance Theater",
+    "pedestrian movement",
+    "floor plan",
+    "Berlioz",
+    "running"
+   ],
+   "images": [
+    "https://www.getty.edu/publications/scores/_assets/images/figures/thumbnails/r425211_2006_m_24_b69_001_th.jpg",
+    "https://www.getty.edu/publications/scores/_assets/images/figures/posters/fig-438-poster-image.jpg",
+    "https://www.getty.edu/publications/scores/_assets/images/figures/thumbnails/r2013910_2006_m_24_b1_f5_014_th.jpg"
+   ],
+   "paper": {
+    "url": "https://www.getty.edu/publications/scores/08/commentary/",
+    "title": "Yvonne Rainer: We Shall Run (1963)",
+    "venue": "The Scores Project (Getty Research Institute, 2025)"
+   },
+   "source_url": "https://www.getty.edu/publications/scores/08/",
+   "collections": [
+    "the-scores-project"
+   ]
+  },
+  {
+   "id": "takehisa-kosugi--micro-1",
+   "creator_ids": [
+    "takehisa-kosugi"
+   ],
+   "title": "Micro 1",
+   "year": 1961,
+   "field": "score",
+   "sub": "event-scores",
+   "mechanisms": [
+    "instruction",
+    "chance"
+   ],
+   "substrate": "body",
+   "kind": "score",
+   "description": "An event score from 1961: a live microphone is wrapped tightly in a very large sheet of paper and left on for five more minutes.",
+   "description_zh": "1961 年的一份事件乐谱：用一大张纸把开着的麦克风紧紧包起来，再让它开五分钟。",
+   "idea_en": "A one-line action can be a complete piece of music that sounds different every time.",
+   "idea_zh": "一句话描述的动作就可以是一首完整的音乐，而且每次听起来都不一样。",
+   "protocol": "The score reads: 'Wrap a live microphone with a very large sheet of paper. Make a tight bundle. Keep the microphone live for another 5 minutes.' Anyone may perform it; the sound depends on the paper, the room and the amplification.",
+   "protocol_zh": "乐谱写道：“用一张很大的纸把开着的麦克风包起来。包成紧紧的一团。让麦克风再开 5 分钟。”任何人都可以表演；声音取决于纸张、房间和扩音设备。",
+   "collective": "Each realization is different. At the Getty Center on 4 December 2021, Tashi Wada and Ezra Buchla each performed it in Meaningless Work, Get to Work, a programme of early 1960s scores curated by Sarah Cooper and Tashi Wada.",
+   "collective_zh": "每一次实现都不相同。2021 年 12 月 4 日在盖蒂中心，Tashi Wada 和 Ezra Buchla 分别在 Sarah Cooper 与 Tashi Wada 策划的 1960 年代初乐谱专场《Meaningless Work, Get to Work》中表演了这件作品。",
+   "keywords": [
+    "event score",
+    "Fluxus",
+    "Group Ongaku",
+    "microphone",
+    "paper"
+   ],
+   "images": [
+    "https://www.getty.edu/publications/scores/_assets/images/figures/posters/Micro1_TashiWada.jpg",
+    "https://www.getty.edu/publications/scores/_assets/images/figures/posters/Micro1_EzraBuchla.jpg"
+   ],
+   "source_url": "https://www.getty.edu/publications/scores/object-index/239/",
+   "collections": [
+    "the-scores-project"
+   ]
+  },
+  {
+   "id": "walter-de-maria--beach-crawl",
+   "creator_ids": [
+    "walter-de-maria"
+   ],
+   "title": "Beach Crawl",
+   "year": 1960,
+   "field": "score",
+   "sub": "event-scores",
+   "also": [
+    "social"
+   ],
+   "mechanisms": [
+    "instruction",
+    "participation"
+   ],
+   "substrate": "body",
+   "kind": "score",
+   "description": "A text score published in La Monte Young's An Anthology of Chance Operations (1962–63) that lays out a precise process for a group performance at the seashore.",
+   "description_zh": "收录于拉蒙特·扬编《偶然操作选集》（1962—63）的一份文字乐谱，为海边的一场群体表演规定了精确的流程。",
+   "idea_en": "A few stones and a stretch of sand are enough material for a collective ritual.",
+   "idea_zh": "几块石头和一段沙滩，就足以构成一场集体仪式。",
+   "protocol": "Performers crawl on hands and knees along a sandy beach while moving three rocks in a circular pattern; the piece ends with the participants saying aloud, 'Well, that's new, isn't it?'",
+   "protocol_zh": "表演者手脚着地沿沙滩爬行，同时以绕圈的方式移动三块石头；作品以参与者大声说出“嗯，这倒是新的，不是吗？”结束。",
+   "collective": "In 2021 choreographer Phoebe Berglund turned the score into SKY, STONE, SEA, performed by nine dancers in kneepads on the beach of Marsha P. Johnson State Park in Brooklyn, with sound by Joseph Allan Johnson; the dancers collected and knocked stones together, crawled in unison and carried one another away.",
+   "collective_zh": "2021 年，编舞家菲比·伯格伦德把这份乐谱改编为《SKY, STONE, SEA》，由九名戴护膝的舞者在布鲁克林玛莎·P·约翰逊州立公园的海滩上演出，声音由约瑟夫·艾伦·约翰逊设计；舞者们收集石头、相互敲击，整齐地爬行，最后彼此背着离开。",
+   "keywords": [
+    "text score",
+    "An Anthology of Chance Operations",
+    "beach",
+    "stones",
+    "Phoebe Berglund"
+   ],
+   "images": [
+    "https://www.getty.edu/publications/scores/_assets/images/figures/posters/BeachCrawl_Berglund.jpg"
+   ],
+   "paper": {
+    "url": "https://www.getty.edu/publications/scores/05/commentary/",
+    "title": "La Monte Young, ed.: An Anthology of Chance Operations (1962–63)",
+    "venue": "The Scores Project (Getty Research Institute, 2025)"
+   },
+   "source_url": "https://www.getty.edu/publications/scores/object-index/251/",
+   "collections": [
+    "the-scores-project"
+   ]
+  },
+  {
+   "id": "earle-brown--december-1952",
+   "creator_ids": [
+    "earle-brown"
+   ],
+   "title": "December 1952",
+   "year": 1952,
+   "field": "score",
+   "sub": "constraints",
+   "mechanisms": [
+    "chance",
+    "co-authorship"
+   ],
+   "substrate": "text",
+   "kind": "score",
+   "description": "A single page of horizontal and vertical black rectangles from Brown's Folio, one of the first graphic scores; there is no key saying how the shapes should sound.",
+   "description_zh": "布朗《Folio》中的一页，上面只有横竖排列的黑色矩形，是最早的图形乐谱之一；没有任何图例说明这些形状该怎样发声。",
+   "idea_en": "Notation without a key hands the composition to whoever reads it.",
+   "idea_zh": "没有图例的记谱，把作曲交给了读谱的人。",
+   "protocol": "Any performer or group, on any instruments, may read the page in any orientation and decide how the rectangles become pitch, duration, loudness and time. Brown placed the shapes with the help of random number tables and called the result a 'conceptual mobile'.",
+   "protocol_zh": "任何演奏者或团体、用任何乐器，都可以从任意方向读这一页，并自行决定矩形如何转化为音高、时值、力度和时间。布朗借助随机数表来摆放这些形状，称其为“观念动态雕塑”。",
+   "collective": "Musicians have produced very different versions, from a realization in David Tudor's papers from the 1950s to a vibraphone duo by Corey Fogel and Luisa Muhr and a laptop version by Celia Hollander at the Getty Center in December 2021. The page also appeared in An Anthology of Chance Operations.",
+   "collective_zh": "音乐家们做出了截然不同的版本：从大卫·都铎档案中 1950 年代的实现稿，到 2021 年 12 月在盖蒂中心由科里·福格尔与路易莎·穆尔演奏的颤音琴二重奏，以及西莉亚·霍兰德的笔记本电脑版本。这页乐谱也收入了《偶然操作选集》。",
+   "keywords": [
+    "graphic score",
+    "Folio",
+    "indeterminacy",
+    "David Tudor",
+    "New York School"
+   ],
+   "images": [
+    "https://www.getty.edu/publications/scores/_assets/images/figures/thumbnails/r2014200_980039_b170_f1_033_th.jpg",
+    "https://www.getty.edu/publications/scores/_assets/images/figures/posters/December1952_CoreyFogel_LuisaMuhr.jpg"
+   ],
+   "source_url": "https://www.getty.edu/publications/scores/object-index/301/",
+   "collections": [
+    "the-scores-project"
+   ]
+  },
+  {
+   "id": "alison-knowles--house-of-dust",
+   "creator_ids": [
+    "alison-knowles"
+   ],
+   "title": "The House of Dust",
+   "year": 1967,
+   "field": "score",
+   "sub": "constraints",
+   "also": [
+    "social"
+   ],
+   "mechanisms": [
+    "chance",
+    "instruction",
+    "co-authorship"
+   ],
+   "substrate": "ai",
+   "kind": "artwork",
+   "description": "One of the first computer-generated poems, made by Knowles with the composer James Tenney in 1967 on a Siemens 4004 computer and printed on tractor-feed paper: quatrains, each beginning 'A house of', followed by a randomly chosen material, site, light source and kind of inhabitant. In 1969 Knowles built one quatrain as a real house, installed first in Chelsea, New York, and then at CalArts.",
+   "description_zh": "最早的计算机生成诗之一，由诺尔斯在作曲家詹姆斯·坦尼的协助下于 1967 年用西门子 4004 计算机完成，打印在连续打孔纸上：每首四行诗都以“A house of”开头，后面随机接上一种材料、一个地点、一种光源和一类居住者。1969 年，诺尔斯把其中一首建成真实的房子，先立在纽约切尔西，后迁到加州艺术学院。",
+   "idea_en": "A random poem can work as a brief: each line is a house someone else has to imagine or build.",
+   "idea_zh": "一首随机生成的诗可以当作设计任务书：每一行都是一座需要别人去想象或建造的房子。",
+   "protocol": "Each quatrain works as a brief for a house. At CalArts, where she taught from 1970 to 1972, Knowles used another program to produce random combinations of a colour, a cardinal direction and a number for people to 'activate' and transform the house and its surroundings; she herself performed '99/red/north' by lining up 99 red apples pointing north and inviting passers-by to take them in exchange for other objects.",
+   "protocol_zh": "每首四行诗都相当于一座房子的设计任务。诺尔斯 1970 至 1972 年在加州艺术学院任教期间，又用另一个程序生成颜色、方位和数字的随机组合，供人们“激活”并改变这座房子及其周边；她自己表演了“99/红/北”，把 99 个红苹果排成一行指向北方，并请路人用别的物品来交换苹果。",
+   "collective": "At CalArts the house became the focus of a community of artists and students, including Allan Kaprow, Emmett Williams, Charlemagne Palestine, Dick Higgins, Simone Forti and Matt Mullican; Knowles taught classes in it and hosted performances, concerts, poetry courses and film screenings, and one student parked his yellow car beside it, facing a different direction each day. The house was lost in the 1980s; the poem has since served as a score for new interpretations, such as the exhibition at the Darling Foundry in Montreal (15 June–20 August 2017).",
+   "collective_zh": "在加州艺术学院，这座房子成了一群艺术家和学生的聚集点，其中包括艾伦·卡普罗、埃米特·威廉姆斯、查勒曼·帕勒斯坦、迪克·希金斯、西蒙娜·福蒂和马特·穆里坎；诺尔斯在里面上课，举办表演、音乐会、诗歌课和放映，一位学生把自己的黄色汽车停在房旁，每天朝向一个不同的方向。房子在 1980 年代遗失；此后这首诗一直作为乐谱被重新诠释，例如蒙特利尔达令铸造厂的展览（2017 年 6 月 15 日至 8 月 20 日）。",
+   "keywords": [
+    "computer poem",
+    "James Tenney",
+    "FORTRAN",
+    "CalArts",
+    "architecture"
+   ],
+   "images": [
+    "https://fonderiedarling.org/en/assets/components/phpthumbof/cache/%20The%20House%20of%20Dust%20d%27Alison%20Knowles______2017%20%C2%A9Maxime%20Boisvert-0.13c9a9a62628337b53fe28ad9064243b.jpg",
+    "https://images.ctfassets.net/k1tan84lsd0d/7AixeB5aj2wHgJIHPGvKyT/9e22bafa86c98221bc5aec5a68300cba/1.jpg"
+   ],
+   "paper": {
+    "url": "https://fonderiedarling.org/depliant%20house%20of%20dust%20complet%20EN.pdf",
+    "title": "The House of Dust by Alison Knowles (exhibition brochure)",
+    "venue": "Darling Foundry, Montreal (2017)"
+   },
+   "source_url": "https://fonderiedarling.org/en/THE-HOUSE-OF-DUST"
+  },
+  {
+   "id": "dick-higgins--danger-music",
+   "creator_ids": [
+    "dick-higgins"
+   ],
+   "title": "Danger Music",
+   "year": 1962,
+   "field": "score",
+   "sub": "event-scores",
+   "mechanisms": [
+    "instruction",
+    "participation"
+   ],
+   "substrate": "body",
+   "kind": "series",
+   "description": "A numbered series of event scores from the early 1960s, built on the idea that a score could endanger its performers or the audience who experience the performance.",
+   "description_zh": "1960 年代初的一组编号事件乐谱，出发点是：乐谱可以让表演者或经历演出的观众身处危险。",
+   "idea_en": "A score can be a dare: it asks how far performers and audiences will go for the work.",
+   "idea_zh": "一份乐谱可以是一次挑战：它问表演者和观众愿意为作品走多远。",
+   "protocol": "Each score is a short instruction for a performance; what the series has in common is that carrying it out may harm, or appear to harm, the performer or the listeners.",
+   "protocol_zh": "每份乐谱都是一句关于演出的简短指令；这组作品的共同点在于，执行它可能伤害（或看似伤害）表演者或听众。",
+   "collective": "Higgins performed Danger Music Number Seventeen himself in May 1962; a photograph of it is in the Gilbert and Lila Silverman Fluxus Collection. The series is the best-known example of what is now called danger music, and other Fluxus composers wrote their own, such as Takehisa Kosugi's Music for a Revolution and Nam June Paik's Danger Music for Dick Higgins, which tells the performer to 'creep into the vagina of a living whale'.",
+   "collective_zh": "希金斯在 1962 年 5 月亲自表演了《危险音乐 第十七号》，这次表演的照片藏于吉尔伯特与莉拉·西尔弗曼激浪派收藏。这组作品是今天所谓“危险音乐”最知名的例子，其他激浪派作曲家也写了自己的版本，例如小杉武久的《为革命而作的音乐》和白南准的《为迪克·希金斯而作的危险音乐》，后者要求表演者“爬进一头活鲸鱼的阴道”。",
+   "keywords": [
+    "Fluxus",
+    "event score",
+    "risk",
+    "Nam June Paik",
+    "Silverman Collection"
+   ],
+   "images": [
+    "https://images-eflux.b-cdn.net/assets/719ec92f-8fdd-4ca7-8f5c-10fbe76ce683.jpg?&modified=undefined"
+   ],
+   "source_url": "https://www.e-flux.com/announcements/39238/fluxus-scores-and-instructions/"
+  },
+  {
+   "id": "george-maciunas--fluxus-1",
+   "creator_ids": [
+    "george-maciunas"
+   ],
+   "title": "Fluxus 1",
+   "year": 1964,
+   "field": "score",
+   "sub": "event-scores",
+   "mechanisms": [
+    "instruction",
+    "co-authorship"
+   ],
+   "substrate": "text",
+   "kind": "series",
+   "description": "The first Fluxus yearbox, designed and produced by George Maciunas and released in 1964–65 after delays: envelopes serving as pages hold works by many artists, interspersed with scores and documentation of performances, all bound with detachable metal bolts and packed in a mailing crate.",
+   "description_zh": "第一本激浪派“年刊盒”，由乔治·马修纳斯设计制作，几经延误后于 1964—65 年面世：以信封充当书页，装着众多艺术家的作品，其间穿插乐谱和演出记录，全部用可拆卸的金属螺栓装订，放在一个邮寄木箱里。",
+   "idea_en": "An anthology can be a container of actions that the reader performs on opening it.",
+   "idea_zh": "一本选集可以是一个装满动作的容器，读者打开它就是在表演。",
+   "protocol": "Each envelope or page is a work to be opened, handled or performed by whoever holds the book, such as Ay-O's Finger Envelope or Takehisa Kosugi's Theater Music; the owner decides when and how to carry them out.",
+   "protocol_zh": "每个信封或每一页都是一件作品，由手持这本书的人打开、把玩或表演，例如靉嘔的《手指信封》或小杉武久的《剧场音乐》；何时以及如何执行，由拥有者决定。",
+   "collective": "Maciunas planned it as the first of seven yearboxes, one per region, to be launched at the Wiesbaden Fluxus festival in September 1962; when it finally appeared it gathered an international group, including George Brecht, Ay-O, Jackson Mac Low, Benjamin Patterson, Takehisa Kosugi and Shigeko Kubota. Copies in MoMA's Gilbert and Lila Silverman Fluxus Collection were shown in Thing/Thought: Fluxus Editions, 1962–1978 (2011–12).",
+   "collective_zh": "马修纳斯原计划按地区出七本年刊盒，并在 1962 年 9 月的威斯巴登激浪派艺术节上推出第一本；最终问世时，它汇集了一个国际性的群体，包括乔治·布雷希特、靉嘔、杰克逊·麦克·洛、本杰明·帕特森、小杉武久和久保田成子。纽约现代艺术博物馆吉尔伯特与莉拉·西尔弗曼激浪派收藏中的副本曾在 2011—12 年的展览《Thing/Thought: Fluxus Editions, 1962–1978》中展出。",
+   "keywords": [
+    "Fluxus edition",
+    "yearbox",
+    "anthology",
+    "envelope",
+    "Silverman Collection"
+   ],
+   "images": [
+    "https://www.moma.org/interactives/exhibitions/2011/fluxus_editions/wp-content/uploads/2011/10/TheatreMusic_FluxusNapkin1-600x400.jpg"
+   ],
+   "source_url": "https://www.moma.org/interactives/exhibitions/2011/fluxus_editions/category_works/fluxus1/index.html"
+  },
+  {
+   "id": "george-maciunas--flux-year-box-2",
+   "creator_ids": [
+    "george-maciunas"
+   ],
+   "title": "Flux Year Box 2",
+   "year": 1968,
+   "field": "score",
+   "sub": "event-scores",
+   "mechanisms": [
+    "instruction",
+    "co-authorship"
+   ],
+   "substrate": "text",
+   "kind": "series",
+   "description": "The second Fluxus yearbox, announced in 1965 and assembled by about 1968: a partitioned wooden box designed by Maciunas holding cards, puzzles, capsules, seeds, short film loops and a hand-crank viewer made by many Fluxus artists.",
+   "description_zh": "第二本激浪派年刊盒，1965 年宣布、约 1968 年组装完成：一个由马修纳斯设计的分格木盒，里面装着众多激浪派艺术家制作的卡片、拼图、胶囊、种子、短片胶片环和手摇观看器。",
+   "idea_en": "Limit contributions to actions the reader cannot help performing, and the box plays itself through its owner.",
+   "idea_zh": "只收那些读者一打开就不由自主去完成的动作，盒子便借拥有者之手自己演出。",
+   "protocol": "Maciunas asked contributors for 'book events only', events enacted by the reader automatically as they inspect the box: the owner mails Ben Vautier's The Postman's Choice postcard, takes capsules from Shigeko Kubota's Flux Medicine, or sows the seeds of Ken Friedman's A Flux Corsage.",
+   "protocol_zh": "马修纳斯要求投稿者只提交“书本事件”，即读者在翻看盒子时会自动完成的事件：拥有者寄出本·沃蒂耶的明信片《邮差的选择》，服用久保田成子《激浪药》里的胶囊，或种下肯·弗里德曼《激浪胸花》的种子。",
+   "collective": "Artists including George Brecht, Benjamin Patterson, James Riddle, Ken Friedman, Shigeko Kubota and Ben Vautier made works to fit the format, so each owner performs a small anthology of actions just by opening and using the box. MoMA holds a copy in the Gilbert and Lila Silverman Fluxus Collection.",
+   "collective_zh": "乔治·布雷希特、本杰明·帕特森、詹姆斯·里德尔、肯·弗里德曼、久保田成子和本·沃蒂耶等艺术家按这一格式创作，因此每位拥有者只要打开并使用盒子，就表演了一组小小的动作选集。纽约现代艺术博物馆的吉尔伯特与莉拉·西尔弗曼激浪派收藏中藏有一件。",
+   "keywords": [
+    "Fluxus edition",
+    "yearbox",
+    "Fluxfilms",
+    "book events",
+    "Silverman Collection"
+   ],
+   "images": [
+    "https://www.moma.org/interactives/exhibitions/2011/fluxus_editions/wp-content/uploads/2011/10/YearBox2_2-600x400.jpg"
+   ],
+   "source_url": "https://www.moma.org/interactives/exhibitions/2011/fluxus_editions/category_works/fluxyearbox2/index.html"
+  }
+ ],
+ "leads": [
+  {
+   "name": "Marina Abramović, Rhythm 0 (1974)",
+   "why": "covered by marina-abramovic--rhythm-0",
+   "link": "https://en.wikipedia.org/wiki/Rhythm_0",
+   "found_via": "allan-kaprow",
+   "status": "duplicate"
+  },
+  {
+   "name": "Olafur Eliasson, The collectivity project (2005–)",
+   "why": "added as olafur-eliasson--the-collectivity-project",
+   "link": "https://olafureliasson.net/",
+   "found_via": "erwin-wurm",
+   "status": "covered"
+  },
+  {
+   "name": "Miranda July & Harrell Fletcher, Learning to Love You More (2002–2009)",
+   "why": "covered by miranda-july--learning-to-love-you-more",
+   "link": "http://www.learningtoloveyoumore.com/",
+   "found_via": "david-horvitz",
+   "status": "duplicate"
+  },
+  {
+   "name": "Lygia Pape, Divisor (1968)",
+   "why": "added as lygia-pape--divisor",
+   "link": "https://en.wikipedia.org/wiki/Lygia_Pape",
+   "found_via": "anna-halprin",
+   "status": "covered"
+  },
+  {
+   "name": "Oulipo",
+   "why": "A writers' workshop that invents constraints for single authors; no group carries out a shared rule, and Queneau's Cent mille milliards de poèmes already represents it (raymond-queneau--cent-mille-milliards-de-poemes).",
+   "link": "https://en.wikipedia.org/wiki/Oulipo",
+   "found_via": "raymond-queneau",
+   "status": "off_topic"
+  },
+  {
+   "name": "Art by Telephone... Recalled (2012–)",
+   "why": "covered by david-katzive--art-by-telephone, whose entry already records the restaging from 2012",
+   "link": "https://mcachicago.org/exhibitions/1969/art-by-telephone",
+   "found_via": "david-katzive",
+   "status": "duplicate"
+  },
+  {
+   "name": "Allan Kaprow, Scales (1971) and Words (1962)",
+   "why": "added as allan-kaprow--scales and allan-kaprow--words",
+   "link": "https://www.tate.org.uk/research/publications/performance-at-tate/case-studies/allan-kaprow",
+   "found_via": "allan-kaprow",
+   "status": "covered"
+  },
+  {
+   "name": "Christian Marclay, Shuffle (2007)",
+   "why": "added as christian-marclay--shuffle",
+   "link": "https://en.wikipedia.org/wiki/Christian_Marclay",
+   "found_via": "christian-marclay",
+   "status": "covered"
+  },
+  {
+   "name": "Christian Marclay: Festival (Whitney, 2010)",
+   "why": "added as christian-marclay--chalkboard (the visitor-written score at Festival)",
+   "link": "https://whitney.org/exhibitions/christian-marclay",
+   "found_via": "christian-marclay",
+   "status": "covered"
+  },
+  {
+   "name": "Wolf Vostell, telephone happenings for Art by Telephone (1969)",
+   "why": "covered by david-katzive--art-by-telephone, which describes Vostell's phone-in happenings",
+   "link": "https://mcachicago.org/exhibitions/1969/art-by-telephone",
+   "found_via": "david-katzive",
+   "status": "duplicate"
+  },
+  {
+   "name": "Marcel Duchamp — Erratum Musical (1913)",
+   "why": "Chance procedure Duchamp applied himself (notes drawn from a hat); the three singers only perform fixed notes, so no group behaviour shapes the work.",
+   "link": "https://en.wikipedia.org/wiki/Erratum_Musical",
+   "found_via": "marcel-duchamp",
+   "status": "off_topic"
+  },
+  {
+   "name": "Marcel Duchamp — Monte Carlo Bond (1924)",
+   "why": "covered by marcel-duchamp--monte-carlo-bond",
+   "link": "https://www.moma.org/collection/works/81223",
+   "found_via": "marcel-duchamp",
+   "status": "duplicate"
+  },
+  {
+   "name": "Joseph Kosuth — One and Three Chairs (1965)",
+   "why": "added as joseph-kosuth--one-and-three-chairs",
+   "link": "https://www.moma.org/collection/works/81435",
+   "found_via": "sol-lewitt",
+   "status": "covered"
+  },
+  {
+   "name": "Lucy Lippard — 557,087 / 955,000 (1969–70)",
+   "why": "added as lucy-lippard--557087",
+   "link": "https://en.wikipedia.org/wiki/Lucy_R._Lippard",
+   "found_via": "sol-lewitt",
+   "status": "covered"
+  },
+  {
+   "name": "Seth Siegelaub — The Xerox Book (1968)",
+   "why": "added as seth-siegelaub--the-xerox-book",
+   "link": "https://en.wikipedia.org/wiki/Seth_Siegelaub",
+   "found_via": "lawrence-weiner",
+   "status": "covered"
+  },
+  {
+   "name": "Yoko Ono — Play It by Trust (1966)",
+   "why": "added as yoko-ono--play-it-by-trust",
+   "link": "https://en.wikipedia.org/wiki/Yoko_Ono",
+   "found_via": "yoko-ono",
+   "status": "covered"
+  },
+  {
+   "name": "Yoko Ono — My Mummy Was Beautiful (2004)",
+   "why": "added as yoko-ono--my-mummy-was-beautiful",
+   "link": "https://www.tate.org.uk/whats-on/tate-modern/yoko-ono/exhibition-guide",
+   "found_via": "yoko-ono",
+   "status": "covered"
+  },
+  {
+   "name": "Sol LeWitt — Wall Drawing #122 and other copy-line drawings",
+   "why": "covered by sol-lewitt--wall-drawing-797 (copy-line drawing) and sol-lewitt--wall-drawing-260 (combinations of arcs and lines); #122 (MIT, 1972) is a combinatorial drawing of crossing lines, not a copy-line drawing",
+   "link": "https://massmoca.org/event/walldrawing797/",
+   "found_via": "sol-lewitt",
+   "status": "duplicate"
+  },
+  {
+   "name": "Jackson Mac Low: Three Social Projects (1963)",
+   "why": "added as jackson-mac-low--three-social-projects",
+   "link": "https://www.getty.edu/publications/scores/07/",
+   "found_via": "jackson-mac-low",
+   "status": "covered"
+  },
+  {
+   "name": "Yvonne Rainer: We Shall Run (1963)",
+   "why": "added as yvonne-rainer--we-shall-run",
+   "link": "https://www.getty.edu/publications/scores/08/",
+   "found_via": "la-monte-young",
+   "status": "covered"
+  },
+  {
+   "name": "Takehisa Kosugi: Micro 1 (1961) / Theatre Music",
+   "why": "added as takehisa-kosugi--micro-1; Theater Music is described in george-maciunas--fluxus-1",
+   "link": "https://www.getty.edu/publications/scores/05/",
+   "found_via": "la-monte-young",
+   "status": "covered"
+  },
+  {
+   "name": "Walter De Maria: Beach Crawl (1960)",
+   "why": "added as walter-de-maria--beach-crawl",
+   "link": "https://www.getty.edu/publications/scores/05/",
+   "found_via": "la-monte-young",
+   "status": "covered"
+  },
+  {
+   "name": "Earle Brown: December 1952",
+   "why": "added as earle-brown--december-1952",
+   "link": "https://www.getty.edu/publications/scores/05/",
+   "found_via": "john-cage",
+   "status": "covered"
+  },
+  {
+   "name": "Alison Knowles & James Tenney: The House of Dust (1967)",
+   "why": "added as alison-knowles--house-of-dust",
+   "link": "https://en.wikipedia.org/wiki/House_of_Dust",
+   "found_via": "alison-knowles",
+   "status": "covered"
+  },
+  {
+   "name": "Nam June Paik: Zen for Head (1962)",
+   "why": "covered by la-monte-young--compositions-1960, which describes Paik's realization of Composition 1960 #10",
+   "link": "https://www.moma.org/collection/works/127631",
+   "found_via": "la-monte-young",
+   "status": "duplicate"
+  },
+  {
+   "name": "Dick Higgins: Danger Music series",
+   "why": "added as dick-higgins--danger-music",
+   "link": "https://en.wikipedia.org/wiki/Dick_Higgins",
+   "found_via": "george-maciunas",
+   "status": "covered"
+  },
+  {
+   "name": "Flux Year Box 2 (c. 1966)",
+   "why": "added as george-maciunas--flux-year-box-2",
+   "link": "https://www.moma.org/interactives/exhibitions/2011/fluxus_editions/category_works/fluxyearbox2/index.html",
+   "found_via": "george-maciunas",
+   "status": "covered"
+  },
+  {
+   "name": "Fluxus 1 (1964)",
+   "why": "added as george-maciunas--fluxus-1",
+   "link": "https://www.moma.org/interactives/exhibitions/2011/fluxus_editions/index.html",
+   "found_via": "george-maciunas",
+   "status": "covered"
+  },
+  {
+   "name": "Pauline Oliveros: Deep Listening practice / Deep Listening Institute",
+   "why": "covered by pauline-oliveros--sonic-meditations; the Center for Deep Listening names Sonic Meditations as the first published Deep Listening scores, and the entry already covers the Tuning Meditation",
+   "link": "https://www.deeplistening.rpi.edu",
+   "found_via": "pauline-oliveros",
+   "status": "duplicate"
+  },
+  {
+   "name": "John Cage: Variations VII (1966, 9 Evenings)",
+   "why": "Live-electronic piece played by Cage and a few collaborators from phone lines and radio; no group follows the rules, so the group's behaviour is not the work.",
+   "link": "https://www.youtube.com/watch?v=XvKSLEzQB7k",
+   "found_via": "john-cage",
+   "status": "off_topic"
+  },
+  {
+   "name": "Yvonne Rainer: Passing and Jostling While Confined to a Small Apartment (2020)",
+   "why": "Rainer adapted Terrain (1963) into written rules and photographs in the New York Times for readers to perform at home during the COVID-19 lockdown; find the article and an image.",
+   "link": "https://www.getty.edu/publications/scores/08/commentary/",
+   "found_via": "yvonne-rainer",
+   "status": "open"
+  },
+  {
+   "name": "Walter De Maria: Boxes for Meaningless Work (1961)",
+   "why": "Boxes with an instruction to move things from one to the other while knowing the act is meaningless; check whether viewers carry it out and find an image.",
+   "link": "https://en.wikipedia.org/wiki/Walter_De_Maria",
+   "found_via": "walter-de-maria",
+   "status": "open"
+  },
+  {
+   "name": "Earle Brown: Twenty-Five Pages (1953) and Available Forms I (1961)",
+   "why": "Open-form scores in which one to twenty-five pianists, or a conductor in performance, choose the order of the pages.",
+   "link": "https://en.wikipedia.org/wiki/Earle_Brown",
+   "found_via": "earle-brown",
+   "status": "open"
+  },
+  {
+   "name": "Olafur Eliasson: Green light — An artistic workshop",
+   "why": "Workshop in which refugees, migrants and visitors assemble lamps together; check whether the rules make the group's work the artwork.",
+   "link": "https://olafureliasson.net",
+   "found_via": "olafur-eliasson",
+   "status": "open"
+  }
+ ]
+}

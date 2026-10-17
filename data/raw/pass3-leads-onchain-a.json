@@ -1,0 +1,648 @@
+{
+  "batch": "pass3-leads-onchain-a",
+  "creators": [
+    {
+      "id": "ken-erwin",
+      "name": "Ken Erwin",
+      "kind": "person",
+      "role": "Software developer; creator of PixelMap",
+      "role_zh": "软件开发者；PixelMap 的创作者",
+      "based": "",
+      "based_zh": "",
+      "bio": "Developer who taught himself Solidity from the Etheria code Cyrus Adkisson had published, and launched PixelMap on Ethereum on 17 November 2016. After the project was rediscovered in August 2021 he added an ERC-721 wrapper and rebuilt its website.",
+      "bio_zh": "开发者，通过阅读 Cyrus Adkisson 公开的 Etheria 代码自学 Solidity，并于 2016 年 11 月 17 日在以太坊上推出 PixelMap。2021 年 8 月项目被重新发现后，他为它加上 ERC-721 封装合约并重建了网站。",
+      "why": "PixelMap wrote the Million Dollar Homepage into a contract, so that each tile owner, not the author, decides what the shared picture shows.",
+      "why_zh": "PixelMap 把“百万美元首页”写进合约：共享画面上显示什么，由每块地的持有者而不是作者决定。",
+      "links": {
+        "site": "https://pixelmap.io",
+        "x": "https://x.com/KenErwin88"
+      },
+      "connected_to": [
+        "cyrus-adkisson"
+      ],
+      "discovered_via": "basepaint"
+    },
+    {
+      "id": "andrey-petrov",
+      "name": "Andrey Petrov",
+      "kind": "person",
+      "role": "Software developer (shazow)",
+      "role_zh": "软件开发者（shazow）",
+      "based": "Toronto, CA",
+      "based_zh": "多伦多，加拿大",
+      "bio": "Toronto software developer, known online as shazow, who had worked on cryptocurrency projects since 2011. With Max Veytsman he published the Thousand Ether Homepage contract in August 2017, and in 2021 added an NFT wrapper and a sortition contract for its ad owners.",
+      "bio_zh": "多伦多的软件开发者，网名 shazow，自 2011 年起参与加密货币相关项目。2017 年 8 月他与 Max Veytsman 发布了 Thousand Ether Homepage 合约，2021 年又为广告持有者加上 NFT 封装合约和抽签合约。",
+      "why": "The Thousand Ether Homepage pairs a shared pixel canvas with a lottery that hands its royalty purse to one ad owner per term.",
+      "why_zh": "Thousand Ether Homepage 把一块共享像素画布与抽签结合起来：每一任期由抽中的一位广告持有者掌管版税资金。",
+      "links": {
+        "site": "https://shazow.net",
+        "x": "https://x.com/shazow",
+        "github": "https://github.com/shazow"
+      },
+      "connected_to": [
+        "max-veytsman"
+      ],
+      "discovered_via": "basepaint"
+    },
+    {
+      "id": "max-veytsman",
+      "name": "Max Veytsman",
+      "kind": "person",
+      "role": "Software developer and security researcher",
+      "role_zh": "软件开发者、安全研究者",
+      "based": "Toronto, CA",
+      "based_zh": "多伦多，加拿大",
+      "bio": "Toronto software developer with an information-security background. He audited Solidity contracts with Andrey Petrov before the two built the Thousand Ether Homepage in 2017.",
+      "bio_zh": "多伦多的软件开发者，有信息安全背景。他曾与 Andrey Petrov 一起审计 Solidity 合约，之后两人在 2017 年做出 Thousand Ether Homepage。",
+      "why": "Co-author of an early Ethereum pixel canvas that later gave its owners a lottery-based office.",
+      "why_zh": "一块早期以太坊像素画布的共同作者，这块画布后来为持有者设立了靠抽签产生的职位。",
+      "links": {
+        "github": "https://github.com/mveytsman"
+      },
+      "connected_to": [
+        "andrey-petrov"
+      ],
+      "discovered_via": "andrey-petrov"
+    },
+    {
+      "id": "billy-rennekamp",
+      "name": "Billy Rennekamp",
+      "kind": "person",
+      "role": "Artist and programmer; co-founder of Folia",
+      "role_zh": "艺术家、程序员；Folia 联合创始人",
+      "based": "Berlin, DE",
+      "based_zh": "柏林，德国",
+      "bio": "Artist and programmer from Louisville, Kentucky, living in Berlin (online: okwme). He co-founded the Ethereum art platform Folia, founded Clovers Network and Trifle, and previously worked as Cosmos Hub lead for the Interchain Foundation.",
+      "bio_zh": "来自肯塔基州路易斯维尔、现居柏林的艺术家和程序员（网名 okwme）。他联合创办了以太坊艺术平台 Folia，创办了 Clovers Network 和 Trifle，此前曾在 Interchain Foundation 担任 Cosmos Hub 负责人。",
+      "why": "His contracts rewrite the NFT transfer function so that sending a token spreads it instead of moving it, turning ownership into contagion.",
+      "why_zh": "他的合约改写了 NFT 的转账函数：发送代币不再是把它移走，而是让它扩散，“拥有”因此变成了传染。",
+      "links": {
+        "site": "https://billyrennekamp.com",
+        "x": "https://x.com/billyrennekamp",
+        "github": "https://github.com/okwme"
+      },
+      "connected_to": [
+        "joon-yeon-park",
+        "harm-van-den-dorpel"
+      ],
+      "discovered_via": "harm-van-den-dorpel"
+    },
+    {
+      "id": "joon-yeon-park",
+      "name": "Joon Yeon Park",
+      "kind": "person",
+      "role": "Artist",
+      "role_zh": "艺术家",
+      "based": "Berlin, DE",
+      "based_zh": "柏林，德国",
+      "bio": "Artist from Seoul living in Berlin whose work draws on appropriation and a long interest in clip art. She graduated as Meisterschülerin from the Städelschule in Frankfurt and holds a BFA from the School of Visual Arts, New York.",
+      "bio_zh": "来自首尔、现居柏林的艺术家，作品建立在挪用和她对剪贴画的长期兴趣之上。她以 Meisterschülerin 身份毕业于法兰克福施泰德美术学院，并获纽约视觉艺术学院美术学士学位。",
+      "why": "Co-author of Viper 사랑해, an NFT that spreads by 'biting' other wallets.",
+      "why_zh": "Viper 사랑해 的共同作者：这件 NFT 通过“咬”其他钱包来扩散。",
+      "links": {},
+      "connected_to": [
+        "billy-rennekamp"
+      ],
+      "discovered_via": "billy-rennekamp"
+    },
+    {
+      "id": "ciphrd",
+      "name": "ciphrd",
+      "kind": "anonymous",
+      "role": "Generative artist; founder of fxhash",
+      "role_zh": "生成艺术家；fxhash 创始人",
+      "based": "",
+      "based_zh": "",
+      "bio": "Pseudonymous generative artist and developer who founded fxhash, an open generative-art platform launched on Tezos in 2021 that later added Ethereum and Base. Right Click Save reports that fxhash closed on 17 August 2026.",
+      "bio_zh": "化名的生成艺术家和开发者，创办了开放式生成艺术平台 fxhash：它于 2021 年在 Tezos 上线，后来又支持以太坊和 Base。据 Right Click Save 报道，fxhash 已于 2026 年 8 月 17 日关闭。",
+      "why": "Generations hands selection to collectors: what survives in the lineage is what people choose to evolve.",
+      "why_zh": "Generations 把“选择”交给藏家：谱系中留存下来的，是人们选择去演化的那些作品。",
+      "links": {
+        "x": "https://x.com/ciphrd"
+      },
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "ludens",
+      "name": "ludens",
+      "kind": "anonymous",
+      "role": "Writer and builder in the 0xPARC community",
+      "role_zh": "0xPARC 社区的写作者与开发者",
+      "based": "",
+      "based_zh": "",
+      "bio": "Pseudonymous author of the 0xPARC essay Autonomous Worlds (Part 1), published on 3 August 2022, and co-author, with arb and caroline, of the post that launched the Autonomous Worlds Network in August 2023.",
+      "bio_zh": "化名作者，2022 年 8 月 3 日在 0xPARC 发表文章《Autonomous Worlds (Part 1)》，并于 2023 年 8 月与 arb、caroline 合写了宣布成立 Autonomous Worlds Network 的文章。",
+      "why": "Gave on-chain worlds a vocabulary (introduction rules, diegetic boundaries, autonomy) for rule sets that keep running without their makers.",
+      "why_zh": "为链上世界提供了一套词汇（引入规则、叙事边界、自治），用来描述脱离创造者也能继续运行的规则体系。",
+      "links": {
+        "x": "https://x.com/l_udens"
+      },
+      "connected_to": [
+        "dark-forest-team"
+      ],
+      "discovered_via": "dark-forest-team"
+    }
+  ],
+  "works": [
+    {
+      "id": "pak--metamorphosis",
+      "creator_ids": [
+        "pak"
+      ],
+      "title": "Ash Chapter Two: Metamorphosis",
+      "year": 2022,
+      "field": "onchain",
+      "sub": "supply",
+      "mechanisms": [
+        "burn",
+        "merge",
+        "chance"
+      ],
+      "substrate": "ethereum",
+      "kind": "series",
+      "description": "Pak's second ASH-only drop: 7,500 tokens, each revealing at random a work by one of 30 creators, which collectors could combine so that four of every five are destroyed.",
+      "description_zh": "Pak 第二个只能用 ASH 购买的发售：7,500 枚代币，每枚随机揭示 30 位创作者之一的作品；藏家可以把它们合并，每五枚中有四枚被销毁。",
+      "idea_en": "Let collectors decide, by destroying, whose work survives in a shared edition.",
+      "idea_zh": "让藏家通过销毁来决定：在一个共享版次里，谁的作品留下来。",
+      "protocol": "Tokens cost 50 ASH each, up to 10 per wallet; at every mint the contract picked one of 30 creators (250 tokens each, Pak among them) at random. Any five tokens can be combined to 'morph' a chosen one: the other four are destroyed and their creators' supply shrinks. Creators whose supply falls below 50 become 'high tier burn enabled', and only morphed tokens can be burned for ASH.",
+      "protocol_zh": "每枚代币售价 50 ASH，每个钱包最多 10 枚；每次铸造时，合约从 30 位创作者（每人 250 枚，Pak 也在其中）中随机抽取一位。任意五枚可以合并，用来“变形”其中选定的一枚：另外四枚被销毁，对应创作者的供应随之减少。供应低于 50 的创作者进入“高阶销毁”档，而只有变形过的代币才能销毁换取 ASH。",
+      "collective": "The mint on 28 March 2022 was swamped by bots: many transactions failed and lost their gas, and Manifold said it would reimburse those buyers. Collectors then chose which creators' tokens to sacrifice through morphing, so each creator's remaining supply records their choices. Blockscout listed 2,347 holder addresses in October 2026.",
+      "collective_zh": "2022 年 3 月 28 日的发售被大量机器人挤占：许多交易失败并损失了 gas，Manifold 表示会补偿这些买家。此后藏家通过变形决定牺牲哪些创作者的代币，因此每位创作者剩余的供应量记录了他们的选择。2026 年 10 月，Blockscout 显示该合约有 2,347 个持有地址。",
+      "keywords": [
+        "ASH",
+        "burn.art",
+        "morph",
+        "Manifold",
+        "Kafka",
+        "Metamorphosis"
+      ],
+      "images": [
+        "https://arweave.net/h-fEg0t4AMzFAA-Io9zHFRY4ey1ry_z1Qd3-g4Pv57E",
+        "https://burn.art/_next/static/media/metamorphosis.e3f7f4a6.png"
+      ],
+      "source_url": "https://burn.art/drops/metamorphosis",
+      "contract_url": "https://etherscan.io/address/0x4d232cd85294acd53ec03f4a57f57888c9ea1946"
+    },
+    {
+      "id": "ken-erwin--pixelmap",
+      "creator_ids": [
+        "ken-erwin"
+      ],
+      "title": "PixelMap",
+      "year": 2016,
+      "field": "onchain",
+      "sub": "provenance",
+      "also": [
+        "network"
+      ],
+      "mechanisms": [
+        "co-authorship",
+        "exchange",
+        "participation"
+      ],
+      "substrate": "ethereum",
+      "kind": "platform",
+      "description": "A 1,296 × 784-pixel map on Ethereum divided into 3,969 visible tiles of 16 × 16 pixels (plus one secret tile), launched on 17 November 2016; whoever owns a tile sets its image and link, and the map is the sum of their choices.",
+      "description_zh": "2016 年 11 月 17 日上线的以太坊地图，1,296 × 784 像素，分成 3,969 块可见的 16 × 16 像素地块（另有一块隐藏地块）；谁拥有一块地，谁就决定它的图像和链接，整张地图是所有人选择的总和。",
+      "idea_en": "A billboard with no editor: the contract sells the tiles, and the owners write the picture.",
+      "idea_zh": "一块没有编辑的广告牌：合约出售地块，持有者书写画面。",
+      "protocol": "Unclaimed tiles sold for a hardcoded 2 ETH, paid to the creator. Only a tile's owner can call setTile to change its image, URL and asking price; any other address can buy the tile at that price, and setting the price to 0 takes it off the market. Image data is stored on-chain and every earlier version stays in the contract's history.",
+      "protocol_zh": "未被认领的地块以写死在合约里的 2 ETH 出售，款项归创作者。只有地块持有者能调用 setTile 修改它的图像、链接和要价；任何其他地址都能按这个价格买下地块，要价设为 0 则表示不卖。图像数据存在链上，此前的每个版本都保留在合约历史里。",
+      "collective": "Early uptake was small: pixelmap.io says 'maybe 30–40 tiles' sold in 2016–17, and This American Life (episode 769) puts it at 'maybe 20 or 30 people'; the site went offline in 2018. After Adam McBride rediscovered it on 22 August 2021, collectors bought up and repainted tiles, wrapped them as ERC-721 tokens and filled the map with logos, portraits, memes and messages.",
+      "collective_zh": "早期参与者寥寥：pixelmap.io 称 2016—2017 年“大概卖出了 30 到 40 块地”，《This American Life》第 769 期则说“大概有二三十人”买过；网站在 2018 年下线。2021 年 8 月 22 日 Adam McBride 重新发现它之后，藏家纷纷买下并重绘地块、把它们封装成 ERC-721 代币，让地图上布满标志、头像、梗图和留言。",
+      "keywords": [
+        "PixelMap",
+        "Million Dollar Homepage",
+        "tiles",
+        "2016",
+        "NFT archaeology",
+        "ERC-721 wrapper"
+      ],
+      "images": [
+        "https://pixelmap.io/assets/images/pixelmap-2016-contract.png"
+      ],
+      "source_url": "https://pixelmap.io/about",
+      "contract_url": "https://etherscan.io/address/0x015a06a433353f8db634df4eddf0c109882a15ab",
+      "code_url": "https://github.com/Pixel-Map/pixelmap.io/blob/main/contracts/PixelMap.sol"
+    },
+    {
+      "id": "andrey-petrov--thousand-ether-homepage",
+      "creator_ids": [
+        "andrey-petrov",
+        "max-veytsman"
+      ],
+      "title": "The Thousand Ether Homepage",
+      "year": 2017,
+      "field": "onchain",
+      "sub": "provenance",
+      "also": [
+        "network"
+      ],
+      "mechanisms": [
+        "co-authorship",
+        "exchange",
+        "governance"
+      ],
+      "substrate": "ethereum",
+      "kind": "platform",
+      "description": "A 1,000,000-pixel homepage on Ethereum, published on 26 August 2017 as an homage to the Million Dollar Homepage: buyers own ad blocks they can change at any time, and since 2021 a lottery among owners picks a 'magistrate' for each term.",
+      "description_zh": "2017 年 8 月 26 日发布在以太坊上的一百万像素主页，向“百万美元首页”致敬：买家拥有可随时更改的广告块；自 2021 年起，持有者之间的抽签会为每一任期选出一位“执政官”。",
+      "idea_en": "Let the people who own the canvas also run it, choosing their officer by lot.",
+      "idea_zh": "让拥有画布的人也管理它，用抽签选出他们的执政官。",
+      "protocol": "Pixels sell at 0.001 ETH in 10 × 10 blocks. Owners publish an image URL, link and NSFW flag, may change them at any time and may transfer the ad; the authors keep only the right to mark an ad NSFW. A 2021 ERC-721 wrapper made ads tradable as NFTs, and a sortition contract lets owners nominate an ad (their own or another), with each nomination counted by its pixels; Chainlink randomness then draws one nominated pixel, and its ad's owner becomes magistrate for a 42-day term, controls the royalty purse and can step down early.",
+      "protocol_zh": "像素以每个 0.001 ETH 的价格按 10 × 10 的块出售。持有者发布图片链接、跳转链接和 NSFW 标记，可以随时修改，也可以转让广告；作者只保留把广告标记为 NSFW 的权利。2021 年的 ERC-721 封装合约让广告可作为 NFT 交易；抽签合约让持有者提名一条广告（自己的或别人的），每次提名按像素数计权；随后由 Chainlink 随机数抽出一个被提名的像素，它所属广告的持有者成为执政官，任期 42 天，掌管版税资金，也可以提前卸任。",
+      "collective": "All 1,000,000 pixels sold; the page now holds 1,621 ads, a mix of logos, pixel art, portraits and inside jokes, of which 826 are wrapped as NFTs. By October 2026 the sortition had chosen four magistrates.",
+      "collective_zh": "一百万个像素全部售出；页面目前有 1,621 条广告，混杂着标志、像素画、肖像和圈内玩笑，其中 826 条已封装为 NFT。截至 2026 年 10 月，抽签已经选出了四位执政官。",
+      "keywords": [
+        "Million Dollar Homepage",
+        "pixels",
+        "sortition",
+        "magistrate",
+        "NSFW",
+        "ERC-721"
+      ],
+      "images": [
+        "https://storage.thousandetherhomepage.com/mainnet.png"
+      ],
+      "source_url": "https://thousandetherhomepage.com/faq",
+      "contract_url": "https://etherscan.io/address/0xb5fe93ccfec708145d6278b0c71ce60aa75ef925",
+      "code_url": "https://github.com/thousandetherhomepage/ketherhomepage"
+    },
+    {
+      "id": "billy-rennekamp--kudzu",
+      "creator_ids": [
+        "billy-rennekamp"
+      ],
+      "title": "Kudzu",
+      "year": 2021,
+      "field": "onchain",
+      "sub": "ownership",
+      "mechanisms": [
+        "circulation",
+        "participation",
+        "chance"
+      ],
+      "substrate": "ethereum",
+      "kind": "artwork",
+      "description": "An NFT that behaves like a virus: a holder cannot pass it on, only infect an uninfected wallet with a new Kudzu that inherits its eyes or its mouth. Made by Billy Rennekamp with Dan Denorch, Everett Williams and Sam Hart, released by Folia in April 2021.",
+      "description_zh": "一件像病毒一样运作的 NFT：持有者无法把它转手，只能用一枚新的 Kudzu 去“感染”尚未被感染的钱包，新代币继承原代币的眼睛或嘴巴。由 Billy Rennekamp 与 Dan Denorch、Everett Williams、Sam Hart 合作完成，2021 年 4 月由 Folia 发布。",
+      "idea_en": "Rewrite 'transfer' as 'infect', and a collection grows only through the social graph.",
+      "idea_zh": "把“转账”改写成“感染”，作品就只能沿着社交关系生长。",
+      "protocol": "The contract mints a single genesis token. Its transferFrom is rewritten: an infected wallet (holding exactly one Kudzu) sending to an uninfected wallet mints a new token there instead of moving its own, inheriting the parent's eyes or mouth at random and drawing the other trait anew; nobody can move their Kudzu, and a wallet can be infected only once.",
+      "protocol_zh": "合约只铸造一枚创世代币。transferFrom 被改写：已感染的钱包（恰好持有一枚 Kudzu）向未感染的钱包“发送”时，不会移走自己的代币，而是在对方钱包里铸造一枚新的；新代币随机继承父代的眼睛或嘴巴，另一项特征重新随机生成。任何人都无法移动自己的 Kudzu，每个钱包也只能被感染一次。",
+      "collective": "The vine spread wallet to wallet from one genesis token to 2,187 tokens on Ethereum by October 2026 (the contract's totalSupply), helped by tools others built, such as a self-infect app and a map of the spread. Folia later launched Kudzu on Base (2024) and a Kudzu Christmas Cup (December 2024) in which teams formed by gifting strains competed to be the most generous.",
+      "collective_zh": "藤蔓从一枚创世代币开始，在钱包之间蔓延，到 2026 年 10 月以太坊上已有 2,187 枚代币（合约 totalSupply）；其他人做的“自我感染”应用和传播地图等工具也推动了扩散。Folia 后来又推出了 Base 链上的 Kudzu（2024），以及 Kudzu 圣诞杯（2024 年 12 月）：各队通过赠送病毒株组成，比拼谁最慷慨。",
+      "keywords": [
+        "Kudzu",
+        "Folia",
+        "virus",
+        "transferFrom",
+        "contagion",
+        "FoliaVirus"
+      ],
+      "video": {
+        "url": "https://folia-dev.cdn.prismic.io/folia-dev/Zg6nYjskWekewDh__kudzu-base-promo-ezgif.com-gif-to-webm-converter.webm"
+      },
+      "images": [
+        "https://images.prismic.io/folia-dev/68a7a1c0-984e-4af4-8e05-41f5e83df448_kudzu-still0.png",
+        "https://virus.folia.app/img/65793"
+      ],
+      "source_url": "https://folia.app/works/kudzu",
+      "contract_url": "https://etherscan.io/address/0x9d413b9434c20c73f509505f7fbc6fc591bbf04a",
+      "code_url": "https://github.com/folia-app/kudzu"
+    },
+    {
+      "id": "billy-rennekamp--viper",
+      "creator_ids": [
+        "billy-rennekamp",
+        "joon-yeon-park"
+      ],
+      "title": "Viper 사랑해",
+      "year": 2023,
+      "field": "onchain",
+      "sub": "ownership",
+      "mechanisms": [
+        "circulation",
+        "time",
+        "contract"
+      ],
+      "substrate": "ethereum",
+      "kind": "series",
+      "description": "486 baby vipers released by Folia on 11 July 2023. Sending a viper directly does not give it away: it 'bites' the recipient, who receives a soulbound bite mark, and the viper grows one segment longer.",
+      "description_zh": "2023 年 7 月 11 日由 Folia 发布的 486 条小毒蛇。直接发送毒蛇并不会把它送走，而是“咬”了对方一口：对方收到一枚不可转让的咬痕，毒蛇则变长一节。",
+      "idea_en": "Make every send a mark left on someone else, and let length record how social a token has been.",
+      "idea_zh": "让每一次发送都在别人身上留下印记，用长度记录一枚代币的社交程度。",
+      "protocol": "Vipers cost 0.0555… ETH, minted in ones, threes or fives, with an early allowlist for wallets that had paid royalties on Folia works. When an owner calls transferFrom directly, the contract treats it as a bite: the viper stays, its length rises by one, and a Bite by Viper token is minted to the recipient, who cannot transfer it. A viper cannot bite its owner, an empty wallet, or the same wallet twice in a row; sales through marketplaces still move the viper.",
+      "protocol_zh": "每条毒蛇售价 0.0555… ETH，一次可铸造一、三或五条；为曾在 Folia 作品上支付过版税的钱包设有优先名单。持有者直接调用 transferFrom 时，合约把它当作一次“咬”：毒蛇留在原处、长度加一，同时给对方铸造一枚无法转让的 Bite by Viper 代币。毒蛇不能咬自己的主人、余额为零的钱包，也不能连续两次咬同一个钱包；通过交易市场的出售仍会真正转移毒蛇。",
+      "collective": "All 486 vipers were minted. By October 2026 holders had bitten their way to 540 Bite by Viper tokens held by 326 addresses (Blockscout), and each viper's metadata shows how many times it has bitten.",
+      "collective_zh": "486 条毒蛇全部铸出。截至 2026 年 10 月，持有者已咬出 540 枚 Bite by Viper 代币，分布在 326 个地址中（Blockscout）；每条毒蛇的元数据都写着它咬过多少次。",
+      "keywords": [
+        "Viper",
+        "Folia",
+        "soulbound",
+        "bite",
+        "transferFrom",
+        "사랑해"
+      ],
+      "video": {
+        "url": "https://folia-dev.cdn.prismic.io/folia-dev/a83a88b7-0d3e-4023-a45f-7ed28d38549f_viper-promo-1080.mp4"
+      },
+      "images": [
+        "https://viper.folia.app/api/get/img/1",
+        "https://viper.folia.app/api/get/img/2"
+      ],
+      "source_url": "https://viper.folia.app",
+      "contract_url": "https://etherscan.io/address/0x32f8F03197c55741ccF8Dea9D8f014281bd30183",
+      "code_url": "https://github.com/folia-app/viper-contracts"
+    },
+    {
+      "id": "ciphrd--generations",
+      "creator_ids": [
+        "ciphrd"
+      ],
+      "title": "Generations",
+      "year": 2025,
+      "field": "onchain",
+      "sub": "co-authored",
+      "mechanisms": [
+        "co-authorship",
+        "chance",
+        "currency"
+      ],
+      "substrate": "ethereum",
+      "kind": "series",
+      "description": "The first project on fxhash's open-form protocol (July 2025, on Base): digital organisms whose DNA mutates slightly with each generation, where collectors decide which ones get to have descendants.",
+      "description_zh": "fxhash 开放形式（open-form）协议上的第一个项目（2025 年 7 月，Base 链）：一群数字生物，每一代的 DNA 都会发生轻微突变，由藏家决定哪些个体可以繁衍后代。",
+      "idea_en": "Replace natural selection with collectors' attention, and let the algorithm's history be the lineage they grow.",
+      "idea_zh": "用藏家的注意力取代自然选择，让算法的历史成为他们培育出的谱系。",
+      "protocol": "Collectors mint by paying in the artist's coin (45 $ciphrd) plus 0.001 ETH, and may reroll before locking an edition. Every locked edition becomes a seed that anyone can evolve: the code replays the ancestors' hashes and adds new randomness, and evolution fees are shared along the lineage. The artist can upgrade the project code over time.",
+      "protocol_zh": "藏家用艺术家币（45 枚 $ciphrd）外加 0.001 ETH 铸造，在锁定作品之前可以重新随机。每一件被锁定的作品都成为种子，任何人都可以从它演化：代码重放祖先的哈希值并加入新的随机性，演化费用沿谱系分配。艺术家可以随时间升级项目代码。",
+      "collective": "About a week after release, by 7 July 2025, collectors had minted 2,080 pieces; the mint graph shows the core mints as a dense ball with branches of evolutions growing out of it. In ciphrd's words, 'selection is effected by humans via a large-scale social exploration of algorithms'.",
+      "collective_zh": "发布约一周后，到 2025 年 7 月 7 日，藏家已铸造 2,080 件；铸造图谱中，核心铸造聚成一个密集的球体，演化出的分支从中向外生长。用 ciphrd 的话说，选择是“由人类通过大规模的社会化算法探索”完成的。",
+      "keywords": [
+        "fxhash",
+        "open-form",
+        "evolution",
+        "lineage",
+        "artist coin",
+        "Base"
+      ],
+      "images": [
+        "https://substack-post-media.s3.amazonaws.com/public/images/7e68bcbe-0353-426f-8e80-996a04a88a2e_1898x622.png",
+        "https://substack-post-media.s3.amazonaws.com/public/images/4d90ad20-33b9-4f5b-9de6-2e81d6948dea_768x768.webp"
+      ],
+      "source_url": "https://thecultureproject.substack.com/p/the-weekly-roundup-110"
+    },
+    {
+      "id": "ludens--autonomous-worlds",
+      "creator_ids": [
+        "ludens"
+      ],
+      "title": "Autonomous Worlds (Part 1)",
+      "year": 2022,
+      "field": "theory",
+      "sub": "crypto-theory",
+      "mechanisms": [
+        "autonomy",
+        "constraint"
+      ],
+      "substrate": "text",
+      "kind": "publication",
+      "description": "Essay published on the 0xPARC blog on 3 August 2022 that defines a World as entities plus an 'introduction rule', and calls Worlds that run on a blockchain 'Autonomous Worlds'.",
+      "description_zh": "2022 年 8 月 3 日发表在 0xPARC 博客上的文章，把“世界”定义为实体加上一条“引入规则”，并把运行在区块链上的世界称为“自治世界”。",
+      "idea_en": "A world is alive when its introduction rule can be enforced by anyone, so nobody can unplug it.",
+      "idea_zh": "当一个世界的引入规则可以由任何人执行时，它才是活的：没有人能拔掉它的插头。",
+      "protocol": "ludens argues that something is part of a World (diegetic) only if it entered through the World's introduction rule. Rules enforced by authorities give soft boundaries; rules written in law, code or mathematics give hard ones. Autonomous Worlds have 'hard diegetic boundaries, formalised introduction rules, and no need for privileged individuals to keep the World alive'.",
+      "protocol_zh": "ludens 认为，一个事物只有经由世界的引入规则进入，才算属于这个世界（即“叙事内”的）。由权威执行的规则形成软边界，写成法律、代码或数学的规则形成硬边界。自治世界具有“坚硬的叙事边界、形式化的引入规则，并且不需要特权个人来维持世界的存续”。",
+      "collective": "The term was taken up by 0xPARC's Autonomous Worlds Residency in London (September–December 2022), an Autonomous Worlds Hackathon run with ETHGlobal and Lattice in May 2023, the Autonomous Worlds Network launched in August 2023, and the anthology Autonomous Worlds N1; builders of on-chain games and worlds now use it to describe their work.",
+      "collective_zh": "这个概念随后被 0xPARC 在伦敦举办的自治世界驻留计划（2022 年 9 月至 12 月）、2023 年 5 月与 ETHGlobal 和 Lattice 合办的自治世界黑客松、2023 年 8 月成立的 Autonomous Worlds Network 以及文集《Autonomous Worlds N1》所采用；链上游戏和链上世界的开发者如今常用它来描述自己的作品。",
+      "keywords": [
+        "Autonomous Worlds",
+        "0xPARC",
+        "diegesis",
+        "introduction rule",
+        "Lattice",
+        "MUD"
+      ],
+      "paper": {
+        "url": "https://0xparc.org/blog/autonomous-worlds",
+        "venue": "0xPARC blog, 2022",
+        "title": "Autonomous Worlds (Part 1)"
+      },
+      "source_url": "https://0xparc.org/blog/autonomous-worlds"
+    }
+  ],
+  "leads": [
+    {
+      "name": "Harm van den Dorpel – Mutant Garden (web, c. 2019)",
+      "status": "off_topic",
+      "why": "Checked: in the Mutant Garden software one viewer at a time clicks a mutant to breed its replacements, and the artist chooses which outputs become prints and wall objects; no shared rule makes a group's choices the work. The on-chain branch is covered by harm-van-den-dorpel--mutant-garden-seeder.",
+      "link": "https://harm.work/series/mutant-garden",
+      "found_via": "harm-van-den-dorpel"
+    },
+    {
+      "name": "fxhash open-form generative art",
+      "status": "covered",
+      "why": "added as ciphrd--generations (the first open-form release, July 2025); fxhash itself closed in August 2026.",
+      "link": "https://docs.fxhash.xyz/creating-on-fxhash/programming-open-form-genart",
+      "found_via": "seed"
+    },
+    {
+      "name": "fxhash params (fx(params))",
+      "status": "off_topic",
+      "why": "Platform feature: each collector tunes artist-exposed parameters for their own mint; no work found where the combined choices form a shared result (collector curation is covered by tyler-hobbs--qql).",
+      "link": "https://docs.fxhash.xyz",
+      "found_via": "seed"
+    },
+    {
+      "name": "Art Blocks PMP (project metadata parameters) projects",
+      "status": "off_topic",
+      "why": "PostParams (2025) let each owner set artist-defined values on their own token (e.g. the 32 palettes of jiwa's DDUST); the shared dust storms there follow block height, not holders, so no project yet makes owners' combined settings the work.",
+      "link": "https://www.artblocks.io/articles/postparams-debuts-jiwa-opensea-living-art",
+      "found_via": "alexis-andre"
+    },
+    {
+      "name": "Sam Spratt – Skulls of Luci / Council of Luci (2022)",
+      "status": "duplicate",
+      "why": "covered by sam-spratt--the-monument-game (the gifted Skulls and the Council's vote are described there) and sam-spratt--masquerade.",
+      "link": "https://x.com/SamSpratt/status/1765785525061816746",
+      "found_via": "sam-spratt"
+    },
+    {
+      "name": "Mathcastles – other works",
+      "status": "off_topic",
+      "why": "Checked: the Zero Suite / ZERO glimpse sunflower one (2022–23) uses zero-knowledge proofs for the artists' own claims, and Angelus (announced December 2023) is a 1-of-1; neither gives holders a rule to act on. Terraforms is covered by mathcastles--terraforms.",
+      "link": "https://mathcastles.xyz",
+      "found_via": "mathcastles"
+    },
+    {
+      "name": "Async Art – Blueprints and later programmable works",
+      "status": "off_topic",
+      "why": "Blueprints (December 2021) is a template for capped generative editions (e.g. XCOPY's Grifters, 666 editions) where collectors only mint; single-artist layer works follow the platform rule already covered by async-art--async-art and async-art--first-supper.",
+      "link": "https://async.art",
+      "found_via": "async-art"
+    },
+    {
+      "name": "Words3 (on-chain word game)",
+      "status": "off_topic",
+      "why": "Built by the game studio Small Brain Games on Lattice's MUD (OP Mainnet, later Base): players buy letters at demand-based prices and score when others build on their words; a game experiment without an artistic author. The on-chain world lineage is covered by dark-forest-team--dark-forest.",
+      "link": "https://words3.xyz",
+      "found_via": "dark-forest-team"
+    },
+    {
+      "name": "Autonomous Worlds (ludens / 0xPARC essay, 2022)",
+      "status": "covered",
+      "why": "added as ludens--autonomous-worlds.",
+      "link": "https://0xparc.org/blog/autonomous-worlds",
+      "found_via": "dark-forest-team"
+    },
+    {
+      "name": "Etheria (2015)",
+      "status": "duplicate",
+      "why": "covered by cyrus-adkisson--etheria.",
+      "link": "https://etheria.world",
+      "found_via": "mathcastles"
+    },
+    {
+      "name": "Pixelmap (Ken Erwin, 2016)",
+      "status": "covered",
+      "why": "added as ken-erwin--pixelmap.",
+      "link": "https://pixelmap.io",
+      "found_via": "basepaint"
+    },
+    {
+      "name": "Million Ether Homepage / Thousand Ether Homepage (2017)",
+      "status": "covered",
+      "why": "Million Ether Homepage is covered by peter-porobov--million-ether-homepage; the Thousand Ether Homepage was added as andrey-petrov--thousand-ether-homepage.",
+      "link": "https://thousandetherhomepage.com",
+      "found_via": "basepaint"
+    },
+    {
+      "name": "Rare Pepe Directory (Counterparty, 2016)",
+      "status": "duplicate",
+      "why": "covered by rare-pepe-directory--rare-pepes (images added in data/media/pass3-leads-onchain-a.json).",
+      "link": "http://rarepepedirectory.com",
+      "found_via": "seed"
+    },
+    {
+      "name": "Folia – Viper (Billy Rennekamp, 2022)",
+      "status": "covered",
+      "why": "added as billy-rennekamp--viper (released 11 July 2023, with Joon Yeon Park); the earlier Kudzu (2021) was added as billy-rennekamp--kudzu.",
+      "link": "https://viper.folia.app",
+      "found_via": "harm-van-den-dorpel"
+    },
+    {
+      "name": "EulerBeats (2021)",
+      "status": "off_topic",
+      "why": "Made by the NFT platform company Phosphor: 27 + 27 generative originals whose prints follow a bonding curve and pay original holders 8%; buyers set only print counts and prices, and no artist authored the rule.",
+      "link": "https://eulerbeats.com",
+      "found_via": "seed"
+    },
+    {
+      "name": "Bitcoin Ordinals recursive inscriptions",
+      "status": "open",
+      "why": "Still a generic feature lead: needs a specific artist project in which holders' inscriptions compose a shared work. Not resolved in pass 3 because the session's web-search budget ran out.",
+      "link": "https://docs.ordinals.com/inscriptions/recursion.html",
+      "found_via": "seed"
+    },
+    {
+      "name": "Higher (Farcaster, 2024)",
+      "status": "off_topic",
+      "why": "Community movement around the word 'higher', the ↑ sign and the HIGHER token on Base; no identifiable author wrote a rule set, so it falls under the brief's exclusion of collectives without an artistic author.",
+      "link": "https://farcaster.xyz/~/channel/higher",
+      "found_via": "basepaint"
+    },
+    {
+      "name": "Fomo (Pak, 2021)",
+      "status": "off_topic",
+      "why": "Released as Fomoverse (3 October 2021): 1,234 free NFTs claimed within minutes, with secondary sales split 50/50 between Pak and holders ('partners'); no documented rule shaped what holders did afterwards.",
+      "link": "https://nftnow.com/columns/icymi-mondays-oct-4/",
+      "found_via": "pak"
+    },
+    {
+      "name": "ASH Chapter II: Metamorphosis (Pak, March 2022)",
+      "status": "covered",
+      "why": "added as pak--metamorphosis.",
+      "link": "https://burn.art/drops/metamorphosis",
+      "found_via": "pak"
+    },
+    {
+      "name": "404: The Presence of Absence (Pak)",
+      "status": "off_topic",
+      "why": "#404 (2023, MakersPlace) is a single charity token whose metadata is deliberately empty ('In memory of the absent'); a 1/1 with no collective rule.",
+      "link": "https://event.makersplace.com/drop/404",
+      "found_via": "pak"
+    },
+    {
+      "name": "VV Editions: Humanity Check, 100 Meals (Jack Butcher, 2021)",
+      "status": "off_topic",
+      "why": "The studio record lists them only as 'infinite editions' among 2021 Visualize Value works with varying edition terms; no declared rule beyond open supply. The supply idea is covered by jack-butcher--checks and jack-butcher--opepen-edition.",
+      "link": "https://jack.art/vv-editions",
+      "found_via": "jack-butcher"
+    },
+    {
+      "name": "Hashmasks (Suum Cuique Labs, 2021)",
+      "status": "duplicate",
+      "why": "covered by suum-cuique-labs--hashmasks.",
+      "link": "https://www.thehashmasks.com",
+      "found_via": "pak"
+    },
+    {
+      "name": "Sam Spratt, The Monument Game (2023)",
+      "status": "duplicate",
+      "why": "covered by sam-spratt--the-monument-game.",
+      "link": "https://www.samspratt.com",
+      "found_via": "jack-butcher"
+    },
+    {
+      "name": "Sarah Meyohas, Bitchcoin (2015)",
+      "status": "duplicate",
+      "why": "covered by sarah-meyohas--bitchcoin.",
+      "link": "https://www.sarahmeyohas.com",
+      "found_via": "mitchell-f-chan"
+    },
+    {
+      "name": "Damien Hirst, other HENI NFT projects (2022–2023)",
+      "status": "off_topic",
+      "why": "Checked: Great Expectations (2021) was airdropped only to holders of unburned Currency NFTs, and The Empresses (2022) sold NFT 'deeds' redeemable for prints, with edition size set by demand; neither reuses The Currency's collective choice-and-burn (covered by damien-hirst--the-currency).",
+      "link": "https://heni.com/nft/more-info/the-empresses",
+      "found_via": "damien-hirst"
+    },
+    {
+      "name": "Kevin Abosch, Forever Rose / IAMA Coin (2018)",
+      "status": "duplicate",
+      "why": "covered by kevin-abosch--forever-rose and kevin-abosch--iama-coin (images for IAMA Coin added in data/media/pass3-leads-onchain-a.json).",
+      "link": "https://en.wikipedia.org/wiki/Kevin_Abosch",
+      "found_via": "mitchell-f-chan"
+    },
+    {
+      "name": "Alexis André, Friendship Bracelets (2022)",
+      "status": "duplicate",
+      "why": "covered by alexis-andre--friendship-bracelets.",
+      "link": "https://www.artblocks.io",
+      "found_via": "jack-butcher"
+    },
+    {
+      "name": "eBoy, TOWR (fxhash open-form, 2025)",
+      "status": "open",
+      "why": "Open-form pixel towers where each collector evolution stacks new blocks (one collector stacked 37); a second open-form work worth an entry, but fxhash closed in August 2026, so media must come from elsewhere.",
+      "link": "https://thecultureproject.substack.com/p/the-weekly-roundup-110",
+      "found_via": "ciphrd"
+    },
+    {
+      "name": "Billy Rennekamp, Clovers Network (2018)",
+      "status": "open",
+      "why": "Rennekamp's Ethereum project around registering rare Reversi game boards ('clovers'); check rules, authorship and media.",
+      "link": "https://clovers.network",
+      "found_via": "billy-rennekamp"
+    },
+    {
+      "name": "JODI & Billy Rennekamp, Chameleon (2021)",
+      "status": "open",
+      "why": "Folia work credited to Joan Heemskerk (JODI) and Billy Rennekamp in its source code; mechanics not yet checked.",
+      "link": "https://github.com/folia-app/chameleon",
+      "found_via": "billy-rennekamp"
+    }
+  ]
+}

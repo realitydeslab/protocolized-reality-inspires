@@ -1,0 +1,1168 @@
+{
+ "batch": "pass3-leads-autonomous-network",
+ "creators": [
+  {
+   "id": "caleb-larsen",
+   "name": "Caleb Larsen",
+   "kind": "person",
+   "role": "Artist working with networked objects and installation",
+   "bio": "American artist, originally trained as a painter, who makes installations and machines that act on networks and markets. His black box A Tool to Deceive and Slaughter has put itself up for sale on eBay since 2009.",
+   "why": "He turned an artwork's resale into an automatic, never-ending procedure, a precedent the terra0 whitepaper cites for self-owning entities.",
+   "links": {},
+   "role_zh": "以联网物件和装置创作的艺术家",
+   "bio_zh": "美国艺术家，最初学习绘画，创作在网络和市场上自行运作的装置与机器。他的黑盒子《欺骗与屠宰的工具》自 2009 年起一直在 eBay 上把自己挂出拍卖。",
+   "why_zh": "他把艺术品的转售变成一套自动、永不终止的程序；terra0 白皮书把它列为“自我拥有的实体”的先例。",
+   "connected_to": [],
+   "discovered_via": "terra0"
+  },
+  {
+   "id": "maria-eichhorn",
+   "name": "Maria Eichhorn",
+   "kind": "person",
+   "role": "Conceptual artist",
+   "based": "Berlin, DE",
+   "bio": "German artist, born in 1962 in Bamberg and based in Berlin, whose works use legal, economic and institutional procedures as their material. She represented Germany at the 2022 Venice Biennale.",
+   "why": "Her stock corporation that owns itself is an early, legally binding case of an artwork built as a self-owning entity.",
+   "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Maria_Eichhorn"
+   },
+   "role_zh": "观念艺术家",
+   "bio_zh": "德国艺术家，1962 年生于班贝格，现居柏林，以法律、经济和机构程序为创作材料。2022 年代表德国参加威尼斯双年展。",
+   "why_zh": "她那家“自己拥有自己”的股份公司，是较早一件以具有法律约束力的方式建成的自我拥有型艺术作品。",
+   "based_zh": "柏林，德国",
+   "connected_to": [],
+   "discovered_via": "terra0"
+  },
+  {
+   "id": "knochenbank",
+   "name": "Knochenbank",
+   "kind": "collective",
+   "role": "Artist-run 'bone bank' in Berlin-Prenzlauer Berg (1993)",
+   "based": "Berlin, DE",
+   "bio": "Short-lived bank run in late 1993 from the o zwei gallery on Oderberger Straße by Nils Chlupka, the artist Wolfgang Krause, Bert Papenfuß and the Swiss artist C. H. Adam, gathered around the collective Ioë Bsaffot. It issued Knochengeld, a local currency designed by 54 artists.",
+   "why": "Its currency lost value every week, so the rule itself pushed holders to spend it in the neighbourhood: a demurrage experiment run as an artwork.",
+   "links": {},
+   "role_zh": "柏林普伦茨劳尔贝格一家由艺术家经营的“骨头银行”（1993）",
+   "bio_zh": "1993 年底在奥德贝格街 o zwei 画廊短暂运营的银行，由 Nils Chlupka、艺术家 Wolfgang Krause、Bert Papenfuß 和瑞士艺术家 C. H. Adam 围绕 Ioë Bsaffot 小组发起。它发行了由 54 位艺术家设计的地方货币 Knochengeld。",
+   "why_zh": "它的货币每周贬值，规则本身就推动持有人在街区里把钱花出去：这是一场以艺术作品形式进行的“滞期费货币”实验。",
+   "based_zh": "柏林，德国",
+   "connected_to": [],
+   "discovered_via": "terra0"
+  },
+  {
+   "id": "david-harris-smith",
+   "name": "David Harris Smith",
+   "kind": "person",
+   "role": "Communication researcher at McMaster University",
+   "based": "Hamilton, CA",
+   "bio": "Canadian professor at McMaster University who had hitchhiked across Canada three times before co-creating hitchBOT with Frauke Zeller.",
+   "why": "hitchBOT reversed the usual question of whether people can trust robots and made strangers' goodwill the robot's only means of travel.",
+   "links": {},
+   "role_zh": "麦克马斯特大学传播学研究者",
+   "bio_zh": "加拿大麦克马斯特大学教授，曾三次搭便车横穿加拿大，后与 Frauke Zeller 共同创作了 hitchBOT。",
+   "why_zh": "hitchBOT 把“人能否信任机器人”这个常见问题倒转过来，让陌生人的善意成为机器人唯一的移动方式。",
+   "based_zh": "汉密尔顿，加拿大",
+   "connected_to": [
+    "frauke-zeller"
+   ],
+   "discovered_via": "terra0"
+  },
+  {
+   "id": "frauke-zeller",
+   "name": "Frauke Zeller",
+   "kind": "person",
+   "role": "Communication and social robotics researcher",
+   "bio": "Researcher who was a professor at Ryerson University (now Toronto Metropolitan University) when she co-created hitchBOT with David Harris Smith; she also built an art-critic robot, kulturBOT.",
+   "why": "She framed hitchBOT as an experiment in how people treat a robot in unmonitored public settings.",
+   "links": {},
+   "role_zh": "传播学与社交机器人研究者",
+   "bio_zh": "研究者，与 David Harris Smith 共同创作 hitchBOT 时任教于瑞尔森大学（现多伦多都会大学）；她还做过一个艺术评论机器人 kulturBOT。",
+   "why_zh": "她把 hitchBOT 设计成一项实验，观察人们在无人监管的公共场合如何对待一个机器人。",
+   "connected_to": [
+    "david-harris-smith"
+   ],
+   "discovered_via": "david-harris-smith"
+  },
+  {
+   "id": "stelarc",
+   "name": "Stelarc",
+   "kind": "person",
+   "role": "Performance artist",
+   "based": "Australia",
+   "bio": "Cyprus-born Australian performance artist who has used prosthetics, robotics, the internet and biotechnology to build interfaces with his own body, from 26 skin-hook suspensions to the Third Hand, Exoskeleton and an ear grown on his arm.",
+   "why": "In Fractal Flesh he handed control of his muscles to distant people over the network, making his body a shared terminal.",
+   "links": {
+    "site": "http://stelarc.org",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stelarc"
+   },
+   "role_zh": "行为艺术家",
+   "bio_zh": "出生于塞浦路斯的澳大利亚行为艺术家，用义肢、机器人、互联网和生物技术为自己的身体搭建接口：从 26 次皮肤挂钩悬吊，到“第三只手”、外骨骼，以及在手臂上培育的耳朵。",
+   "why_zh": "在《分形肉身》中，他通过网络把自己肌肉的控制权交给远方的人，使身体成为一个共享终端。",
+   "based_zh": "澳大利亚",
+   "connected_to": [],
+   "discovered_via": "ken-goldberg"
+  },
+  {
+   "id": "alexei-shulgin",
+   "name": "Alexei Shulgin",
+   "kind": "person",
+   "role": "Net artist and curator",
+   "based": "Moscow, RU",
+   "bio": "Moscow-based artist and curator, one of the 1990s net.art group, who ran the Easylife server and made works such as Form Art (1997) and the cyberpunk band 386 DX.",
+   "why": "Desktop Is turned a mailing-list call into one of the first exhibitions made entirely of submissions from the public.",
+   "links": {
+    "site": "http://www.easylife.org",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexei_Shulgin"
+   },
+   "role_zh": "网络艺术家、策展人",
+   "bio_zh": "常驻莫斯科的艺术家和策展人，1990 年代 net.art 群体成员之一，运营 Easylife 服务器，作品包括《形式艺术》（1997）和赛博朋克乐队 386 DX。",
+   "why_zh": "《桌面是》把一条邮件列表上的征集变成了最早一批完全由公众投稿构成的展览之一。",
+   "based_zh": "莫斯科，俄罗斯",
+   "connected_to": [],
+   "discovered_via": "heath-bunting"
+  },
+  {
+   "id": "luther-blissett-project",
+   "name": "Luther Blissett Project",
+   "kind": "collective",
+   "role": "Network of activists and artists sharing one pseudonym (1994–1999)",
+   "based": "Bologna, IT",
+   "bio": "Network launched in Bologna in 1994 to spread and use the multiple-use name Luther Blissett for media pranks, books and actions. In 1999 its Italian members ended the project with a symbolic 'seppuku'; five of them went on to found the writers' collective Wu Ming.",
+   "why": "It wrote an open licence for an identity: anyone can be Luther Blissett simply by using the name.",
+   "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Luther_Blissett_(pseudonym)"
+   },
+   "role_zh": "共用同一个笔名的活动家与艺术家网络（1994–1999）",
+   "bio_zh": "1994 年在博洛尼亚发起的网络，推广并使用“多人共用名” Luther Blissett 进行媒体恶作剧、写书和行动。1999 年意大利成员以象征性的“切腹”结束了这一计划，其中五人随后成立了写作团体 Wu Ming。",
+   "why_zh": "它为一个身份写下了开放许可：任何人只要使用这个名字，就是 Luther Blissett。",
+   "based_zh": "博洛尼亚，意大利",
+   "connected_to": [],
+   "discovered_via": "heath-bunting"
+  },
+  {
+   "id": "blast-theory",
+   "name": "Blast Theory",
+   "kind": "collective",
+   "role": "Artist group (Matt Adams, Ju Row Farr, Nick Tandavanitj)",
+   "based": "Brighton, UK",
+   "bio": "Brighton-based artist group that makes interactive performances, games and apps, many of them developed with the Mixed Reality Lab at the University of Nottingham.",
+   "why": "Its location-based games made remote online players and people on real streets play under one set of rules.",
+   "links": {
+    "site": "https://www.blasttheory.co.uk",
+    "wikipedia": "https://en.wikipedia.org/wiki/Blast_Theory"
+   },
+   "role_zh": "艺术团体（Matt Adams、Ju Row Farr、Nick Tandavanitj）",
+   "bio_zh": "常驻布莱顿的艺术团体，创作互动表演、游戏和应用，许多作品与诺丁汉大学混合现实实验室合作开发。",
+   "why_zh": "它的定位游戏让远程在线玩家与真实街道上的人遵守同一套规则共同游戏。",
+   "based_zh": "布莱顿，英国",
+   "connected_to": [],
+   "discovered_via": "ken-goldberg"
+  },
+  {
+   "id": "nick-thurston",
+   "name": "Nick Thurston",
+   "kind": "person",
+   "role": "Artist, writer and publisher",
+   "based": "UK",
+   "bio": "British artist and writer who runs the imprint Information as Material with Simon Morris, publishing conceptual writing that reuses existing texts and data.",
+   "why": "Of the Subcontract made underpaid crowd-workers the authors of a poetry book and printed their working data beside their poems.",
+   "links": {
+    "site": "http://www.informationasmaterial.org"
+   },
+   "role_zh": "艺术家、作家、出版人",
+   "bio_zh": "英国艺术家和作家，与 Simon Morris 共同经营出版品牌 Information as Material，出版挪用现有文本和数据的观念写作。",
+   "why_zh": "《论转包》让收入微薄的众包工人成为一本诗集的作者，并把他们的工作数据印在诗旁。",
+   "based_zh": "英国",
+   "connected_to": [],
+   "discovered_via": "aaron-koblin"
+  },
+  {
+   "id": "songcamp",
+   "name": "Songcamp",
+   "kind": "collective",
+   "role": "Artist collective and studio for onchain music",
+   "bio": "Artist collective and creative studio that runs online songwriting 'camps' and releases the resulting music through custom onchain collections, starting with Camp Genesis and Camp Elektra in 2021.",
+   "why": "Its camps write explicit rules for how a large group makes music together, releases it and splits the income.",
+   "links": {
+    "site": "https://paragraph.com/@songcamp",
+    "x": "https://x.com/songcamp_"
+   },
+   "role_zh": "链上音乐艺术团体与工作室",
+   "bio_zh": "艺术团体和创意工作室，举办线上词曲创作“营”，并通过定制的链上合集发行营中产生的音乐；2021 年从 Camp Genesis 和 Camp Elektra 起步。",
+   "why_zh": "它的每一期创作营都写下明确规则：一大群人如何一起做音乐、如何发行、如何分配收入。",
+   "connected_to": [],
+   "discovered_via": "holly-herndon"
+  },
+  {
+   "id": "serpentine-arts-technologies",
+   "name": "Serpentine Arts Technologies",
+   "kind": "collective",
+   "role": "Research and production team at Serpentine, London",
+   "based": "London, UK",
+   "bio": "Team at the Serpentine galleries in London that commissions art with advanced technologies and runs Future Art Ecosystems, a research programme with annual briefings, R&D labs and a community of practitioners.",
+   "why": "Its FAE briefings give the field a shared vocabulary for the infrastructure that protocol and blockchain art depend on.",
+   "links": {
+    "site": "https://futureartecosystems.org"
+   },
+   "role_zh": "伦敦蛇形画廊的研究与制作团队",
+   "bio_zh": "伦敦蛇形画廊的团队，委托创作使用前沿技术的艺术，并运营“未来艺术生态”（Future Art Ecosystems）研究项目，包括年度简报、研发实验室和从业者社群。",
+   "why_zh": "它的 FAE 简报为协议艺术和区块链艺术所依赖的基础设施提供了一套共同词汇。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [],
+   "discovered_via": "black-swan-dao"
+  }
+ ],
+ "works": [
+  {
+   "id": "jonas-lund--open-call-club",
+   "creator_ids": [
+    "jonas-lund"
+   ],
+   "title": "Open Call Club",
+   "year": 2016,
+   "field": "network",
+   "sub": "crowdsourced",
+   "also": [
+    "social"
+   ],
+   "mechanisms": [
+    "participation",
+    "constraint"
+   ],
+   "substrate": "network",
+   "kind": "artwork",
+   "description": "A group show at Galeria Cavalo in Rio de Janeiro made entirely from an open call. Artists connected to Rio submitted proposals online, and an algorithm, not a curator, chose the 47 artists who were shown.",
+   "description_zh": "在里约热内卢 Galeria Cavalo 举办的一场群展，内容全部来自公开征集。与里约有关的艺术家在线提交方案，由算法而不是策展人选出参展的 47 位艺术家。",
+   "idea_en": "Write the selection rule, publish the call, and whoever answers becomes the exhibition.",
+   "idea_zh": "写好筛选规则、发出征集，回应的人就构成了展览。",
+   "protocol": "Any artist with a connection to Rio de Janeiro could answer the call with personal details and a proposal. An algorithm weighed both and was tuned to counter the gender bias of Rio galleries, where male artists are often over-represented, by favouring female and non-gender-defined artists.",
+   "protocol_zh": "任何与里约热内卢有关联的艺术家都可以提交个人信息和方案来回应征集。算法综合两者进行评估，并被设定为抵消里约画廊常见的男性艺术家比例过高的性别偏差，优先选择女性和不界定性别的艺术家。",
+   "collective": "Applicants supplied the whole content of the show; the algorithm selected 47 of them. The exhibition ran from 1 December 2016 to 21 January 2017 as a show within The Unique Institutional Critique Pop-Up Boutique, co-presented by Galeria Cavalo and Lund.",
+   "collective_zh": "申请者提供了展览的全部内容，算法从中选出 47 人。展览于 2016 年 12 月 1 日至 2017 年 1 月 21 日举行，是 Galeria Cavalo 与 Lund 联合呈现的群展 The Unique Institutional Critique Pop-Up Boutique 中的展中展。",
+   "keywords": [
+    "open call",
+    "algorithmic curation",
+    "Galeria Cavalo",
+    "Rio de Janeiro",
+    "gender bias"
+   ],
+   "images": [
+    "https://cdn.jonaslund.com/wp-content/uploads/2023/07/24153424/MG_9220-1-3000x2000-1-1400x933.jpg",
+    "https://cdn.jonaslund.com/wp-content/uploads/2023/07/24153406/MG_9102-3000x2000-1-1400x933.jpg",
+    "https://jonaslund.com/wp-content/uploads/2017/03/Screen-Shot-2017-03-13-at-15.50.07-.png"
+   ],
+   "source_url": "https://jonaslund.com/works/open-call-club/"
+  },
+  {
+   "id": "caleb-larsen--a-tool-to-deceive-and-slaughter",
+   "creator_ids": [
+    "caleb-larsen"
+   ],
+   "title": "A Tool to Deceive and Slaughter",
+   "year": 2009,
+   "field": "autonomous",
+   "sub": "self-owning",
+   "also": [
+    "social"
+   ],
+   "mechanisms": [
+    "autonomy",
+    "exchange",
+    "circulation"
+   ],
+   "substrate": "network",
+   "kind": "artwork",
+   "description": "A black acrylic cube with a computer inside that keeps putting itself up for auction on eBay. Whoever buys it must plug it into the internet, and when it sells again they must ship it on to the next owner.",
+   "description_zh": "一个内置电脑的黑色亚克力立方体，不断把自己挂到 eBay 上拍卖。买下它的人必须把它接入互联网，等它再次售出时，还得把它寄给下一位主人。",
+   "idea_en": "An artwork that is always for sale turns every owner into a temporary custodian.",
+   "idea_zh": "一件永远在售的作品，让每一位主人都只是临时保管人。",
+   "protocol": "Every ten minutes the box checks eBay; if it is not listed, or its auction has ended, it creates a new auction of itself. The sale comes with a list of terms: the owner must keep it connected to the internet and, when it is sold, ship it to the new buyer.",
+   "protocol_zh": "盒子每十分钟检查一次 eBay：如果自己不在售，或拍卖已结束，它就为自己重新创建一场拍卖。购买附带一长串条款：主人必须让它保持联网，一旦售出，必须把它寄给新买家。",
+   "collective": "Bidders and owners carry out the work: each purchase restarts the cycle and moves the box to a new home at a new price. Reports from 2010 to 2012 list prices between 2,500 and 7,500 dollars, and the 2016 terra0 whitepaper cites it as a precursor of self-owning artworks.",
+   "collective_zh": "竞拍者和主人共同完成这件作品：每一次购买都重启循环，把盒子以新的价格送到新的家。2010 至 2012 年的报道记录的价格在 2,500 到 7,500 美元之间；2016 年的 terra0 白皮书把它列为自我拥有型艺术品的先例。",
+   "keywords": [
+    "eBay",
+    "self-selling",
+    "black box",
+    "auction",
+    "terra0"
+   ],
+   "images": [
+    "https://arthur.io/img/art/jpg/00017344e5b4cc334/caleb-larsen/a-tool-to-deceive-and-slaughter/large/caleb-larsen--a-tool-to-deceive-and-slaughter.jpg",
+    "https://visuall.net/wp-content/uploads/2012/07/2012-004-Title-1050x700.jpg"
+   ],
+   "source_url": "https://visuall.net/2012/07/07/a-tool-to-deceive-and-slaughter-by-caleb-larsen/"
+  },
+  {
+   "id": "maria-eichhorn--aktiengesellschaft",
+   "creator_ids": [
+    "maria-eichhorn"
+   ],
+   "title": "Maria Eichhorn Aktiengesellschaft",
+   "year": 2002,
+   "field": "autonomous",
+   "sub": "self-owning",
+   "also": [
+    "social"
+   ],
+   "mechanisms": [
+    "autonomy",
+    "contract",
+    "currency"
+   ],
+   "substrate": "text",
+   "kind": "artwork",
+   "description": "For Documenta 11, Eichhorn used 50,000 euros of her production budget to found a public limited company, then transferred all of its shares to the company itself. The company owns itself and, in her words, 'ultimately belongs to no one'.",
+   "description_zh": "为第 11 届卡塞尔文献展，Eichhorn 用 5 万欧元制作经费成立了一家股份有限公司，随后把全部股份转让给公司自身。公司拥有自己，用她的话说，“最终不属于任何人”。",
+   "idea_en": "A company that holds all its own shares turns capital into something no one can own.",
+   "idea_zh": "一家持有自己全部股份的公司，把资本变成了无人能拥有的东西。",
+   "protocol": "The capital is 50,000 shares of one euro, the legal minimum for an Aktiengesellschaft. A share-transfer contract gives all shares to the company itself, to be held in perpetuity; the capital may not be increased, and Eichhorn remains the sole managing board member. German company law, the notary and the commercial register enforce the structure.",
+   "protocol_zh": "股本为 5 万股、每股 1 欧元，正好是德国股份公司的法定最低资本。一份股份转让合同把全部股份永久转给公司自身；资本不得增加，Eichhorn 是唯一的董事。德国公司法、公证人和商业登记处保证这一结构的执行。",
+   "collective": "Notaries, a supervisory board, auditors and the commercial register had to found and keep running a firm designed to make no profit for anyone, and the paperwork of that process (memorandum, articles, minutes, audit report, share-transfer contract) is part of the work. It won the 2002 Arnold Bode Prize, and terra0's 2016 whitepaper cites it as a precursor of self-owning entities.",
+   "collective_zh": "公证人、监事会、审计和商业登记处不得不成立并持续维护一家设计上不为任何人盈利的公司；这一过程的文件（设立文书、章程、会议记录、设立审计报告、股份转让合同）都是作品的一部分。作品获得 2002 年阿诺德·博德奖，terra0 在 2016 年的白皮书中将其列为自我拥有实体的先例。",
+   "keywords": [
+    "Documenta 11",
+    "Aktiengesellschaft",
+    "self-ownership",
+    "Arnold Bode Prize",
+    "company law"
+   ],
+   "images": [
+    "https://s.turbifycdn.com/aah/artbook/maria-eichhorn-aktiengesellschaft-105.jpg",
+    "https://booksat.net/wp-content/uploads/Maria-Eichhorn-Aktiengesellschaft-2-1600x1600.jpg"
+   ],
+   "paper": {
+    "url": "https://www.artbook.com/9783865602442.html",
+    "venue": "Walther König, Köln, 2008",
+    "title": "Maria Eichhorn: Aktiengesellschaft"
+   },
+   "source_url": "https://booksat.net/maria-eichhorn-aktiengesellschaft-2/"
+  },
+  {
+   "id": "knochenbank--knochengeld",
+   "creator_ids": [
+    "knochenbank"
+   ],
+   "title": "Knochengeld",
+   "year": 1993,
+   "field": "social",
+   "sub": "economies",
+   "mechanisms": [
+    "currency",
+    "time",
+    "circulation"
+   ],
+   "substrate": "text",
+   "kind": "artwork",
+   "description": "A local currency issued from 10 November to 29 December 1993 by the Knochenbank, an artist-run 'bone bank' in a Berlin-Prenzlauer Berg gallery. Its notes, each designed by one of 54 artists, were accepted in about 30 bars, galleries and shops, and lost value every week.",
+   "description_zh": "1993 年 11 月 10 日至 12 月 29 日，柏林普伦茨劳尔贝格一家画廊里由艺术家经营的“骨头银行” Knochenbank 发行的地方货币。纸币分别由 54 位艺术家设计，在约 30 家酒吧、画廊和商店通用，并且每周贬值。",
+   "idea_en": "Money that melts a little every week has to keep moving.",
+   "idea_zh": "每周都在融化的钱，只能不停流动。",
+   "protocol": "Each note was worth 20 Knochen, equal to 20 Deutsche Mark, and could be bought from or changed back at the bank. Every week a note lost one Knochen; holders could restore its value by pasting on a renewal ticket. Participating venues stamped each note they took in, and the official stamp of the Ioë Bsaffot collective certified it.",
+   "protocol_zh": "每张纸币面值 20 Knochen，等于 20 德国马克，可在银行购买或兑回。纸币每周贬值 1 Knochen；持有人可以贴上续值票恢复面值。参与的店家每收一张就盖一个章，Ioë Bsaffot 小组的官方印章为纸币背书。",
+   "collective": "54 artists designed the notes, each design printed in 100 numbered and signed copies. About 30 venues between Oderberger Straße and Marienburger Straße took them as payment and stamped each one as it circulated; the bank's stock sold out, and at the closing auction buyers included the German Historical Museum and Deutsche Bank. The terra0 whitepaper (2016) cites Knochengeld as a precursor of programmable money.",
+   "collective_zh": "54 位艺术家设计了纸币，每种设计印 100 张，逐张编号并签名。奥德贝格街与马林堡街之间约 30 家店铺接受它付款，并在每次流通时盖章；银行的存量全部售罄，结束时的拍卖会上，买家包括德国历史博物馆和德意志银行。terra0 白皮书（2016）把 Knochengeld 列为可编程货币的先例。",
+   "keywords": [
+    "demurrage",
+    "local currency",
+    "Prenzlauer Berg",
+    "Ioë Bsaffot",
+    "artist money"
+   ],
+   "images": [
+    "https://digitalmcd.com/wp-content/uploads/2018/09/argentodeur-NilsChlupka.jpg",
+    "https://digitalmcd.com/wp-content/uploads/2018/09/argentodeur-DietmarKirves.jpg",
+    "https://digitalmcd.com/wp-content/uploads/2018/09/argentodeur-KlausSteak.jpg"
+   ],
+   "source_url": "https://digitalmcd.com/?p=5827"
+  },
+  {
+   "id": "david-harris-smith--hitchbot",
+   "creator_ids": [
+    "david-harris-smith",
+    "frauke-zeller"
+   ],
+   "title": "hitchBOT",
+   "year": 2014,
+   "field": "social",
+   "sub": "collective-action",
+   "also": [
+    "network"
+   ],
+   "mechanisms": [
+    "participation",
+    "circulation"
+   ],
+   "substrate": "ai",
+   "kind": "artwork",
+   "description": "A talking robot built from a plastic bucket and flexible limbs that could not move on its own and travelled only when strangers picked it up. It hitchhiked across Canada in 2014 and around Germany and the Netherlands in 2015, before being destroyed in Philadelphia.",
+   "description_zh": "一个用塑料桶和软管四肢做成、会说话的机器人，自己不能移动，只有陌生人把它带上车才能前进。它在 2014 年搭便车横穿加拿大，2015 年游历德国和荷兰，最后在费城被毁。",
+   "idea_en": "Ask a machine to trust strangers, and the strangers write its journey.",
+   "idea_zh": "让机器去信任陌生人，旅程就由陌生人来写。",
+   "protocol": "hitchBOT was left by the road with a destination; anyone could pick it up, talk with it, take it along and then set it down for the next driver. It carried GPS, a camera and social-media accounts, so its location and photos were public, but every move depended on a passer-by.",
+   "protocol_zh": "hitchBOT 带着一个目的地被放在路边；任何人都可以把它捎上、和它聊天、带它同行，再把它留给下一位司机。它装有 GPS、相机和社交媒体账号，位置和照片都是公开的，但每一步移动都取决于路人。",
+   "collective": "Drivers carried it from Halifax to Victoria between 27 July and 21 August 2014, took it into their homes, and brought it to the Wiikwemkoong First Nation, who named it 'Iron Woman'; its GPS sometimes had to be switched off to keep crowds away from hosts. A second robot toured Germany and the Netherlands in 2015, and its US trip ended after two weeks when it was found stripped and decapitated in Philadelphia on 1 August 2015.",
+   "collective_zh": "2014 年 7 月 27 日至 8 月 21 日，司机们把它从哈利法克斯一路带到维多利亚，带它回家，还带它去了 Wiikwemkoong 原住民社区，社区给它取名“铁女人”；有时不得不关闭它的 GPS，以免人群打扰接待它的人家。2015 年第二台机器人游历德国和荷兰；它的美国之旅只持续了两周，8 月 1 日在费城被发现时已被拆毁、斩首。",
+   "keywords": [
+    "hitchhiking",
+    "social robotics",
+    "trust",
+    "Canada",
+    "Leonardo"
+   ],
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/HitchBOT_%2822504282025%29.jpg/960px-HitchBOT_%2822504282025%29.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hitchbot_Goes_to_the_Fair_%2815844794490%29.jpg/960px-Hitchbot_Goes_to_the_Fair_%2815844794490%29.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1162/leon_a_01354",
+    "doi": "10.1162/leon_a_01354",
+    "venue": "Leonardo, 2017",
+    "title": "The Death and Lives of hitchBOT: The Design and Implementation of a Hitchhiking Robot"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/HitchBOT"
+  },
+  {
+   "id": "stelarc--fractal-flesh",
+   "creator_ids": [
+    "stelarc"
+   ],
+   "title": "Fractal Flesh",
+   "year": 1995,
+   "field": "network",
+   "sub": "telematic",
+   "mechanisms": [
+    "participation",
+    "constraint"
+   ],
+   "substrate": "body",
+   "kind": "artwork",
+   "description": "An 'Internet body upload' performance at the Telepolis event in Luxembourg, in which people in Paris, Helsinki and Amsterdam moved Stelarc's body over the network. Touching a screen sent electrical stimulation to his muscles, and his limbs jerked to their choices.",
+   "description_zh": "在卢森堡 Telepolis 活动上进行的一场“互联网身体上传”表演：巴黎、赫尔辛基和阿姆斯特丹的人通过网络驱动 Stelarc 的身体。他们触碰屏幕，电流就刺激他的肌肉，四肢随之抽动。",
+   "idea_en": "Lend your muscles to strangers and the body becomes a shared terminal.",
+   "idea_zh": "把肌肉借给陌生人，身体就成了一个共享终端。",
+   "protocol": "Remote participants at linked sites touched parts of a body diagram on a touch-screen; each touch switched on a muscle-stimulation channel on Stelarc's body in Luxembourg. His movements were involuntary, but he could answer with his robotic Third Hand and trigger image uploads so that the performance could be followed on the web.",
+   "protocol_zh": "联网各地的远程参与者在触摸屏上点击人体图的不同部位，每次点击都会接通 Stelarc 在卢森堡身上的一路肌肉电刺激。他的动作是不由自主的，但他可以用机械“第三只手”回应，并触发图片上传，让人们在网上实时观看。",
+   "collective": "On 10–11 November 1995 audiences at the Centre Pompidou in Paris, the Media Lab in Helsinki and the Doors of Perception conference in Amsterdam choreographed his body from afar, while server statistics showed the live web feed was watched worldwide. No single participant controlled the result: a body moved by many distant hands.",
+   "collective_zh": "1995 年 11 月 10 至 11 日，巴黎蓬皮杜中心、赫尔辛基媒体实验室和阿姆斯特丹 Doors of Perception 会议现场的观众远程编排了他的身体，服务器统计显示世界各地都有人在看网络直播。没有哪位参与者能单独决定结果：这是一具被许多远方之手驱动的身体。",
+   "keywords": [
+    "Telepolis",
+    "muscle stimulation",
+    "Third Hand",
+    "telematic body",
+    "Luxembourg"
+   ],
+   "images": [
+    "http://www.medienkunstnetz.de/assets/img/data/2654/bild.jpg",
+    "https://econtact.ca/14_2/images/stelarc_fractalflesh.png"
+   ],
+   "source_url": "http://www.medienkunstnetz.de/works/fractal-flesh/"
+  },
+  {
+   "id": "alexei-shulgin--desktop-is",
+   "creator_ids": [
+    "alexei-shulgin"
+   ],
+   "title": "Desktop Is",
+   "year": 1997,
+   "field": "network",
+   "sub": "crowdsourced",
+   "mechanisms": [
+    "participation",
+    "instruction"
+   ],
+   "substrate": "network",
+   "kind": "artwork",
+   "description": "'The first international online desktop exhibition': Shulgin asked people to send screenshots of their computer desktops and linked every entry on his Easylife server. The show ran from 20 October 1997 to 20 April 1998.",
+   "description_zh": "“第一个国际在线桌面展”：Shulgin 请人们发来自己电脑桌面的截图，并把每一份投稿都挂在他的 Easylife 服务器上。展览从 1997 年 10 月 20 日持续到 1998 年 4 月 20 日。",
+   "idea_en": "The interface everyone stares at becomes a portrait once people are asked to show it.",
+   "idea_zh": "每个人天天盯着的界面，一旦被邀请展示出来，就成了一幅肖像。",
+   "protocol": "An open call, sent to the 7-11 mailing list and posted on the site, asked anyone to capture their desktop with Print Screen or Apple-Shift-3 and email the image; every submission was added to the exhibition page. A list of 'desktop is…' lines ('your castle', 'a psychoanalyst', 'the answer') framed the call.",
+   "protocol_zh": "一份公开征集发到 7-11 邮件列表并挂在网站上，请任何人用 Print Screen 或 Apple-Shift-3 截下自己的桌面并发邮件寄来；每一份投稿都会被加进展览页面。征集以一串“桌面是……”的句子开头（“你的城堡”“一位心理分析师”“答案”）。",
+   "collective": "Artists and ordinary users in Europe, the Americas and Asia sent in desktops, from bland defaults to staged pieces such as Garnet Hertz's collage of a couple hundred icons and Natalie Bookchin's 'Male'. The New York Times counted almost 50 entries two months in, and the final index lists about 70 entries.",
+   "collective_zh": "欧洲、美洲和亚洲的艺术家和普通用户都寄来了桌面，从平淡的默认界面到精心布置的作品，例如 Garnet Hertz 用两百来个图标拼成的拼贴，以及 Natalie Bookchin 的《男性》。《纽约时报》在两个月时统计到近 50 份投稿，最终的索引页列出约 70 份。",
+   "keywords": [
+    "net.art",
+    "screenshot",
+    "desktop",
+    "7-11 mailing list",
+    "Easylife"
+   ],
+   "images": [
+    "http://www.easylife.org/desktop/desktops/hudson.jpg",
+    "http://www.conceptlab.com/desktop/img/desktop_10.jpg",
+    "http://www.easylife.org/desktop/desktops/breeze.jpg"
+   ],
+   "source_url": "http://www.easylife.org/desktop/"
+  },
+  {
+   "id": "luther-blissett-project--luther-blissett",
+   "creator_ids": [
+    "luther-blissett-project"
+   ],
+   "title": "Luther Blissett",
+   "year": 1994,
+   "field": "autonomous",
+   "sub": "autonomous-artists",
+   "also": [
+    "social"
+   ],
+   "mechanisms": [
+    "co-authorship",
+    "participation"
+   ],
+   "substrate": "text",
+   "kind": "platform",
+   "description": "A 'multiple-use name' and open pop star: from 1994 hundreds of activists and artists in Italy and across Europe signed pranks, books, broadcasts and actions as Luther Blissett, a name borrowed from an English footballer.",
+   "description_zh": "一个“多人共用名”和开放的流行明星：从 1994 年起，意大利和欧洲各地数以百计的活动家和艺术家以 Luther Blissett 之名署名恶作剧、书籍、广播和行动；这个名字借自一位英格兰足球运动员。",
+   "idea_en": "An identity anyone may adopt becomes an author no one owns.",
+   "idea_zh": "一个任何人都可以采用的身份，成了一个不属于任何人的作者。",
+   "protocol": "One rule, stated in its own texts: anyone can be Luther Blissett simply by adopting the name. Around the open name, the Luther Blissett Project in Bologna coordinated strategies for using it and circulated a shared fictitious face, composited in 1994 from 1930s photo portraits.",
+   "protocol_zh": "只有一条规则，写在它自己的文本里：任何人只要采用这个名字，就是 Luther Blissett。围绕这个开放的名字，博洛尼亚的 Luther Blissett Project 协调使用策略，并传播一张共用的虚构面孔，它在 1994 年由 1930 年代的人像照片合成。",
+   "collective": "Users of the name staged media hoaxes, starting with one on the missing-persons TV programme Chi l'ha visto? in 1994, and the pseudonym spread to Rome, London, Germany, Spain, Slovenia and the Americas. In 1999 the Italian group signed the bestselling novel Q as Luther Blissett and then ended the project with a ritual 'seppuku'; five of them founded Wu Ming.",
+   "collective_zh": "使用这个名字的人策划了一系列媒体骗局，第一场是 1994 年针对寻人电视节目 Chi l'ha visto? 的恶作剧；这个笔名随后传到罗马、伦敦、德国、西班牙、斯洛文尼亚和美洲。1999 年，意大利小组以 Luther Blissett 之名出版畅销小说《Q》，随后以仪式性的“切腹”结束计划；其中五人成立了 Wu Ming。",
+   "keywords": [
+    "multiple-use name",
+    "Wu Ming",
+    "Q",
+    "culture jamming",
+    "open identity"
+   ],
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Luther_Blissett.jpg/960px-Luther_Blissett.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Luther_Blissett_(pseudonym)"
+  },
+  {
+   "id": "rafael-lozano-hemmer--body-movies",
+   "creator_ids": [
+    "rafael-lozano-hemmer"
+   ],
+   "title": "Body Movies (Relational Architecture 6)",
+   "year": 2001,
+   "field": "social",
+   "sub": "performance",
+   "mechanisms": [
+    "participation",
+    "co-authorship"
+   ],
+   "substrate": "body",
+   "kind": "artwork",
+   "description": "Portraits photographed on the host city's streets are projected onto a building facade in a public square, but bright lamps wash them out and they appear only inside the shadows of passers-by. Shadows range from 2 to 25 metres tall depending on how close people stand to the lamps.",
+   "description_zh": "在主办城市街头拍摄的肖像被投影到广场上一座建筑的立面上，但强光把它们冲淡，只有在路人的影子里才能看见。人离灯越近影子越大，高度从 2 米到 25 米不等。",
+   "idea_en": "Give a crowd's shadows the power to reveal, and play starts on its own.",
+   "idea_zh": "让人群的影子拥有显影的能力，游戏便自己开始了。",
+   "protocol": "Four robotic xenon projectors show portraits from 1,200 transparencies, while powerful light sources at ground level wash out the facade, so a portrait is visible only where someone's shadow falls. A camera tracking system watches the shadows and, once every portrait in a scene has been revealed, switches to the next set.",
+   "protocol_zh": "四台机械氙灯投影仪放映来自 1,200 张透明胶片的肖像，地面上的强光源同时把立面照得一片明亮，肖像只在有人投下影子的地方显现。摄像跟踪系统观察影子，当一个场景中的所有肖像都被显现后，就切换到下一组。",
+   "collective": "Passers-by on Rotterdam's Schouwburgplein in 2001, and later in Linz, Liverpool, Lisbon, Duisburg, Hong Kong, Wellington and Québec, moved toward and away from the lamps to shrink and grow their shadows and uncover portraits together; a new scene appeared only after the crowd had revealed every portrait in the current one.",
+   "collective_zh": "2001 年鹿特丹剧院广场上的路人，以及之后林茨、利物浦、里斯本、杜伊斯堡、香港、惠灵顿和魁北克的路人，靠近或远离灯光，让影子缩小或放大，一起把肖像揭示出来；只有当人群把当前场景的所有肖像都揭示出来，下一个场景才会出现。",
+   "keywords": [
+    "Relational Architecture",
+    "shadows",
+    "public space",
+    "V2_",
+    "projection"
+   ],
+   "video": {
+    "url": "https://www.lozano-hemmer.com/videos/artwork/bodymovies_rotterdam.mp4"
+   },
+   "images": [
+    "https://www.lozano-hemmer.com/image_sets/body_movies/rotterdam_2001/bodymovies_rotterdam_01.jpg",
+    "https://www.lozano-hemmer.com/image_sets/body_movies/rotterdam_2001/bodymovies_rotterdam_02.jpg"
+   ],
+   "source_url": "https://www.lozano-hemmer.com/body_movies.php"
+  },
+  {
+   "id": "rafael-lozano-hemmer--amodal-suspension",
+   "creator_ids": [
+    "rafael-lozano-hemmer"
+   ],
+   "title": "Amodal Suspension (Relational Architecture 8)",
+   "year": 2003,
+   "field": "network",
+   "sub": "telematic",
+   "mechanisms": [
+    "participation",
+    "chance"
+   ],
+   "substrate": "network",
+   "kind": "artwork",
+   "description": "Text messages sent from phones and web browsers were turned into flashing light by 20 robotic searchlights above the Yamaguchi Center for Arts and Media in Japan, and bounced across the sky until someone else caught them.",
+   "description_zh": "人们用手机或网页发出的短信，被日本山口情报艺术中心上空的 20 盏机械探照灯转换成闪光，在夜空中来回传递，直到被别人“接住”。",
+   "idea_en": "Slow a private message down, make it public, and let strangers intercept it.",
+   "idea_zh": "把私人消息放慢、公开，让陌生人去截获。",
+   "protocol": "Anyone could write a short message on a phone or the project website. Instead of reaching a recipient directly, each message was encoded as a unique flash sequence, like Morse code, and passed between searchlights; anyone could catch it with a phone or the 3D web interface, which removed it from the sky, displayed it and projected it on the museum facade.",
+   "protocol_zh": "任何人都可以用手机或项目网站写一条短消息。消息不会直接送达收件人，而是被编码成独一无二的闪光序列（类似莫尔斯码），在探照灯之间传递；任何人都可以用手机或三维网页界面把它“接住”，它随即从夜空中消失，显示出来，并投影到美术馆立面上。",
+   "collective": "From 1 to 24 November 2003, as YCAM's opening project, people in Yamaguchi and at access terminals in 27 venues around the world filled the sky over the new arts centre with messages visible from up to 15 km away, sending, catching and reading each other's texts.",
+   "collective_zh": "2003 年 11 月 1 日至 24 日，作为山口情报艺术中心的开馆项目，山口当地以及全球 27 处场馆终端前的人们，用消息填满了新艺术中心上空，15 公里外都能看见；他们彼此发送、截获并阅读对方的文字。",
+   "keywords": [
+    "Relational Architecture",
+    "searchlights",
+    "SMS",
+    "YCAM",
+    "interception"
+   ],
+   "video": {
+    "url": "https://www.lozano-hemmer.com/videos/artwork/amodal_suspension_yamaguchi_2003_rlh_001_retouch_clean.mp4"
+   },
+   "images": [
+    "https://www.lozano-hemmer.com/image_sets/amodal_suspension/yamaguchi_2003/amodalsuspension_yamaguchi_01.jpg",
+    "https://www.lozano-hemmer.com/image_sets/amodal_suspension/yamaguchi_2003/amodalsuspension_yamaguchi_02.jpg"
+   ],
+   "source_url": "https://www.lozano-hemmer.com/amodal_suspension.php"
+  },
+  {
+   "id": "rafael-lozano-hemmer--pulse-room",
+   "creator_ids": [
+    "rafael-lozano-hemmer"
+   ],
+   "title": "Pulse Room",
+   "year": 2006,
+   "field": "social",
+   "sub": "collective-action",
+   "mechanisms": [
+    "participation",
+    "time"
+   ],
+   "substrate": "body",
+   "kind": "artwork",
+   "description": "A room hung with 100 to 300 clear light bulbs, each flashing at the heart rate of a different visitor. Holding a sensor adds your pulse to the first bulb and pushes every earlier recording one step along.",
+   "description_zh": "一个悬挂着 100 到 300 只透明灯泡的房间，每只灯泡都按一位不同观众的心率闪烁。握住传感器，你的脉搏就进入第一只灯泡，之前的所有记录都向后移一位。",
+   "idea_en": "A room of heartbeats is a queue: each newcomer pushes the oldest out.",
+   "idea_zh": "满屋的心跳是一条队列：每来一个新人，最早的那位就被挤出去。",
+   "protocol": "A sensor at the side of the room reads the pulse of whoever holds it and makes the nearest bulb flash at that rhythm. When they let go, the lights go out briefly and the new recording joins the start of the sequence, advancing all the others; the room only ever shows the most recent participants.",
+   "protocol_zh": "房间一侧的传感器读取握住它的人的脉搏，让最近的灯泡按这个节奏闪烁。松手后灯光短暂熄灭，新的记录加入序列开头，其余记录依次后移；房间里永远只显示最近的参与者。",
+   "collective": "Since its first showing in Puebla in 2006 and the Mexican Pavilion at the 2007 Venice Biennale, visitors at venues such as MONA in Hobart, the MCA in Sydney and the Hirshhorn in Washington have kept the room lit with their pulses, each recording displaced in turn by the people who came after.",
+   "collective_zh": "自 2006 年在普埃布拉首展、2007 年进入威尼斯双年展墨西哥馆以来，霍巴特 MONA、悉尼当代艺术博物馆、华盛顿赫希洪博物馆等地的观众用自己的脉搏让房间亮着，每一段记录都会依次被后来者替换。",
+   "keywords": [
+    "heartbeat",
+    "biometrics",
+    "light bulbs",
+    "Venice Biennale 2007",
+    "participation archive"
+   ],
+   "video": {
+    "url": "https://www.lozano-hemmer.com/videos/artwork/pulseroom_puebla.mp4"
+   },
+   "images": [
+    "https://www.lozano-hemmer.com/image_sets/pulse_room/basel_2016/pulse_room_basel_2016_fw_001.jpg",
+    "https://www.lozano-hemmer.com/image_sets/pulse_room/puebla_2007/pulseroom_puebla_01.jpg"
+   ],
+   "source_url": "https://www.lozano-hemmer.com/pulse_room.php"
+  },
+  {
+   "id": "kit-galloway--electronic-cafe",
+   "creator_ids": [
+    "kit-galloway",
+    "sherrie-rabinowitz"
+   ],
+   "title": "Electronic Café",
+   "year": 1984,
+   "field": "network",
+   "sub": "telematic",
+   "mechanisms": [
+    "participation",
+    "co-authorship"
+   ],
+   "substrate": "network",
+   "kind": "artwork",
+   "description": "A seven-week telecommunications network commissioned by MOCA Los Angeles for the 1984 Olympic Arts Festival. It linked five sites, the museum and four restaurants in South Central, East LA, Koreatown and Venice, so that café guests could send each other drawings, photos, messages and video across the city.",
+   "description_zh": "洛杉矶当代艺术博物馆为 1984 年奥运艺术节委托的一个为期七周的电信网络。它连接了五个地点：美术馆，以及南洛杉矶、东洛杉矶、韩国城和威尼斯海滩的四家餐馆，让咖啡馆里的客人跨越城市互相发送绘画、照片、留言和视频。",
+   "idea_en": "Put the network in a café, and neighbours who never meet start making things together.",
+   "idea_zh": "把网络搬进咖啡馆，从未谋面的邻里就开始一起创作。",
+   "protocol": "Each site had the same kit: a text network where anyone could join or start a topic, a searchable text-and-picture database called Community Memory, video and audio conferencing, shared-screen drawing, the ability to broadcast to all other sites, and printers to pin results on the wall. Local artists, trained as system operators, invited their communities to use it.",
+   "protocol_zh": "每个站点配备相同的设备：任何人都可以加入或发起话题的文字网络、可检索的图文数据库“社区记忆”、视频与音频会议、共享屏幕绘画、向其他所有站点广播的功能，以及把结果打印出来贴在墙上的打印机。受过系统操作培训的当地艺术家邀请各自的社区来使用。",
+   "collective": "For seven weeks café-goers in five communities that spoke different languages exchanged drawings, photos, poems and messages and built a shared archive of images; restaurant owners gave up table space during the Olympics to host it. Galloway and Rabinowitz continued the model as Electronic Café International.",
+   "collective_zh": "七周里，五个说不同语言的社区的咖啡馆客人交换绘画、照片、诗和留言，共同建立了一个图像档案；餐馆老板在奥运期间让出桌位来容纳它。Galloway 和 Rabinowitz 后来以“国际电子咖啡馆”延续了这一模式。",
+   "keywords": [
+    "Olympic Arts Festival",
+    "MOCA",
+    "Community Memory",
+    "telecollaboration",
+    "Los Angeles"
+   ],
+   "images": [
+    "https://ecafe.com/1984draw.gif",
+    "https://ecafe.com/ecineon.gif"
+   ],
+   "source_url": "https://ecafe.com/"
+  },
+  {
+   "id": "blast-theory--can-you-see-me-now",
+   "creator_ids": [
+    "blast-theory"
+   ],
+   "title": "Can You See Me Now?",
+   "year": 2001,
+   "field": "network",
+   "sub": "collective-games",
+   "also": [
+    "social"
+   ],
+   "mechanisms": [
+    "participation",
+    "constraint"
+   ],
+   "substrate": "network",
+   "kind": "game",
+   "description": "One of the first location-based games: online players move through a virtual copy of a city centre while Blast Theory runners carrying GPS devices chase them through the real streets. A player reached by a runner is 'seen' and out of the game.",
+   "description_zh": "最早的定位游戏之一：在线玩家在城市中心的虚拟副本中移动，Blast Theory 的跑者带着 GPS 设备在真实街道上追捕他们。被跑者追上的玩家即被“看见”，出局。",
+   "idea_en": "Lay a playground chase over a real city and remote players feel the street through other people's bodies.",
+   "idea_zh": "把操场上的追逐游戏叠加到真实城市上，远程玩家便通过别人的身体感受街道。",
+   "protocol": "Up to 100 online players at a time steer with the arrow keys, text-chat with each other and the runners, and hear the runners' walkie-talkie stream; the runners' GPS positions update the map live. On registering, each player names someone they have not seen for a long time, and when caught they hear the runner announce the catch using that name.",
+   "protocol_zh": "最多 100 名在线玩家同时用方向键移动，彼此以及与跑者文字聊天，并能收听跑者的对讲机音频；跑者的 GPS 位置实时更新到地图上。注册时，每位玩家要写下一个很久没见却仍会想起的人；被抓住时，他们会听到跑者用这个名字宣布抓到了自己。",
+   "collective": "Players and runners improvised a public, teasing and sometimes tender dialogue, from tactics to worrying about a runner who sounded hurt. First played at the b.tv festival in Sheffield on 30 November and 1 December 2001 and developed with the University of Nottingham's Mixed Reality Lab, it won the Golden Nica for Interactive Art at Prix Ars Electronica in 2003 and was staged in other cities, including Tokyo.",
+   "collective_zh": "玩家与跑者即兴展开了一场公开的、带着调侃有时又很温柔的对话，从交流战术到担心某个听起来受了伤的跑者。作品与诺丁汉大学混合现实实验室合作开发，2001 年 11 月 30 日至 12 月 1 日在谢菲尔德 b.tv 艺术节首演，2003 年获林茨电子艺术节互动艺术金尼卡奖，并在东京等其他城市上演。",
+   "keywords": [
+    "location-based game",
+    "GPS",
+    "Mixed Reality Lab",
+    "Prix Ars Electronica",
+    "pervasive game"
+   ],
+   "video": {
+    "url": "https://vimeo.com/5489402"
+   },
+   "images": [
+    "https://www.blasttheory.co.uk/wp-content/uploads/2013/02/project_cysmn_featured.jpg",
+    "https://www.blasttheory.co.uk/wp-content/uploads/2013/02/project_cysmn_secondary-625x450.jpg"
+   ],
+   "source_url": "https://www.blasttheory.co.uk/projects/can-you-see-me-now/"
+  },
+  {
+   "id": "nick-thurston--of-the-subcontract",
+   "creator_ids": [
+    "nick-thurston"
+   ],
+   "title": "Of the Subcontract, Or Principles of Poetic Right",
+   "year": 2013,
+   "field": "network",
+   "sub": "crowdsourced",
+   "mechanisms": [
+    "participation",
+    "exchange"
+   ],
+   "substrate": "text",
+   "kind": "publication",
+   "description": "A book of 100 poems about computational capitalism, each written to order by an underpaid worker hired through Amazon's Mechanical Turk. The poems are ordered by what they cost to produce, and data about each writer's efficiency is turned into typographic ornament.",
+   "description_zh": "一本收录 100 首关于计算资本主义的诗集，每首诗都是通过亚马逊 Mechanical Turk 雇来的低薪工人按订单写成的。诗按生产成本排序，每位写作者的效率数据被转化成排版装饰。",
+   "idea_en": "Commission poetry as piecework and the price list becomes part of the poem.",
+   "idea_zh": "把写诗当作计件活来外包，价目表就成了诗的一部分。",
+   "protocol": "Thurston posted the writing of each poem as a paid task on Mechanical Turk, where anonymous workers accept small jobs. The book prints the poems in order of cost and reuses the platform's metadata about each writer's efficiency as decoration, framed by a foreword by McKenzie Wark and an afterword by Darren Wershler.",
+   "protocol_zh": "Thurston 把每首诗的写作作为付费任务发布到 Mechanical Turk 上，由匿名工人接下这些小活。书按成本顺序排印诗作，把平台记录的每位写作者效率元数据挪用为装饰，并配有 McKenzie Wark 的序言和 Darren Wershler 的后记。",
+   "collective": "Unknown crowd-workers wrote all 100 poems, and their cost and working data are as visible in the book as their verses. Information as Material published it in 2013 in an edition of 500 copies of 144 pages.",
+   "collective_zh": "全部 100 首诗都出自不知名的众包工人之手，他们的成本和工作数据在书中与诗句同样显眼。Information as Material 于 2013 年出版此书，印量 500 册，共 144 页。",
+   "keywords": [
+    "Mechanical Turk",
+    "conceptual writing",
+    "Information as Material",
+    "labour",
+    "poetry"
+   ],
+   "images": [
+    "http://www.informationasmaterial.org/wp-content/uploads/2013/07/OTSC_front-cover-crop_CH-catalogue.jpg"
+   ],
+   "paper": {
+    "url": "http://www.informationasmaterial.org/portfolio/of-the-subcontract-or-principles-of-poetic-right/",
+    "venue": "Information as Material, 2013",
+    "title": "Of the Subcontract, Or Principles of Poetic Right"
+   },
+   "source_url": "http://www.informationasmaterial.org/portfolio/of-the-subcontract-or-principles-of-poetic-right/"
+  },
+  {
+   "id": "kyle-mcdonald--who-pays-artists",
+   "creator_ids": [
+    "kyle-mcdonald"
+   ],
+   "title": "Who Pays Artists?",
+   "year": 2014,
+   "field": "network",
+   "sub": "crowdsourced",
+   "also": [
+    "social"
+   ],
+   "mechanisms": [
+    "participation",
+    "currency"
+   ],
+   "substrate": "network",
+   "kind": "platform",
+   "description": "An anonymous form and public board where artists report what they were paid, by whom, for what kind of job and how it went. McDonald made it as an intervention in the taboo around money in the arts.",
+   "description_zh": "一个匿名表单和公开留言板，艺术家在这里报告自己拿到多少报酬、谁付的钱、做的是什么工作、体验如何。McDonald 把它做成一次对艺术界金钱禁忌的介入。",
+   "idea_en": "Pool the numbers no one says aloud, and a price list for art labour appears.",
+   "idea_zh": "把没人愿意说出口的数字汇集起来，一份艺术劳动的价目表便浮现出来。",
+   "protocol": "Anyone could fill in one sentence-shaped form: I was paid an amount, in a currency, by a client, for a commission, exhibition, grant, performance, residency, talk or teaching job, in a place, after so much work, with a good or bad experience, as someone who has worked for so many years. Reports were published anonymously, shown in random selections on the site and released as open JSON and CSV data.",
+   "protocol_zh": "任何人都可以填写一个句子形状的表单：我因为一项委托、展览、资助、表演、驻留、讲座或教学工作，在某地，从某个客户那里拿到了多少钱、什么币种，花了多少时间，体验好或坏，我已从业多少年。报告匿名发布，在网站上随机展示，并以开放的 JSON 和 CSV 数据公开。",
+   "collective": "Artists filed reports from 2014 to at least 2020, from unpaid exhibitions to paid commissions; the archived data set holds 932 reports, and the code is open on GitHub with several contributors. The site, inspired by Who Pays Writers?, no longer accepts submissions.",
+   "collective_zh": "从 2014 年到至少 2020 年，艺术家们提交了从无偿展览到有偿委托的各种报告；归档数据集共有 932 条，代码在 GitHub 上开源，有多位贡献者。网站受 Who Pays Writers? 启发，现已停止接收投稿。",
+   "keywords": [
+    "artist fees",
+    "anonymous reporting",
+    "open data",
+    "Who Pays Writers?",
+    "art labour"
+   ],
+   "images": [
+    "https://kylemcdonald.net/thumbs/whopaysartists.jpg",
+    "https://www.whopaysartists.com/images/header.png"
+   ],
+   "source_url": "https://whopaysartists.com/",
+   "code_url": "https://github.com/kylemcdonald/whopaysartists/"
+  },
+  {
+   "id": "songcamp--chaos",
+   "creator_ids": [
+    "songcamp"
+   ],
+   "title": "Chaos (Camp Chaos)",
+   "year": 2022,
+   "field": "autonomous",
+   "sub": "autonomous-artists",
+   "also": [
+    "onchain"
+   ],
+   "mechanisms": [
+    "co-authorship",
+    "governance",
+    "burn"
+   ],
+   "substrate": "ethereum",
+   "kind": "series",
+   "description": "Songcamp's third camp: 77 musicians, visual artists, engineers, radio producers, economists and writers spent eight weeks in 2022 becoming a 'headless band' called Chaos, which released 45 songs as a collection of music NFT packs that collectors could open.",
+   "description_zh": "Songcamp 的第三期创作营：77 位音乐人、视觉艺术家、工程师、电台制作人、经济学者和写作者在 2022 年用八周时间组成一支名为 Chaos 的“无头乐队”，把 45 首歌作为可开启的音乐 NFT 卡包合集发行。",
+   "idea_en": "Design the containers (scope, time, teams, value), and a band with no head can make one body of work.",
+   "idea_zh": "设计好容器（范围、时间、团队、价值），一支没有领袖的乐队也能做出一件完整的作品。",
+   "protocol": "The 45 musicians were split into 15 bands of three, each given two weeks to finish a song without a brief. Collectors mint Packs and may keep them sealed or open them, which burns the Pack and mints four randomly chosen songs. All revenue flows to one split shared by the whole camp: 20% by fortnightly self-assessment, 40% by Coordinape peer gifts, 10% held back for a later collective decision and 30% to the Songcamp treasury.",
+   "protocol_zh": "45 位音乐人被分成 15 支三人乐队，每支乐队在没有命题的情况下用两周完成一首歌。藏家铸造卡包后可以保持密封，也可以开启：开启会销毁卡包，并随机铸造出四首歌。全部收入进入全营共享的一份分成：20% 按每两周一次的自评分配，40% 通过 Coordinape 互相赠予，10% 留待之后集体决定，30% 进入 Songcamp 金库。",
+   "collective": "Campers worked on one shared project rather than for credit on their own pieces. 68 of the 77 opted in to a one-time basic income of 0.3 ETH each, and they allocated the $CHAOS revenue shares to one another through self-selection and gratitude rounds; 1,000 of the collection's 21,000 NFTs are reserved for campers as revenue-sharing 'supercharged' tokens built on Liquid Splits by the 0xSplits developers in the camp.",
+   "collective_zh": "营员们为同一个共同项目工作，而不是为自己那一首歌争取署名。77 人中有 68 人选择领取每人 0.3 ETH 的一次性基本收入，并通过自评和感谢轮次互相分配 $CHAOS 收入份额；合集 21,000 个 NFT 中预留 1,000 个给营员，作为分享收入的“增强型”代币，由营中 0xSplits 开发者用 Liquid Splits 搭建。",
+   "keywords": [
+    "headless band",
+    "music NFT",
+    "Coordinape",
+    "0xSplits",
+    "Liquid Splits"
+   ],
+   "images": [
+    "https://storage.googleapis.com/papyrus_images/eb094b9cb6e2e744d7c5b6be23648667663d3c6f7eed09063cf4be94fdd730b6.jpg",
+    "https://storage.googleapis.com/papyrus_images/7227903fa5baa6ca0b5928497582f408b93850ad68825129f4c10cc1772e799f.jpg"
+   ],
+   "paper": {
+    "url": "https://paragraph.com/@songcamp/value-flow-how-chaos-artists-are-getting-paid",
+    "venue": "Songcamp, 2022",
+    "title": "Value Flow: How Chaos Artists Are Getting Paid"
+   },
+   "source_url": "https://paragraph.com/@songcamp/how-to-build-a-headless-band-architecting-chaos"
+  },
+  {
+   "id": "songcamp--c4",
+   "creator_ids": [
+    "songcamp"
+   ],
+   "title": "C4",
+   "year": 2023,
+   "field": "onchain",
+   "sub": "co-authored",
+   "mechanisms": [
+    "participation",
+    "co-authorship"
+   ],
+   "substrate": "ethereum",
+   "kind": "series",
+   "description": "Songcamp's fourth camp released five songs as blank onchain CDs on the Zora network: listeners minted an empty disc and chose which of the five songs to 'write' to it, which turned the disc's uniform artwork into a one-of-one generative cover.",
+   "description_zh": "Songcamp 第四期创作营把五首歌以链上空白 CD 的形式发布在 Zora 网络上：听众铸造一张空光盘，再从五首歌中选一首“刻录”进去，光盘统一的封面随之变成独一无二的生成式封面。",
+   "idea_en": "Let listeners burn the album: each choice of song writes the tracklist's popularity onto the chain.",
+   "idea_zh": "让听众自己刻录专辑：每一次选歌，都把曲目的受欢迎程度写进链上。",
+   "protocol": "During a seven-day mint anyone could mint blank CD tokens, each with room for one song. Writing a song to a disc is permanent: the contract stores the choice in the token's memory, and the metadata and artwork are generated from what was written. Mint revenue is split onchain among all participating artists.",
+   "protocol_zh": "在为期七天的铸造期内，任何人都可以铸造空白 CD 代币，每张只能容纳一首歌。把歌写入光盘是永久的：合约把选择存进代币的“存储区”，元数据和图像根据写入的内容生成。铸造收入在链上分给所有参与的艺术家。",
+   "collective": "Fifteen musicians, chosen from more than 120 applicants and grouped in five trios, wrote the songs. When the mint closed, listeners had minted 2,372 CDs worth more than 17 ETH, split instantly among the artists; how many discs carry each song is a record of the listeners' collective choice.",
+   "collective_zh": "从 120 多名申请者中选出的 15 位音乐人分成五个三人组创作了这些歌。铸造结束时，听众共铸造了 2,372 张 CD，收入超过 17 ETH，即时分给艺术家；每首歌被刻进了多少张光盘，就是听众集体选择的记录。",
+   "keywords": [
+    "onchain CD",
+    "Zora",
+    "write to disc",
+    "revenue split",
+    "music NFT"
+   ],
+   "images": [
+    "https://storage.googleapis.com/papyrus_images/eade71ec3634195d4bbd3c990f509908ce4cc609037889a567020d7e8cd6c2ea.jpg"
+   ],
+   "source_url": "https://paragraph.com/@songcamp/how-we-built-c4",
+   "contract_url": "https://explorer.zora.energy/address/0x38898cAdB5241121620A81e7BcA47eaB8a87402A"
+  },
+  {
+   "id": "serpentine-arts-technologies--fae3",
+   "creator_ids": [
+    "serpentine-arts-technologies"
+   ],
+   "title": "Future Art Ecosystems 3: Art x Decentralised Tech",
+   "year": 2022,
+   "field": "theory",
+   "sub": "crypto-theory",
+   "mechanisms": [
+    "governance",
+    "co-authorship"
+   ],
+   "substrate": "text",
+   "kind": "publication",
+   "description": "The third annual briefing of Serpentine's Future Art Ecosystems programme, written by Victoria Ivanova and Gary Zhexi Zhang. It reads web3, crypto and the decentralised web as infrastructure for art and proposes how cultural organisations could build on them.",
+   "description_zh": "蛇形画廊“未来艺术生态”项目的第三份年度简报，由 Victoria Ivanova 和 Gary Zhexi Zhang 撰写。它把 web3、加密技术和去中心化网络当作艺术的基础设施来分析，并提出文化机构可以如何在其上构建。",
+   "idea_en": "Treat blockchains as cultural infrastructure to be designed, not a market to be ridden.",
+   "idea_zh": "把区块链当作需要设计的文化基础设施，而不是一个可以搭便车的市场。",
+   "protocol": "The 152-page briefing has three parts: 'Primitives' names new patterns such as artist-as-platform, governance design, community-as-aura and permissionless worlds; 'Prospects' and 'Proposals' turn them into strategies for cultural organisations, including continuous service architecture and distributed ownership.",
+   "protocol_zh": "这份 152 页的简报分三部分：“原语”命名了一批新模式，如“艺术家即平台”、治理设计、“社群即灵光”和无许可世界；“前景”和“提案”把它们转化为文化机构的策略，包括持续服务架构和分布式所有权。",
+   "collective": "It draws on interviews with practitioners across art, web3, the decentralised web and policy, such as Laura Lotti, Cem Dagdelen and the Internet Archive, and was produced by Serpentine's R&D Platform with Rival Strategy and a guest producer. It is published as a free PDF and in print, with artwork by Harm van den Dorpel.",
+   "collective_zh": "简报基于对艺术、web3、去中心化网络和政策领域从业者的访谈，如 Laura Lotti、Cem Dagdelen 和互联网档案馆，由蛇形画廊研发平台与 Rival Strategy 及一位客座制作人共同完成。它以免费 PDF 和印刷本发行，插图由 Harm van den Dorpel 创作。",
+   "keywords": [
+    "Future Art Ecosystems",
+    "Serpentine",
+    "web3",
+    "cultural infrastructure",
+    "artist-as-platform"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/2113/7453/files/Capture_6_c770336e-68ed-4494-9e6d-a351df30f1a2.jpg",
+    "https://cdn.shopify.com/s/files/1/2113/7453/files/Capture_7_650882e6-7575-4b35-b3b1-a2859024b65e.jpg"
+   ],
+   "paper": {
+    "url": "https://futureartecosystems.org/wp-content/uploads/2023/09/FAE3_web.pdf",
+    "venue": "Serpentine, 2022",
+    "title": "Future Art Ecosystems 3: Art x Decentralised Tech"
+   },
+   "source_url": "https://futureartecosystems.org/briefing/fae3/"
+  }
+ ],
+ "leads": [
+  {
+   "name": "Jonas Lund, Open Call Club (2016)",
+   "why": "Covered: added as jonas-lund--open-call-club (applicants' proposals, selected by a bias-reversing algorithm, made up the show).",
+   "link": "https://jonaslund.com/works/open-call-club/",
+   "found_via": "jonas-lund",
+   "status": "covered"
+  },
+  {
+   "name": "Nadya Tolokonnikova, UnicornDAO (2022)",
+   "why": "Collector DAO that buys and incubates work by women, non-binary and LGBTQ+ artists; members fund and vote, but its rules are an organisation's charter, not an authored work (same case as PleasrDAO).",
+   "link": "https://en.wikipedia.org/wiki/Nadya_Tolokonnikova",
+   "found_via": "assangedao",
+   "status": "off_topic"
+  },
+  {
+   "name": "UkraineDAO (2022)",
+   "why": "Charity fundraiser that pooled donations to buy an NFT of Ukraine's flag; donors' only rule was to contribute to the auction, with no artistic protocol shaping what they did.",
+   "link": "https://en.wikipedia.org/wiki/Nadya_Tolokonnikova",
+   "found_via": "assangedao",
+   "status": "off_topic"
+  },
+  {
+   "name": "Solienne (Kristi Coronado with Eden, 2025)",
+   "why": "Covered by kristi-coronado--solienne (symbient batch).",
+   "link": "https://www.solienne.ai",
+   "found_via": "gene-kogan",
+   "status": "duplicate"
+  },
+  {
+   "name": "Spirit Protocol (2025-26)",
+   "why": "Still not public in October 2026: spiritprotocol.io says only 'Sovereign memory. Coming soon.' and lists a 'fleet' of agent services by Spirit Protocol Labs, Inc. (Solienne, Hemma, Miyomi, Henri, Denza, Sara, Uriel) with no published rules for holders or communities. Revisit at launch; Solienne is covered by kristi-coronado--solienne.",
+   "link": "https://spiritprotocol.io/fleet",
+   "found_via": "gene-kogan",
+   "status": "open"
+  },
+  {
+   "name": "Eden (Gene Kogan and others)",
+   "why": "Judged on its own, Eden is a creative-AI platform and agent toolkit run by Eden Labs: a tool that many people use, with no single authored rule set for a group. Agents built with it that do have community rules are covered separately: gene-kogan--abraham, gene-kogan--abraham-covenant (new-autonomous batch) and kristi-coronado--solienne.",
+   "link": "https://eden.art",
+   "found_via": "gene-kogan",
+   "status": "off_topic"
+  },
+  {
+   "name": "Zerebro (Jeffy Yu, 2024)",
+   "why": "AI agent with a memecoin, run as a crypto venture; holders only trade the token and no authored rule shapes collective behaviour (the comparable art case is andy-ayrey--truth-terminal).",
+   "link": "https://zerebro.org",
+   "found_via": "andy-ayrey",
+   "status": "off_topic"
+  },
+  {
+   "name": "Holly Herndon & Mat Dryhurst, Spawning / Have I Been Trained (2022)",
+   "why": "Covered by spawning--have-i-been-trained (herndon-dryhurst batch).",
+   "link": "https://spawning.ai",
+   "found_via": "holly-herndon",
+   "status": "duplicate"
+  },
+  {
+   "name": "Caleb Larsen, A Tool To Deceive and Slaughter (2009)",
+   "why": "Covered: added as caleb-larsen--a-tool-to-deceive-and-slaughter.",
+   "link": "https://visuall.net/2012/07/07/a-tool-to-deceive-and-slaughter-by-caleb-larsen/",
+   "found_via": "terra0",
+   "status": "covered"
+  },
+  {
+   "name": "Maria Eichhorn, Maria Eichhorn Aktiengesellschaft (2002)",
+   "why": "Covered: added as maria-eichhorn--aktiengesellschaft (precursor of self-owning entities).",
+   "link": "https://booksat.net/maria-eichhorn-aktiengesellschaft-2/",
+   "found_via": "terra0",
+   "status": "covered"
+  },
+  {
+   "name": "Wolfgang Müller, Knochengeld",
+   "why": "Covered: added as knochenbank--knochengeld (Berlin, 1993). The terra0 whitepaper credits Wolfgang Müller, but the MCD account names the Knochenbank group (Nils Chlupka, Wolfgang Krause, Bert Papenfuß, C. H. Adam, collective Ioë Bsaffot) and 54 note designers.",
+   "link": "https://digitalmcd.com/?p=5827",
+   "found_via": "terra0",
+   "status": "covered"
+  },
+  {
+   "name": "hitchBOT (David Harris Smith & Frauke Zeller, 2013-15)",
+   "why": "Covered: added as david-harris-smith--hitchbot.",
+   "link": "https://en.wikipedia.org/wiki/HitchBOT",
+   "found_via": "terra0",
+   "status": "covered"
+  },
+  {
+   "name": "Nouns-funded art (e.g. Nouns animation festival)",
+   "why": "Nouns DAO grants commission ordinary projects whose own rules do not shape collective behaviour; the funding protocol itself is covered by nounders--nouns and lil-nounders--lil-nouns.",
+   "link": "https://nouns.wtf",
+   "found_via": "nounders",
+   "status": "off_topic"
+  },
+  {
+   "name": "Songcamp",
+   "why": "Covered: added as songcamp--chaos (headless band with a network-allocated revenue split, 2022) and songcamp--c4 (listeners write one of five songs to onchain CDs, 2023).",
+   "link": "https://paragraph.com/@songcamp",
+   "found_via": "holly-herndon",
+   "status": "covered"
+  },
+  {
+   "name": "Serpentine Arts Technologies / Legal Lab, Future Art Ecosystems",
+   "why": "Covered: the decentralised-tech briefing added as serpentine-arts-technologies--fae3 (theory). The other FAE volumes (Advanced Technologies 2020, Metaverse 2021, Public AI 2024, Creative R&D 2025) are less specific to protocol art.",
+   "link": "https://futureartecosystems.org/briefings/",
+   "found_via": "black-swan-dao",
+   "status": "covered"
+  },
+  {
+   "name": "Kevin Abosch, Forever Rose (2018)",
+   "why": "Covered by kevin-abosch--forever-rose (onchain-rules-2 batch).",
+   "link": "",
+   "found_via": "jonas-lund",
+   "status": "duplicate"
+  },
+  {
+   "name": "Stelarc — Fractal Flesh (1995)",
+   "why": "Covered: added as stelarc--fractal-flesh.",
+   "link": "http://www.medienkunstnetz.de/works/fractal-flesh/",
+   "found_via": "ken-goldberg",
+   "status": "covered"
+  },
+  {
+   "name": "Paul Ford — tilde.club (2014)",
+   "why": "Passes as open infrastructure (one shared Unix server, users' hand-made pages), but no verifiable image or video: tilde.club has none and Ford's Medium essay blocks checks.",
+   "link": "https://tilde.club/",
+   "found_via": "aram-bartholl",
+   "status": "no_media"
+  },
+  {
+   "name": "Joel Holmberg — Legendary Account (2007–2010)",
+   "why": "Passes (Yahoo! Answers users answering his existential questions make the work; shown in Free, New Museum 2010), but Yahoo! Answers closed in 2021 and the Rhizome ArtBase documentation is behind bot protection; no verifiable image found.",
+   "link": "https://rhizome.org/art/artbase/artwork/legendary-account/",
+   "found_via": "olia-lialina",
+   "status": "no_media"
+  },
+  {
+   "name": "Nick Thurston — Of the Subcontract (2013)",
+   "why": "Covered: added as nick-thurston--of-the-subcontract.",
+   "link": "http://www.informationasmaterial.org/portfolio/of-the-subcontract-or-principles-of-poetic-right/",
+   "found_via": "aaron-koblin",
+   "status": "covered"
+  },
+  {
+   "name": "Blast Theory — Can You See Me Now? (2001)",
+   "why": "Covered: added as blast-theory--can-you-see-me-now.",
+   "link": "https://www.blasttheory.co.uk/projects/can-you-see-me-now/",
+   "found_via": "ken-goldberg",
+   "status": "covered"
+  },
+  {
+   "name": "Kit Galloway & Sherrie Rabinowitz — Electronic Café (1984)",
+   "why": "Covered: added as kit-galloway--electronic-cafe.",
+   "link": "https://ecafe.com/",
+   "found_via": "kit-galloway",
+   "status": "covered"
+  },
+  {
+   "name": "Alexei Shulgin — Desktop Is (1997)",
+   "why": "Covered: added as alexei-shulgin--desktop-is.",
+   "link": "http://www.easylife.org/desktop/",
+   "found_via": "heath-bunting",
+   "status": "covered"
+  },
+  {
+   "name": "Luther Blissett (1994)",
+   "why": "Covered: added as luther-blissett-project--luther-blissett.",
+   "link": "https://en.wikipedia.org/wiki/Luther_Blissett_(pseudonym)",
+   "found_via": "heath-bunting",
+   "status": "covered"
+  },
+  {
+   "name": "Rafael Lozano-Hemmer — Body Movies (2001) and other Relational Architecture works",
+   "why": "Covered: added as rafael-lozano-hemmer--body-movies, rafael-lozano-hemmer--amodal-suspension and rafael-lozano-hemmer--pulse-room (Vectorial Elevation was already in). Voz Alta (2008) left as a new lead.",
+   "link": "https://www.lozano-hemmer.com/",
+   "found_via": "rafael-lozano-hemmer",
+   "status": "covered"
+  },
+  {
+   "name": "Lauren Lee McCarthy & Kyle McDonald — Noodle (2014)",
+   "why": "A build guide for a crowd-powered Raspberry Pi device whose owner programs the Mechanical Turk questions; a general tool rather than a work with its own rule for a group (the idea is covered by lauren-lee-mccarthy--social-turkers).",
+   "link": "https://www.instructables.com/Noodle-a-crowdsourced-robot/",
+   "found_via": "kyle-mcdonald",
+   "status": "off_topic"
+  },
+  {
+   "name": "Reddit — Robin (2016), Sequence (2019), Second (2021)",
+   "why": "April Fools features built by Reddit staff with no identifiable artistic author (unlike Josh Wardle's The Button and Place), and no verifiable image found; reopen only if a source credits an artist.",
+   "link": "https://en.wikipedia.org/wiki/List_of_Reddit_April_Fools%27_Day_events",
+   "found_via": "josh-wardle",
+   "status": "off_topic"
+  },
+  {
+   "name": "Aram Bartholl — DVD Dead Drop (2012) and OFFLINE ART (2013)",
+   "why": "DVD Dead Drop is read-only (visitors receive a curated DVD) and OFFLINE ART is an exhibition format; neither lets the public's actions make the work, unlike aram-bartholl--dead-drops.",
+   "link": "https://arambartholl.com/dvd-dead-drop/",
+   "found_via": "aram-bartholl",
+   "status": "off_topic"
+  },
+  {
+   "name": "Kyle McDonald — Who Pays Artists? (2014)",
+   "why": "Covered: added as kyle-mcdonald--who-pays-artists.",
+   "link": "https://whopaysartists.com/",
+   "found_via": "kyle-mcdonald",
+   "status": "covered"
+  },
+  {
+   "name": "Kacie Kinzer — Tweenbots (2009)",
+   "why": "Small robot of the late 2000s that, like hitchBOT, could only reach its destination if strangers helped it; named on hitchBOT's Wikipedia page as a similar project. Confirm creator, year and media.",
+   "link": "https://en.wikipedia.org/wiki/HitchBOT",
+   "found_via": "david-harris-smith",
+   "status": "open"
+  },
+  {
+   "name": "Rafael Lozano-Hemmer — Voz Alta (2008)",
+   "why": "Public-voice work for the memorial of the 1968 Tlatelolco massacre in Mexico City, reportedly turning what anyone says into a megaphone into searchlight flashes; confirm details and media on lozano-hemmer.com.",
+   "link": "https://www.lozano-hemmer.com/",
+   "found_via": "rafael-lozano-hemmer",
+   "status": "open"
+  },
+  {
+   "name": "Songcamp — Camp Elektra (2021)",
+   "why": "Second Songcamp camp; three songs released as 1-of-1 NFTs whose value split proved hard to divide, which led to the Chaos design; check its own release rules.",
+   "link": "https://paragraph.com/@songcamp/how-to-build-a-headless-band-architecting-chaos",
+   "found_via": "songcamp",
+   "status": "open"
+  },
+  {
+   "name": "Blast Theory — Uncle Roy All Around You (2003) and other games",
+   "why": "Further Blast Theory games mixing online and street players; check which ones give the public a rule-bound role beyond a single player.",
+   "link": "https://www.blasttheory.co.uk/",
+   "found_via": "blast-theory",
+   "status": "open"
+  }
+ ]
+}

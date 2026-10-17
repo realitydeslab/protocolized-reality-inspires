@@ -92,8 +92,11 @@ Images or a video found later for existing works, kept out of the research batch
 
 ## Lead (person / project found but not researched in this batch)
 ```json
-{ "name": "…", "why": "…", "link": "…", "found_via": "creator id", "status": "open" }   // open | no_media | off_topic | duplicate
+{ "name": "…", "why": "…", "link": "…", "found_via": "creator id", "status": "open" }   // open | no_media | off_topic | duplicate | covered
 ```
+To close a lead from an earlier batch, list it in your own batch with the **exact same `name`** and a resolved status
+(`covered` = now in the gallery, with the work id in `why`; `off_topic` / `duplicate` / `no_media` with a one-line reason).
+The build keeps the resolved status over the earlier open one.
 
 ## Language rule
 Every user-facing text exists in BOTH languages, never mixed inside one field (proper nouns — titles,

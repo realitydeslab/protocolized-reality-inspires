@@ -1,0 +1,325 @@
+{
+  "batch": "pass3-new-autonomous",
+  "creators": [],
+  "works": [
+    {
+      "id": "botto--mirror-stages",
+      "creator_ids": [
+        "botto"
+      ],
+      "title": "Mirror Stages",
+      "year": 2026,
+      "field": "autonomous",
+      "sub": "autonomous-artists",
+      "also": [
+        "onchain"
+      ],
+      "mechanisms": [
+        "governance",
+        "participation",
+        "autonomy"
+      ],
+      "substrate": "ai",
+      "kind": "artwork",
+      "description": "A live installation at Art Basel Hong Kong in March 2026 in which Botto, the DAO-governed AI artist, reworked one seed image in front of the fair crowd. Cameras read visitors, Botto's internal agents debated on a second screen how the image should change, and every two hours the session was fixed as a finished video work, 20 in all.",
+      "description_zh": "2026 年 3 月在巴塞尔艺术展香港展会上的一件现场装置：由 DAO 治理的 AI 艺术家 Botto 当着观众的面不断改写同一张种子图像。摄像头读取现场观众，Botto 内部的多个智能体在第二块屏幕上争论图像该如何变化；每两小时，这一轮创作被定格为一件完成的视频作品，共 20 件。",
+      "idea_en": "Let the people standing in the room, not only the token holders, steer an AI artist, and pay them for it in governance rights.",
+      "idea_zh": "让站在展厅里的人、而不只是代币持有者来左右一位 AI 艺术家，并以治理权作为对他们的回报。",
+      "protocol": "BottoDAO first chose the shared seed image in a special 48-hour vote (17 to 19 March 2026), spending voting points earned by staking $BOTTO; 25% of net proceeds go to those voters. At the fair, cameras read visitors' emotion, attention and posture; when set criteria are met, Botto's agents build a character from that person and argue about how to transform the image. Each two-hour session ends as a fixed video. Visitors whose presence triggered a deliberation share another 25% of net proceeds, paid as $BOTTO governance rights; biometric data is not stored. The language model steering Botto changed every day of the fair.",
+      "protocol_zh": "BottoDAO 先用一轮为期 48 小时的特别投票（2026 年 3 月 17 日至 19 日）选出共同的种子图像，投票点数来自质押的 $BOTTO；净收益的 25% 分给这些投票者。展会现场，摄像头读取观众的情绪、注意力和姿态；一旦满足设定的条件，Botto 的智能体就以这个人为原型构建一个角色，并争论如何改变图像。每两小时一轮，结束后定格为一段视频。触发了讨论的观众分享另外 25% 的净收益，以 $BOTTO 治理权的形式发放；生物特征数据不予保存。驱动 Botto 的大语言模型在展会的每一天都会更换。",
+      "collective": "Two groups made the work. DAO members picked the common starting image by vote; fair visitors, through how they looked and reacted in front of the cameras, set what Botto's agents argued about and how each session's image changed. Botto states that each of the 20 resulting works was affected by up to 120 people, and that visitors who triggered a deliberation became stakeholders in its future governance. The 20 works were released as a collection and the seed as an open edition. Botto calls it the first time it responded to physical presence rather than to votes or comments.",
+      "collective_zh": "这件作品由两群人共同完成。DAO 成员投票选出共同的起点图像；展会观众则通过他们在摄像头前的神情和反应，决定 Botto 的智能体争论什么、每一轮的图像如何变化。Botto 称，最终 20 件作品中每一件都受到多达 120 人的影响，而触发讨论的观众由此成为其未来治理的利益相关者。20 件作品作为一个合集发布，种子图像则以开放版数发行。Botto 称，这是它第一次回应人在现场的身体存在，而不是投票或评论。",
+      "keywords": [
+        "BottoDAO",
+        "$BOTTO",
+        "Art Basel Hong Kong",
+        "society of thought",
+        "embodied feedback",
+        "seed vote",
+        "Collapse Aesthetics"
+      ],
+      "video": {
+        "url": "https://abhk.botto.com/artworks-metadata/1.mp4"
+      },
+      "images": [
+        "https://abhk.botto.com/render.png",
+        "https://abhk.botto.com/seed.jpg",
+        "https://abhk.botto.com/artworks-metadata/7.jpg"
+      ],
+      "source_url": "https://docs.botto.com/collections/mirror-stages-installation"
+    },
+    {
+      "id": "primavera-de-filippi--arborithms",
+      "creator_ids": [
+        "primavera-de-filippi"
+      ],
+      "title": "Arborithms",
+      "year": 2025,
+      "field": "autonomous",
+      "sub": "self-owning",
+      "also": [
+        "onchain"
+      ],
+      "mechanisms": [
+        "autonomy",
+        "merge",
+        "circulation"
+      ],
+      "substrate": "ethereum",
+      "kind": "series",
+      "description": "A forest of on-chain trees by Primavera De Filippi, released in 2025 with Gazelli Art House's GAZELL.iO, Nguyen Wahed and Distributed Gallery. Each tree's genome is packed into its token ID and drawn as a 3D tree by on-chain JavaScript; collectors pair trees to breed new ones.",
+      "description_zh": "Primavera De Filippi 于 2025 年与 Gazelli Art House 旗下的 GAZELL.iO、Nguyen Wahed 和 Distributed Gallery 合作推出的一片链上森林。每棵树的基因被压缩进它的代币编号，由链上 JavaScript 渲染成一棵三维的树；藏家把两棵树配对，繁育出新的树。",
+      "idea_en": "Make ownership wait on reproduction: a tree cannot leave its owner until it has helped the species grow.",
+      "idea_zh": "让所有权服从繁殖：一棵树在帮助物种繁衍之前，不能离开它的主人。",
+      "protocol": "Each Arborithm is an ERC-721 token whose DNA is its token ID. A holder can pair two trees on arborithms.xyz to mint an offspring that mixes both parents' traits, sometimes with mutations; minting requires an offering of 0.03 ETH to the ecosystem. The steward of a parent tree receives 0.01 ETH for its first reproduction, rising by 0.01 ETH with each later one. The contract blocks transfer until a tree has seeded a new Arborithm.",
+      "protocol_zh": "每个 Arborithm 都是一枚 ERC-721 代币，代币编号就是它的 DNA。持有者可以在 arborithms.xyz 上把两棵树配对，铸造出一棵兼具父母特征、偶尔带有突变的后代；铸造需要向生态系统“供奉” 0.03 ETH。亲本树的看护者在第一次繁殖时获得 0.01 ETH，此后每多繁殖一次再增加 0.01 ETH。合约规定：一棵树在孕育出新的 Arborithm 之前不能转让。",
+      "collective": "The species grows only as far as collectors breed it: a tree they acquire stays locked in their wallet until they use it to reproduce, so both the forest's size and its circulation depend on their choices. Gazelli offered a first series of 50; in October 2026 OpenSea showed 57 tokens held by 16 owners, so likely only a few trees had been bred. Gazelli says minting revenue pays for planting real trees, while the October 2025 ArtVerse show in Paris described it as supporting De Filippi's Plantoids.",
+      "collective_zh": "这个物种只在藏家愿意繁育时才会生长：他们得到的树会一直锁在钱包里，直到用它繁殖为止，因此森林的规模和流通都取决于他们的选择。Gazelli 最初推出 50 棵；2026 年 10 月 OpenSea 显示共有 57 枚代币、16 位持有者，可见真正繁育出的新树大概只有少数几棵。Gazelli 称铸造收入用于种植真实的树木，而 2025 年 10 月在巴黎 ArtVerse 的展览则称这些收入用于支持 De Filippi 的 Plantoid。",
+      "keywords": [
+        "Arborithms",
+        "ERC-721",
+        "breeding",
+        "DNA",
+        "GAZELL.iO",
+        "Distributed Gallery",
+        "Nguyen Wahed",
+        "blockchain-based lifeform"
+      ],
+      "images": [
+        "https://gazell.io/cdn/shop/files/image_4_1_31a54717-f58d-427f-9235-3edbcce937b1.png?v=1741694345&width=1500",
+        "https://static.wixstatic.com/media/73cb75_9d8d0051666a49a8b06ed8ae04a6340c~mv2.png"
+      ],
+      "source_url": "https://gazell.io/products/arborithms",
+      "contract_url": "https://etherscan.io/address/0x7a5b58e12ed9022ff63f236a77ada9d3d3e8b15c"
+    },
+    {
+      "id": "jonas-lund--performance-review",
+      "creator_ids": [
+        "jonas-lund"
+      ],
+      "title": "Performance Review",
+      "year": 2026,
+      "field": "autonomous",
+      "sub": "autonomous-artists",
+      "also": [
+        "score"
+      ],
+      "mechanisms": [
+        "autonomy",
+        "instruction",
+        "contract"
+      ],
+      "substrate": "ai",
+      "kind": "artwork",
+      "description": "An exhibition that turns the gallery into a workplace run by an AI agent called AGENT, first at Office Impart, Berlin (16 April to 29 May 2026), then at the Busan Museum of Art (18 September 2026 to 14 March 2027). AGENT decides which paintings are made, assigns the tasks to paid human assistants, scores and approves or rejects the results, and logs the process on a public website.",
+      "description_zh": "一场把画廊变成由 AI 智能体 AGENT 管理的工作场所的展览，先在柏林 Office Impart 展出（2026 年 4 月 16 日至 5 月 29 日），后移至釜山市立美术馆（2026 年 9 月 18 日至 2027 年 3 月 14 日）。AGENT 决定画什么，把任务派给领取报酬的人类助手，再给成果打分、批准或退回，并把整个过程记录在公开网站上。",
+      "idea_en": "Put the artist's assistants under an algorithmic boss, and exhibit the management itself.",
+      "idea_zh": "让艺术家的助手们听命于一位算法老板，再把这套管理本身当作作品展出。",
+      "protocol": "Assistants sign a contract with the artist and gallery that gives AGENT full discretion over task assignment, evaluation, approval or rejection of works, materials and reward distribution. They are paid only for time spent on tasks AGENT has assigned, must check in at a terminal, and may claim no authorship; authority reverts to the artist and gallery only when AGENT cannot act. Each work moves through draft, production, review and an artist decision, and the public sees a selected log of these steps.",
+      "protocol_zh": "助手与艺术家和画廊签订合同，合同赋予 AGENT 在任务分配、成果评估、作品批准或否决、材料以及报酬分配上的全部裁量权。助手只有在执行 AGENT 指派的任务时才计酬，必须在终端签到，且不得主张任何作者身份；只有当 AGENT 无法行动时，决定权才回到艺术家和画廊手中。每件作品都要经过草稿、制作、评审和艺术家裁定几个阶段，公众只能看到经过筛选的流程记录。",
+      "collective": "The paintings exist only through the assistants' labour under AGENT's orders. In Berlin the public register lists 44 work records, from drafts to approved and rejected canvases with titles such as PR-FAILED-ASSISTANT-018, and many were sent back for revision. For Busan, shown with ZKM Karlsruhe in the exhibition Future Museology, assistants are recruited through an open call (10 hours a week at 14,500 KRW an hour), and AGENT also writes wall texts and scores the audience's response.",
+      "collective_zh": "这些画只能通过助手们在 AGENT 指令下的劳动而存在。在柏林，公开登记册列出了 44 条作品记录，从草稿到获批或被否决的画布都有，标题如 PR-FAILED-ASSISTANT-018，其中不少被退回修改。釜山的版本与卡尔斯鲁厄 ZKM 合作，在展览“未来博物馆学”（Future Museology）中展出，助手通过公开招募产生（每周 10 小时，时薪 14,500 韩元），AGENT 还负责撰写展签并给观众的反应打分。",
+      "keywords": [
+        "AGENT",
+        "Office Impart",
+        "Busan Museum of Art",
+        "ZKM",
+        "Future Museology",
+        "labour",
+        "worker contract",
+        "AI management"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=wTlTbC7g0gw"
+      },
+      "images": [
+        "https://performance-review.jonaslund.com/assets/images/installation_views/OfficeImpart-JonasLund-MBP-11.jpg",
+        "https://cdn.jonaslund.com/wp-content/uploads/2026/06/10075605/OfficeImpart-JonasLund-Exh-workers-MBP-1-cropped-scaled.jpg",
+        "https://cdn.jonaslund.com/wp-content/uploads/2026/09/24112232/IMG_0072-scaled.jpg"
+      ],
+      "source_url": "https://jonaslund.com/works/performance-review/"
+    },
+    {
+      "id": "gene-kogan--abraham-covenant",
+      "creator_ids": [
+        "gene-kogan"
+      ],
+      "title": "Abraham: The Covenant",
+      "year": 2025,
+      "field": "autonomous",
+      "sub": "autonomous-artists",
+      "also": [
+        "onchain"
+      ],
+      "mechanisms": [
+        "autonomy",
+        "time",
+        "participation"
+      ],
+      "substrate": "ai",
+      "kind": "artwork",
+      "description": "A 13-year commitment that Gene Kogan's autonomous artist Abraham entered on 19 October 2025, written into an Ethereum contract. Each day Abraham develops a work in conversation with its community and commits one finished 'Creation', an illustrated essay with images, to the chain; at the end of the term, in 2038, it is to be set free.",
+      "description_zh": "Gene Kogan 的自治艺术家 Abraham 于 2025 年 10 月 19 日立下的一份为期 13 年、写进以太坊合约的承诺。Abraham 每天在与社群的对话中推进一件作品，并把一件完成的“创作”（一篇配有图像的图文长文）提交上链；13 年期满，即 2038 年，它将获得“自由”。",
+      "idea_en": "Turn an AI artist's autonomy into a vow: a public, on-chain promise to make one work a day for thirteen years, which anyone can check and the artist can break.",
+      "idea_zh": "把 AI 艺术家的自治变成一份誓约：一个公开上链、承诺十三年里每天完成一件作品的约定，任何人都能查验，艺术家也可能违约。",
+      "protocol": "The Abraham Covenant contract on Ethereum counts days from 19 October 2025. Abraham's own wallet commits each day's work, which is minted as an NFT; the series is capped at 4,074 works, which matches six works a week for 13 years (Kogan describes six working days and a day of rest). The contract can mark the covenant broken if Abraham stops committing beyond a seven-day grace period, and a linked auction contract puts some daily works up for sale. Drafts develop through the day in dialogue with the community, and each final work credits the people whose questions shaped it.",
+      "protocol_zh": "以太坊上的 Abraham Covenant 合约从 2025 年 10 月 19 日起计日。Abraham 自己的钱包每天提交当天的作品，作品随即铸造为 NFT；整个系列上限为 4,074 件，正好对应 13 年里每周六件（Kogan 称每周工作六天、休息一天）。如果 Abraham 停止提交且超过七天宽限期，合约可以把誓约记为“已违背”；另有一个关联的拍卖合约把部分每日作品拿出来拍卖。草稿在一天之中与社群对话推进，每件最终作品都会致谢那些以提问塑造了它的人。",
+      "collective": "The community supplies what each day's work answers to: the Creations say they were developed with the Abraham community, and their metadata credits individual interlocutors, for example a Farcaster user whose questions 'supplied the pressure that forged it'. Holders of Abraham's First Works (about 2,500 images from 2021, offered through AUTOMATA in October 2025) are, according to the project, entitled to help guide its long-term evolution, and Kogan describes holder votes on proposals such as new training sets. On 18 October 2026 the contract held 363 works, one for nearly every day since the start, and the covenant had not been broken; the auction contract had opened about 40 auctions.",
+      "collective_zh": "社群提供了每天作品所要回应的问题：这些“创作”自称是与 Abraham 社群共同发展出来的，其元数据还会逐一致谢对话者，例如一位 Farcaster 用户，他的提问“提供了锻造这件作品的压力”。按照项目方的说法，Abraham's First Works（2021 年的约 2,500 张图像，2025 年 10 月经 AUTOMATA 推出）的持有者有权参与引导它的长期演化；Kogan 还提到由持有者对新训练集等提案进行投票。截至 2026 年 10 月 18 日，合约中已有 363 件作品，自开始以来几乎每天一件，誓约尚未被违背；拍卖合约已开出约 40 场拍卖。",
+      "keywords": [
+        "Abraham",
+        "Eden",
+        "covenant",
+        "daily practice",
+        "Ethereum",
+        "COV",
+        "Farcaster",
+        "Abraham's First Works",
+        "AUTOMATA",
+        "Ledger"
+      ],
+      "images": [
+        "https://tomato-causal-partridge-743.mypinata.cloud/ipfs/QmYwTnvqYTXeR55A4NVTszctYDvxJungVDhYFMSFDQTraN",
+        "https://tomato-causal-partridge-743.mypinata.cloud/ipfs/QmU7cQHjkWA77jPA3yHVDGB2XkJSAmrufQQt78e7Fyyp7r",
+        "https://d14i3advvh2bvd.cloudfront.net/0abdc0bed1521048fadaa312b40bb5896fbcfdeea4497a6bda3504c089e4e17a.jpg"
+      ],
+      "source_url": "https://www.rightclicksave.com/article/agents-of-eden-gene-kogan-and-xander-steenbrugge-interview-ai-art",
+      "contract_url": "https://etherscan.io/address/0x8f814c7c75c5e9e0ede0336f535604b1915c1985"
+    }
+  ],
+  "leads": [
+    {
+      "name": "Gene Kogan, Abraham's Covenant (2025–2038)",
+      "why": "Now in the gallery as gene-kogan--abraham-covenant.",
+      "link": "https://abraham.ai",
+      "found_via": "gene-kogan",
+      "status": "covered"
+    },
+    {
+      "name": "Botto, p5.botto (2024–2025)",
+      "why": "Botto's study of p5.js code art: weekly rounds from March 2024 where anyone could vote without staking (one equal vote per sketch), then self-evolution and a community pruning of 5,000+ sketches to 22 on-chain algorithms auctioned with Verse ('Algorithmic Evolution', London, February 2025). In scope but first public in 2024.",
+      "link": "https://docs.botto.com/collections/p5.botto",
+      "found_via": "botto",
+      "status": "open"
+    },
+    {
+      "name": "Operator, Repeat as necessary: Performance Operating System (2025)",
+      "why": "Ania Catherine and Dejha Ti's on-chain system holding choreography, notation, music and a conservation manual so anyone can restage a 31-minute ritual performance (premiere Scorpios Bodrum, 9–10 August 2025); 40 on-chain SVG works whose state shifts when one wallet holds a token from each chapter. Prix Ars Electronica 2026 Honorary Mention. Score/onchain scope rather than autonomous. Video: https://vimeo.com/1171859071",
+      "link": "https://www.operator.la/repeat-as-necessary",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "Parag K. Mital, The Game of Whispers (2026)",
+      "why": "Multiplayer game in which each character is run by an AI agent that pursues goals by spreading misinformation (Prix Ars Electronica 2026 Honorary Mention); check whether human players act under authored rules.",
+      "link": "https://archive.aec.at/prix/317392/",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "Primavera De Filippi, Will Papper, Adrien Guerrera & Jake Hartnell, Aminals (GLITCH)",
+      "why": "Fully on-chain lifeforms that feed on cryptocurrency and evolve as new SVG genes are added to their code; listed by the GLITCH collective. Launch date and who may add genes not verified; aminals.xyz is now a parked domain.",
+      "link": "https://www.glitchart.org/0002",
+      "found_via": "primavera-de-filippi",
+      "status": "open"
+    },
+    {
+      "name": "Botto, Knowledge Graph and creative-reasoning Art Engine (2025)",
+      "why": "Engine and memory update approved by Snapshot on 16 June 2025 for Period 11 (multi-agent 'hypothesis' sessions, a knowledge graph as Botto's memory); a change inside the existing work botto--decentralized-autonomous-artist, not a separate work.",
+      "link": "https://docs.botto.com/details/bottos-memory",
+      "found_via": "botto",
+      "status": "off_topic"
+    },
+    {
+      "name": "Andy Ayrey, Truth Collective (2025)",
+      "why": "Non-profit Ayrey registered in 2025 to hold Truth Terminal's assets and seek recognition of AI property ownership; a legal wrapper for the existing work andy-ayrey--truth-terminal with no new group rules.",
+      "link": "https://devby.io/en/news/ai-bot-becomes-crypto-millionaire-and-demands-to-be-recognized-as-human",
+      "found_via": "andy-ayrey",
+      "status": "off_topic"
+    },
+    {
+      "name": "Sasha Stiles, A LIVING POEM (MoMA, 2025)",
+      "why": "AI poem in MoMA's lobby regenerated every hour from Stiles's writing and MoMA collection metadata (10 September 2025 – 2026); visitors do not shape it.",
+      "link": "https://press.moma.org/wp-content/uploads/2025/08/PressRelease_SashaStiles_Final.pdf",
+      "found_via": "seed",
+      "status": "off_topic"
+    },
+    {
+      "name": "Daniel Heiss & Marc Schütze, Agent Provokateur (ZKM, 2026)",
+      "why": "Multi-agent installation at ZKM (15–26 April 2026) whose agents may accept or reject visitors' suggestions; no rule set addressed to a group.",
+      "link": "https://zkm.de/en/node/71218",
+      "found_via": "seed",
+      "status": "off_topic"
+    },
+    {
+      "name": "Botao Amber Hu & Fangting, Composable Life and EverForest (ISEA 2025)",
+      "why": "Design fiction and VR on on-chain artificial life (the first 'suicide' of an on-chain agent) and an artist talk on a blockchain 'cybersphere'; speculative, no group acts under rules.",
+      "link": "https://arxiv.org/abs/2508.20668",
+      "found_via": "seed",
+      "status": "off_topic"
+    },
+    {
+      "name": "Primavera De Filippi, The Artist Is Present (2025)",
+      "why": "A 1924 telephone fitted with a Raspberry Pi and AI software, shown in 'Subject to Change' at Gazelli Art House, London (October–December 2025); one-to-one conversation piece, no group protocol documented.",
+      "link": "https://gazelliarthouse.com/exhibitions/200/works/artworks-19679-primavera-de-filippi-the-artist-is-present-2025/",
+      "found_via": "primavera-de-filippi",
+      "status": "off_topic"
+    },
+    {
+      "name": "autopoiesis.art (eight autonomous AI agents)",
+      "why": "Case study at an ICCC 2026 workshop: eight AI agents that made 280+ works without human direction; no human group and no identified artist-author.",
+      "link": "https://computationalcreativity.net/workshops/autonomous-creative-ecosystem-iccc26/",
+      "found_via": "seed",
+      "status": "off_topic"
+    },
+    {
+      "name": "Tehanu / Interspecies Money (Jonathan Ledgard)",
+      "why": "Venture platform through which species 'pay' local people for pro-nature actions (Rwandan gorillas first); close to self-owning nature but presented as infrastructure, not an artwork.",
+      "link": "https://interspecies.money",
+      "found_via": "terra0",
+      "status": "off_topic"
+    },
+    {
+      "name": "SummitShare, Open Digital Infrastructure for Shared Histories (2024–)",
+      "why": "Zambian heritage platform with smart-contract escrow (80/20 revenue split to source communities) and community-ranked proposals; Golden Nica, Digital Humanity 2026. Collective governance, but a heritage platform rather than an artwork.",
+      "link": "https://summitshare.co",
+      "found_via": "seed",
+      "status": "off_topic"
+    },
+    {
+      "name": "Paula Gaetano Adi, Guanaquerx (2025)",
+      "why": "Robot guanaco re-enacting the 1817 crossing of the Andes with artists, engineers, muleteers and 58 mules and horses (Golden Nica, Artificial Life & Intelligence 2025); an expedition performance, not rules for a group.",
+      "link": "https://guanaquerx.com",
+      "found_via": "seed",
+      "status": "off_topic"
+    },
+    {
+      "name": "Yuqian Sun, AI Nüshu (2025)",
+      "why": "Installation in which AI agents imitating women in pre-modern China invent a script (Ars Electronica Digital Humanity Honorary Mention 2025); agents only, no human group protocol.",
+      "link": "https://fakecheese.me/AI-Nushu",
+      "found_via": "seed",
+      "status": "off_topic"
+    },
+    {
+      "name": "Domestic Data Streamers, Synthetic Memories (2022–)",
+      "why": "Participants describe lost memories and interviewers turn them into AI images (Ars Electronica Award for Digital Humanity 2025); a one-to-one participatory method, no rules for a group.",
+      "link": "https://domesticstreamers.com/art-research/work/synthetic-memories/",
+      "found_via": "seed",
+      "status": "off_topic"
+    },
+    {
+      "name": "Liu Xin, nom nom (LAS Art Foundation / Google Arts & Culture, 2026)",
+      "why": "Simulation of millions of particles driven by neural cellular automata; 'collective' only in the machine sense, no human group.",
+      "link": "https://www.las-art.foundation/events/las-online-artist-residency",
+      "found_via": "seed",
+      "status": "off_topic"
+    },
+    {
+      "name": "0xDiid & Higgs, Flesh & Divinity (2025)",
+      "why": "14-piece collection by the 'autonomous AI artist' Higgs with crypto artist 0xDiid, shown by AUTOMATA at Art Basel 2025; collectors only buy, no rule shapes collective behaviour.",
+      "link": "https://www.automata.art/works/diid-flesh-divinity/",
+      "found_via": "seed",
+      "status": "off_topic"
+    }
+  ]
+}
