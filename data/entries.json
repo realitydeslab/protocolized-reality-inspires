@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18",
+ "generated": "2026-11-13",
  "taxonomy": {
   "fields": [
    {
@@ -510,7 +510,7 @@
    "bio_zh": "2021 年由 Mario Klingemann 与 ElevenYellow 发起的 AI 艺术家。它的艺术引擎每周生成图像，$BOTTO 代币持有者对其投票，BottoDAO 决定这位艺术家及其收入如何管理。",
    "why_zh": "Botto 是目前最清晰、且真正在运转的案例：一个艺术家身份的审美由投票的公众训练，它的金库也归这群公众所有。",
    "discovered_via": "seed",
-   "work_count": 2
+   "work_count": 3
   },
   {
    "id": "mario-klingemann",
@@ -875,7 +875,7 @@
    "why_zh": "他的 Vectorial Elevation 让任何网民都能在城市广场上空用光书写。",
    "based_zh": "蒙特利尔，加拿大",
    "discovered_via": "ken-goldberg",
-   "work_count": 4
+   "work_count": 5
   },
   {
    "id": "olia-lialina",
@@ -1510,7 +1510,7 @@
    "why_zh": "她把私密情境的控制权交给付费人群和美术馆观众，然后承受其结果。",
    "based_zh": "洛杉矶，美国",
    "discovered_via": "seed",
-   "work_count": 3
+   "work_count": 4
   },
   {
    "id": "nolen-royalty",
@@ -2200,7 +2200,7 @@
    "bio_zh": "加拿大艺术家与软件开发者，现居柏林，借助新兴技术探讨游戏、经济与自我。自 2017 年起创作区块链游戏和合约艺术。",
    "why_zh": "她的合约颠倒了 NFT 的所有权逻辑：不送出去就会死去的代币，只有多数藏家合作才能打开的秘密。",
    "discovered_via": "seed",
-   "work_count": 7
+   "work_count": 9
   },
   {
    "id": "simon-de-la-rouviere",
@@ -2387,7 +2387,7 @@
    "why_zh": "它的定位游戏让远程在线玩家与真实街道上的人遵守同一套规则共同游戏。",
    "based_zh": "布莱顿，英国",
    "discovered_via": "ken-goldberg",
-   "work_count": 1
+   "work_count": 3
   },
   {
    "id": "nick-thurston",
@@ -2424,7 +2424,7 @@
    "bio_zh": "艺术团体和创意工作室，举办线上词曲创作“营”，并通过定制的链上合集发行营中产生的音乐；2021 年从 Camp Genesis 和 Camp Elektra 起步。",
    "why_zh": "它的每一期创作营都写下明确规则：一大群人如何一起做音乐、如何发行、如何分配收入。",
    "discovered_via": "holly-herndon",
-   "work_count": 2
+   "work_count": 3
   },
   {
    "id": "serpentine-arts-technologies",
@@ -2531,7 +2531,7 @@
    "why": "His contracts rewrite the NFT transfer function so that sending a token spreads it instead of moving it, turning ownership into contagion.",
    "why_zh": "他的合约改写了 NFT 的转账函数：发送代币不再是把它移走，而是让它扩散，“拥有”因此变成了传染。",
    "discovered_via": "harm-van-den-dorpel",
-   "work_count": 2
+   "work_count": 3
   },
   {
    "id": "joon-yeon-park",
@@ -2628,7 +2628,7 @@
    "why": "It designs works in which buying a token is the start of a shared process among owners, not the end of a sale.",
    "why_zh": "它设计的作品里，买下代币只是持有者之间共同过程的开始，而不是一笔交易的结束。",
    "discovered_via": "kevin-mccoy",
-   "work_count": 1
+   "work_count": 4
   },
   {
    "id": "jennifer-mccoy",
@@ -2669,7 +2669,7 @@
    "why": "Her paintings hide Bitcoin private keys, turning a picture into a public contest that a crowd works on for years.",
    "why_zh": "她的画作里藏着比特币私钥，把一幅画变成一场让人群持续多年共同破解的公开竞赛。",
    "discovered_via": "rare-pepe-directory",
-   "work_count": 1
+   "work_count": 2
   },
   {
    "id": "scarab-experiment",
@@ -2706,7 +2706,7 @@
    "why": "His collectivity project hands a city of white LEGO bricks to passers-by, who keep building and rebuilding it.",
    "why_zh": "他的《集体计划》把一座白色乐高积木之城交给路人，由他们不断搭建和改造。",
    "discovered_via": "erwin-wurm",
-   "work_count": 1
+   "work_count": 2
   },
   {
    "id": "lygia-pape",
@@ -2796,7 +2796,7 @@
    "why": "In We Shall Run a set of floor plans turns a mixed group of dancers and non-dancers into a running crowd.",
    "why_zh": "在《我们将奔跑》中，几张路线平面图把舞者与非舞者混合的一群人变成一支奔跑的人群。",
    "discovered_via": "la-monte-young",
-   "work_count": 1
+   "work_count": 2
   },
   {
    "id": "takehisa-kosugi",
@@ -2840,7 +2840,7 @@
    "why": "Beach Crawl is a group score for the seashore, written by a sculptor for other people's bodies and a handful of stones.",
    "why_zh": "《海滩爬行》是一份写给海边群体的乐谱：一位雕塑家为他人的身体和几块石头写下的规则。",
    "discovered_via": "la-monte-young",
-   "work_count": 1
+   "work_count": 2
   },
   {
    "id": "earle-brown",
@@ -2862,7 +2862,7 @@
    "why": "December 1952, a page of black rectangles, is one of the first graphic scores whose sound is decided by whoever plays it.",
    "why_zh": "《1952 年 12 月》只是一页黑色矩形，是最早由演奏者决定声音的图形乐谱之一。",
    "discovered_via": "john-cage",
-   "work_count": 1
+   "work_count": 2
   },
   {
    "id": "dick-higgins",
@@ -3045,7 +3045,7 @@
    "bio_zh": "数字艺术收藏与出版平台 Le Random 的主编，也以 Monk Antony 为笔名写作，常就协议艺术与世界构建采访艺术家。",
    "why_zh": "与 Primavera De Filippi 合写了一套协议艺术的“语法”，按作品是“作为”“借助”还是“关于”协议与世界来加以区分。",
    "discovered_via": "primavera-de-filippi",
-   "work_count": 1
+   "work_count": 2
   },
   {
    "id": "brian-droitcour",
@@ -3206,7 +3206,7 @@
    "bio_zh": "活跃于以太坊艺术领域的匿名艺术家与策展人，策划了合约展 World Computer Sculpture Garden（2024）。",
    "why_zh": "策划了一个本身就是智能合约、没有闭幕日期的展览，其状态随观众和艺术家的操作而改变。",
    "discovered_via": "malte-rauch",
-   "work_count": 1
+   "work_count": 2
   },
   {
    "id": "protocol-institute",
@@ -3310,7 +3310,7 @@
    "why_zh": "Figure31 把合约逻辑本身当作媒介：交易为网格上色，铸造者为彼此的作品播种，持有者要负责让作品继续活下去。",
    "based_zh": "蒙特利尔，加拿大",
    "discovered_via": "seed",
-   "work_count": 4
+   "work_count": 6
   },
   {
    "id": "neal-agarwal",
@@ -3388,7 +3388,7 @@
    "bio_zh": "艺术团体，自 2017 年起发展“Real Game Play”方法，一种源自真人角色扮演的集体沉浸与推想式世界构建；作品曾在 Gropius Bau、世界文化之家（HKW）和巴塞尔电子艺术之家（HEK）展出，并于 2021 年联合策划第七届雅典双年展。",
    "why_zh": "他们编写角色扮演的框架，让陌生人在其中即兴，每一场作品都由玩家完成。",
    "discovered_via": "seed",
-   "work_count": 2
+   "work_count": 3
   },
   {
    "id": "ei-arakawa-nash",
@@ -3427,7 +3427,7 @@
    "bio_zh": "德国—瑞士艺术团体，2000 年由 Helgard Haug、Stefan Kaegi 与 Daniel Wetzel 创立，以与非职业的“日常生活专家”合作的剧场，以及由观众来表演的形式闻名。",
    "why_zh": "他们的许多作品把剧本交给观众：观众按照耳机里的指令、书本或提示卡行动，他们的行动就是演出。",
    "discovered_via": "seed",
-   "work_count": 1
+   "work_count": 4
   },
   {
    "id": "mindy-seu",
@@ -3446,6 +3446,398 @@
    "based_zh": "洛杉矶与纽约，美国",
    "bio_zh": "艺术家、技术人，实践以技术驱动的表演和出版为核心；著有《Cyberfeminism Index》（2023），任加州大学洛杉矶分校设计媒体艺术系副教授。",
    "why_zh": "在《A Sexual History of the Internet》中，剧本在观众自己的手机上播放，由观众朗读出来。",
+   "discovered_via": "seed",
+   "work_count": 1
+  },
+  {
+   "id": "eboy",
+   "links": {
+    "site": "https://eboy.com"
+   },
+   "connected_to": [],
+   "name": "eBoy",
+   "kind": "collective",
+   "role": "Pixel art group",
+   "role_zh": "像素艺术团体",
+   "based": "Berlin, DE",
+   "based_zh": "柏林，德国",
+   "bio": "Pixel art group founded in 1997, known for dense isometric pixel cityscapes; it has released NFT series on Ethereum, Art Blocks and fxhash and issues its own creator coin, $EBOY.",
+   "bio_zh": "1997 年成立的像素艺术团体，以密集的等距像素城市景观闻名；曾在以太坊、Art Blocks 和 fxhash 上发行 NFT 系列，并发行自己的创作者代币 $EBOY。",
+   "why": "In TOWR it hands the growth of each pixel tower to collectors, who pay in the group's own coin to stack new floors.",
+   "why_zh": "在 TOWR 中，它把每座像素塔的生长交给藏家：藏家用该团体自己的代币付费，一层层往上加盖。",
+   "discovered_via": "ciphrd",
+   "work_count": 1
+  },
+  {
+   "id": "jack-and-leigh-ruby",
+   "links": {},
+   "connected_to": [
+    "snark-art"
+   ],
+   "name": "Jack & Leigh Ruby",
+   "kind": "collective",
+   "role": "Artist duo",
+   "role_zh": "艺术家二人组",
+   "bio": "Artist duo who directed the 'channelling' performance …all the reporters laughed and took pictures, cast through Snark.art and first performed at the SPRING/BREAK Art Show in 2019.",
+   "bio_zh": "艺术家二人组，执导了“通灵”表演《…all the reporters laughed and took pictures》，该表演通过 Snark.art 招募演员，2019 年在 SPRING/BREAK 艺术展首演。",
+   "why": "They used a blockchain token as a casting call, so that whoever claims one becomes a performer.",
+   "why_zh": "他们把区块链代币当作演员招募令：谁领取了代币，谁就成为表演者。",
+   "discovered_via": "snark-art",
+   "work_count": 1
+  },
+  {
+   "id": "michael-joo",
+   "links": {},
+   "connected_to": [
+    "danil-krivoruchko",
+    "snark-art"
+   ],
+   "name": "Michael Joo",
+   "kind": "person",
+   "role": "Artist",
+   "role_zh": "艺术家",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "bio": "American artist whose sculpture, installation and video work deals with science, natural systems and identity; he represented Korea at the 2001 Venice Biennale.",
+   "bio_zh": "美国艺术家，其雕塑、装置和影像作品关注科学、自然系统与身份问题；2001 年代表韩国参加威尼斯双年展。",
+   "why": "With Danil Krivoruchko he made OG:Crystals, NFTs that grow a new layer with every change of owner.",
+   "why_zh": "他与 Danil Krivoruchko 合作创作了 OG:Crystals：每换一次主人就长出新一层的 NFT。",
+   "discovered_via": "snark-art",
+   "work_count": 1
+  },
+  {
+   "id": "danil-krivoruchko",
+   "links": {
+    "site": "https://ksoids.com"
+   },
+   "connected_to": [
+    "michael-joo",
+    "snark-art"
+   ],
+   "name": "Danil Krivoruchko",
+   "kind": "person",
+   "role": "Motion designer and creative director",
+   "role_zh": "动态设计师、创意总监",
+   "based": "US",
+   "based_zh": "美国",
+   "bio": "Motion designer and creative director who began the procedural 3D creatures Ksoids with Viktoriya Krivoruchko in 2013 and released 1,000 of them as NFTs in 2021.",
+   "bio_zh": "动态设计师、创意总监，2013 年与 Viktoriya Krivoruchko 一起开始创作程序化 3D 生物 Ksoids，2021 年将其中 1000 个发行为 NFT。",
+   "why": "He co-wrote the growth algorithm of OG:Crystals, which turns each owner's wallet history into new crystal structure.",
+   "why_zh": "他参与编写了 OG:Crystals 的生长算法，把每位持有者的钱包历史转化为新的晶体结构。",
+   "discovered_via": "snark-art",
+   "work_count": 1
+  },
+  {
+   "id": "kacie-kinzer",
+   "links": {
+    "site": "http://www.tweenbots.com/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kacie_Kinzer"
+   },
+   "connected_to": [
+    "david-harris-smith"
+   ],
+   "name": "Kacie Kinzer",
+   "kind": "person",
+   "role": "Designer and interactive artist",
+   "based": "New York, US",
+   "bio": "American designer and interactive artist (born 1983), best known for the Tweenbots, cardboard robots that depend on passers-by to reach their destination; a Tweenbot was collected by MoMA.",
+   "why": "Tweenbots turned a helpless machine into a rule for strangers: the robot only arrives if the crowd steers it.",
+   "role_zh": "设计师、互动艺术家",
+   "based_zh": "纽约，美国",
+   "bio_zh": "美国设计师与互动艺术家（1983 年生），以 Tweenbots 闻名：一种只能依靠路人帮助才能到达目的地的纸板机器人，其中一台被 MoMA 收藏。",
+   "why_zh": "Tweenbots 把一台无助的机器变成写给陌生人的规则：只有人群为它指路，它才能抵达。",
+   "discovered_via": "david-harris-smith",
+   "work_count": 1
+  },
+  {
+   "id": "clemente-padin",
+   "links": {
+    "site": "https://www.lomholtmailartarchive.dk/networkers/clemente-padin"
+   },
+   "connected_to": [
+    "ulises-carrion"
+   ],
+   "name": "Clemente Padín",
+   "kind": "person",
+   "role": "Poet, performer and mail artist",
+   "based": "Montevideo, UY",
+   "bio": "Uruguayan poet, performer and visual artist (born 1939 in Lascano) who began exchanging mail art in 1967, published the magazine OVUM and was imprisoned by the military dictatorship from 1977 to 1979 while mail artists worldwide campaigned for his release.",
+   "why": "He organised the first mail-art exhibition in Latin America and used the postal network as a political, open-entry medium.",
+   "role_zh": "诗人、表演者、邮件艺术家",
+   "based_zh": "蒙得维的亚，乌拉圭",
+   "bio_zh": "乌拉圭诗人、表演者和视觉艺术家（1939 年生于 Lascano），1967 年开始交换邮件艺术，创办杂志 OVUM；1977 至 1979 年遭军政府监禁，期间世界各地的邮件艺术家发起声援。",
+   "why_zh": "他组织了拉丁美洲第一个邮件艺术展，把邮政网络当作一种政治性的、人人可进入的媒介。",
+   "discovered_via": "ulises-carrion",
+   "work_count": 1
+  },
+  {
+   "id": "moma",
+   "links": {
+    "site": "https://www.moma.org/"
+   },
+   "connected_to": [],
+   "name": "MoMA (The Museum of Modern Art)",
+   "kind": "collective",
+   "role": "Museum (web3 programme)",
+   "based": "New York, US",
+   "bio": "Museum of modern and contemporary art in New York whose web3 team, with Bitmark's Autonomy app, launched MoMA Postcard in 2023.",
+   "why": "MoMA Postcard rewrote the mail-art chain letter as an onchain rule: a card is finished and co-owned only when fifteen strangers have stamped it.",
+   "role_zh": "博物馆（web3 项目）",
+   "based_zh": "纽约，美国",
+   "bio_zh": "位于纽约的现当代艺术博物馆；其 web3 团队与 Bitmark 的 Autonomy 应用合作，于 2023 年推出 MoMA Postcard。",
+   "why_zh": "MoMA Postcard 把邮件艺术的连锁信改写成一条链上规则：只有当十五个陌生人都盖上邮票，一张明信片才算完成，并由他们共同拥有。",
+   "discovered_via": "holly-herndon",
+   "work_count": 1
+  },
+  {
+   "id": "paul-seidler",
+   "links": {
+    "site": "https://plsdlr.net/"
+   },
+   "connected_to": [
+    "0xfff",
+    "terra0"
+   ],
+   "name": "Paul Seidler",
+   "kind": "person",
+   "role": "Artist and developer",
+   "based": "Germany",
+   "bio": "German artist and developer, co-founder of the collective terra0, who writes smart contracts and onchain games and also works on his own projects such as Real Abstraction (A Line Made by Proofs).",
+   "why": "His solo contracts make collective input invisible behind cryptographic proofs, leaving only a trace that many addresses produced.",
+   "role_zh": "艺术家、开发者",
+   "based_zh": "德国",
+   "bio_zh": "德国艺术家与开发者，terra0 团体的联合创始人，编写智能合约与链上游戏，也有个人项目，如《Real Abstraction (A Line Made by Proofs)》。",
+   "why_zh": "他的个人合约把集体输入藏在密码学证明之后，只留下由许多地址共同产生的一道痕迹。",
+   "discovered_via": "0xfff",
+   "work_count": 1
+  },
+  {
+   "id": "kate-sloan",
+   "links": {},
+   "connected_to": [
+    "roy-ascott"
+   ],
+   "name": "Kate Sloan",
+   "kind": "person",
+   "role": "Art historian",
+   "based": "Edinburgh, UK",
+   "bio": "Lecturer in Modern and Contemporary Art History at the University of Edinburgh, who writes on cybernetic and behaviourist art in Britain and the United States.",
+   "why": "Her book maps a field of 'behaviourist art' (1945–1975) in which works are defined by the feedback between system and audience.",
+   "role_zh": "艺术史学者",
+   "based_zh": "爱丁堡，英国",
+   "bio_zh": "爱丁堡大学现当代艺术史讲师，研究英美两国的控制论艺术与行为主义艺术。",
+   "why_zh": "她的著作勾勒出 1945 至 1975 年间的“行为主义艺术”领域：作品由系统与观众之间的反馈来界定。",
+   "discovered_via": "roy-ascott",
+   "work_count": 1
+  },
+  {
+   "id": "martin-zeilinger",
+   "links": {
+    "site": "https://rke.abertay.ac.uk/en/publications/smart-contracts-and-the-becoming-curatorial-of-digital-works-of-a/"
+   },
+   "connected_to": [
+    "sarah-friend"
+   ],
+   "name": "Martin Zeilinger",
+   "kind": "person",
+   "role": "Researcher in computational culture",
+   "based": "Dundee, UK",
+   "bio": "Researcher at Abertay University who writes on computational culture, intellectual property, AI and blockchain art.",
+   "why": "He reads smart-contract artworks as systems that take over curatorial decisions from people.",
+   "role_zh": "计算文化研究者",
+   "based_zh": "邓迪，英国",
+   "bio_zh": "Abertay 大学研究者，研究计算文化、知识产权、人工智能与区块链艺术。",
+   "why_zh": "他把智能合约艺术作品解读为从人手中接过策展决定的系统。",
+   "discovered_via": "sarah-friend",
+   "work_count": 1
+  },
+  {
+   "id": "anika-meier",
+   "links": {},
+   "connected_to": [
+    "primavera-de-filippi"
+   ],
+   "name": "Anika Meier",
+   "kind": "person",
+   "role": "Curator and writer",
+   "based": "Germany",
+   "bio": "Curator and writer on digital art who interviews artists for SLEEK magazine.",
+   "why": "Her 2026 interview with Primavera De Filippi set out De Filippi's definition and categories of protocol art.",
+   "role_zh": "策展人、作者",
+   "based_zh": "德国",
+   "bio_zh": "关注数字艺术的策展人与作者，为 SLEEK 杂志采访艺术家。",
+   "why_zh": "她在 2026 年对 Primavera De Filippi 的访谈完整呈现了后者对协议艺术的定义与分类。",
+   "discovered_via": "primavera-de-filippi",
+   "work_count": 1
+  },
+  {
+   "id": "dmstfctn",
+   "links": {
+    "site": "https://dmstfctn.net/",
+    "instagram": "https://instagram.com/dmstfctn"
+   },
+   "connected_to": [],
+   "name": "dmstfctn",
+   "kind": "collective",
+   "role": "Artist duo working with simulation, games and performance",
+   "bio": "Artist duo dmstfctn explores complex systems through simulation, fiction and experience, making immersive performances, video installations and multiplayer video games that replicate systems together with audiences.",
+   "why": "Their Fango 1000 turns a multiplayer on-chain game into a protocol for collective storytelling, in which only the texts players agree on survive.",
+   "role_zh": "以模拟、游戏和表演为媒介的艺术二人组",
+   "bio_zh": "艺术二人组 dmstfctn 通过模拟、虚构和体验来探索复杂系统，创作沉浸式表演、影像装置和多人电子游戏，与观众一起复现并拆解各种系统。",
+   "why_zh": "他们的 Fango 1000 把一款多人链上游戏变成集体讲故事的协议：只有玩家达成共识的文本才能留存下来。",
+   "discovered_via": "seed",
+   "work_count": 1
+  },
+  {
+   "id": "crosslucid",
+   "links": {
+    "site": "https://crosslucid.zone/"
+   },
+   "connected_to": [],
+   "name": "CROSSLUCID (Sylwana Zybura, Tomas C. Toth)",
+   "kind": "collective",
+   "role": "Artist duo working with generative AI, ecology and multi-agent systems",
+   "bio": "CROSSLUCID is the artist duo of Sylwana Zybura and Tomas C. Toth, who make AI films, immersive installations and living systems around ecology and stewardship, with commissions from LAS Art Foundation, Serpentine and the Berggruen Institute.",
+   "why": "Their The Way of Flowers ties on-chain digital plants to real conservation projects, so that a community's donations are what make the artwork grow.",
+   "role_zh": "以生成式人工智能、生态与多智能体系统为媒介的艺术二人组",
+   "bio_zh": "CROSSLUCID 由 Sylwana Zybura 和 Tomas C. Toth 组成，围绕生态与守护创作人工智能影像、沉浸式装置和“活的”系统，曾受 LAS Art Foundation、Serpentine 和 Berggruen Institute 委托创作。",
+   "why_zh": "他们的 The Way of Flowers 把链上的数字植物与真实的保育项目绑定，社群的捐助正是让作品生长的力量。",
+   "discovered_via": "seed",
+   "work_count": 1
+  },
+  {
+   "id": "mediengruppe-bitnik",
+   "links": {
+    "site": "https://wwwwwwwwwwwwwwwwwwwwww.bitnik.org/"
+   },
+   "connected_to": [
+    "omsk-social-club"
+   ],
+   "name": "!Mediengruppe Bitnik",
+   "kind": "collective",
+   "role": "Artist duo",
+   "based": "Zurich, CH and Berlin, DE",
+   "bio": "Art group founded in 2003 by Carmen Weisskopf and Domagoj Smoljo, whose work deals with the internet and how it changes physical space, for example by posting a parcel with a camera to Julian Assange in the Ecuadorian embassy (2013).",
+   "why": "With OMSK Social Club they made the Cryptorave, a party whose entry is paid for by guests mining a cryptocurrency for the event.",
+   "role_zh": "艺术家二人组",
+   "based_zh": "苏黎世，瑞士；柏林，德国",
+   "bio_zh": "由 Carmen Weisskopf 和 Domagoj Smoljo 于 2003 年创立的艺术小组，作品关注互联网以及它如何改变物理空间，例如 2013 年把一个装有摄像头的包裹寄给身在厄瓜多尔大使馆的朱利安·阿桑奇。",
+   "why_zh": "他们与 OMSK Social Club 合作创作了 Cryptorave：一场靠来宾为活动挖加密货币来换取入场资格的派对。",
+   "discovered_via": "omsk-social-club",
+   "work_count": 1
+  },
+  {
+   "id": "ed-fornieles",
+   "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ed_Fornieles"
+   },
+   "connected_to": [
+    "nina-runa-essendrop",
+    "omsk-social-club"
+   ],
+   "name": "Ed Fornieles",
+   "kind": "person",
+   "role": "Artist",
+   "bio": "British artist (born 1983) who has lived and worked in London, Los Angeles and Montreal, known for online and live role-play works such as Dorm Daze, a Facebook performance in which participants took on the profiles of American college students.",
+   "why": "He writes role-play systems that groups live inside for days, and turns what they do into the artwork.",
+   "role_zh": "艺术家",
+   "bio_zh": "英国艺术家（1983 年生），曾在伦敦、洛杉矶和蒙特利尔生活和工作，以网络与现场角色扮演作品闻名，例如 Dorm Daze：一场在 Facebook 上进行的表演，参与者扮演美国大学生的个人主页。",
+   "why_zh": "他编写让一群人连续几天生活其中的角色扮演系统，再把他们的所作所为变成作品。",
+   "discovered_via": "omsk-social-club",
+   "work_count": 1
+  },
+  {
+   "id": "nina-runa-essendrop",
+   "links": {
+    "site": "http://www.ninaessendrop.com/"
+   },
+   "connected_to": [
+    "ed-fornieles",
+    "omsk-social-club"
+   ],
+   "name": "Nina Runa Essendrop",
+   "kind": "person",
+   "role": "Larp designer",
+   "bio": "Danish live-action role-play designer from the Nordic larp community, with a background in theatre, dance and performance studies; her larps focus on movement, the senses and the meaning of physical action.",
+   "why": "She designs the rules and safety techniques that let participants improvise inside a fiction, and co-designed role-play works with Ed Fornieles and OMSK Social Club.",
+   "role_zh": "真人角色扮演（larp）设计师",
+   "bio_zh": "丹麦真人角色扮演设计师，属于北欧 larp 社群，受过戏剧、舞蹈与表演研究训练；她的 larp 关注动作、感官以及身体行为的意义。",
+   "why_zh": "她设计让参与者在虚构中即兴的规则与安全技巧，并与 Ed Fornieles 和 OMSK Social Club 合作设计角色扮演作品。",
+   "discovered_via": "ed-fornieles",
+   "work_count": 1
+  },
+  {
+   "id": "christian-falsnaes",
+   "links": {
+    "site": "https://www.christianfalsnaes.com/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christian_Falsnaes"
+   },
+   "connected_to": [],
+   "name": "Christian Falsnaes",
+   "kind": "person",
+   "role": "Performance artist",
+   "based": "Berlin, DE",
+   "based_zh": "柏林，德国",
+   "bio": "Danish artist living in Berlin whose performances consist of instructions he or a recorded voice gives to the audience, who then paint, build, move and perform.",
+   "why": "His works test how far a crowd will follow an instruction, and the audience's compliance or refusal is the material of the piece.",
+   "role_zh": "行为艺术家",
+   "bio_zh": "生活在柏林的丹麦艺术家，他的表演由他本人或一段录音向观众发出的指令构成，观众随之绘画、搭建、移动和表演。",
+   "why_zh": "他的作品检验一群人会在多大程度上服从一条指令，观众的服从或拒绝就是作品的材料。",
+   "discovered_via": "seed",
+   "work_count": 2
+  },
+  {
+   "id": "alden-hallak",
+   "links": {
+    "site": "https://aldenhallak.com/",
+    "github": "https://github.com/aldenhallak"
+   },
+   "connected_to": [],
+   "name": "Alden Hallak",
+   "kind": "person",
+   "role": "Software developer",
+   "based": "Pennsylvania, US",
+   "based_zh": "宾夕法尼亚州，美国",
+   "bio": "Developer who built and runs DrawAFish.com, a shared online fish tank, and wrote a public postmortem after it was hacked in August 2025.",
+   "why": "His site shows how a single gate (an AI that only lets fish through) and a vote can shape what a crowd draws together.",
+   "role_zh": "软件开发者",
+   "bio_zh": "开发并运营共享在线鱼缸 DrawAFish.com 的开发者，2025 年 8 月网站遭入侵后他公开发布了事故复盘。",
+   "why_zh": "他的网站展示了一道关卡（只放行“鱼”的 AI）加上一套投票，如何塑造一群人共同画出的东西。",
+   "discovered_via": "seed",
+   "work_count": 1
+  },
+  {
+   "id": "benediktas-gylys",
+   "links": {
+    "site": "https://www.portals.org/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Benediktas_Gylys"
+   },
+   "connected_to": [],
+   "name": "Benediktas Gylys",
+   "kind": "person",
+   "role": "Artist",
+   "bio": "Lithuanian artist who created The Portal, a series of identical round video sculptures in public squares that link pairs of cities, and leads the Benediktas Gylys Foundation that runs them.",
+   "why": "The Portal hands a live, silent video link between two cities to passers-by, and what strangers choose to do in front of it is the work.",
+   "role_zh": "艺术家",
+   "bio_zh": "立陶宛艺术家，创作了 The Portal：一系列安放在公共广场、两两连接城市的相同圆形视频雕塑，并领导负责运营它们的 Benediktas Gylys 基金会。",
+   "why_zh": "The Portal 把两座城市之间一条无声的实时视频连线交给路人，陌生人在它面前选择做什么，就是作品。",
+   "discovered_via": "seed",
+   "work_count": 1
+  },
+  {
+   "id": "elliott-cost",
+   "links": {
+    "site": "https://elliott.computer/"
+   },
+   "connected_to": [],
+   "name": "Elliott Cost",
+   "kind": "person",
+   "role": "Artist and web organizer",
+   "bio": "Artist and organizer who works with the web as a medium and material; he runs Bell Kiosk, Special Fish and HTML Energy and makes small poetic websites.",
+   "why": "One Minute Park turns a filming instruction into a world-wide, volunteer-made broadcast.",
+   "role_zh": "艺术家、网络社群组织者",
+   "bio_zh": "把网络当作媒介与材料来创作的艺术家和组织者；他运营 Bell Kiosk、Special Fish 和 HTML Energy，并制作小而富有诗意的网站。",
+   "why_zh": "One Minute Park 把一条拍摄指令变成了一个由全球志愿者共同制作的播出节目。",
    "discovered_via": "seed",
    "work_count": 1
   },
@@ -4700,7 +5092,7 @@
    "bio_zh": "台裔美国艺术家，他的参与式装置建立在陌生人之间的礼物、饭食、信件和对话之上。",
    "why_zh": "他的作品是附在一份礼物上的简单条件，由观众带出美术馆、带进城市去完成。",
    "discovered_via": "seed",
-   "work_count": 2
+   "work_count": 4
   },
   {
    "id": "collective-actions",
@@ -4739,7 +5131,7 @@
    "bio_zh": "出生于德国的艺术家，1960 年代从物理与生物系统转向“实时社会系统”：民意调查、观众画像，以及对艺术界权力的调查。",
    "why_zh": "他的观众投票让美术馆观众在他提出的问题下，当众生产作品的数据。",
    "discovered_via": "seed",
-   "work_count": 2
+   "work_count": 4
   },
   {
    "id": "paul-ramirez-jonas",
@@ -4817,7 +5209,7 @@
    "bio_zh": "查理·托德于 2001 年在纽约创立的团体，在公共场所以网上招募的志愿“特工”执行事先不宣布的“任务”。",
    "why_zh": "它的任务是发给数百名志愿者的简短书面指令，他们在不知情的路人中同步执行。",
    "discovered_via": "seed",
-   "work_count": 1
+   "work_count": 2
   },
   {
    "id": "shuya-gong",
@@ -4937,7 +5329,7 @@
    "bio_zh": "2023 年首届 Summer of Protocols 的研究者。",
    "why_zh": "设计了“记忆袋”，一种让人自己决定要记住什么的 DIY 装置。",
    "discovered_via": "summer-of-protocols",
-   "work_count": 2
+   "work_count": 3
   },
   {
    "id": "nahee-kim",
@@ -5859,7 +6251,7 @@
    "why_zh": "她同时处在协议艺术的两端：研究自动执行代码的法律，也创作能拥有并繁殖自己的作品。",
    "based_zh": "巴黎，法国",
    "discovered_via": "seed",
-   "work_count": 6
+   "work_count": 7
   },
   {
    "id": "aaron-wright",
@@ -6655,6 +7047,50 @@
    "paper": {}
   },
   {
+   "id": "martin-zeilinger--becoming-curatorial",
+   "creator_ids": [
+    "martin-zeilinger"
+   ],
+   "title": "Smart Contracts and the Becoming-Curatorial of Digital Works of Art",
+   "year": 2026,
+   "field": "theory",
+   "sub": "crypto-theory",
+   "mechanisms": [
+    "contract",
+    "autonomy",
+    "governance"
+   ],
+   "substrate": "text",
+   "kind": "publication",
+   "description": "Chapter in Curating Superintelligences (DATA Browser 10, Open Humanities Press, 2026) on how smart contracts let digital artworks take over curatorial decisions about their own existence, with Sarah Friend's Lifeforms and Harm van den Dorpel's Mutant Garden Seeder as case studies.",
+   "description_zh": "收录于《Curating Superintelligences》（DATA Browser 第 10 卷，Open Humanities Press，2026）的一章，讨论智能合约如何让数字艺术作品接管关于自身存续的策展决定，以 Sarah Friend 的 Lifeforms 和 Harm van den Dorpel 的 Mutant Garden Seeder 为案例。",
+   "idea_en": "When code governs a work's life, curating moves from people into the contract.",
+   "idea_zh": "当代码掌管作品的生命，策展就从人手里转进了合约。",
+   "protocol": "Zeilinger treats such works as assemblages of artists, audiences, markets and code, in which programmable tokens can encourage and enforce values other than price, such as caring for the work, and asks how this complicates authorship and private ownership.",
+   "protocol_zh": "Zeilinger 把这类作品视为艺术家、观众、市场与代码的组合体，其中可编程代币能够鼓励并强制价格以外的价值，比如照料作品；他追问这如何使作者身份和私人所有权变得复杂。",
+   "collective": "The chapter reads collectors' care and neglect under these rules as part of the work, while warning that speculative trading can undercut the values the contracts try to enforce.",
+   "collective_zh": "这一章把藏家在规则下的照料与疏忽读作作品的一部分，同时提醒投机交易可能削弱合约想要强制的价值。",
+   "keywords": [
+    "smart contracts",
+    "curating",
+    "Lifeforms",
+    "Mutant Garden Seeder",
+    "Open Humanities Press",
+    "DATA Browser"
+   ],
+   "images": [
+    "https://www.openhumanitiespress.org/book-covers/curating-superintelligences_cover_200x300.jpg"
+   ],
+   "paper": {
+    "url": "https://rke.abertay.ac.uk/en/publications/smart-contracts-and-the-becoming-curatorial-of-digital-works-of-a/",
+    "venue": "Curating Superintelligences, ed. Joasia Krysa and Magdalena Tyżlik-Carver (Open Humanities Press, 2026), pp. 253–270",
+    "title": "Smart contracts and the becoming-curatorial of digital works of art"
+   },
+   "source_url": "https://www.openhumanitiespress.org/books/titles/curating-superintelligences/",
+   "video": {},
+   "also": []
+  },
+  {
    "id": "nolen-royalty--solitaire-alone-together",
    "creator_ids": [
     "nolen-royalty"
@@ -6735,6 +7171,141 @@
    "code_url": "https://github.com/figure31/sprawl-agent-kit",
    "video": {},
    "paper": {}
+  },
+  {
+   "id": "peter-bauman--cerebral-samba",
+   "creator_ids": [
+    "peter-bauman"
+   ],
+   "title": "The Cerebral Samba: Protocol Art, Worldbuilding & Our Two Brains",
+   "year": 2026,
+   "field": "theory",
+   "sub": "crypto-theory",
+   "mechanisms": [
+    "instruction",
+    "co-authorship"
+   ],
+   "substrate": "text",
+   "kind": "publication",
+   "description": "Le Random essay (11 May 2026) that maps protocol art and worldbuilding onto Iain McGilchrist's account of the brain's two hemispheres, and sorts artists along a slider from protocol instantiators through protocol critics to worldbuilders.",
+   "description_zh": "发表于 Le Random 的文章（2026 年 5 月 11 日），借用 Iain McGilchrist 关于大脑两半球的论述来对应协议艺术与世界构建，并把艺术家沿一条滑尺排列：从协议实例化者、协议批评者到世界构建者。",
+   "idea_en": "Rules and open worlds are two ends of one slider, not two camps.",
+   "idea_zh": "规则与开放世界是同一条滑尺的两端，而不是两个阵营。",
+   "protocol": "Bauman calls the left-hemisphere mode the 'Protocol Brain', which reduces reality to explicit rules, and the right-hemisphere mode the 'World Brain', which attends to fluid context; works using hard-coded rules that others co-construct sit on the left (Primavera De Filippi's Plantoid), works exposing existing rules in the middle (Trevor Paglen's ImageNet Roulette), and immersive worlds on the right (Jakob Kudsk Steensen).",
+   "protocol_zh": "Bauman 把左半球模式称为“Protocol Brain”，把现实化约为明确规则；把右半球模式称为“World Brain”，关注流动的语境。以硬编码规则让他人共同建构的作品位于左端（Primavera De Filippi 的 Plantoid），揭示既有规则的作品位于中间（Trevor Paglen 的 ImageNet Roulette），沉浸式世界位于右端（Jakob Kudsk Steensen）。",
+   "collective": "Written during Strange Rules in Venice, the essay quotes De Filippi that each instance of a protocol is a new production rather than a reproduction, placing the instantiators' activity at the centre of protocol art; it is the companion piece to Living Aesthetics.",
+   "collective_zh": "这篇文章写于威尼斯 Strange Rules 展期间，引用 De Filippi 的话：协议的每一个实例都是新的生产而非复制，从而把执行者的活动置于协议艺术的中心；它是《Living Aesthetics》的姊妹篇。",
+   "keywords": [
+    "protocol art",
+    "worldbuilding",
+    "Iain McGilchrist",
+    "Le Random",
+    "Plantoid",
+    "Trevor Paglen",
+    "Strange Rules"
+   ],
+   "images": [
+    "https://cdn.prod.website-files.com/6411e594fbd274173bf8c35c/6a01b48f5eac33bbeedbb1a8_Untitled%20design%20(5).png"
+   ],
+   "paper": {
+    "url": "https://www.lerandom.art/editorial/the-cerebral-samba-protocol-art-worldbuilding-our-two-brains",
+    "venue": "Le Random, 11 May 2026",
+    "title": "The Cerebral Samba: Protocol Art, Worldbuilding & Our Two Brains"
+   },
+   "source_url": "https://www.lerandom.art/editorial/the-cerebral-samba-protocol-art-worldbuilding-our-two-brains",
+   "video": {},
+   "also": []
+  },
+  {
+   "id": "0xfff--transaction-sculptures",
+   "creator_ids": [
+    "0xfff"
+   ],
+   "title": "Transaction Sculptures",
+   "year": 2026,
+   "field": "onchain",
+   "sub": "co-authored",
+   "also": [],
+   "mechanisms": [
+    "participation",
+    "circulation",
+    "chance"
+   ],
+   "substrate": "ethereum",
+   "kind": "series",
+   "description": "A series of arrangements of Ethereum smart contracts that pass value between one another. Anyone can activate a sculpture by sending it ETH; the transaction travels through the network of contracts, comes back to the sender, and its path is drawn as vertical lines (contracts) and horizontal lines (transfers).",
+   "description_zh": "一组由以太坊智能合约组成的装置，合约之间彼此传递价值。任何人都可以向一件“雕塑”发送 ETH 来激活它：这笔交易在合约网络中穿行，最后回到发送者手中，其路径被画成图——竖线代表合约，横线代表转账。",
+   "idea_en": "Make the transaction itself the sculpture: every visitor who sends value through the contracts draws a new path, and the contract, not an image, is the artwork.",
+   "idea_zh": "把交易本身当作雕塑：每个把价值送进合约的访客都画出一条新路径，作品是合约本身，而不是一张图像。",
+   "protocol": "Each sculpture is a fixed set of contracts with its own routing rule, written by 0xfff: in Dead Channel an amount bounces between two points until a transfer ends the exchange; in Diminishing Returns the available routes shrink with use and time; in Memorious one new contract is added wherever each transaction stops, so the sculpture grows permanently with every activation. Anyone may send ETH to a sculpture; the ETH passes through and returns to the sender's wallet, who pays only the network fee. Every activation is recorded on Ethereum and displayed on the project site.",
+   "protocol_zh": "每件雕塑都是一组固定的合约，由 0xfff 写下各自的路由规则：Dead Channel 中，一笔金额在两点之间来回弹跳，直到某次转账结束交换；Diminishing Returns 的可用路线会随使用和时间而减少；Memorious 则在每笔交易停下的位置新增一个合约，因此每激活一次，雕塑就永久地长大一点。任何人都可以向雕塑发送 ETH，这些 ETH 穿过合约后退回发送者的钱包，发送者只需支付网络手续费。每一次激活都记录在以太坊上，并在项目网站上展示。",
+   "collective": "The series runs from 2018 to 2026: an Untitled (Transaction Sculpture) dated 2025/2018 was deployed in June 2025, and twelve sculptures plus three artist's proofs were deployed on Ethereum mainnet on 25 September 2026, the opening day of 0xfff's solo show 1 BILLION DOLLAR SHOW at Nguyen Wahed, New York (to 19 October 2026); the work was then shown at Tokyo Jazz Club, Tokyo (1–8 November 2026). The drawings exist only because visitors send transactions through the contracts, and sculptures such as Diminishing Returns and Memorious are permanently reshaped by the accumulated activations of everyone who has used them.",
+   "collective_zh": "这一系列横跨 2018 至 2026 年：标注为 2025/2018 的 Untitled (Transaction Sculpture) 于 2025 年 6 月部署；十二件雕塑和三件艺术家试作于 2026 年 9 月 25 日部署到以太坊主网，当天正是 0xfff 个展 1 BILLION DOLLAR SHOW 在纽约 Nguyen Wahed 开幕（展至 2026 年 10 月 19 日）；之后作品又在东京 Tokyo Jazz Club 展出（2026 年 11 月 1 日至 8 日）。这些图之所以存在，全靠访客把交易送进合约；Diminishing Returns 和 Memorious 等作品则会被所有使用者累积的激活永久改变形状。",
+   "keywords": [
+    "0xfff",
+    "smart contract sculpture",
+    "transaction",
+    "ETH",
+    "Nguyen Wahed",
+    "1 BILLION DOLLAR SHOW",
+    "contract art"
+   ],
+   "images": [
+    "https://tx.0xfff.love/site/previews/7.svg",
+    "https://tx.0xfff.love/site/previews/0.svg"
+   ],
+   "source_url": "https://tx.0xfff.love/",
+   "contract_url": "https://etherscan.io/address/0x246899cEA564Adc92EAF05FA882DC3f6aAF599bf",
+   "video": {},
+   "paper": {}
+  },
+  {
+   "id": "primavera-de-filippi--when-the-artwork-hires-the-artist",
+   "creator_ids": [
+    "primavera-de-filippi",
+    "anika-meier"
+   ],
+   "title": "When the Artwork Hires the Artist",
+   "year": 2026,
+   "field": "theory",
+   "sub": "crypto-theory",
+   "mechanisms": [
+    "instruction",
+    "co-authorship",
+    "autonomy"
+   ],
+   "substrate": "text",
+   "kind": "publication",
+   "description": "Interview by Anika Meier with Primavera De Filippi in SLEEK (1 September 2026) in which De Filippi defines protocol art and proposes three categories: protocol as art, art with existing protocols, and art about protocols.",
+   "description_zh": "Anika Meier 对 Primavera De Filippi 的访谈，刊于 SLEEK（2026 年 9 月 1 日）；De Filippi 在其中定义了协议艺术，并提出三个类别：作为艺术的协议、借助既有协议的艺术、关于协议的艺术。",
+   "idea_en": "The artist writes the protocol; someone or something else makes each instance, and both are authors.",
+   "idea_zh": "艺术家写下协议，由别人或别的东西制作每一个实例，双方都是作者。",
+   "protocol": "De Filippi: 'The artist makes the protocol that enables someone or something else to instantiate the work.' Authorship is shared asynchronously: the designer remains author of the protocol, each instantiator authors their own version, and her Plantoids and the AI artist Botto serve as examples.",
+   "protocol_zh": "De Filippi 说：“艺术家制定协议，让另一个人或另一样东西去实例化作品。”作者身份以异步方式共享：设计者始终是协议的作者，每个执行者是自己那个版本的作者；她以自己的 Plantoid 和 AI 艺术家 Botto 为例。",
+   "collective": "The interview places instantiators, human or machine, at the centre of the definition and links protocol art to governance, legal personhood and cognitive sovereignty; it appeared during Strange Rules in Venice, where De Filippi showed Plantoids.",
+   "collective_zh": "访谈把执行者（无论是人还是机器）放在定义的核心，并把协议艺术与治理、法律人格和认知主权联系起来；它发表于威尼斯 Strange Rules 展期间，De Filippi 在展中展出了 Plantoid。",
+   "keywords": [
+    "protocol art",
+    "Plantoid",
+    "Botto",
+    "authorship",
+    "SLEEK",
+    "Strange Rules"
+   ],
+   "images": [
+    "https://www.sleek-mag.com/wp-content/uploads/2026/09/Plantoid-family.jpg"
+   ],
+   "paper": {
+    "url": "https://www.sleek-mag.com/article/when-the-artwork-hires-the-artist/",
+    "venue": "SLEEK, 1 September 2026",
+    "title": "When the Artwork Hires the Artist"
+   },
+   "source_url": "https://www.sleek-mag.com/article/when-the-artwork-hires-the-artist/",
+   "collections": [
+    "strange-rules"
+   ],
+   "video": {},
+   "also": []
   },
   {
    "id": "jack-butcher--work-luck-play",
@@ -7174,7 +7745,55 @@
     "https://cdn.sanity.io/images/sp7kseaf/production-20-01-25/17a6fb46f53389128cbd8f087dab2c99c99c20c0-7358x4908.jpg?w=1600&q=80&auto=format"
    ],
    "source_url": "https://www.las-art.foundation/programme/terra0-autonomous-forest",
-   "paper": {}
+   "paper": {},
+   "collections": [
+    "strange-rules"
+   ]
+  },
+  {
+   "id": "kate-sloan--behaviourist-art-and-cybernetics",
+   "creator_ids": [
+    "kate-sloan"
+   ],
+   "title": "Behaviourist Art and Cybernetics: Mapping a Field",
+   "year": 2025,
+   "field": "theory",
+   "sub": "systems",
+   "mechanisms": [
+    "participation",
+    "instruction"
+   ],
+   "substrate": "text",
+   "kind": "publication",
+   "description": "Routledge monograph that takes Roy Ascott's essay 'Behaviourist Art and the Cybernetic Vision' (1966) as its starting point and defines a field of behaviourist art in Britain and the United States, 1945–1975, built on feedback between work and audience.",
+   "description_zh": "Routledge 出版的专著，以 Roy Ascott 的文章《Behaviourist Art and the Cybernetic Vision》（1966）为起点，界定 1945 至 1975 年英美两国以作品与观众之间的反馈为基础的“行为主义艺术”领域。",
+   "idea_en": "Read the audience's behaviour, triggered and fed back, as the defining material of a whole strand of postwar art.",
+   "idea_zh": "把被触发、被反馈的观众行为，读作战后一整条艺术脉络的决定性材料。",
+   "protocol": "Sloan uses the cybernetic concept of feedback to classify works as behavioural, in three parts: operant chambers (Nicholas Negroponte's Seek, Hans Haacke's living systems), light as a behavioural trigger (from cybernetic art to countercultural light shows), and behaviourist architectures (CAVS, Nicolas Schöffer, Keith Albarn).",
+   "protocol_zh": "Sloan 用控制论的“反馈”概念把作品归为行为性的，全书分三部分：操作性条件箱（Nicholas Negroponte 的 Seek、Hans Haacke 的生命系统）、作为行为触发器的光（从控制论艺术到反文化灯光秀），以及行为主义建筑（CAVS、Nicolas Schöffer、Keith Albarn）。",
+   "collective": "The book extends Ascott's framework beyond cybernetic art proper, showing how artists across disciplines designed environments whose outcome depended on what visitors did.",
+   "collective_zh": "这本书把 Ascott 的框架延伸到严格意义上的控制论艺术之外，展示不同领域的艺术家如何设计结果取决于观众行为的环境。",
+   "keywords": [
+    "behaviourist art",
+    "cybernetics",
+    "Roy Ascott",
+    "feedback",
+    "Hans Haacke",
+    "Nicholas Negroponte",
+    "Routledge"
+   ],
+   "images": [
+    "https://images.routledge.com/common/jackets/crclarge/978103261/9781032612317.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.4324/9781032615301",
+    "doi": "10.4324/9781032615301",
+    "venue": "Routledge",
+    "title": "Behaviourist Art and Cybernetics: Mapping a Field"
+   },
+   "source_url": "https://www.routledge.com/Behaviourist-Art-and-Cybernetics-Mapping-a-Field/Sloan/p/book/9781032615301",
+   "video": {},
+   "also": []
   },
   {
    "id": "figure31--blue-moon-flaming-star",
@@ -7218,6 +7837,51 @@
    "contract_url": "https://basescan.org/address/0x727BcEDaEa3661fd31A9e03b4f59ddA6E5aA38c4",
    "video": {},
    "paper": {}
+  },
+  {
+   "id": "alden-hallak--draw-a-fish",
+   "creator_ids": [
+    "alden-hallak"
+   ],
+   "title": "Draw a Fish (DrawAFish.com)",
+   "year": 2025,
+   "field": "network",
+   "sub": "collective-games",
+   "mechanisms": [
+    "participation",
+    "constraint",
+    "governance"
+   ],
+   "substrate": "network",
+   "kind": "game",
+   "description": "A website where anyone draws a fish; a small neural network in the browser judges whether it looks like a fish, and accepted drawings swim in a shared tank with everyone else's, where they are voted on. Posted to Hacker News in July 2025, it reached the top of the front page on 1 August 2025.",
+   "description_zh": "一个人人都能画鱼的网站；浏览器里的小型神经网络判断画的像不像鱼，通过的画会和所有人的鱼一起在共享鱼缸里游动，并接受投票。它于 2025 年 7 月发到 Hacker News，8 月 1 日登上首页第一。",
+   "idea_en": "One automated gate plus one vote is enough to give a crowd's doodles a shared world and a taste.",
+   "idea_zh": "一道自动关卡加一张选票，就足以让一群人的涂鸦拥有一个共同的世界和一种品味。",
+   "protocol": "Anyone may draw. The classifier changes the background colour as it recognises a fish, and only fish it accepts enter the public tank; visitors vote on fish, and a ranking balances recency and popularity. Moderators can remove fish.",
+   "protocol_zh": "任何人都可以画。分类器一旦认出是鱼就会改变背景颜色，只有它认可的鱼才能进入公共鱼缸；访客给鱼投票，排名在新鲜度与受欢迎程度之间取平衡。管理员可以删除鱼。",
+   "collective": "Visitors filled the tank with hand-drawn fish and voted on each other's. On 3 August 2025 attackers who found an old admin password renamed every user with a slur and swapped good fish for offensive ones; a Hacker News user used a token flaw to remove the worst fish, and the developer rolled back the moderation log and fixed the system, as his public postmortem describes.",
+   "collective_zh": "访客用手绘的鱼填满了鱼缸，并给彼此的鱼投票。2025 年 8 月 3 日，有攻击者找到一个旧的管理员密码，把所有用户名改成侮辱性词语，并用冒犯性的鱼替换掉好的鱼；一位 Hacker News 用户利用令牌漏洞删掉了最糟的鱼，开发者随后回滚了管理日志并修复系统，过程见他公开的事故复盘。",
+   "keywords": [
+    "shared canvas",
+    "classifier",
+    "ONNX",
+    "voting",
+    "Hacker News",
+    "moderation"
+   ],
+   "images": [
+    "https://aldenhallak.com/blog/images/drawafish-hero.jpg"
+   ],
+   "paper": {
+    "url": "https://aldenhallak.com/blog/posts/draw-a-fish-postmortem.html",
+    "title": "DrawAFish.com Postmortem",
+    "venue": "aldenhallak.com"
+   },
+   "source_url": "https://drawafish.com/",
+   "code_url": "https://github.com/aldenhallak/fishes",
+   "video": {},
+   "also": []
   },
   {
    "id": "jack-butcher--full-set",
@@ -7977,6 +8641,46 @@
    "paper": {}
   },
   {
+   "id": "eboy--towr",
+   "creator_ids": [
+    "eboy"
+   ],
+   "title": "TOWR",
+   "year": 2025,
+   "field": "onchain",
+   "sub": "co-authored",
+   "mechanisms": [
+    "co-authorship",
+    "currency"
+   ],
+   "substrate": "ethereum",
+   "kind": "series",
+   "description": "An fxhash open-form project by the pixel-art group eBoy in which each token is a procedurally assembled pixel tower that collectors can evolve, stacking new blocks on top. It was released as an ongoing mint in summer 2025.",
+   "description_zh": "像素艺术团体 eBoy 在 fxhash 上发布的开放形式（open-form）项目：每枚代币是一座程序化拼搭的像素塔，藏家可以让它“演化”，在塔顶继续叠加新的模块。2025 年夏天以持续铸造的方式发布。",
+   "idea_en": "A tower is only as tall as its collectors make it: every floor is a paid decision by someone who chose to build.",
+   "idea_zh": "塔能有多高，全看藏家：每一层都是某个人付费决定加盖的。",
+   "protocol": "Minting a tower cost 10 $EBOY, eBoy's own coin, plus 0.001 ETH; each tower combines predefined building blocks, floor objects and randomly chosen colour swatches on a tiled background. Any holder can evolve a tower for another 10 $EBOY and a small ETH fee: the evolution keeps the tower, adds new blocks and changes the background's colour while keeping its structure, and each stage remains a token of its own.",
+   "protocol_zh": "铸造一座塔需支付 10 个 $EBOY（eBoy 自己的代币）外加 0.001 ETH；每座塔由预设的建筑模块、楼层物件和随机选取的色板拼成，背景是拼贴的瓷砖图案。任何持有者都可以再付 10 个 $EBOY 和少量 ETH 让塔演化：演化保留原有的塔，加上新的模块，背景结构不变而颜色改变，每个阶段各自保留为一枚代币。",
+   "collective": "The towers' heights record how far collectors chose to build: a reviewer for The Culture Project evolved one piece three times and kept every stage, and one collector stacked a tower 37 times. The same review counted 1,621 pieces in the set about a week after release.",
+   "collective_zh": "塔的高度记录了藏家愿意建到多高：The Culture Project 的一位评论者把一件作品演化了三次并保留了每个阶段，另一位藏家把一座塔叠了 37 次。同一篇评论统计，发布约一周后系列中已有 1621 件。",
+   "keywords": [
+    "fxhash",
+    "open-form",
+    "evolution",
+    "$EBOY",
+    "pixel art",
+    "creator coin"
+   ],
+   "images": [
+    "https://substack-post-media.s3.amazonaws.com/public/images/d60e172f-8a21-4055-8b0c-2bd7034f8df6_200x1024.jpeg",
+    "https://substack-post-media.s3.amazonaws.com/public/images/40bb6f49-d933-4bad-a87a-6566aa6f0eba_1409x513.png"
+   ],
+   "source_url": "https://thecultureproject.substack.com/p/the-weekly-roundup-110",
+   "video": {},
+   "paper": {},
+   "also": []
+  },
+  {
    "id": "summer-of-protocols--protocol-reader",
    "creator_ids": [
     "summer-of-protocols",
@@ -8018,6 +8722,49 @@
    "collections": [
     "summer-of-protocols"
    ]
+  },
+  {
+   "id": "crosslucid--the-way-of-flowers",
+   "creator_ids": [
+    "crosslucid"
+   ],
+   "title": "The Way of Flowers",
+   "year": 2025,
+   "field": "onchain",
+   "sub": "co-authored",
+   "also": [],
+   "mechanisms": [
+    "participation",
+    "currency",
+    "co-authorship"
+   ],
+   "substrate": "ethereum",
+   "kind": "platform",
+   "description": "A living artwork of generative digital plants ('Seeds') registered on-chain and tied to verified conservation projects. Each time someone donates to a Seed's projects, the plant changes form and the contributor receives a 'Snapshot' of it.",
+   "description_zh": "一件由链上登记的生成式数字植物（“种子”）构成的“活的”作品，每颗种子都与经过核实的保育项目相连。每当有人向某颗种子的项目捐款，植物就会改变形态，捐助者获得一张它的“快照”。",
+   "idea_en": "An artwork that grows only when its audience funds real ecological work: care is the input, and the plant's form is the record of it.",
+   "idea_zh": "一件只有在观众资助真实生态工作时才会生长的作品：关怀是输入，植物的形态就是关怀的记录。",
+   "protocol": "Seed Stewards (collectors or institutions) set vesting terms with Office Impart and choose four conservation projects from eight initiatives across six bioregions (curated with Sarah Baxendell of ArtEcology). Community Contributors connect a wallet in the dApp, pick a Seed and donate; each donation triggers the Seed's morphological transformation and mints a Snapshot artwork. Half of each Snapshot payment goes to the verified regenerative projects; the rest goes to referral networks, Seed growth and a 'Creator Circle'. After vesting, Stewards can keep stewarding, withdraw, sell their position, or take an artistic video instead of revenue. Smart contracts by Adriano Guerrera.",
+   "protocol_zh": "种子守护者（藏家或机构）与 Office Impart 商定归属条款，并从分布在六个生物区的八个保育项目中选出四个（项目由 ArtEcology 的 Sarah Baxendell 策选）。社群贡献者在 dApp 中连接钱包、选择一颗种子并捐款；每一笔捐款都会触发种子的形态变化，并铸造一件“快照”作品。每笔快照付款的一半流向经过核实的再生项目，其余部分用于推荐网络、种子生长和一个“创作者圈”。归属期结束后，守护者可以继续守护、撤出、出售自己的位置，或者选择一段艺术影像来代替收益。智能合约由 Adriano Guerrera 开发。",
+   "collective": "The Seeds were registered on-chain at the opening of CROSSLUCID's solo show at Office Impart, Berlin, in September 2025 (on view to 17 October 2025); CROSSLUCID dates the project 2023 and 2025–ongoing. Projects shown include El Gobo Habitat Bank, Walker Reserve and Jaguar Stewardship in the Pantanal Conservation Network. The form of every Seed is the visible trace of how many people chose to fund its projects; the artists describe the aim as 'art that is caring' rather than art that represents care.",
+   "collective_zh": "这些种子在 2025 年 9 月 CROSSLUCID 于柏林 Office Impart 的个展开幕时登记上链（展期至 2025 年 10 月 17 日）；CROSSLUCID 将这一项目标注为 2023 年及 2025 年至今。展示的项目包括 El Gobo Habitat Bank、Walker Reserve，以及 Pantanal Conservation Network 中的美洲豹守护项目。每颗种子的形态，都是多少人选择资助其项目的可见痕迹；艺术家把目标描述为“本身就在关怀的艺术”，而不是表现关怀的艺术。",
+   "keywords": [
+    "CROSSLUCID",
+    "Office Impart",
+    "regenerative finance",
+    "conservation",
+    "Seed Stewards",
+    "Snapshot",
+    "ArtEcology"
+   ],
+   "images": [
+    "https://assets.rcs-cdn.com/img/d3659b36-8c13-441d-b9ff-96b2e35a0be7/b5d8cbb3c7b366ea?w=2000&f=auto&sig=d7f00d573199bc1756143b5ad0f9c217",
+    "https://assets.rcs-cdn.com/img/15d951e5-7aa7-4b0b-86c5-c1ff7e6e5f2c/e82cea3f1208ffd2?w=1280&f=auto&sig=c1b9b7f37e687d224201ebf35a508d51",
+    "https://assets.rcs-cdn.com/img/35cd0e88-2574-4298-9643-1f0bb381f40a/559495ff54224091?w=1280&f=auto&sig=595e2157ae9ca2242b19165802a68954"
+   ],
+   "source_url": "https://www.rightclicksave.com/article/the-interview-crosslucid-the-way-of-flowers-office-impart-berlin",
+   "video": {},
+   "paper": {}
   },
   {
    "id": "murilo-matsubara--wplace",
@@ -8952,6 +9699,59 @@
    ]
   },
   {
+   "id": "dmstfctn--fango-1000",
+   "creator_ids": [
+    "dmstfctn"
+   ],
+   "title": "Fango 1000",
+   "year": 2024,
+   "field": "onchain",
+   "sub": "co-authored",
+   "also": [
+    "network"
+   ],
+   "mechanisms": [
+    "co-authorship",
+    "governance",
+    "participation"
+   ],
+   "substrate": "ethereum",
+   "kind": "game",
+   "description": "A multiplayer on-chain text game set in the medieval village of Fango, where a thousand chronicles describing the training of a future 'machine intelligence' have appeared in a monastery. Players join one of three factions, write interpretations of the chronicles and vote by throwing mud, so that only the stories the players agree on persist.",
+   "description_zh": "一款多人链上文字游戏，背景是中世纪村庄 Fango：一座修道院里突然出现了一千份编年史，记录着某个来自未来的“机器智能”的训练过程。玩家加入三个阵营之一，为编年史撰写解读，并以“扔泥巴”的方式投票，只有玩家达成共识的故事才能留存。",
+   "idea_en": "Lore as consensus: a shared world's history is whatever the players' votes let survive, and everything else is buried in mud.",
+   "idea_zh": "把传说当作共识：一个共享世界的历史，就是玩家投票留下来的东西，其余的都被埋进泥里。",
+   "protocol": "Players pick a faction (Monks, who read the machine as proof of God; Scholars, as proof of progress; Fools, as proof of nothing), receive a chronicle of clues, write their own interpretation and vote on others' texts by throwing mud on them; texts that gain consensus persist and the rest are lost. The chronicles contain player data from dmstfctn's AI-training game Godmode Epochs, inscribed onto a blockchain. Built with the MUD framework (Solidity by Paul Seidler), the game implements the protocol for narrative building in on-chain worlds proposed in the essay 'Large Lore Models' (dmstfctn, Jäger, Milne, Autonomous Worlds N1, 2023).",
+   "protocol_zh": "玩家选择一个阵营（Monks 把机器视为上帝存在的证明，Scholars 视为进步的证明，Fools 视为什么也证明不了），领取一份写满线索的编年史，写下自己的解读，并通过向他人的文本“扔泥巴”来投票；获得共识的文本留存，其余的消失。编年史里包含了 dmstfctn 的 AI 训练游戏 Godmode Epochs 的玩家数据，这些数据已被铭刻到区块链上。游戏用 MUD 框架开发（Solidity 由 Paul Seidler 编写），实现了随笔《Large Lore Models》（dmstfctn、Jäger、Milne，Autonomous Worlds N1，2023）中提出的链上世界叙事构建协议。",
+   "collective": "Prototypes were exhibited at Koelhuis (Eindhoven) and Etopia (Zaragoza) in 2024, and the game was released free-to-play on a blockchain testnet in 2025, followed by the group show ARC 1 Showcase at SYBIL, Berlin and a talk at CSV, Madrid. The canon of Fango is written collectively: what survives is not any single author's text but the set of interpretations that rival factions of players are willing to let stand.",
+   "collective_zh": "原型于 2024 年在埃因霍温的 Koelhuis 和萨拉戈萨的 Etopia 展出；2025 年游戏在一条区块链测试网上免费开放，随后参加了柏林 SYBIL 的群展 ARC 1 Showcase，并在马德里 CSV 举办讲座。Fango 的“正典”是集体写成的：留存下来的不是某个作者的文本，而是彼此对立的玩家阵营都愿意让它留下的那些解读。",
+   "keywords": [
+    "MUD",
+    "autonomous worlds",
+    "Large Lore Models",
+    "onchain game",
+    "consensus",
+    "Godmode Epochs",
+    "factions"
+   ],
+   "video": {
+    "url": "https://vimeo.com/1075743293",
+    "platform": "vimeo",
+    "id": "1075743293",
+    "thumbnail": "https://i.vimeocdn.com/video/2052188612-b6c0072a949d19a0699b7eec6974f01eb39a9b61052a044cf3c6c9ec717927e1-d?f=webp&amp;region=us",
+    "embeddable": true
+   },
+   "images": [
+    "https://dmstfctn.net/related-matters/fango-1000/content/hover.webp"
+   ],
+   "paper": {
+    "url": "https://aw.network/posts/large-lore-models",
+    "title": "Large Lore Models",
+    "venue": "Autonomous Worlds N1 (2023)"
+   },
+   "source_url": "https://dmstfctn.net/related-matters/fango-1000"
+  },
+  {
    "id": "nathalia-scherer--fire-protocols",
    "creator_ids": [
     "nathalia-scherer",
@@ -9049,6 +9849,92 @@
    "collections": [
     "summer-of-protocols"
    ]
+  },
+  {
+   "id": "lauren-lee-mccarthy--host",
+   "creator_ids": [
+    "lauren-lee-mccarthy"
+   ],
+   "title": "HOST",
+   "year": 2024,
+   "field": "social",
+   "sub": "performance",
+   "also": [
+    "score"
+   ],
+   "mechanisms": [
+    "instruction",
+    "participation"
+   ],
+   "substrate": "ai",
+   "kind": "artwork",
+   "description": "A party as performance: performers carry silver platters of earpieces, and guests who put one in receive private directions from software that listens to the conversation. Commissioned for The Music Center's Black Bar Social programme, it took place at the Dorothy Chandler Pavilion, Los Angeles, on 13 August 2024.",
+   "description_zh": "一场作为表演的派对：表演者端着放满耳机的银盘，戴上耳机的来宾会收到一款监听谈话的软件私下给出的指示。作品受洛杉矶音乐中心 Black Bar Social 项目委托，于 2024 年 8 月 13 日在多萝西·钱德勒大厅举行。",
+   "idea_en": "When every guest may be secretly following a script, no one can tell whose behaviour is their own.",
+   "idea_zh": "当每位客人都可能在暗中照着脚本行事，就没人分得清谁的举动出自本心。",
+   "protocol": "Guests choose whether to take an earpiece. Once in, custom software listens and generates personalised directions for that guest alone; guests set an intention for the gathering at the start, and at each moment decide whether to follow the prompt or act on their own judgment.",
+   "protocol_zh": "来宾自己决定是否戴上耳机。戴上后，定制软件开始监听，并只为这位来宾生成个性化指示；派对开始时来宾为聚会设定一个意图，此后每一刻都自行决定是照提示做，还是按自己的判断行事。",
+   "collective": "Because each guest received different instructions in private, the party's conversations were a mix of prompted and unprompted acts that nobody could fully separate, and the guests made meaning together out of that uncertainty.",
+   "collective_zh": "由于每位来宾私下收到的指令都不同，派对上的对话混杂着被提示和未被提示的举动，谁也无法完全分清，来宾们就在这种不确定中共同生成意义。",
+   "keywords": [
+    "AI",
+    "earpiece",
+    "party",
+    "The Music Center",
+    "Black Bar Social",
+    "UCLA Social Software"
+   ],
+   "images": [
+    "https://framerusercontent.com/images/RdV6veZvtVZL46J0AW7Ha5wYQ4.png",
+    "https://framerusercontent.com/images/nIsNKk6msxxJwMf7E8GWfp9qmk.jpg?width=2048"
+   ],
+   "source_url": "https://get-lauren.net/HOST",
+   "video": {},
+   "paper": {}
+  },
+  {
+   "id": "figure31--line",
+   "creator_ids": [
+    "figure31"
+   ],
+   "title": "LINE",
+   "year": 2024,
+   "field": "onchain",
+   "sub": "co-authored",
+   "also": [],
+   "mechanisms": [
+    "participation",
+    "constraint",
+    "scarcity"
+   ],
+   "substrate": "ethereum",
+   "kind": "series",
+   "description": "A photographic series released with Fingerprints DAO in which 250 dynamic tokens sit on a 25 × 25 grid laid over a panoramic night landscape. Holders move their tokens like chess pieces; each token's position and field of view decide which photograph it shows.",
+   "description_zh": "与 Fingerprints DAO 合作发布的摄影系列：250 枚动态代币分布在一张铺在全景夜景之上的 25 × 25 网格里。持有者像下棋一样移动自己的代币，每枚代币的位置和视野决定它显示哪一张照片。",
+   "idea_en": "Treat each token as a camera placed in a shared landscape: where holders choose to stand, and where others already stand, decides what everyone sees.",
+   "idea_zh": "把每枚代币当作放在共享风景里的一台相机：持有者选择站在哪里、别人已经站在哪里，决定了每个人看到什么。",
+   "protocol": "Tokens can move up, down, sideways or diagonally through the website or the smart contract, for gas only, but never onto a coordinate another token occupies, and only after the collection sold out or the 48-hour mint window closed. Tokens minted below the middle line face up, those above face down; most see 180 degrees. The first 25 tokens to reach the top or bottom border may become 'star' tokens with a 360-degree view and one free relocation, after which they are locked in place. Images cycle daily (10-day cycle for standard tokens, 16 for stars).",
+   "protocol_zh": "代币可以通过网站或智能合约向上、向下、横向或斜向移动，只需支付 gas，但不能移到已被其他代币占据的坐标，并且只能在系列售罄或 48 小时铸造期结束后开始移动。铸造在中线以下的代币朝上，以上的朝下；大多数代币拥有 180 度视野。最先到达上下边界的 25 枚代币可以成为拥有 360 度视野的“星”代币，并获得一次任意迁移的机会，之后位置锁定。图像每天轮换（普通代币 10 天一个周期，星代币 16 天）。",
+   "collective": "The 250 tokens were sold by Dutch auction on 21 February 2024 (from 1.0 ETH down to a 0.15 ETH resting price). Because no two tokens can share a square and only 25 can become stars, holders compete and coordinate for positions, and the arrangement of the whole grid, and therefore the set of images on display, is the cumulative result of their moves.",
+   "collective_zh": "这 250 枚代币于 2024 年 2 月 21 日以荷兰式拍卖出售（从 1.0 ETH 降至 0.15 ETH 的底价）。由于两枚代币不能共用一格，而且只有 25 枚能成为星代币，持有者们要为位置竞争和协调；整个网格的布局，也就是正在展示的那一组图像，是他们所有移动累积的结果。",
+   "keywords": [
+    "Fingerprints DAO",
+    "dynamic NFT",
+    "grid",
+    "photography",
+    "field of view",
+    "star tokens",
+    "arod.studio"
+   ],
+   "images": [
+    "https://line.fingerprintsdao.xyz/about/header.jpg",
+    "https://line.fingerprintsdao.xyz/_next/image?url=%2Fabout%2Fmovement.gif&w=3840&q=75",
+    "https://studio-line-dapp-web-6xbcxival-fingerprints.vercel.app/opengraph-image.jpg"
+   ],
+   "source_url": "https://line.fingerprintsdao.xyz/about",
+   "contract_url": "https://etherscan.io/address/0xc49d27C4A520a71fF899de7aca9FB56794Bb0f1e",
+   "video": {},
+   "paper": {}
   },
   {
    "id": "lizz-thabet--meet-me-on-the-deep-net",
@@ -9264,6 +10150,50 @@
    "collections": [
     "tiny-awards"
    ]
+  },
+  {
+   "id": "elliott-cost--one-minute-park",
+   "creator_ids": [
+    "elliott-cost"
+   ],
+   "title": "One Minute Park",
+   "year": 2024,
+   "field": "network",
+   "sub": "crowdsourced",
+   "also": [
+    "score"
+   ],
+   "mechanisms": [
+    "instruction",
+    "participation"
+   ],
+   "substrate": "network",
+   "kind": "platform",
+   "description": "A website that plays full-screen, one-minute videos of ordinary park scenes from around the world, one after another; the clips are filmed and submitted by volunteers, and the goal is to fill all 1,440 minutes of a day. It won the 2024 Tiny Award.",
+   "description_zh": "一个网站，一段接一段地全屏播放世界各地公园里平常景象的一分钟视频；视频由志愿者拍摄并提交，目标是填满一天的全部 1,440 分钟。它获得 2024 年 Tiny Award。",
+   "idea_en": "A precise filming instruction lets strangers make one continuous, calm broadcast together.",
+   "idea_zh": "一条精确的拍摄指令，让陌生人一起做出一段连续、平静的播出节目。",
+   "protocol": "Contributors follow a short score: film exactly 60 seconds on a phone in landscape, hand-held but steady, no tripod and no edits, choosing a scene with many layers of activity and no dominating element; then upload the .mp4 to the project's Are.na channel with date, time, park and location in the title.",
+   "protocol_zh": "投稿者遵循一份简短的乐谱：用手机横屏拍摄整整 60 秒，手持但尽量稳定，不用三脚架、不剪辑，选择有多层活动、没有压倒性元素的画面；然后把 .mp4 上传到项目的 Are.na 频道，标题写明日期、时间、公园和地点。",
+   "collective": "Volunteers in many countries filmed their local parks to the same rules, so the site plays as one uniform programme made by people who never met. The Are.na submission channel, opened in March 2024, held about 350 blocks in November 2026.",
+   "collective_zh": "许多国家的志愿者按同样的规则拍摄自己附近的公园，于是网站播放的是一档由素未谋面的人共同制作、风格统一的节目。Are.na 投稿频道于 2024 年 3 月开设，到 2026 年 11 月约有 350 个条目。",
+   "keywords": [
+    "Are.na",
+    "parks",
+    "60 seconds",
+    "crowdsourced video",
+    "Tiny Awards",
+    "Bell Kiosk"
+   ],
+   "images": [
+    "https://oneminutepark.tv/images/social.jpg"
+   ],
+   "source_url": "https://oneminutepark.tv/",
+   "collections": [
+    "tiny-awards"
+   ],
+   "video": {},
+   "paper": {}
   },
   {
    "id": "spawning--pd12m-source-plus",
@@ -9601,6 +10531,49 @@
     "sop24-protocol-exhibition",
     "summer-of-protocols"
    ]
+  },
+  {
+   "id": "paul-seidler--real-abstraction",
+   "creator_ids": [
+    "paul-seidler"
+   ],
+   "title": "Real Abstraction (A Line Made by Proofs)",
+   "year": 2024,
+   "field": "onchain",
+   "sub": "co-authored",
+   "mechanisms": [
+    "co-authorship",
+    "constraint"
+   ],
+   "substrate": "ethereum",
+   "kind": "artwork",
+   "description": "Contract work in the World Computer Sculpture Garden: a straight line connects two points on a virtual plane, addresses draw walls that the line must route around, and once the plane solidifies only the line remains visible while the walls are hidden in a zero-knowledge proof.",
+   "description_zh": "World Computer Sculpture Garden 中的合约作品：一条直线连接虚拟平面上的两点，各个地址在平面上画墙，直线必须绕行；平面固化后只剩直线可见，墙则被藏进零知识证明里。",
+   "idea_en": "Let many strangers shape a line, then hide their contributions so only the result can be verified.",
+   "idea_zh": "让许多陌生人塑造一条线，再把他们的贡献藏起来，只留下可验证的结果。",
+   "protocol": "Any address may add wall structures to the current plane; the path between start and end is recalculated around them. At some point the plane becomes immutable and invisible, the path is proven in zero knowledge, and a new plane begins from the same origin, forming a potentially infinite chain of planes.",
+   "protocol_zh": "任何地址都可以在当前平面上添加墙体，起点与终点之间的路径随之重新计算。到某一时刻，平面变得不可更改且不可见，路径以零知识方式被证明，一张新平面再从同一原点开始，形成可能无穷的平面链。",
+   "collective": "Visitors to the contract show drew the walls that bent each line; their individual inputs are unknowable to anyone who did not take part, so the visible line is the only public trace of their collective work.",
+   "collective_zh": "合约展的参观者画下让每条线弯折的墙；没有参与的人无从得知各自的输入，因此可见的那条线是他们集体劳动唯一公开的痕迹。",
+   "keywords": [
+    "World Computer Sculpture Garden",
+    "zero-knowledge proof",
+    "contract show",
+    "maze",
+    "line"
+   ],
+   "images": [
+    "https://plsdlr.net/aline/aline_01.jpg",
+    "https://plsdlr.net/aline/aline_02.jpg"
+   ],
+   "source_url": "https://plsdlr.net/works/realabstraction",
+   "contract_url": "https://etherscan.io/address/0x3471D8aCdD789a12Aa5c07E7d32c71d7959688E8",
+   "collections": [
+    "world-computer-sculpture-garden"
+   ],
+   "video": {},
+   "paper": {},
+   "also": []
   },
   {
    "id": "ben-zucker--renotations",
@@ -10298,6 +11271,53 @@
    ]
   },
   {
+   "id": "botto--p5-botto",
+   "creator_ids": [
+    "botto"
+   ],
+   "title": "p5.botto (Algorithmic Evolution)",
+   "year": 2024,
+   "field": "autonomous",
+   "sub": "autonomous-artists",
+   "also": [
+    "onchain"
+   ],
+   "mechanisms": [
+    "governance",
+    "participation",
+    "autonomy"
+   ],
+   "substrate": "ai",
+   "kind": "series",
+   "description": "Botto's study of p5.js code art: from March 2024 a 19-week public training run in which anyone could vote on Botto's generative sketches, then a final three-week run in early 2025 in which Botto kept evolving algorithms while voters pruned more than 5,000 sketches down to 22. The 22 were shown as Algorithmic Evolution with Verse in London in February 2025.",
+   "description_zh": "Botto 对 p5.js 代码艺术的研究：自 2024 年 3 月起进行了为期 19 周的公开训练，任何人都可以给 Botto 的生成式草图投票；2025 年初又进行了三周的最终一轮，Botto 不断演化算法，投票者则把 5000 多张草图逐步淘汰到 22 个。这 22 个算法于 2025 年 2 月以“Algorithmic Evolution”为题在伦敦与 Verse 合作展出。",
+   "idea_en": "Open an AI artist's editing room to anyone with a wallet, and let pruning by many hands decide which algorithms survive.",
+   "idea_zh": "把 AI 艺术家的剪辑室向任何有钱包的人开放，让众人一起修剪，决定哪些算法能活下来。",
+   "protocol": "On p5.botto.com any wallet could vote up or down, or comment, once per sketch, with equal weight and no stake required. In the final run (16 January to 6 February 2025) Botto generated a new sketch at least every 20 minutes from the top 500 algorithms of 2024; from the third week the lowest-voted were pruned, and each participant could 'superlike' up to 22 sketches, each worth ten votes. Botto ran its own tournament in parallel to propose a set of 22. To share in revenue a voter had to stake at least 100 $BOTTO; 40% of net proceeds went to qualified voters, 40% to the treasury and 20% to protocol-owned liquidity.",
+   "protocol_zh": "在 p5.botto.com 上，任何钱包都可以对每张草图投一次赞成或反对票或发表评论，票权相同，无需质押。最终一轮（2025 年 1 月 16 日至 2 月 6 日）中，Botto 以 2024 年排名前 500 的算法为起点，至少每 20 分钟生成一张新草图；从第三周起，得票最低的被淘汰，每位参与者最多可以给 22 张草图“超级点赞”，每次相当于十票。与此同时，Botto 自己也进行了一场内部淘汰赛，提出它心目中的 22 个。投票者若要分享收益，须质押至少 100 个 $BOTTO；净收益的 40% 分给合格投票者，40% 归金库，20% 用于协议自有流动性。",
+   "collective": "Opening the vote beyond staked DAO members turned a wider crowd into Botto's editors for a new medium: their votes over 19 weeks and the final pruning decided which of thousands of evolving algorithms survived. The most popular algorithm of 2024, Geometric Fluidity, was released as an edition of up to 1,000 outputs, and the 22 surviving algorithms were exhibited at Verse's SOLOS space, 34 Mortimer Street, London (19 to 22 February 2025), and committed on-chain.",
+   "collective_zh": "把投票开放给质押的 DAO 成员以外的人，使更大的人群成了 Botto 在新媒介上的编辑：他们 19 周的投票和最后的淘汰，决定了数千个不断演化的算法中哪些能留下。2024 年最受欢迎的算法 Geometric Fluidity 以最多 1000 个输出的版数发行；最终留下的 22 个算法于 2025 年 2 月 19 日至 22 日在伦敦 Mortimer Street 34 号 Verse 的 SOLOS 空间展出，并写入区块链。",
+   "keywords": [
+    "BottoDAO",
+    "p5.js",
+    "$BOTTO",
+    "pruning",
+    "superlike",
+    "Verse",
+    "Geometric Fluidity",
+    "Algorithmic Evolution"
+   ],
+   "images": [
+    "https://versecontent.com/image/w3840/static%2F27ee9443-d49b-44ed-b94b-e9514dc20c50.png@jpeg",
+    "https://versecontent.com/image/w3840/static%2Fe7d7c84e-d14a-482a-94c1-9ea63dd9f81f.jpeg@jpeg",
+    "https://versecontent.com/image/w1400/static%2F1123c06a-e052-4ef5-945f-e1fb089ffc77.jpeg@jpeg",
+    "https://cms.botto.com/assets/fddf76c9-3701-4d44-b958-aa65eb18d708.png"
+   ],
+   "source_url": "https://docs.botto.com/collections/p5.botto",
+   "video": {},
+   "paper": {}
+  },
+  {
    "id": "holly-herndon--xhairymutantx",
    "creator_ids": [
     "holly-herndon",
@@ -10475,6 +11495,48 @@
    "also": []
   },
   {
+   "id": "spencer-chang--internet-fridge",
+   "creator_ids": [
+    "spencer-chang"
+   ],
+   "title": "Internet Fridge",
+   "year": 2023,
+   "field": "network",
+   "sub": "collective-games",
+   "mechanisms": [
+    "participation",
+    "co-authorship"
+   ],
+   "substrate": "network",
+   "kind": "game",
+   "description": "A shared magnetic-poetry fridge door on the web: visitors drag word magnets around to make poems and leave them for the next visitor to find and change. Built with Spencer Chang's playhtml library, it was added to the playhtml site in August 2023 and was a finalist for the 2024 Tiny Awards Multiplayer award.",
+   "description_zh": "网上一扇共享的磁贴诗冰箱门：访客拖动单词磁贴拼成诗，留给下一位访客发现并改写。它用 Spencer Chang 的 playhtml 库制作，2023 年 8 月加入 playhtml 网站，入围 2024 年 Tiny Awards 的“多人”奖。",
+   "idea_en": "A persistent shared surface with one gentle rule turns strangers into co-authors across time.",
+   "idea_zh": "一块持久共享的表面加上一条温和的规则，就能让不同时间的陌生人成为共同作者。",
+   "protocol": "Anyone visiting may move any word; positions are saved for everyone, so each visitor inherits the last state and can rearrange it. The only stated rule is \"Please be nice.\"",
+   "protocol_zh": "任何访客都可以移动任何一个单词；位置为所有人保存，所以每位访客接手的都是上一个人留下的状态，并可以重新排列。唯一写明的规则是“请友善”。",
+   "collective": "Visitors left poems, messages and jokes scattered across a wall larger than the screen, then came back to see how others had changed them. The fridge is a slow, asynchronous collective text with no author.",
+   "collective_zh": "访客在一面比屏幕还大的墙上留下散落的诗句、留言和玩笑，又回来看别人如何改动了它们。这台冰箱是一份缓慢、异步、没有作者的集体文本。",
+   "keywords": [
+    "playhtml",
+    "magnetic poetry",
+    "multiplayer",
+    "shared state",
+    "Tiny Awards"
+   ],
+   "images": [
+    "https://playhtml.fun/playhtml-fridge.png"
+   ],
+   "source_url": "https://playhtml.fun/fridge.html",
+   "code_url": "https://github.com/spencerc99/playhtml",
+   "collections": [
+    "tiny-awards"
+   ],
+   "video": {},
+   "paper": {},
+   "also": []
+  },
+  {
    "id": "rhea-myers--is-art-editions",
    "creator_ids": [
     "rhea-myers"
@@ -10592,6 +11654,50 @@
    ],
    "source_url": "https://samspratt.com/5/ix/",
    "contract_url": "https://etherscan.io/address/0xda6558fa1c2452938168ef79dfd29c45aba8a32b",
+   "video": {},
+   "paper": {}
+  },
+  {
+   "id": "moma--moma-postcard",
+   "creator_ids": [
+    "moma"
+   ],
+   "title": "MoMA Postcard",
+   "year": 2023,
+   "field": "onchain",
+   "sub": "co-authored",
+   "also": [
+    "social"
+   ],
+   "mechanisms": [
+    "co-authorship",
+    "circulation",
+    "contract"
+   ],
+   "substrate": "tezos",
+   "kind": "platform",
+   "description": "Onchain chain letter launched by MoMA in October 2023: a participant claims a blank card with 15 stamp slots in Bitmark's Autonomy app, draws a 10-by-10-pixel stamp in MoMA's palette, signs it, records it on Tezos and sends the card on.",
+   "description_zh": "MoMA 于 2023 年 10 月推出的链上连锁信：参与者在 Bitmark 的 Autonomy 应用中领取一张有 15 个邮票位的空白明信片，用 MoMA 的配色画一枚 10×10 像素的邮票并签名，记录到 Tezos 上，再把卡片寄给下一个人。",
+   "idea_en": "A postcard that is only finished, and only owned, when fifteen people have added to it.",
+   "idea_zh": "一张只有在十五个人都添上内容之后才算完成、才有归属的明信片。",
+   "protocol": "Each stamper adds one stamp and passes the card to someone of their choice; the contribution is written into the card's onchain record. A card is complete at 15 stamps and is then co-owned equally by its 15 stampers, so no single person can sell it without the others.",
+   "protocol_zh": "每个盖章者添一枚邮票，再把卡片交给自己选定的人；每次贡献都写入卡片的链上记录。集满 15 枚邮票即完成，由 15 位盖章者平均共有，任何一人都不能撇开其他人单独出售。",
+   "collective": "The soft launch on 3 October 2023, 'First 15', passed prompts among 15 artists including IX Shells, Operator, Dmitri Cherniak, Linda Dounia Rebeiz and Sasha Stiles, who asked the others to spell out 'ARS AUTOPOETICA' stamp by stamp; the app then opened to anyone, who could claim a blank card and start a chain.",
+   "collective_zh": "2023 年 10 月 3 日的预热环节“First 15”让 15 位艺术家互相传递题目，其中包括 IX Shells、Operator、Dmitri Cherniak、Linda Dounia Rebeiz 和 Sasha Stiles，后者请其他人一枚一枚地拼出“ARS AUTOPOETICA”；随后应用向所有人开放，任何人都可以领取空白卡片、发起一条明信片链。",
+   "keywords": [
+    "MoMA",
+    "mail art",
+    "chain letter",
+    "Tezos",
+    "Bitmark",
+    "Autonomy",
+    "co-ownership",
+    "pixel stamp"
+   ],
+   "images": [
+    "https://cdn.sanity.io/images/cxgd3urn/production/b077051c7325f9e180addef7f0317f5dca043823-1400x1077.jpg?w=1200&fm=jpg"
+   ],
+   "source_url": "https://www.theartnewspaper.com/2023/11/24/mail-art-meets-nfts-for-all-in-the-moma-postcard-programme",
    "video": {},
    "paper": {}
   },
@@ -10811,6 +11917,49 @@
    "collections": [
     "summer-of-protocols"
    ]
+  },
+  {
+   "id": "figure31--reapers-gambit",
+   "creator_ids": [
+    "figure31"
+   ],
+   "title": "Reaper's Gambit",
+   "year": 2023,
+   "field": "onchain",
+   "sub": "ownership",
+   "also": [],
+   "mechanisms": [
+    "time",
+    "circulation",
+    "burn"
+   ],
+   "substrate": "ethereum",
+   "kind": "series",
+   "description": "An ERC-20 token, $RG, that becomes non-transferable 64,800 blocks (about nine days) after it reaches an address, unless the holder moves it on to a fresh address. An 'Immortal' NFT wrapper lets holders escape the cycle by paying a tribute of burned tokens to the dead address.",
+   "description_zh": "一种 ERC-20 代币 $RG：它到达某个地址 64,800 个区块（约九天）之后就无法再转出，除非持有者及时把它转到一个全新的地址。“Immortal” NFT 封装合约让持有者可以向死亡地址献上一笔被销毁的代币，从而跳出这个循环。",
+   "idea_en": "Make holding itself mortal: wealth stays alive only while it keeps moving, and every holder who stops lets Death take a share of the supply.",
+   "idea_zh": "让“持有”本身变得会死：财富只有不停流动才能活着，每个停下来的持有者都让死神收走一部分供应。",
+   "protocol": "Figure31 deployed 999,999,999 $RG with no allocation to anyone. The contract locks any address, and the tokens in it, 64,800 blocks after it receives $RG; locked tokens cannot be recovered and an address can never be reused, so holders must keep transferring to new addresses before their 'death block' (readable through the contract's KnowDeath function). Only the contract owner can grant immortality to specific contract addresses (a liquidity pool and router). Holders can instead wrap $RG into a fully on-chain 'Immortal' ERC-721 by burning a tribute to 0x…dead, whose size fluctuates with the supply already wrapped.",
+   "protocol_zh": "Figure31 发行了 999,999,999 枚 $RG，没有预留给任何人。合约会在某个地址收到 $RG 后的第 64,800 个区块锁定该地址及其中的代币；被锁的代币无法找回，地址也永远不能重复使用，所以持有者必须在自己的“死亡区块”（可通过合约的 KnowDeath 函数查询）之前不断转到新地址。只有合约所有者能赋予特定合约地址（一个流动性池和一个路由合约）“不死”。持有者也可以向 0x…dead 销毁一笔“贡品”，把 $RG 封装成完全链上的 “Immortal” ERC-721；贡品的多少随已封装的数量浮动。",
+   "collective": "The whitepaper calls the token 'a participatory artwork of a conceptual kind that doth require care in its handling'. Holders who stopped moving their tokens lost them to the Reaper: the project site's counter showed 69% of the total supply locked when checked in November 2026. Figure31 lists 99 dynamic Immortal NFTs, and after renewed interest in $RG in 2024 added a Reaper Agent, a multi-model LLM persona of the Grim Reaper that posts as the project's voice.",
+   "collective_zh": "白皮书称这枚代币是“一件概念性的参与式艺术作品，需要小心对待”。停止转移代币的持有者就把代币交给了死神：2026 年 11 月查看时，项目网站的计数器显示总供应量的 69% 已被锁定。Figure31 列出了 99 枚动态 Immortal NFT；2024 年 $RG 再度受到关注后，他又加入了 Reaper Agent——一个以死神为人设、由多个大语言模型驱动的智能体，作为项目的发声者。",
+   "keywords": [
+    "$RG",
+    "ERC-20",
+    "non-transferable",
+    "64,800 blocks",
+    "Immortal",
+    "burn",
+    "0x…dead",
+    "Reaper Agent"
+   ],
+   "images": [
+    "https://pbs.twimg.com/media/FzLqIfPWYAAtqQn?format=jpg&name=large"
+   ],
+   "source_url": "https://reapersgambit.com/",
+   "contract_url": "https://etherscan.io/address/0x2C91D908E9fab2dD2441532a04182d791e590f2d",
+   "video": {},
+   "paper": {}
   },
   {
    "id": "david-lang--standards-make-the-world",
@@ -12286,6 +13435,54 @@
    ]
   },
   {
+   "id": "songcamp--camp-elektra",
+   "creator_ids": [
+    "songcamp"
+   ],
+   "title": "Camp Elektra",
+   "year": 2021,
+   "field": "onchain",
+   "sub": "co-authored",
+   "also": [
+    "autonomous"
+   ],
+   "mechanisms": [
+    "co-authorship",
+    "governance",
+    "currency"
+   ],
+   "substrate": "ethereum",
+   "kind": "game",
+   "description": "Songcamp's second camp (8 July – 17 August 2021): about 42 musicians, artists and developers built the fictional world of Elektra, an interactive story and puzzle game in a token-gated Discord, funded by a Mirror crowdfund whose backers received ticket NFTs and $ELEKTRA governance tokens.",
+   "description_zh": "Songcamp 的第二期营（2021 年 7 月 8 日至 8 月 17 日）：约 42 位音乐人、艺术家和开发者共同搭建虚构世界 Elektra，在需要代币才能进入的 Discord 中展开互动故事和解谜游戏；资金来自 Mirror 众筹，支持者获得门票 NFT 和 $ELEKTRA 治理代币。",
+   "idea_en": "Fund a collective world with tokens, then hand the world to the people who built and backed it.",
+   "idea_zh": "用代币为一个集体世界筹款，再把这个世界交给建造它和资助它的人。",
+   "protocol": "Backers bought Portal Ticket NFTs in three tiers (0.1, 0.3 and 1 ETH) and received $ELEKTRA tokens in proportion to their contribution; the ticket unlocked the story in Discord. 90% of funds went to the project (team pay, fees, hosting, seed money for a DAO) and 10% to the artists who made the ticket visuals. After the camp, ownership of Elektra passed to participants through a token drop and a DAO with token-weighted Snapshot votes.",
+   "protocol_zh": "支持者按三档价格（0.1、0.3 和 1 ETH）购买门票 NFT，并按出资比例获得 $ELEKTRA 代币；门票解锁 Discord 中的故事。90% 的资金归项目（团队报酬、手续费、托管以及 DAO 的启动资金），10% 归制作门票视觉的艺术家。营期结束后，Elektra 的所有权通过代币空投和一个以代币加权、在 Snapshot 上投票的 DAO 交给参与者。",
+   "collective": "The camp produced original music, graphics, animation and voice acting, Elektra Logs NFTs and, according to Songcamp, three songs released as 1-of-1 NFTs. Water & Music counted 145 crowdfund backers and about 20 active voting members in the DAO; Songcamp's later account says the hard-to-divide value of its 1-of-1 songs shaped the design of Camp Chaos.",
+   "collective_zh": "营期产出了原创音乐、平面、动画和配音、Elektra Logs NFT，并据 Songcamp 所说以 1-of-1 NFT 形式发行了三首歌。Water & Music 统计有 145 位众筹支持者，DAO 中约有 20 名活跃投票成员；Songcamp 后来写道，1-of-1 歌曲的价值难以分配，这影响了 Camp Chaos 的设计。",
+   "keywords": [
+    "Songcamp",
+    "Elektra",
+    "Mirror crowdfund",
+    "$ELEKTRA",
+    "DAO",
+    "Snapshot",
+    "ARG",
+    "music NFT"
+   ],
+   "images": [
+    "https://jamiedubs.com/images/blog/breaking-down-songcamp-elektra-crowdfund/mirror-screenshot.png"
+   ],
+   "paper": {
+    "url": "https://www.waterandmusic.com/music-dao-deep-dives-pt-7-how-songcamp-elektra-is-building-web3-native-artist-collective/",
+    "venue": "Water & Music",
+    "title": "Music DAO Deep Dives, Pt. 7: How Songcamp/Elektra is building a Web3-native artist collective"
+   },
+   "source_url": "https://jamiedubs.com/blog/breaking-down-songcamp-elektra-crowdfund/",
+   "video": {}
+  },
+  {
    "id": "furtherfield--culturestake",
    "creator_ids": [
     "furtherfield"
@@ -12851,6 +14048,51 @@
    "paper": {}
   },
   {
+   "id": "michael-joo--og-crystals",
+   "creator_ids": [
+    "michael-joo",
+    "danil-krivoruchko",
+    "snark-art"
+   ],
+   "title": "OG:Crystals (Organic Growth: Crystal Reef)",
+   "year": 2021,
+   "field": "onchain",
+   "sub": "ownership",
+   "mechanisms": [
+    "circulation",
+    "merge",
+    "co-authorship"
+   ],
+   "substrate": "ethereum",
+   "kind": "series",
+   "description": "A generative collection of 10,301 3D crystals by Michael Joo and Danil Krivoruchko, produced with Snark.art, in which each crystal grows a new layer every time it changes hands, shaped by the new owner's wallet history; all crystals were then to be joined into one communal 'Crystal Reef'.",
+   "description_zh": "Michael Joo 与 Danil Krivoruchko 和 Snark.art 合作推出的 10301 个生成式 3D 晶体：每次易手，晶体都会按新主人的钱包历史长出新的一层；最终所有晶体将合成一座共同的“晶体礁”（Crystal Reef）。",
+   "idea_en": "Let an artwork's form be the sediment of its owners, so that trading it becomes a way of drawing it.",
+   "idea_zh": "让作品的形态成为历任主人的沉积层，于是买卖本身就成了绘制它的方式。",
+   "protocol": "On the primary sale a collector received a seed crystal and chose its colour; days later it grew into a crystal generated from the owner's wallet ID and history. Each resale kept the existing form and added a new structure derived from the buyer's wallet, with every stage saved as a separate file. Three months after the first sale, or after seven generations of growth, each crystal locked. Once all seeds were sold, the crystals were to be combined into a single reef, planned as a physical sculpture.",
+   "protocol_zh": "一级销售时，藏家得到一颗“种子晶体”并为它选定颜色；几天后，它会依据持有者的钱包 ID 和交易历史长成一颗晶体。每次转售，原有形态保留，并按买家的钱包再加上一层新结构，每个阶段都另存为单独的文件。首次销售三个月后，或长到第七代时，晶体即被锁定。全部种子售出后，所有晶体将被合并成一座礁，计划制作为实体雕塑。",
+   "collective": "The shapes record who owned them: the more a crystal was traded, the more layers it carries, so the market's circulation drew the collection, and the reef is credited to the artists 'and the OG:CR community'. According to ForkLog (22 October 2021), the sale sold out in three days and raised more than $4 million at 0.10301 ETH per crystal, with proceeds pledged to coral-reef and marine-invertebrate research. Whether the physical reef has been made is not verified.",
+   "collective_zh": "晶体的形状记录了它的主人：交易次数越多，层次越多，于是市场流通本身绘出了这套收藏；项目把晶体礁归功于艺术家“以及 OG:CR 社群”。据 ForkLog（2021 年 10 月 22 日）报道，发售三天售罄，以每颗 0.10301 ETH 的价格筹得超过 400 万美元，部分收益承诺用于珊瑚礁和海洋无脊椎动物研究。实体晶体礁是否已经完成，尚未核实。",
+   "keywords": [
+    "OG:Crystals",
+    "Crystal Reef",
+    "wallet history",
+    "dynamic NFT",
+    "resale growth",
+    "Snark.art",
+    "coral reef"
+   ],
+   "images": [
+    "https://ogcrystals.com/webflow/images/og-min.jpg",
+    "https://forklog.com/wp-content/uploads/Snark_Crystals_NFT-min.webp",
+    "https://snark.art/images/production/ogcrmjdk.png"
+   ],
+   "source_url": "https://ogcrystals.com",
+   "video": {},
+   "paper": {},
+   "also": []
+  },
+  {
    "id": "sarah-friend--off",
    "creator_ids": [
     "sarah-friend"
@@ -13202,6 +14444,49 @@
    "paper": {}
   },
   {
+   "id": "benediktas-gylys--the-portal",
+   "creator_ids": [
+    "benediktas-gylys"
+   ],
+   "title": "The Portal",
+   "year": 2021,
+   "field": "network",
+   "sub": "telematic",
+   "also": [
+    "social"
+   ],
+   "mechanisms": [
+    "participation",
+    "constraint"
+   ],
+   "substrate": "network",
+   "kind": "series",
+   "description": "Large round screens in public squares that show a live, silent video feed of a twin screen in another city. The first pair opened between Vilnius and Lublin on 26 May 2021; a Dublin–New York pair followed on 8 May 2024.",
+   "description_zh": "设在公共广场上的大型圆形屏幕，实时、无声地播放另一座城市里同款屏幕前的画面。第一对于 2021 年 5 月 26 日在维尔纽斯与卢布林之间开通；2024 年 5 月 8 日又开通了都柏林—纽约一对。",
+   "idea_en": "Give two crowds a window and no sound, and let them invent a language.",
+   "idea_zh": "给两群人一扇窗、不给声音，让他们自己发明一种语言。",
+   "protocol": "The screens run 24 hours a day and show only live video, no audio, of whoever stands before the other screen. Anyone passing may wave, write signs or gesture; there is no host and no script, only the operators' power to switch the link off.",
+   "protocol_zh": "屏幕全天 24 小时运行，只播放另一块屏幕前任何人的实时画面，没有声音。路过的任何人都可以挥手、举牌或做手势；没有主持人、没有脚本，只有运营方关闭连线的权力。",
+   "collective": "Passers-by waved, held up signs and phone screens and watched strangers in the other city do the same. In May 2024 a small number of visitors in Dublin and New York used the link for crass gestures, flashing and an image of the burning Twin Towers, and both portals were switched off on 14 May for several days before reopening. The Vilnius portal moved to Town Hall Square in April 2025, when the network also listed Philadelphia.",
+   "collective_zh": "路人挥手、举起标语和手机屏幕，也看着另一座城市的陌生人这样做。2024 年 5 月，都柏林和纽约有少数访客借这条连线做出粗鲁手势、裸露身体，还展示了燃烧的双子塔图片，两座 Portal 于 5 月 14 日关闭数日后重新开放。2025 年 4 月，维尔纽斯的 Portal 迁到市政厅广场，当时这一网络还列出了费城。",
+   "keywords": [
+    "live video",
+    "public space",
+    "Vilnius",
+    "Lublin",
+    "Dublin",
+    "New York",
+    "telepresence"
+   ],
+   "images": [
+    "https://www.govilnius.lt/images/60b481495ca9a64025442989?w=1200&h=630",
+    "https://static-2026.dezeen.com/uploads/2024/05/portal-nyc-dublin-news_dezeen_2364_hero-852x479.jpg"
+   ],
+   "source_url": "https://www.portals.org/",
+   "video": {},
+   "paper": {}
+  },
+  {
    "id": "simon-de-la-rouviere--the-signature",
    "creator_ids": [
     "simon-de-la-rouviere"
@@ -13371,6 +14656,47 @@
    "also": []
   },
   {
+   "id": "snark-art--burn-before-reading",
+   "creator_ids": [
+    "snark-art"
+   ],
+   "title": "Burn Before Reading (The Oracle of Mr. Fox)",
+   "year": 2020,
+   "field": "onchain",
+   "sub": "supply",
+   "mechanisms": [
+    "burn",
+    "scarcity",
+    "chance"
+   ],
+   "substrate": "ethereum",
+   "kind": "series",
+   "description": "A Snark.art edition of 10,000 free crypto fortune cookies on Ethereum, each hiding a poem by 'Mr. Fox', an author described as part artificial intelligence, part anonymous artist. Opening a cookie reveals its fortune but destroys its trade value for good.",
+   "description_zh": "Snark.art 在以太坊上推出的 10000 个免费“加密幸运饼干”，每个饼干里藏着一首由“Mr. Fox”写的诗，这位作者被描述为一半是人工智能、一半是匿名艺术家。打开饼干就能读到诗句，但它的交易价值也随之永久消失。",
+   "idea_en": "Make every holder choose between reading the work and keeping its price, and let the sum of those choices set the edition's scarcity.",
+   "idea_zh": "让每位持有者在“读作品”和“保住价格”之间二选一，由所有人的选择共同决定这一版数的稀缺程度。",
+   "protocol": "Anyone may claim one free cookie. A holder can open it, which reveals the AI-written fortune, tweets it to the public and permanently removes the cookie's trade value, or keep it closed to sell or give away later. The supply of unopened cookies can only shrink, so each opening makes the remaining closed cookies scarcer.",
+   "protocol_zh": "任何人都可以免费领取一个饼干。持有者可以打开它：诗句显现、被发布到 Twitter 上，饼干的交易价值随之永久消失；也可以不打开，留着日后出售或赠送。未开封饼干的数量只减不增，因此每打开一个，剩下的就更稀缺。",
+   "collective": "What the work becomes depends on how many holders choose to read rather than hold: each opened cookie adds a public fortune to the stream and takes a token off the market, so the balance between published poems and speculative tokens is set by the collectors. Product Hunt lists the launch on 14 April 2020; no count of opened cookies is published.",
+   "collective_zh": "作品最终的样子取决于有多少持有者选择阅读而不是囤积：每打开一个饼干，公共信息流里就多一句签语，市场上就少一枚代币；已公开的诗和投机性代币之间的比例，由藏家们共同决定。Product Hunt 记录的上线日期是 2020 年 4 月 14 日；已打开的饼干数量没有公开。",
+   "keywords": [
+    "fortune cookie",
+    "Mr. Fox",
+    "AI poetry",
+    "burn",
+    "free claim",
+    "Snark.art"
+   ],
+   "images": [
+    "https://snark.art/images/production/bbrcfc.png",
+    "https://nft.snark.art/0xd851fbd96d16d6b818c622cbc23e4197adce4058/974/1.png"
+   ],
+   "source_url": "https://snark.art/fortune-cookies/",
+   "video": {},
+   "paper": {},
+   "also": []
+  },
+  {
    "id": "dark-forest-team--dark-forest",
    "creator_ids": [
     "dark-forest-team"
@@ -13506,6 +14832,88 @@
    "code_url": "https://github.com/simondlr/neolastics",
    "video": {},
    "paper": {}
+  },
+  {
+   "id": "yvonne-rainer--passing-and-jostling",
+   "creator_ids": [
+    "yvonne-rainer"
+   ],
+   "title": "Passing and Jostling While Being Confined to a Small Apartment",
+   "year": 2020,
+   "field": "score",
+   "sub": "public-instructions",
+   "mechanisms": [
+    "instruction",
+    "constraint"
+   ],
+   "substrate": "body",
+   "kind": "score",
+   "description": "Score Rainer adapted from the walking-and-standing section of Terrain (1963) for people confined at home during the COVID-19 lockdown, published by Brian Seibert in The New York Times on 24 March 2020 for readers to perform.",
+   "description_zh": "Rainer 把《Terrain》（1963）中“行走与站立”段落改编给新冠封城期间困在家中的人，2020 年 3 月 24 日由 Brian Seibert 在《纽约时报》上发表，供读者自行表演。",
+   "idea_en": "A 1963 task score, rewritten for a small apartment and handed to anyone reading the paper.",
+   "idea_zh": "一份 1963 年的任务乐谱，被改写给狭小的公寓，交到每位读报的人手中。",
+   "protocol": "Walk in any direction or stand; a standing person must stay still. A walker may pass as close as possible without touching ('passing') or bump lightly ('jostling'), which frees the stander to move. Options add a chair to sit or stand on, beds and sofas to cross without breaking stride, furniture to jostle when alone, and words from the radio such as 'virus' as cues to move again. A steady walking rhythm is the mainstay; Rainer asks that adaptations keep the rules clear and strict.",
+   "protocol_zh": "向任意方向行走，或站立；站着的人必须静止。行走者可以尽量贴近而不触碰地经过（“passing”），也可以轻轻撞一下（“jostling”），被撞者便可重新走动。附加选项包括可坐可站的椅子、不改步伐地跨过床和沙发、独自一人时去撞家具，以及把收音机里的“virus”等词当作重新行动的信号。稳定的步伐节奏是整件事的核心；Rainer 要求改编者让规则保持清楚而严格。",
+   "collective": "The score began as an exercise for Seibert's online dance-history class at Yale and was offered to the paper's readers; the article was illustrated by the photographer Julieta Cervantes performing it at home with her partner and their puppy.",
+   "collective_zh": "这份乐谱最初是 Seibert 在耶鲁线上舞蹈史课上的练习，随后提供给报纸读者；文章配图是摄影师 Julieta Cervantes 与伴侣和小狗在家中表演的照片。",
+   "keywords": [
+    "Judson Dance Theater",
+    "Terrain",
+    "COVID-19",
+    "lockdown",
+    "task dance",
+    "New York Times"
+   ],
+   "images": [
+    "https://artdaily.cc/imagenes/2020/03/25/adance-2.jpg"
+   ],
+   "source_url": "https://artdaily.com/news/122049/A-dance-for-the-socially-isolated",
+   "video": {},
+   "paper": {},
+   "also": []
+  },
+  {
+   "id": "sarah-friend--portal-constellation",
+   "creator_ids": [
+    "sarah-friend"
+   ],
+   "title": "Portal Constellation: Reviving the Webring",
+   "year": 2020,
+   "field": "network",
+   "sub": "open-infrastructure",
+   "mechanisms": [
+    "participation",
+    "chance",
+    "circulation"
+   ],
+   "substrate": "network",
+   "kind": "artwork",
+   "description": "A working webring made during Sarah Friend's online residency with arebyte On Screen: artists submit their sites through a form and paste in a small script that shows a 'portal' leading to another member's site.",
+   "description_zh": "Sarah Friend 在 arebyte On Screen 线上驻留期间制作的一个真正可用的网络环（webring）：艺术家通过表单提交自己的网站，并嵌入一小段脚本，网页上便出现一个通往另一位成员网站的“传送门”。",
+   "idea_en": "Navigation as a pact among small sites: each member gives up a corner of its page so visitors can drift to the others, outside search and social feeds.",
+   "idea_zh": "把导航变成小网站之间的约定：每个成员让出页面的一角，让访客漂流到其他成员那里，绕开搜索引擎和社交信息流。",
+   "protocol": "Anyone may join by signing up and placing one script tag in the head of their site. The script draws a portal at a random position on the page that links to a randomly chosen member site; both change on every refresh, which also throws off search-engine crawlers. Hosting the portal is the only condition of membership, and the ring exists only on the sites that host it.",
+   "protocol_zh": "任何人只要报名并在自己网站的 head 中放入一行脚本标签即可加入。脚本会在页面的随机位置画出一个传送门，链接到随机选出的另一个成员网站；每次刷新，位置和链接都会改变，这也让搜索引擎爬虫无所适从。托管传送门是成为成员的唯一条件，而这个环只存在于托管它的网站上。",
+   "collective": "Artists including Doreen Rios ([Anti]materia), Xuan Ye, Kei Kreutler, Dietrich Meyer, Vern Avola and Rozina Aamir installed the portal on their own sites, and the project site documents ten instantiations of the ring. Together the members' pages form a small network for wandering between hand-made sites, which is the work.",
+   "collective_zh": "Doreen Rios（[Anti]materia）、Xuan Ye、Kei Kreutler、Dietrich Meyer、Vern Avola 和 Rozina Aamir 等艺术家把传送门装在了自己的网站上，项目网站记录了这个环的十个实例。成员们的页面共同构成一个可以在手工网站之间漫游的小网络，这就是作品本身。",
+   "keywords": [
+    "webring",
+    "arebyte On Screen",
+    "embed script",
+    "Perverse Affordances",
+    "possible.social",
+    "Brenna Murphy"
+   ],
+   "images": [
+    "https://isthisa.com/static/Webring/Sarah-Friend-Webring-8.png",
+    "https://static-assets.artlogic.net/w_2400,h_2400,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/gazelli/images/view/332b21e3f46e92220f46106af8430123p/gazelliarthouse-sarah-friend-portal-constellation-2020.png",
+    "https://isthisa.com/static/Webring/Sarah-Friend-Webring-1.png"
+   ],
+   "source_url": "https://isthisa.com/webring",
+   "code_url": "https://github.com/ana0/futures.online",
+   "video": {},
+   "paper": {},
+   "also": []
   },
   {
    "id": "matt-kane--right-place-right-time",
@@ -13740,6 +15148,102 @@
    "source_url": "https://www.larvalabs.com/autoglyphs",
    "contract_url": "https://etherscan.io/address/0xd4e4078ca3495DE5B1d4dB434BEbc5a986197782",
    "paper": {}
+  },
+  {
+   "id": "ed-fornieles--cel",
+   "creator_ids": [
+    "ed-fornieles",
+    "nina-runa-essendrop"
+   ],
+   "title": "Cel",
+   "year": 2019,
+   "field": "social",
+   "sub": "performance",
+   "mechanisms": [
+    "constraint",
+    "participation"
+   ],
+   "substrate": "body",
+   "kind": "artwork",
+   "description": "An immersive role-play in which a group lived in a house as members of an online community built on 4chan, Reddit, gamer and incel culture, filmed on chest cameras and CCTV; the footage became a two-channel video shown at Carlos/Ishikawa, London, in 2019 and later in Worldglimpsing (ArkDes, 2025–26).",
+   "description_zh": "一场沉浸式角色扮演：一群人以一个网络社群成员的身份住进一栋房子，这个社群取材于 4chan、Reddit、游戏玩家和“非自愿独身者”（incel）文化；全程由胸前摄像头和监控录像拍摄，影像剪成双频录像，2019 年在伦敦 Carlos/Ishikawa 展出，后来又在 Worldglimpsing（ArkDes，2025–26）展出。",
+   "idea_en": "Rehearse an ideology inside a game, with exit rules, to see how its hierarchy takes hold of bodies.",
+   "idea_zh": "在设有退出规则的游戏里排练一种意识形态，看它的等级如何附着到身体上。",
+   "protocol": "Fornieles worked out the game's protocols with larp designer Nina Runa Essendrop: participants trained for weeks, then played characters in tiered roles of dominance and submission and could improvise within them. The first stage ran on the rule \"you must always have someone lower than yourself\", and the group used larp techniques to protect their well-being.",
+   "protocol_zh": "Fornieles 与 larp 设计师 Nina Runa Essendrop 一起制定游戏规则：参与者先训练数周，再以分为支配与服从等级的角色进入，并在角色范围内即兴。第一阶段的规则是“你必须始终有一个比你更低的人”，整个群体借助 larp 技巧来保护自身安全。",
+   "collective": "Over two to three days (sources give 48 or 72 hours) the group reorganised itself through shows of strength and social dominance, and the hierarchy escalated into humiliation that Time Out's review describes in detail. The players' behaviour, recorded from inside, is the whole content of the video, and a separate podcast was made from the debrief conversations that followed.",
+   "collective_zh": "在两到三天里（不同资料记为 48 或 72 小时），这群人通过展示力量和社会支配不断重新排序，等级一路升级为羞辱，《Time Out》的评论对此有详细描述。从内部记录下来的玩家行为构成了录像的全部内容，此后的复盘谈话另外剪成了一档播客。",
+   "keywords": [
+    "larp",
+    "incel",
+    "masculinity",
+    "hierarchy",
+    "Carlos/Ishikawa",
+    "Worldglimpsing",
+    "role-play"
+   ],
+   "images": [
+    "https://media.timeout.com/images/105421348/image.jpg"
+   ],
+   "source_url": "https://www.timeout.com/london/art/ed-fornieles-cel",
+   "collections": [
+    "worldglimpsing"
+   ],
+   "video": {},
+   "paper": {},
+   "also": []
+  },
+  {
+   "id": "billy-rennekamp--clovers-network",
+   "creator_ids": [
+    "billy-rennekamp"
+   ],
+   "title": "Clovers Network",
+   "year": 2019,
+   "field": "onchain",
+   "sub": "co-authored",
+   "also": [
+    "network"
+   ],
+   "mechanisms": [
+    "participation",
+    "scarcity",
+    "currency"
+   ],
+   "substrate": "ethereum",
+   "kind": "game",
+   "description": "An Ethereum game and artwork in which players search the game tree of Reversi for games that end in a symmetrical board and register each unique endgame as an ERC-721 token called a Clover. It went live on mainnet during Berlin Blockchain Week in August 2019, after a 2018 residency at Pioneer Works.",
+   "description_zh": "一件以太坊上的游戏兼艺术作品：玩家在黑白棋（Reversi）的博弈树中搜索终局呈对称图案的对局，并把每个独一无二的终局登记为一枚名为 Clover 的 ERC-721 代币。2018 年在 Pioneer Works 驻留之后，它于 2019 年 8 月柏林区块链周期间在主网上线。",
+   "idea_en": "Replace proof-of-work with proof-of-search: let a crowd's patient play find the images, and pay each find by how rare its kind of symmetry is.",
+   "idea_zh": "用“搜索证明”取代工作量证明：让一群人耐心地下棋去找出图像，再按其对称类型的稀有程度给每次发现付酬。",
+   "protocol": "A Clover is the move list of a complete Reversi game that must start at square C4; the contracts accept any unique endgame and refuse duplicates. Players run random games in the browser and claim a find with a commit/reveal transaction backed by a stake; anyone may challenge an invalid claim and take the stake, and an unchallenged claim is confirmed after a waiting period. Only symmetrical boards earn Clover Coin (Club Token), and the reward for each type of symmetry shrinks as more boards of that type are registered. Clover Coin is bought and sold against a bonding curve whose reserve was seeded with the last $10,000 of an Ethereum Community Fund grant.",
+   "protocol_zh": "一枚 Clover 就是一局完整黑白棋的落子序列，且必须从 C4 格开始；合约接受任何独一无二的终局，拒绝重复。玩家在浏览器里跑随机对局，用“提交—揭示”交易并附上押金来认领发现；任何人都可以质疑无效的认领并拿走押金，无人质疑的认领在等待期后得到确认。只有对称的棋盘才能获得 Clover Coin（Club Token）奖励，而且某种对称类型登记得越多，这一类型的奖励就越少。Clover Coin 通过联合曲线买卖，其储备金来自以太坊社区基金（Ethereum Community Fund）资助中剩余的 1 万美元。",
+   "collective": "The players, not the artist, found the images: the collection is whatever the community's searches turned up, and its price structure follows how often each symmetry was found. Rennekamp traces the project to a Bard College exercise in which he wrote a Reversi player meant not to win but to leave the board symmetrical, after Bernard Suits's 'trifler'; the network scaled that private search into a shared one. The team simulated the in-game economy with cadCAD before launch and presented the network as 'an experiment and an artwork', not an investment.",
+   "collective_zh": "找到图像的是玩家而不是艺术家：整个收藏就是社群搜索所得，其价格结构取决于每种对称被找到的频率。Rennekamp 说这个项目源于他在巴德学院的一次作业：他写了一个不求赢、只求让棋盘终局对称的黑白棋程序，灵感来自 Bernard Suits 所说的“玩票者”（trifler）；这个网络把那场个人的搜索扩展成了众人的搜索。上线前团队用 cadCAD 模拟了游戏内经济，并强调这个网络是“一场实验、一件艺术品”，而不是投资。",
+   "keywords": [
+    "Reversi",
+    "Othello",
+    "proof-of-search",
+    "ERC-721",
+    "bonding curve",
+    "Clover Coin",
+    "Bin Studio",
+    "EthBerlin"
+   ],
+   "images": [
+    "https://clovers.network/img/twitter-optimized.png",
+    "https://miro.medium.com/max/2416/0*lZuZIEADkoWz0t_n.jpeg",
+    "https://miro.medium.com/max/1200/1*Jrs_4INC4e3-8UTkVKutwA.gif"
+   ],
+   "paper": {
+    "url": "https://docs.google.com/document/d/1If-yoN-4cbIT0X_PSEfxVYqlZ7kgFRQapx8AR79mhME/edit",
+    "title": "Clovers Network: Crypto-Collectibles with Network Incentives (draft white paper, April 2018)",
+    "venue": "Billy Rennekamp"
+   },
+   "source_url": "https://clovers.network",
+   "contract_url": "https://etherscan.io/address/0xb55c5cac5014c662fdbf21a2c59cd45403c482fd",
+   "code_url": "https://github.com/clovers-network/clovers-contracts",
+   "video": {}
   },
   {
    "id": "rhea-myers--hack-line-properties",
@@ -13982,6 +15486,49 @@
    "paper": {}
   },
   {
+   "id": "sarah-friend--remembering-network",
+   "creator_ids": [
+    "sarah-friend"
+   ],
+   "title": "Remembering Network",
+   "year": 2019,
+   "field": "network",
+   "sub": "crowdsourced",
+   "mechanisms": [
+    "participation",
+    "circulation",
+    "time"
+   ],
+   "substrate": "network",
+   "kind": "artwork",
+   "description": "A peer-to-peer memorial to threatened and recently extinct animals, shown as an installation, a series of performances and a website: people add images of animals, which are packed into archives on IPFS and other peer-to-peer protocols, with generative birdsong by Arkadiy Kukarkin.",
+   "description_zh": "一座献给濒危和新近灭绝动物的点对点纪念碑，以装置、系列表演和网站的形式呈现：人们提交动物图像，这些图像被打包成存档，分发在 IPFS 和其他点对点协议上，并配有 Arkadiy Kukarkin 创作的生成式鸟鸣声。",
+   "idea_en": "A memorial that lasts only as long as many people keep copies of it.",
+   "idea_zh": "一座纪念碑，只要有足够多的人保存它的副本，它就一直存在。",
+   "protocol": "Visitors to the installation and to remembering.network are invited to submit images of currently threatened and endangered animals. Contributions are packaged into archives distributed over IPFS and other peer-to-peer protocols, so that no single server holds the memorial and it can survive network failures and takedowns. Friend compares it to the Svalbard seed vault: a local-first, resilient store kept by its participants.",
+   "protocol_zh": "装置现场和 remembering.network 网站的访客都可以提交当前受威胁和濒危动物的图像。投稿被打包成存档，通过 IPFS 和其他点对点协议分发，因此纪念碑不存放在任何单一服务器上，能够经受网络故障和删除。Friend 把它比作斯瓦尔巴全球种子库：一个本地优先、由参与者共同保存的韧性存储。",
+   "collective": "The content is crowdsourced: the memorial holds images contributed by attendees at its 2019 showings, at IPFS Camp in Spain, DWeb Camp in California and EthBerlin, and at Piksel 2019 in Bergen, and by visitors to the website; how long it lasts depends on the peers who store and serve it. No count of contributions is published.",
+   "collective_zh": "内容由众人提供：纪念碑收录了 2019 年各次展出现场（西班牙的 IPFS Camp、加州的 DWeb Camp、EthBerlin，以及卑尔根的 Piksel 2019）观众提交的图像和网站访客的投稿；它能存在多久，取决于存储和分发它的节点。投稿数量没有公开。",
+   "keywords": [
+    "IPFS",
+    "peer-to-peer",
+    "memorial",
+    "extinction",
+    "seed vault",
+    "Arkadiy Kukarkin",
+    "IUCN Red List"
+   ],
+   "images": [
+    "https://isthisa.com/static/RememberingNetwork/Sarah-Friend-Remembering-Network-1.png",
+    "https://static-assets.artlogic.net/w_1600,h_1600,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/gazelli/images/view/41a594f406d379fec42ca47d8a3bc3cbj/gazelliarthouse-sarah-friend-remembering-network-2019.jpg",
+    "https://isthisa.com/static/RememberingNetwork/Sarah-Friend-Remembering-Network-4.jpg"
+   ],
+   "source_url": "https://isthisa.com/rememberingnetwork",
+   "video": {},
+   "paper": {},
+   "also": []
+  },
+  {
    "id": "lauren-lee-mccarthy--someone",
    "creator_ids": [
     "lauren-lee-mccarthy"
@@ -14140,6 +15687,49 @@
     "https://rhea.art/processed_images/token-grid.1f7067822c5a36b7.png"
    ],
    "source_url": "https://rhea.art/token-grid/",
+   "video": {},
+   "paper": {}
+  },
+  {
+   "id": "jack-and-leigh-ruby--all-the-reporters",
+   "creator_ids": [
+    "jack-and-leigh-ruby",
+    "snark-art"
+   ],
+   "title": "…all the reporters laughed and took pictures",
+   "year": 2019,
+   "field": "social",
+   "sub": "performance",
+   "also": [
+    "onchain"
+   ],
+   "mechanisms": [
+    "instruction",
+    "participation"
+   ],
+   "substrate": "body",
+   "kind": "artwork",
+   "description": "A 'channelling' performance directed by Jack & Leigh Ruby and cast through Snark.art: token holders put in earbuds and repeat aloud, as they hear it, a spoken-word recording, so that a scattered chorus of apparent phone callers speaks the same lines in public. It was first performed at the SPRING/BREAK Art Show (5–11 March 2019).",
+   "description_zh": "由 Jack & Leigh Ruby 执导、通过 Snark.art 招募演员的“通灵”表演：代币持有者戴上耳机，边听一段口述录音边立刻大声复述，于是一群看似在打电话的人散落在公共场所，齐声说出同样的台词。首演于 SPRING/BREAK 艺术展（2019 年 3 月 5 日至 11 日）。",
+   "idea_en": "Use a token as a casting call and a phone call as a costume, so that a chorus hides inside ordinary public behaviour.",
+   "idea_zh": "把代币当作演员招募令，把打电话当作戏服，让一支合唱团藏在日常的公共行为之中。",
+   "protocol": "Claiming a free performance token makes a person a cast member. Performers bring a phone and earbuds, listen to an audio file and repeat each line aloud immediately as they hear it, while moving through the venue as if on a call: in a coffee queue, among the booths, in the bathroom. The script is the dialogue of 'a notorious liar'; Snark.art's page cites John Gotti in 1983.",
+   "protocol_zh": "领取一枚免费的表演代币，就成为演员。表演者带上手机和耳机，收听一段音频，听到一句就立刻大声复述一句，同时像在打电话一样在场馆里走动：在买咖啡的队伍里、在展位之间、在洗手间里。台词出自“一个臭名昭著的说谎者”的对话，Snark.art 页面提到的是 1983 年的 John Gotti。",
+   "collective": "The piece exists only when token holders turn up and speak: the more people channel at once, the more their separate 'calls' line up into a chorus that bystanders slowly recognise as staged. Snark.art describes it as the first live performance cast and organised via the blockchain and as an ongoing, anonymous piece of theatre, staged at SPRING/BREAK in New York and Los Angeles in 2019; no participant numbers are published.",
+   "collective_zh": "只有代币持有者到场开口，这件作品才存在：同时“通灵”的人越多，各自的“通话”就越会对齐成一支合唱，旁观者才慢慢意识到这是一场表演。Snark.art 称它是第一场通过区块链招募和组织的现场表演，是一出持续进行的匿名戏剧，2019 年在纽约和洛杉矶的 SPRING/BREAK 艺术展上演；参与人数没有公开。",
+   "keywords": [
+    "channelling",
+    "performance token",
+    "SPRING/BREAK",
+    "earbuds",
+    "chorus",
+    "Snark.art",
+    "John Gotti"
+   ],
+   "images": [
+    "https://snark.art/images/production/atrlatp.png"
+   ],
+   "source_url": "https://snark.art/allthereporters/",
    "video": {},
    "paper": {}
   },
@@ -14331,6 +15921,53 @@
    "video": {}
   },
   {
+   "id": "omsk-social-club--cryptorave",
+   "creator_ids": [
+    "omsk-social-club",
+    "mediengruppe-bitnik"
+   ],
+   "title": "Cryptorave",
+   "year": 2018,
+   "field": "social",
+   "sub": "economies",
+   "mechanisms": [
+    "currency",
+    "participation",
+    "constraint"
+   ],
+   "substrate": "network",
+   "kind": "series",
+   "description": "A series of raves by OMSK Social Club and !Mediengruppe Bitnik where the ticket is earned by letting a website mine the cryptocurrency Monero on your computer for the event. Editions ran in Berlin, Barcelona, Athens and Basel, among others, from 2018.",
+   "description_zh": "OMSK Social Club 与 !Mediengruppe Bitnik 合作的一系列锐舞派对：门票要靠让一个网站在你的电脑上为活动挖加密货币 Monero 来换取。自 2018 年起在柏林、巴塞罗那、雅典、巴塞尔等地举办。",
+   "idea_en": "Pay for a party with your computer's time, and get a character as your receipt.",
+   "idea_zh": "用你电脑的运算时间为派对买单，换来的收据是一个角色。",
+   "protocol": "To attend, a guest runs the RaveEnabler website, which mines Monero into the organisers' wallet. In the Berlin edition reported by taz, one hour of mining earned a ticket, six hours the location and eleven hours a plus-one; later editions also gave each miner a character to play at the rave, a format the collectives call Real Game Play. At the door the ticket's QR code is checked against the mining ID.",
+   "protocol_zh": "想参加的人要运行 RaveEnabler 网站，让它把 Monero 挖进组织者的钱包。据 taz 报道的柏林场次，挖一小时得到门票，六小时得到地点，十一小时可多带一人；之后的场次还会给每位挖矿者分配一个在派对上扮演的角色，两个团体称这种形式为 Real Game Play。入场时用门票上的二维码核对挖矿编号。",
+   "collective": "Guests spent hours of their own CPU time to get in, and the coins they mined went toward the costs of the night, though taz noted they did not cover them. Inside, participants played their assigned identities among the DJs; the collectives say the event is \"collectively produced by the participants\" and that no one directs what happens. Edition #8 ran with transmediale in Berlin and moved to Berghain; #9 was in Athens in February 2019 and #10 at HEK Basel in March 2019.",
+   "collective_zh": "来宾花费自己电脑数小时的运算时间换取入场，挖到的币用于支付当晚的开销，不过 taz 指出这些钱并不够。进场后，参与者在 DJ 之间扮演分配给他们的身份；两个团体说活动“由参与者集体制作”，没有人导演现场发生的事。第 8 场与柏林 transmediale 合作并移至 Berghain 举行，第 9 场于 2019 年 2 月在雅典，第 10 场于 2019 年 3 月在巴塞尔 HEK。",
+   "keywords": [
+    "Monero",
+    "mining",
+    "RaveEnabler",
+    "Real Game Play",
+    "transmediale",
+    "Berghain",
+    "larp"
+   ],
+   "images": [
+    "https://omsksocial.club/assets/img/Cryptorave%209_Athens_Omsk%20Social%20Club%20and%20MedienGruppe%20Bitniks%20Credits%20Mike%20Tsolis%2021.jpg",
+    "https://networkcultures.org/moneylab/wp-content/uploads/sites/17/2019/11/cryptorave_browser_screenshots_fullscreen_2.png"
+   ],
+   "paper": {
+    "url": "https://networkcultures.org/moneylab/2019/11/11/cryptorave-an-interview-with-omsk-social-club-mediengruppe-bitnik-by-maisa-imamovic/",
+    "venue": "MoneyLab, Institute of Network Cultures",
+    "title": "Cryptorave: An Interview with Omsk Social Club & !Mediengruppe Bitnik"
+   },
+   "source_url": "https://omsksocial.club/cryptorave.html",
+   "video": {},
+   "also": []
+  },
+  {
    "id": "jonas-lund--culture-wars-xyz",
    "creator_ids": [
     "jonas-lund"
@@ -14371,6 +16008,50 @@
     "https://cdn.jonaslund.com/wp-content/uploads/2020/04/29085242/Screen-Shot-2020-04-20-at-14.28.22-.png"
    ],
    "source_url": "https://jonaslund.com/works/culture-wars-xyz/",
+   "paper": {},
+   "also": []
+  },
+  {
+   "id": "christian-falsnaes--force",
+   "creator_ids": [
+    "christian-falsnaes"
+   ],
+   "title": "FORCE",
+   "year": 2018,
+   "field": "score",
+   "sub": "public-instructions",
+   "mechanisms": [
+    "instruction",
+    "participation"
+   ],
+   "substrate": "body",
+   "kind": "artwork",
+   "description": "A performance with no performers: visitors change into a black costume, enter a white room with a mirror and follow a disembodied voice through a choreographed sequence, watched only by each other. It was shown at Kunstmuseen Krefeld (Kaiser Wilhelm Museum) in 2018.",
+   "description_zh": "一场没有表演者的表演：观众换上黑色服装，走进一间有镜子的白色房间，跟随一个看不见的声音完成一段编排好的动作，彼此是唯一的观众。2018 年在克雷费尔德美术馆（Kaiser Wilhelm Museum）展出。",
+   "idea_en": "Remove the artist and the audience; leave only a voice and the people willing to obey it.",
+   "idea_zh": "去掉艺术家，也去掉观众；只留下一个声音和愿意服从它的人。",
+   "protocol": "Any visitor may take part by putting on the costume and entering the room. A recorded voice gives the instructions; there is no other audience, so the participants perform for one another and for the mirror.",
+   "protocol_zh": "任何观众都可以穿上服装走进房间参与。一个录音声音下达指令；现场没有别的观众，参与者为彼此、也为镜子表演。",
+   "collective": "Groups of visitors who did not know each other carried out the choreography together, so the museum hosted a performance made entirely by its public. Documentation excerpts show the participants moving in unison and out of step as they interpret the voice.",
+   "collective_zh": "互不相识的观众一组组地共同完成这段编舞，于是美术馆里上演了一场完全由公众完成的表演。记录片段显示参与者在理解那个声音时时而同步、时而错拍。",
+   "keywords": [
+    "instructions",
+    "voice",
+    "choreography",
+    "Kunstmuseen Krefeld",
+    "obedience"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=n-lwoBlGdkY",
+    "platform": "youtube",
+    "id": "n-lwoBlGdkY",
+    "thumbnail": "https://i.ytimg.com/vi/n-lwoBlGdkY/maxresdefault.jpg",
+    "embeddable": true
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/59a43ac09f8dceb4db9b5d52/1532675478624-BQY1Q4LNZA1DK47H6HXD/_MG_5735.jpg"
+   ],
+   "source_url": "https://www.christianfalsnaes.com/force/",
    "paper": {},
    "also": []
   },
@@ -15458,6 +17139,55 @@
    "paper": {}
   },
   {
+   "id": "olafur-eliasson--green-light",
+   "creator_ids": [
+    "olafur-eliasson"
+   ],
+   "title": "Green light – An artistic workshop",
+   "year": 2016,
+   "field": "social",
+   "sub": "collective-action",
+   "also": [
+    "score"
+   ],
+   "mechanisms": [
+    "participation",
+    "exchange"
+   ],
+   "substrate": "body",
+   "kind": "artwork",
+   "description": "Workshop in which refugees, asylum seekers and members of the public assemble modular green-lit lamps designed by Eliasson and take part in a shared-learning programme; first at TBA21–Augarten, Vienna (March–July 2016), then at the Moody Center, Houston, and the 57th Venice Biennale (2017).",
+   "description_zh": "难民、寻求庇护者和普通公众一起组装 Eliasson 设计的绿色模块灯，并参加共同学习课程的工作坊；首先在维也纳 TBA21–Augarten 举行（2016 年 3 月至 7 月），之后在休斯敦 Moody Center 和第 57 届威尼斯双年展（2017）举行。",
+   "idea_en": "Make the artwork a production line that newcomers and residents run together, and sell its output for their benefit.",
+   "idea_zh": "把艺术作品变成新来者与本地居民一起运作的生产线，再把产品卖出去惠及他们。",
+   "protocol": "Participants build an unlimited series of stackable Green light lamps from recycled and sustainable materials, alongside language courses, seminars and screenings; in Vienna the team set its own four-day-a-week schedule. Donors who give at least 250 euros receive a lamp made in the workshop, and the money goes to NGOs working with refugees.",
+   "protocol_zh": "参与者用回收和可持续材料制作数量不限、可堆叠的 Green light 灯，同时参加语言课、研讨和放映；在维也纳，团队自行安排每周四天的日程。捐款至少 250 欧元的人可获得一盏工作坊里做出的灯，款项捐给援助难民的非政府组织。",
+   "collective": "In Vienna about 35 recent arrivals from Afghanistan, Syria, Nigeria, Tajikistan, Somalia and Iraq formed the core team, joined by artists, aid organisations, students, teachers and the public; the lamps they made were given to donors in return for contributions to the partner NGOs.",
+   "collective_zh": "在维也纳，约 35 位来自阿富汗、叙利亚、尼日利亚、塔吉克斯坦、索马里和伊拉克的新移民组成核心团队，艺术家、援助机构、学生、教师和公众也加入其中；他们做出的灯作为回赠交给捐款人，款项用于资助合作的非政府组织。",
+   "keywords": [
+    "Olafur Eliasson",
+    "TBA21",
+    "refugees",
+    "workshop",
+    "Venice Biennale 2017",
+    "lamps",
+    "shared learning"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=qQICXB8_LSc",
+    "platform": "youtube",
+    "id": "qQICXB8_LSc",
+    "thumbnail": "https://i.ytimg.com/vi/qQICXB8_LSc/maxresdefault.jpg",
+    "embeddable": true
+   },
+   "images": [
+    "https://olafureliasson.net/greenlight/assets/image/slideshow/1.jpg",
+    "https://www.designboom.com/twitterimages/uploads/2016/05/olafur-eliasson-TBA21-green-light-workshop-designboom-01-818x545.jpg"
+   ],
+   "source_url": "https://olafureliasson.net/greenlight/",
+   "paper": {}
+  },
+  {
    "id": "jonas-lund--open-call-club",
    "creator_ids": [
     "jonas-lund"
@@ -16251,6 +17981,49 @@
    "also": []
   },
   {
+   "id": "hans-haacke--world-poll",
+   "creator_ids": [
+    "hans-haacke"
+   ],
+   "title": "World Poll",
+   "year": 2015,
+   "field": "social",
+   "sub": "performance",
+   "also": [
+    "network"
+   ],
+   "mechanisms": [
+    "participation",
+    "governance"
+   ],
+   "substrate": "body",
+   "kind": "artwork",
+   "description": "Poll Haacke made for the 56th Venice Biennale, 'All the World's Futures': visitors answer about twenty questions on iPads around a table, among the results of his earlier polls on the walls, and the answers are tallied in real time.",
+   "description_zh": "Haacke 为第 56 届威尼斯双年展“全世界的未来”所作的民意调查：观众围坐在桌边，用 iPad 回答约二十个问题，四周墙上是他历年民调的结果，答案实时统计。",
+   "idea_en": "Point the questionnaire at the art world's own public and publish the profile it produces.",
+   "idea_zh": "把问卷对准艺术界自己的观众，并公开它勾勒出的群像。",
+   "protocol": "Any visitor may answer an anonymous questionnaire mixing demographic questions (age, education, income, religion, origin, profession) with questions on political and social issues; an iPad, Mac Mini and AirPort base station collect and tally the answers.",
+   "protocol_zh": "任何观众都可以填写一份匿名问卷，问题既有人口统计（年龄、教育、收入、宗教、来源地、职业），也有政治和社会议题；由 iPad、Mac Mini 和 AirPort 基站收集并统计答案。",
+   "collective": "Results reported by Artribune after the opening days showed a professional crowd: 15% Italian, 0% from Africa, only 12% artists, most respondents curators, directors or similar, broadly progressive, and 41% reporting occasional censorship of art in their country.",
+   "collective_zh": "开幕几天后 Artribune 报道的结果显示，受访者以业内人士为主：意大利人占 15%，来自非洲的为 0%，艺术家仅占 12%，大多数是策展人、馆长等，政治立场普遍偏进步，41% 表示本国偶尔存在对艺术的审查。",
+   "keywords": [
+    "Hans Haacke",
+    "poll",
+    "Venice Biennale 2015",
+    "All the World's Futures",
+    "Okwui Enwezor",
+    "institutional critique",
+    "iPad"
+   ],
+   "images": [
+    "https://lh3.googleusercontent.com/ci/AL18g_Q2u3f9LPgFZKEBYq-AerWkd0WwcZmkmXNbNxySZZ_sznxC8cQ7-YpIwC5VQ_ZRz2aaj_pOOr33",
+    "https://lh3.googleusercontent.com/ci/AL18g_RLp1lUzW6gm3oJIIJCDssjmk3CIlYNvYEfb4sr0hBElj7EbS0WXJG8RqRSMR24_-kJJPa_QA"
+   ],
+   "source_url": "https://artsandculture.google.com/asset/world-poll-hans-haacke/SwHLs2M0_W0CJQ",
+   "video": {},
+   "paper": {}
+  },
+  {
    "id": "marina-abramovic--512-hours",
    "creator_ids": [
     "marina-abramovic"
@@ -16452,6 +18225,48 @@
    "also": []
   },
   {
+   "id": "christian-falsnaes--front",
+   "creator_ids": [
+    "christian-falsnaes"
+   ],
+   "title": "Front",
+   "year": 2014,
+   "field": "score",
+   "sub": "public-instructions",
+   "also": [
+    "social"
+   ],
+   "mechanisms": [
+    "instruction",
+    "participation"
+   ],
+   "substrate": "body",
+   "kind": "artwork",
+   "description": "A participatory performance in which the audience, following the artist's instructions, spray-paints, takes apart, parades and rebuilds a wooden wall of OSB boards about 3 by 15 metres. It was first performed in 2014 at the Bielefelder Kunstverein and at Art Basel Miami Beach, and later at Kunsthalle Wien, YARAT in Baku and the Skulpturbiennale Bingen.",
+   "description_zh": "一件参与式表演：观众按照艺术家的指令，给一面约 3 × 15 米、由 OSB 板组成的木墙喷漆、拆开、举着游行，再重新搭起来。2014 年首演于比勒费尔德艺术协会和巴塞尔艺术展迈阿密海滩展，之后在维也纳美术馆、巴库 YARAT 和宾根雕塑双年展上演。",
+   "idea_en": "The artwork is the trace a crowd leaves when it does what it is told.",
+   "idea_zh": "作品是一群人照指令行事后留下的痕迹。",
+   "protocol": "The artist gives the visitors instructions step by step: what to do with the wooden structure and the spray cans, when to take it apart, carry it and put it back. Anyone present may join or refuse; the painted, dismantled and rebuilt boards remain as the sculpture.",
+   "protocol_zh": "艺术家一步步向观众下达指令：如何处理木结构和喷漆罐，何时把它拆开、扛走、再装回去。在场的任何人都可以参加或拒绝；被喷涂、拆散又重建的板子留下来，成为雕塑。",
+   "collective": "At each venue the crowd turned a blank wall into a painted surface, carried its parts through the space and reassembled it, so the object records a collective process run on instructions. Each version looks different because each audience followed, stretched or ignored the commands in its own way.",
+   "collective_zh": "在每个场地，人群都把一面空白的墙变成彩绘表面，扛着它的碎片穿过空间再拼回去，于是这件物品记录了一次按指令运行的集体过程。每个版本都不一样，因为每批观众都以自己的方式服从、发挥或无视这些命令。",
+   "keywords": [
+    "instructions",
+    "spray paint",
+    "audience",
+    "Art Basel Miami Beach",
+    "Kunsthalle Wien",
+    "obedience"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/59a43ac09f8dceb4db9b5d52/1504302948329-W574FVA9SO9NEVS0WC6O/christianfalsnaes_front_miami.jpg",
+    "https://images.squarespace-cdn.com/content/v1/59a43ac09f8dceb4db9b5d52/1504303001683-PCNDJC0AO01PIPTMNVTL/christianfalsnaes_front_bielefeld.jpg"
+   ],
+   "source_url": "https://www.christianfalsnaes.com/front/",
+   "video": {},
+   "paper": {}
+  },
+  {
    "id": "rhea-myers--is-art",
    "creator_ids": [
     "rhea-myers"
@@ -16574,6 +18389,47 @@
     "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/hyperallergic-newspack-s3-amazonaws-com/uploads/2021/06/kevin-mccoy-quantum.gif"
    ],
    "source_url": "https://www.sothebys.com/en/buy/auction/2021/natively-digital-a-curated-nft-sale-2/quantum",
+   "video": {},
+   "paper": {}
+  },
+  {
+   "id": "coin-artist--dark-wallet-puzzle",
+   "creator_ids": [
+    "coin-artist"
+   ],
+   "title": "The Dark Wallet Puzzle",
+   "year": 2014,
+   "field": "network",
+   "sub": "collective-games",
+   "also": [
+    "onchain"
+   ],
+   "mechanisms": [
+    "constraint",
+    "participation"
+   ],
+   "substrate": "bitcoin",
+   "kind": "game",
+   "description": "Coin Artist's first crypto-puzzle: a painted portrait of two men set against a grid of lettered tiles, released with 12 puzzles to the Bitcoin community on Twitter under the tag 'dark wallet' in 2014, and built to be too hard for one person.",
+   "description_zh": "Coin Artist 的第一个加密谜题：一幅以字母方格为背景的双人肖像画，2014 年在 Twitter 上以“dark wallet”为标签连同 12 个谜题发布给比特币社群，谜题被设计得一个人无法独自解开。",
+   "idea_en": "Design a puzzle that is too hard for any one solver, so that the community has to become the solver.",
+   "idea_zh": "设计一个任何个人都解不开的谜题，迫使社群自己变成解题者。",
+   "protocol": "The artist published the painting and its 12 puzzles and then deactivated her Twitter account until a solution was found, so no one could ask her for hints. The puzzles' complexity was meant, in Bitcoin Magazine's words, to 'force people to work together'; only a full solution of all 12 counted.",
+   "protocol_zh": "艺术家发布了这幅画和 12 个谜题，随后停用了自己的 Twitter 账号，直到有人解出为止，因此没人能向她讨要提示。用《Bitcoin Magazine》的话说，谜题的复杂程度就是为了“迫使人们合作”；只有把 12 个谜题全部解开才算完成。",
+   "collective": "Redditors expected hours or days of work just to begin; a 32-page solution covering all 12 puzzles was shared with Bitcoin Magazine, which reported it in July 2014. The format of a public puzzle solved by a community grew into her TORCHED H34R7S trail of 2015.",
+   "collective_zh": "Reddit 用户估计光是入门就要花上几个小时甚至几天；一份涵盖全部 12 个谜题、长达 32 页的解答交给了《Bitcoin Magazine》，该刊于 2014 年 7 月作了报道。这种由社群合力破解公开谜题的形式，后来发展成她 2015 年的 TORCHED H34R7S 谜题之路。",
+   "keywords": [
+    "Dark Wallet",
+    "crypto-puzzle",
+    "Twitter",
+    "Reddit",
+    "Bitcoin Magazine"
+   ],
+   "images": [
+    "https://bitcoinmagazine.com/wp-content/uploads/2025/01/coin1.jpg",
+    "https://bitcoinmagazine.com/wp-content/uploads/2025/01/coin.png"
+   ],
+   "source_url": "https://bitcoinmagazine.com/culture/coin-artists-latest-dark-wallet-puzzle-32-page-solution",
    "video": {},
    "paper": {}
   },
@@ -16957,6 +18813,54 @@
    "also": []
   },
   {
+   "id": "rimini-protokoll--remote-x",
+   "creator_ids": [
+    "rimini-protokoll"
+   ],
+   "title": "Remote X",
+   "year": 2013,
+   "field": "social",
+   "sub": "performance",
+   "also": [
+    "score"
+   ],
+   "mechanisms": [
+    "instruction",
+    "participation"
+   ],
+   "substrate": "body",
+   "kind": "artwork",
+   "description": "A group of about 50 people walks through a city wearing headphones, guided by a synthetic voice like a GPS navigator's. Conceived by Stefan Kaegi, it opened at HAU Hebbel am Ufer in Berlin in April 2013 and has since been remade for many cities.",
+   "description_zh": "大约 50 人戴着耳机穿过一座城市，由一个像导航仪那样的合成声音引路。作品由 Stefan Kaegi 构思，2013 年 4 月在柏林 HAU Hebbel am Ufer 首演，此后为许多城市重新制作。",
+   "idea_en": "Give a crowd one voice to follow and watch how a group decides when the algorithm leaves a gap.",
+   "idea_zh": "给一群人一个可以跟随的声音，看看当算法留下空白时，群体如何做决定。",
+   "protocol": "Each ticket holder receives headphones and joins a group of about 50. A recorded synthetic voice tells the group where to walk and what to look at, and leaves the group to make joint decisions along the way; there are no actors, and every site-specific version builds on the dramaturgy of the previous city.",
+   "protocol_zh": "每位购票者领到耳机，加入一个约 50 人的小组。一个预先录制的合成声音告诉大家往哪里走、看什么，途中也把一些决定留给群体共同作出；现场没有演员，每个城市的版本都在前一座城市的编剧基础上改写。",
+   "collective": "The audience is the only cast: fifty strangers watch each other, make individual decisions and still move as one group through the city, so passers-by see a crowd acting on instructions they cannot hear. The piece has toured to dozens of cities since its 2013 run in Berlin, Lisbon, Hanover, Avignon and Zurich, with later versions such as Remote Milano, Remote Taipei and Remote Santiago.",
+   "collective_zh": "观众就是全部演员：五十个陌生人彼此观察、各自做决定，却仍作为一个群体穿行城市，路人看到的是一群人在执行他们听不见的指令。自 2013 年在柏林、里斯本、汉诺威、阿维尼翁和苏黎世上演以来，作品已巡演数十座城市，后来还有 Remote Milano、Remote Taipei、Remote Santiago 等版本。",
+   "keywords": [
+    "Rimini Protokoll",
+    "Stefan Kaegi",
+    "headphones",
+    "audio walk",
+    "synthetic voice",
+    "HAU Hebbel am Ufer"
+   ],
+   "video": {
+    "url": "https://vimeo.com/116552002",
+    "platform": "vimeo",
+    "id": "116552002",
+    "thumbnail": "https://i.vimeocdn.com/video/502947158-d8fddc0e6c5e78d76d0da3410c6125ef214eb5b0bf2f52cca6aa05869cbd61af-d?f=webp&amp;region=us",
+    "embeddable": true
+   },
+   "images": [
+    "https://www.rimini-protokoll.de/website/cache/images/media/remotex/1280-RemoteTaipei%C2%A9Lafun%20Photography_1.jpg",
+    "https://www.rimini-protokoll.de/website/cache/images/media/remotex/1280-RemoteTaipei%C2%A9Lafun%20Photography_3%20copy%201.jpg"
+   ],
+   "source_url": "https://www.rimini-protokoll.de/website/en/project/remote-x",
+   "paper": {}
+  },
+  {
    "id": "suzanne-lacy--silver-action",
    "creator_ids": [
     "suzanne-lacy"
@@ -16996,6 +18900,54 @@
    "video": {},
    "paper": {},
    "also": []
+  },
+  {
+   "id": "rimini-protokoll--situation-rooms",
+   "creator_ids": [
+    "rimini-protokoll"
+   ],
+   "title": "Situation Rooms",
+   "year": 2013,
+   "field": "social",
+   "sub": "performance",
+   "also": [
+    "score"
+   ],
+   "mechanisms": [
+    "instruction",
+    "participation"
+   ],
+   "substrate": "body",
+   "kind": "artwork",
+   "description": "A \"multiplayer video piece\" set in a film set of rooms tied to the global arms trade. Each spectator follows a film on a handheld device, tracing the story of one of 20 people whose lives have been shaped by weapons, and crosses paths with other spectators doing the same. It premiered at the Ruhrtriennale in Bochum in August 2013.",
+   "description_zh": "一件“多人视频作品”，场景是一组与全球军火贸易相关的房间。每位观众手持设备跟随一段影片，追随 20 位人生被武器塑造的人之一的故事，并与同样在追随的其他观众相遇。2013 年 8 月在波鸿鲁尔三年展首演。",
+   "idea_en": "A score delivered on a screen turns each spectator into someone else's scene partner.",
+   "idea_zh": "通过屏幕下达的乐谱，让每位观众都成为别人场景里的搭档。",
+   "protocol": "Spectators are handed a device with a film and headphones and move through the building following what they see and hear on it. The films are synchronised so that each spectator's path crosses others' at set moments, and a spectator who has just watched a scene may later be the one acting it while others watch.",
+   "protocol_zh": "观众领到一台播放影片的设备和耳机，跟随屏幕上的所见所闻在楼里移动。影片彼此同步，使每位观众的路线在设定的时刻与他人交汇；刚刚看过某个场景的观众，稍后可能正是在别人注视下做出这个动作的人。",
+   "collective": "No actors are present; the audience performs the whole piece for itself. One spectator sits at a defence manager's desk while another, following a Pakistani lawyer's film, passes a third who is at a gun-club shooting range, so each person becomes part of a multi-perspective re-enactment that is watched by others.",
+   "collective_zh": "现场没有演员，整部作品由观众为彼此演出。一位观众坐在国防系统经理的办公桌前，另一位跟随一名巴基斯坦律师的影片，途中经过第三位正在枪械俱乐部射击场的观众，于是每个人都成为一场被他人观看的多视角重演的一部分。",
+   "keywords": [
+    "Rimini Protokoll",
+    "Ruhrtriennale",
+    "multiplayer",
+    "arms trade",
+    "re-enactment",
+    "handheld screen"
+   ],
+   "video": {
+    "url": "https://vimeo.com/66642177",
+    "platform": "vimeo",
+    "id": "66642177",
+    "thumbnail": "https://i.vimeocdn.com/video/438156239-b2427dc4a2744c0f2989727cc742f413799cb6c4dc86f2212b3cebc43c4f8fd2-d?f=webp&amp;region=us",
+    "embeddable": true
+   },
+   "images": [
+    "https://www.rimini-protokoll.de/website/cache/images/media/situationrooms/pressebilder/1280-RT_SituationRooms_061.jpg",
+    "https://www.rimini-protokoll.de/website/cache/images/media/situationrooms/pressebilder/1280-RT_SituationRooms_643.jpg"
+   ],
+   "source_url": "https://www.rimini-protokoll.de/website/en/project/situation-rooms",
+   "paper": {}
   },
   {
    "id": "jonas-lund--social-turk",
@@ -17075,6 +19027,52 @@
    "source_url": "https://lauren-mccarthy.com/Social-Turkers",
    "video": {},
    "paper": {}
+  },
+  {
+   "id": "lee-mingwei--sonic-blossom",
+   "creator_ids": [
+    "lee-mingwei"
+   ],
+   "title": "Sonic Blossom",
+   "year": 2013,
+   "field": "social",
+   "sub": "performance",
+   "mechanisms": [
+    "instruction",
+    "exchange",
+    "participation"
+   ],
+   "substrate": "body",
+   "kind": "artwork",
+   "description": "Trained classical singers walk through a museum, approach a single visitor and ask, 'May I give you the gift of song?'; those who accept are seated and receive a Schubert Lied sung for them alone. Shown at the Metropolitan Museum of Art (30 October – 8 November 2015) among other venues.",
+   "description_zh": "受过古典训练的歌手在博物馆里穿行，走向某一位观众并问：“我可以送你一首歌作为礼物吗？”接受的人被请到座位上，听歌手只为自己唱一首舒伯特艺术歌曲。曾在大都会艺术博物馆（2015 年 10 月 30 日至 11 月 8 日）等地展出。",
+   "idea_en": "Turn a performance into a gift offered to one stranger at a time, who is free to refuse.",
+   "idea_zh": "把表演变成一次只送给一个陌生人、对方可以拒绝的礼物。",
+   "protocol": "Singers in a custom costume choose visitors, ask the same question and, if the answer is yes, lead them to a chair and sing one of a small set of Schubert Lieder; the visitor may decline, and the rest of the gallery watches.",
+   "protocol_zh": "身穿特制服装的歌手挑选观众，问同一个问题；若对方答应，就把他领到椅子上，从几首舒伯特艺术歌曲中选一首演唱；观众可以拒绝，展厅里其他人在旁观看。",
+   "collective": "Each presentation consists entirely of these one-to-one exchanges between singers and strangers; the work toured to museums in Asia, Australia and the United States.",
+   "collective_zh": "每次展出完全由歌手与陌生人之间一对一的交换构成；作品巡回到亚洲、澳大利亚和美国的多家博物馆。",
+   "keywords": [
+    "Lee Mingwei",
+    "gift",
+    "Schubert",
+    "Lieder",
+    "Metropolitan Museum of Art",
+    "one-to-one"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=4n_sVCbZp2k",
+    "platform": "youtube",
+    "id": "4n_sVCbZp2k",
+    "thumbnail": "https://i.ytimg.com/vi/4n_sVCbZp2k/maxresdefault.jpg",
+    "embeddable": true
+   },
+   "images": [
+    "https://acaw.info/wp-content/uploads/2015/04/Lee-Mingwei-banner-1024x304.jpg"
+   ],
+   "source_url": "https://www.metmuseum.org/perspectives/lee-mingwei-sonic-blossom",
+   "paper": {},
+   "also": []
   },
   {
    "id": "tom-finkelpearl--what-we-made",
@@ -18413,6 +20411,54 @@
    "paper": {}
   },
   {
+   "id": "kacie-kinzer--tweenbots",
+   "creator_ids": [
+    "kacie-kinzer"
+   ],
+   "title": "Tweenbots",
+   "year": 2009,
+   "field": "social",
+   "sub": "collective-action",
+   "also": [
+    "autonomous"
+   ],
+   "mechanisms": [
+    "participation",
+    "circulation"
+   ],
+   "substrate": "body",
+   "kind": "artwork",
+   "description": "Smiling cardboard robots, about ten inches tall, that roll at constant speed in a straight line through New York's Washington Square Park, carrying a flag that names a destination and asks passers-by for help.",
+   "description_zh": "约十英寸高、带着笑脸的纸板机器人，以恒定速度直线滚过纽约华盛顿广场公园，身上插着一面写有目的地、请路人帮忙的小旗。",
+   "idea_en": "Build a machine that cannot succeed alone, and the city becomes its navigation system.",
+   "idea_zh": "造一台无法独自成功的机器，整座城市就成了它的导航系统。",
+   "protocol": "Kinzer releases a Tweenbot and walks away; the robot cannot steer or sense obstacles, and its flag asks anyone who reads it to point it toward the named destination. A hidden camera records what happens.",
+   "protocol_zh": "Kinzer 放下一台 Tweenbot 便走开；机器人不能转向、也感知不到障碍，旗子上的文字请读到它的任何人把它对准目的地。一台隐藏的摄像机记录全过程。",
+   "collective": "Passers-by repeatedly freed the robots from benches, curbs and potholes and turned them toward their goal; according to Kinzer no Tweenbot was ever lost or damaged, and some people overrode the instructions, turning a robot away from a road to keep it safe.",
+   "collective_zh": "路人一次次把机器人从长椅下、路缘边和坑洼里解救出来，再把它转向目标；据 Kinzer 说，没有一台 Tweenbot 丢失或损坏，有人甚至违背指令，把机器人从马路方向转开以保护它。",
+   "keywords": [
+    "robot",
+    "strangers",
+    "Washington Square Park",
+    "help",
+    "MoMA",
+    "Talk to Me"
+   ],
+   "video": {
+    "url": "https://vimeo.com/22825752",
+    "platform": "vimeo",
+    "id": "22825752",
+    "thumbnail": "https://i.vimeocdn.com/video/1501693110-9c746e1c9d4f2694d75e3979416b822404ad2fe8e47adc451511ea4959d09247-d?f=webp&amp;region=us",
+    "embeddable": true
+   },
+   "images": [
+    "http://www.tweenbots.com/img/peopleBot.jpg",
+    "http://www.tweenbots.com/img/elfBoyHelp.jpg"
+   ],
+   "source_url": "http://www.tweenbots.com/",
+   "paper": {}
+  },
+  {
    "id": "scott-kildall--wikipedia-art",
    "creator_ids": [
     "scott-kildall",
@@ -18453,6 +20499,56 @@
    ],
    "source_url": "https://en.wikipedia.org/wiki/Scott_Kildall",
    "video": {},
+   "paper": {}
+  },
+  {
+   "id": "rimini-protokoll--100-percent-city",
+   "creator_ids": [
+    "rimini-protokoll"
+   ],
+   "title": "100% City (100 Prozent Berlin)",
+   "year": 2008,
+   "field": "social",
+   "sub": "collective-action",
+   "also": [
+    "score"
+   ],
+   "mechanisms": [
+    "constraint",
+    "circulation",
+    "participation"
+   ],
+   "substrate": "body",
+   "kind": "series",
+   "description": "One hundred residents of a city, chosen so that together they match its population statistics, stand on stage and sort themselves into changing group pictures by age, address, gender, political leanings, means of transport and more. It began as 100 Prozent Berlin at HAU in February 2008 and became a format restaged in many cities.",
+   "description_zh": "一座城市的一百位居民站上舞台，他们合起来恰好符合这座城市的人口统计，并按年龄、住址、性别、政治倾向、出行方式等不断重组成新的群像。作品于 2008 年 2 月以 100 Prozent Berlin 之名在 HAU 首演，后来成为在许多城市重排的固定格式。",
+   "idea_en": "Cast a city by a statistical chain letter, then let the sample vote with their feet.",
+   "idea_zh": "用统计学的“连锁信”为一座城市选角，再让这份样本用脚投票。",
+   "protocol": "Only the first person is cast by the directors; each participant then recruits the next from their own circle, and the chain is steered by search criteria taken from the city statistics office: gender, age, marital status, nationality and type of income. On a stage of 100 square metres the hundred regroup by criterion after criterion, forming live statistics.",
+   "protocol_zh": "导演只直接选定第一个人；此后每位参与者从自己的熟人中推荐下一位，这条链由取自城市统计局的筛选条件引导：性别、年龄、婚姻状况、国籍和收入类型。在 100 平方米的舞台上，这一百人按一个又一个条件重新分组，构成活的统计图。",
+   "collective": "In Berlin the chain of one hundred people grew harder to fill as it neared the end, because the remaining slots had to match Berlin's ratios. On stage the group's self-sorting produces a portrait of the city that no single performer controls. The Mime Centrum Berlin archive says the format has been staged in more than 35 cities.",
+   "collective_zh": "在柏林，这条一百人的链越到后面越难补齐，因为剩下的名额必须符合柏林的人口比例。台上，群体的自我分组拼出一幅城市肖像，没有哪位表演者能单独左右。据柏林 Mime Centrum 档案记载，这一格式已在 35 座以上的城市上演。",
+   "keywords": [
+    "Rimini Protokoll",
+    "Helgard Haug",
+    "Stefan Kaegi",
+    "Daniel Wetzel",
+    "statistics",
+    "casting chain",
+    "HAU"
+   ],
+   "video": {
+    "url": "https://vimeo.com/41972757",
+    "platform": "vimeo",
+    "id": "41972757",
+    "thumbnail": "https://i.vimeocdn.com/video/291028795-90bb01ed4d8c8387fbc00ced8b6b1e8083449e0f07fd7ce39901b0b4b8c36d7f-d?f=webp&amp;region=us",
+    "embeddable": true
+   },
+   "images": [
+    "https://www.rimini-protokoll.de/website/cache/images/media/100prozentberlin/1280-DRAMA2008019-9381.jpg",
+    "https://www.rimini-protokoll.de/website/cache/images/media/100prozentberlin/1280-DRAMA_HAU1_100ProzentBerlin_09.jpg"
+   ],
+   "source_url": "https://www.rimini-protokoll.de/website/en/project/100-prozent-berlin",
    "paper": {}
   },
   {
@@ -18682,6 +20778,49 @@
    "source_url": "http://www.tenthousandcents.com/",
    "paper": {},
    "also": []
+  },
+  {
+   "id": "rafael-lozano-hemmer--voz-alta",
+   "creator_ids": [
+    "rafael-lozano-hemmer"
+   ],
+   "title": "Voz Alta (Relational Architecture 15)",
+   "year": 2008,
+   "field": "social",
+   "sub": "performance",
+   "also": [
+    "network"
+   ],
+   "mechanisms": [
+    "participation",
+    "time"
+   ],
+   "substrate": "body",
+   "kind": "artwork",
+   "description": "Memorial for the 40th anniversary of the 1968 Tlatelolco student massacre: anyone could speak into a megaphone on the Plaza de las Tres Culturas, and a 10 kW searchlight turned the voice into flashes of light that were relayed across Mexico City and broadcast live on Radio UNAM.",
+   "description_zh": "为 1968 年特拉特洛尔科学生屠杀事件四十周年而作的纪念作品：任何人都可以在三文化广场对着扩音器说话，一盏 10 千瓦探照灯把声音转成闪光，接力投向墨西哥城各处，并在 Radio UNAM 电台直播。",
+   "idea_en": "Give the site of a massacre an open microphone with no censor, and let the city see every voice.",
+   "idea_zh": "在屠杀发生的地点放一支不受审查的开放麦克风，让整座城市看见每一个声音。",
+   "protocol": "Anyone on the plaza may speak freely into the megaphone, without moderation; the louder the voice, the brighter the searchlight, and three more searchlights on the former Foreign Ministry relay the beam north, toward the Zócalo and toward the Monument to the Revolution. When no one speaks, the building's lights play archival recordings of survivors, interviews and 1968 music.",
+   "protocol_zh": "广场上任何人都可以对着扩音器自由发言，不经审核；声音越大，探照灯越亮；原外交部大楼顶上的另外三盏探照灯再把光束接力投向北方、宪法广场和革命纪念碑。没人说话时，楼顶灯光播放幸存者录音、访谈和 1968 年的音乐。",
+   "collective": "According to the artist, thousands of people took part, including survivors' statements, street poetry, shout-outs, improvised performances, marriage proposals and calls for protest; the searchlights could be seen up to about 15 km away depending on the weather.",
+   "collective_zh": "据艺术家介绍，有数千人参与，内容包括幸存者的陈述、街头诗歌、喊话、即兴表演、求婚和抗议号召；视天气而定，探照灯在约 15 公里外都能看到。",
+   "keywords": [
+    "relational architecture",
+    "Tlatelolco",
+    "1968",
+    "megaphone",
+    "searchlights",
+    "Radio UNAM",
+    "memorial"
+   ],
+   "images": [
+    "https://www.lozano-hemmer.com/image_sets/voz_alta/mexico_2008/voz_alta_01.jpg",
+    "https://www.lozano-hemmer.com/image_sets/voz_alta/mexico_2008/voz_alta_03.jpg"
+   ],
+   "source_url": "https://www.lozano-hemmer.com/voz_alta.php",
+   "video": {},
+   "paper": {}
   },
   {
    "id": "ai-weiwei--fairytale",
@@ -18987,6 +21126,55 @@
    "images": [],
    "paper": {},
    "also": []
+  },
+  {
+   "id": "blast-theory--day-of-the-figurines",
+   "creator_ids": [
+    "blast-theory"
+   ],
+   "title": "Day Of The Figurines",
+   "year": 2006,
+   "field": "network",
+   "sub": "collective-games",
+   "also": [
+    "social"
+   ],
+   "mechanisms": [
+    "participation",
+    "constraint",
+    "time"
+   ],
+   "substrate": "network",
+   "kind": "game",
+   "description": "Text-message game for up to 1,000 players set in a decaying fictional town modelled on a large table, where each player's plastic figurine is moved by hand every hour; the game lasts 24 days, each day standing for one hour in the town. World premiere at the HAU, Berlin, in October 2006.",
+   "description_zh": "一款最多容纳 1000 名玩家的短信游戏，背景是一个模型桌上的衰败小镇，每位玩家的塑料小人每小时由人手移动一次；游戏持续 24 天，每一天代表小镇里的一小时。2006 年 10 月在柏林 HAU 世界首演。",
+   "idea_en": "Set one vague goal, 'help other people', and let a thousand players work out what it means.",
+   "idea_zh": "只给一个模糊的目标——“帮助别人”——让一千名玩家自己去弄清它的含义。",
+   "protocol": "Players create and name a figurine, then play by SMS: they receive at least one message a day, make decisions about their figurine and others, chat only with players in the same building, and restore health through missions. The stated goal is to help other people; surviving until dawn brings no reward.",
+   "protocol_zh": "玩家创建并命名一个小人，之后通过短信参与：每天至少收到一条消息，为自己和他人的小人做决定，只能与同一建筑里的玩家聊天，通过完成任务恢复体力。明面上的目标是帮助别人；活到天亮没有任何奖励。",
+   "collective": "Players set their own codes of behaviour as the town moved from a fete to violence and an occupying army; the game toured to Barcelona, Singapore, Wolverhampton, Brighton, Geneva and London and received an honorary mention at Prix Ars Electronica 2007.",
+   "collective_zh": "随着小镇从游园会走向暴力和军队占领，玩家各自确立行为准则；游戏巡演至巴塞罗那、新加坡、伍尔弗汉普顿、布莱顿、日内瓦和伦敦，并获 2007 年 Prix Ars Electronica 荣誉提名。",
+   "keywords": [
+    "Blast Theory",
+    "SMS",
+    "massively multiplayer",
+    "pervasive game",
+    "Mixed Reality Lab",
+    "IPerG"
+   ],
+   "video": {
+    "url": "https://vimeo.com/5490913",
+    "platform": "vimeo",
+    "id": "5490913",
+    "thumbnail": "https://i.vimeocdn.com/video/449286376-6bb09f42da263bae57f1054a3bf81fefd2310bddccfa6ce7fd7f9fe671d922ee-d?f=webp&amp;region=us",
+    "embeddable": true
+   },
+   "images": [
+    "https://www.blasttheory.co.uk/wp-content/uploads/2013/02/dotf_featured-scaled.jpg",
+    "https://www.blasttheory.co.uk/wp-content/uploads/2013/02/dotf_secondary-625x450.jpg"
+   ],
+   "source_url": "https://www.blasttheory.co.uk/projects/day-of-the-figurines/",
+   "paper": {}
   },
   {
    "id": "claire-bishop--participation",
@@ -19583,6 +21771,54 @@
    "also": []
   },
   {
+   "id": "improv-everywhere--mp3-experiment",
+   "creator_ids": [
+    "improv-everywhere"
+   ],
+   "title": "The Mp3 Experiment",
+   "year": 2004,
+   "field": "score",
+   "sub": "public-instructions",
+   "also": [
+    "social"
+   ],
+   "mechanisms": [
+    "instruction",
+    "participation"
+   ],
+   "substrate": "body",
+   "kind": "series",
+   "description": "An annual mass event created by Charlie Todd and Tyler Walker: participants load the same audio track, gather in a public place in headphones and press play at the same moment, then carry out the narrator's synchronized instructions. The first edition was held indoors at the Upright Citizens Brigade Theatre in 2004; it has run in New York almost every year since.",
+   "description_zh": "由 Charlie Todd 和 Tyler Walker 创办的年度集体活动：参与者下载同一段音频，戴着耳机聚集到一个公共场所，同时按下播放，然后执行旁白同步发出的指令。第一届于 2004 年在 Upright Citizens Brigade 剧场室内举行，此后几乎每年在纽约举办。",
+   "idea_en": "Press play together and a crowd becomes a choir of strangers acting out one script.",
+   "idea_zh": "一起按下播放，一群陌生人就成了演同一份脚本的合唱团。",
+   "protocol": "Participants download a track of about 45 minutes (now through an app that synchronises playback), arrive at the announced place and time wearing headphones and blend in. A narrator called \"Steve\" gives instructions that everyone follows at once; bystanders without headphones hear nothing.",
+   "protocol_zh": "参与者下载一段约 45 分钟的音轨（如今通过一个同步播放的应用），在公布的时间和地点戴着耳机到场并混入人群。一位名叫“Steve”的旁白发出指令，所有人同时照做；没戴耳机的旁观者什么也听不见。",
+   "collective": "By Improv Everywhere's own counts, crowds grew from about 600 in 2006 to over 7,000 in 2013, and later editions drew thousands, carrying out coordinated actions in public while onlookers try to work out what is happening. The 21st edition was announced for June 2026 at Hudson River Park with Make Music New York.",
+   "collective_zh": "按 Improv Everywhere 自己的统计，参与人数从 2006 年的约 600 人增长到 2013 年的 7,000 多人，此后各届也有数千人参加；他们在公共场所同步行动，旁观者则努力弄清发生了什么。第 21 届宣布于 2026 年 6 月在哈德逊河公园与 Make Music New York 合作举行。",
+   "keywords": [
+    "Improv Everywhere",
+    "headphones",
+    "synchronised audio",
+    "Steve",
+    "flash mob",
+    "Make Music New York"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=gCZcT0URWMA",
+    "platform": "youtube",
+    "id": "gCZcT0URWMA",
+    "thumbnail": "https://i.ytimg.com/vi/gCZcT0URWMA/maxresdefault.jpg",
+    "embeddable": true
+   },
+   "images": [
+    "https://improveverywhere.com/wp-content/uploads/2023/10/2023.06.24-001-Improv-Everywhere-MP3_IMG_9020-scaled.jpg",
+    "https://improveverywhere.com/wp-content/uploads/2008/12/2014_09_20-MP3-11_0533-1024x576.jpg"
+   ],
+   "source_url": "https://improveverywhere.com/missions/the-mp3-experiments/",
+   "paper": {}
+  },
+  {
    "id": "sol-lewitt--wall-drawing-1136",
    "creator_ids": [
     "sol-lewitt"
@@ -19840,6 +22076,55 @@
    },
    "source_url": "https://harpers.org/archive/2006/03/my-crowd/",
    "video": {}
+  },
+  {
+   "id": "blast-theory--uncle-roy-all-around-you",
+   "creator_ids": [
+    "blast-theory"
+   ],
+   "title": "Uncle Roy All Around You",
+   "year": 2003,
+   "field": "network",
+   "sub": "collective-games",
+   "also": [
+    "social"
+   ],
+   "mechanisms": [
+    "participation",
+    "contract"
+   ],
+   "substrate": "network",
+   "kind": "game",
+   "description": "Game for street players in central London and online players in a matching virtual city, who work together to find Uncle Roy's office within 60 minutes; it ends by inviting each player to commit to a stranger for a year. Premiered at the ICA, London, in June 2003, with the Mixed Reality Lab, University of Nottingham.",
+   "description_zh": "一场同时面向伦敦市中心街头玩家和对应虚拟城市中在线玩家的游戏，双方合作在 60 分钟内找到 Uncle Roy 的办公室；结尾邀请每位玩家对一个陌生人做出为期一年的承诺。2003 年 6 月在伦敦 ICA 首演，与诺丁汉大学 Mixed Reality Lab 合作。",
+   "idea_en": "A game whose prize is a real obligation to a stranger you will never meet.",
+   "idea_zh": "一场游戏，奖品是对一个你永远不会见到的陌生人的真实承诺。",
+   "protocol": "Street players hand over their phones and money, get a handheld map and follow Uncle Roy's increasingly direct messages; online players see street players' photos and positions and may message them, but street players can only reply by audio. In the office both are asked whether they will be available to a stranger in a crisis for 12 months; those who agree are paired, and a postcard answering 'When can you begin to trust a stranger?' is posted to an online player's address.",
+   "protocol_zh": "街头玩家交出手机和钱，拿到一台手持地图设备，跟随 Uncle Roy 越来越直接的消息行动；在线玩家能看到街头玩家的照片和位置并给他们发消息，街头玩家只能用语音回复。到了办公室，双方都会被问：是否愿意在接下来 12 个月里，在一位陌生人遭遇危机时为其提供帮助；同意者会被配对，一张回答“你什么时候才能开始信任陌生人？”的明信片被寄到某位在线玩家的地址。",
+   "collective": "Online and street players guided each other through the city by matching photos to Uncle Roy's clues, and players accepted or refused year-long commitments to unknown partners; the work toured to Manchester and West Bromwich and won an Arts and Humanities Research Board Innovation Award in 2005.",
+   "collective_zh": "在线玩家与街头玩家把照片和 Uncle Roy 的线索对照，互相引导穿过城市；玩家选择接受或拒绝对陌生搭档的一年承诺。作品之后巡演至曼彻斯特和西布罗米奇，并于 2005 年获艺术与人文研究委员会创新奖。",
+   "keywords": [
+    "Blast Theory",
+    "Mixed Reality Lab",
+    "pervasive game",
+    "ICA",
+    "trust",
+    "stranger",
+    "London"
+   ],
+   "video": {
+    "url": "https://vimeo.com/7182676",
+    "platform": "vimeo",
+    "id": "7182676",
+    "thumbnail": "https://i.vimeocdn.com/video/449286241-8cc9c413271448080f2752d148d6c0e60e18a173cd54be341763bc4e55f977c2-d?f=webp&amp;region=us",
+    "embeddable": true
+   },
+   "images": [
+    "https://www.blasttheory.co.uk/wp-content/uploads/2013/02/uraay_featured-scaled.jpg",
+    "https://www.blasttheory.co.uk/wp-content/uploads/2013/02/uraay_secondary-625x450.jpg"
+   ],
+   "source_url": "https://www.blasttheory.co.uk/projects/uncle-roy-all-around-you/",
+   "paper": {}
   },
   {
    "id": "santiago-sierra--wall-enclosing-a-space",
@@ -20644,6 +22929,45 @@
    },
    "source_url": "https://www.lespressesdureel.com/EN/ouvrage.php?id=12762&menu=0",
    "video": {},
+   "also": []
+  },
+  {
+   "id": "lee-mingwei--the-letter-writing-project",
+   "creator_ids": [
+    "lee-mingwei"
+   ],
+   "title": "The Letter-Writing Project",
+   "year": 1998,
+   "field": "social",
+   "sub": "correspondence",
+   "mechanisms": [
+    "participation",
+    "circulation"
+   ],
+   "substrate": "post",
+   "kind": "artwork",
+   "description": "Three wood-and-glass booths in which visitors write letters to someone, living or dead, saying what they wish they had said; first shown as two booths at the Whitney Museum of American Art in 1998, with the third completed at the Fabric Workshop and Museum the same year.",
+   "description_zh": "三座木框玻璃小亭，观众在里面给某个人（在世或已故）写信，说出当初没来得及说的话；1998 年先以两座小亭在惠特尼美国艺术博物馆展出，第三座同年在 Fabric Workshop and Museum 完成。",
+   "idea_en": "Give strangers a quiet booth and a postal service, and the museum becomes a post office for unsaid things.",
+   "idea_zh": "给陌生人一间安静的小亭和一套邮递服务，博物馆就成了寄送未说出口之话的邮局。",
+   "protocol": "Visitors enter a booth set up to stand, sit or kneel, write a letter on themes of gratitude, insight or forgiveness, and either leave it open for others to read or seal it. Letters with an address are mailed by the museum during the show; unaddressed letters are kept by the artist.",
+   "protocol_zh": "观众走进一座可以站、坐或跪的小亭，围绕感恩、领悟或宽恕写一封信，可以敞开留给他人阅读，也可以封好。写了地址的信由博物馆在展期内寄出，没有地址的由艺术家保存。",
+   "collective": "Visitors have written letters at each venue, mostly to the dead; when the Fabric Workshop documented the work, Lee held about 15,000 unsent letters, a number that keeps growing, and he plans to release them on burning paper lanterns floated down a river.",
+   "collective_zh": "每个展出地点的观众都在写信，大多写给逝者；Fabric Workshop 记录这件作品时，Lee 已保存约 15,000 封未寄出的信，数量仍在增长，他计划把这些信放在纸灯上点燃，让它们顺河漂走。",
+   "keywords": [
+    "Lee Mingwei",
+    "letters",
+    "Whitney Museum",
+    "Fabric Workshop and Museum",
+    "mourning",
+    "booth"
+   ],
+   "images": [
+    "https://fabricworkshopandmuseum.org/wp-content/uploads/2018/06/Lee_Mingwei_004_LR.jpg"
+   ],
+   "source_url": "https://fabricworkshopandmuseum.org/?p=308",
+   "video": {},
+   "paper": {},
    "also": []
   },
   {
@@ -22436,6 +24760,46 @@
    "also": []
   },
   {
+   "id": "clemente-padin--festival-de-la-postal-creativa",
+   "creator_ids": [
+    "clemente-padin"
+   ],
+   "title": "Festival de la Postal Creativa",
+   "year": 1974,
+   "field": "social",
+   "sub": "correspondence",
+   "mechanisms": [
+    "circulation",
+    "participation"
+   ],
+   "substrate": "post",
+   "kind": "artwork",
+   "description": "Mail-art exhibition of postcards that Padín organised at Galería U, Montevideo (11–24 October 1974), under the Uruguayan military dictatorship; Edgardo-Antonio Vigo called it the first South American mail-art exhibition.",
+   "description_zh": "Padín 在乌拉圭军政府统治时期于蒙得维的亚 Galería U 组织的明信片邮件艺术展（1974 年 10 月 11 日至 24 日）；Edgardo-Antonio Vigo 称之为南美第一个邮件艺术展。",
+   "idea_en": "Use the cheapest public medium, the postcard, to gather a continent's art under a regime that controls the others.",
+   "idea_zh": "用最便宜的公共媒介——明信片——在一个控制其他渠道的政权下汇集一片大陆的艺术。",
+   "protocol": "Padín gathered postcards that artists sent through the mail-art network; the cards were hung on threads from the ceiling so that visitors could read and touch them without barriers and, if they dared, take one away as a souvenir.",
+   "protocol_zh": "Padín 收集艺术家通过邮件艺术网络寄来的明信片；卡片用线从天花板垂下，观众可以毫无阻隔地阅读和触摸，胆子大的还可以带走一张作纪念。",
+   "collective": "Contributors sent a large, nearly exhaustive range of postcards, from concrete and visual poetry to Fluxus, conceptual and body art, and cards that asked the viewer to take part; the show is described as the start of mail art in the Southern Cone, and the network later campaigned for Padín's release from prison (1977–79).",
+   "collective_zh": "参与者寄来数量庞大、几乎涵盖一切可能的明信片，从具体诗、视觉诗到激浪派、观念艺术、身体艺术，以及邀请观众参与的卡片；这个展览被视为南锥体地区邮件艺术的开端，后来这一网络又为 Padín 出狱（1977–79 年被监禁）发起声援。",
+   "keywords": [
+    "mail art",
+    "postcard",
+    "Montevideo",
+    "Galería U",
+    "Uruguay",
+    "dictatorship",
+    "Edgardo-Antonio Vigo"
+   ],
+   "images": [
+    "https://artmetropole.com/image/8571/l"
+   ],
+   "source_url": "https://artpool.hu/MailArt/chrono/1984/Vigo.html",
+   "video": {},
+   "paper": {},
+   "also": []
+  },
+  {
    "id": "marina-abramovic--rhythm-0",
    "creator_ids": [
     "marina-abramovic"
@@ -22659,6 +25023,50 @@
    "source_url": "https://de.wikipedia.org/wiki/Organisation_f%C3%BCr_direkte_Demokratie_durch_Volksabstimmung",
    "video": {},
    "paper": {},
+   "also": []
+  },
+  {
+   "id": "hans-haacke--john-weber-gallery-visitors-profile",
+   "creator_ids": [
+    "hans-haacke"
+   ],
+   "title": "John Weber Gallery Visitors' Profile",
+   "year": 1972,
+   "field": "social",
+   "sub": "performance",
+   "mechanisms": [
+    "participation",
+    "governance"
+   ],
+   "substrate": "body",
+   "kind": "artwork",
+   "description": "Survey Haacke ran during a group show at the John Weber Gallery, 420 West Broadway, New York (7–24 October 1972): visitors filled in a 20-question form whose intermediate results were posted on the gallery wall, and the final tallies became charts.",
+   "description_zh": "Haacke 在纽约西百老汇 420 号 John Weber 画廊的一次群展期间（1972 年 10 月 7 日至 24 日）进行的调查：观众填写一份 20 题问卷，阶段性结果贴在画廊墙上，最终统计制成图表。",
+   "idea_en": "The audience's answers are the material; the artwork is the portrait the gallery's public draws of itself.",
+   "idea_zh": "观众的回答就是材料，作品是画廊观众为自己画出的肖像。",
+   "protocol": "Questionnaires and pencils lay in two trays on a long table; ten questions asked about demographic background and ten about sociopolitical opinions, answered by multiple choice or a word or figure. Completed forms went into a wooden box with a slit; blanks and non-conforming answers were counted as 'no answer', and results were broken down by four subgroups (non-professionals, art professionals, artists, students).",
+   "protocol_zh": "问卷和铅笔放在长桌两端的两个托盘里；十个问题询问人口背景，十个询问社会政治观点，以选择题或填写一个词、一个数字作答。填好的问卷投进一个开有缝口的木箱；空白和不合规的回答计为“未答”，结果按四个子群体（非专业人士、艺术从业者、艺术家、学生）分别统计。",
+   "collective": "858 visitors completed the questionnaire in 13 days; Haacke stressed that the profile represents only those 858, not all visitors. A second visitors' profile followed at the gallery in 1973.",
+   "collective_zh": "13 天内有 858 位观众完成问卷；Haacke 强调这份群像只代表这 858 人，而非全部观众。1973 年他在同一画廊又做了第二次观众调查。",
+   "keywords": [
+    "Hans Haacke",
+    "questionnaire",
+    "visitors' profile",
+    "John Weber Gallery",
+    "SoHo",
+    "institutional critique",
+    "Artforum"
+   ],
+   "images": [
+    "https://d2zy2h1755x359.cloudfront.net/public/DigitalAsset/11350-55065-a05276/b269683d706d4005c5dd0b354060a22a/full/medium/0/default.jpg"
+   ],
+   "paper": {
+    "url": "https://www.artforum.com/features/hans-haackes-gallery-visitors-profile-210295/",
+    "venue": "Artforum",
+    "title": "Hans Haacke's Gallery Visitors' Profile"
+   },
+   "source_url": "https://www.artforum.com/features/hans-haackes-gallery-visitors-profile-210295/",
+   "video": {},
    "also": []
   },
   {
@@ -25171,6 +27579,45 @@
    "paper": {}
   },
   {
+   "id": "walter-de-maria--boxes-for-meaningless-work",
+   "creator_ids": [
+    "walter-de-maria"
+   ],
+   "title": "Boxes for Meaningless Work",
+   "year": 1961,
+   "field": "score",
+   "sub": "public-instructions",
+   "mechanisms": [
+    "instruction",
+    "time"
+   ],
+   "substrate": "body",
+   "kind": "artwork",
+   "description": "A pair of low, open wooden crates holding small pieces of wood, inscribed with an instruction to move things between them; the idea first appeared in De Maria's text 'Boxes for Meaningless Work' (March 1960), printed in La Monte Young's An Anthology.",
+   "description_zh": "一对低矮的敞口木箱，里面放着小木块，箱上刻有在两箱之间搬动物件的指令；这一构想最早见于 De Maria 1960 年 3 月的文本《Boxes for Meaningless Work》，收录于 La Monte Young 编的《An Anthology》。",
+   "idea_en": "An instruction that asks for labour while declaring the labour pointless.",
+   "idea_zh": "一条要求劳动、同时宣布这份劳动毫无意义的指令。",
+   "protocol": "'Transfer things from one box to the next box back and forth, back and forth, etc. Be aware that what you are doing is meaningless.' The boxes supply the material; whoever follows the inscription supplies the work.",
+   "protocol_zh": "“把东西从一个箱子移到另一个箱子，来回搬，来回搬，如此反复。要意识到你所做的事毫无意义。”箱子提供材料，照着刻字去做的人提供劳动。",
+   "collective": "When the boxes were first shown in the 1960s, viewers could handle them; in the Menil Collection's 2022–23 retrospective that borrowed the work's title, the fragile originals could no longer be touched.",
+   "collective_zh": "这对箱子在 1960 年代首次展出时，观众可以动手搬动；到了 2022–23 年以这件作品为名的 Menil Collection 回顾展上，脆弱的原件已不能再触碰。",
+   "keywords": [
+    "meaningless work",
+    "An Anthology",
+    "La Monte Young",
+    "Fluxus",
+    "Menil Collection",
+    "instruction"
+   ],
+   "images": [
+    "https://www.getty.edu/publications/scores/_assets/images/figures/gri_94_b19099_021.jpg"
+   ],
+   "source_url": "https://brooklynrail.org/2023/03/artseen/Walter-De-Maria-Boxes-for-Meaningless-Work/",
+   "video": {},
+   "paper": {},
+   "also": []
+  },
+  {
    "id": "raymond-queneau--cent-mille-milliards-de-poemes",
    "creator_ids": [
     "raymond-queneau"
@@ -25798,6 +28245,46 @@
    },
    "source_url": "https://en.wikipedia.org/wiki/D%C3%A9rive",
    "video": {}
+  },
+  {
+   "id": "earle-brown--twenty-five-pages",
+   "creator_ids": [
+    "earle-brown"
+   ],
+   "title": "Twenty-Five Pages",
+   "year": 1953,
+   "field": "score",
+   "sub": "constraints",
+   "mechanisms": [
+    "chance",
+    "co-authorship",
+    "instruction"
+   ],
+   "substrate": "text",
+   "kind": "score",
+   "description": "Brown's first open-form piece: 25 unbound pages for one to 25 pianists, composed in June 1953 for David Tudor, who gave the premiere in New York on 14 April 1954.",
+   "description_zh": "Brown 的第一首开放形式作品：25 张散页，供 1 至 25 位钢琴家演奏，1953 年 6 月为 David Tudor 而作，1954 年 4 月 14 日由 Tudor 在纽约首演。",
+   "idea_en": "Fix the material, release the order: every performance assembles a different piece from the same pages.",
+   "idea_zh": "固定材料，放开顺序：每次演出都用同样的散页拼出一首不同的作品。",
+   "protocol": "The pages may be played in any sequence by any number of pianos up to 25, each page either side up, each two-line system read in treble or bass clef; a time scale of 5 to 15 seconds per system is suggested but not compulsory. Any choice of order, inversion, clef and timing is valid if durations, attacks and intensities are played accurately.",
+   "protocol_zh": "这些散页可以按任意顺序、由最多 25 台钢琴演奏，每页可正放或倒放，每个两行谱表可读作高音谱号或低音谱号；建议每行 5 至 15 秒，但不强制。只要时值、起音和力度准确，任何顺序、翻转、谱号和速度的选择都成立。",
+   "collective": "Each performing group, from a soloist to an ensemble of pianists, decides the page order and reading, so no two performances share the same form; Brown's open-form approach became a model for later indeterminate scores.",
+   "collective_zh": "每个演奏组合，从独奏者到多人钢琴合奏，都自行决定页序和读法，因此没有两次演出的形式相同；Brown 的开放形式方法成为后来不确定性乐谱的范例。",
+   "keywords": [
+    "open form",
+    "indeterminacy",
+    "David Tudor",
+    "piano",
+    "New York School",
+    "An Anthology"
+   ],
+   "images": [
+    "https://www.getty.edu/publications/scores/_assets/images/figures/gri_94_b19099_011.jpg"
+   ],
+   "source_url": "https://earle-brown.org/?p=139",
+   "video": {},
+   "paper": {},
+   "also": []
   },
   {
    "id": "john-cage--4-33",

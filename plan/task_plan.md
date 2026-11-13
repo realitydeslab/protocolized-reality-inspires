@@ -67,3 +67,16 @@ Inputs: `temp/pass3/leads-*.json` (lead lists with duplicate hints), `temp/pass3
 - ✓ new-onchain: 8 works (all onchain, 2025–26), 4 creators (snowfro, kim-asendorf, leander-herzog, figure31), 7 contracts; 23 leads (11 open, 12 off_topic). Re-checked: validate ✓, 0 duplicate ids / similar titles.
 - [x] P0 all 9 agents done.
 - Leads: 160/162 original closed (74 covered, 58 off_topic, 23 duplicate, 5 no_media); still open: Spirit Protocol, Bitcoin Ordinals; 58 new open leads. Housekeeping: stray Cloudflare page f1work.html moved to temp/pass3/; .claude/logs/ added to .gitignore.
+
+## Pass 4 — 2026-11-13: latest works (Aug–Nov 2026) + 60 open leads (user: "update with latest content")
+Baseline: 459 works / 278 creators / 60 open leads. Inputs in `temp/pass4/` (existing-works.tsv, leads-<batch>.json).
+RESEARCH_BRIEF working dir corrected to /home/amber/projects/protocolized-reality-inspires.
+- [x] 4 parallel agents: pass4-new-onchain (11 leads), pass4-autonomous-onchain (13), pass4-new-participatory (15, owns Operator), pass4-leads-misc (21 + 2026 theory)
+- [x] validate --all, build: 506 works / 298 creators (+47 / +20), dropped 0, media problems 0, open leads 20; audit_titles 5 groups (unchanged, all distinct). Empty stray untitled.md moved to temp/pass4/.
+- [ ] publish
+- ✓ pass4-new-onchain: 5 works (0xfff transaction-sculptures 2026, figure31 reapers-gambit + line, dmstfctn fango-1000, crosslucid way-of-flowers), 2 creators; 11/11 leads closed (5 covered, 5 off_topic, 1 no_media); 9 new open. Low-confidence: way-of-flowers chain, fango testnet, reaper's gambit twimg image.
+- ✓ pass4-autonomous-onchain: 9 works (clovers, remembering-network, portal-constellation, burn-before-reading, og-crystals, all-the-reporters, dark-wallet-puzzle, p5-botto, towr), 4 creators; 13 leads: 8 covered, 4 off_topic (Spirit Protocol, Ordinals, Chameleon, Game of Whispers), 1 duplicate (Operator), Aminals still open (not deployed). Sent back to fix snippet-only facts (burn date, og-crystals lock/sales, all-the-reporters dates, dark wallet).
+- ✓ autonomous-onchain fix: Dark Wallet snippet facts cut; OG Crystals $4M credited to ForkLog; Burn date verified on Product Hunt; reporters dates from banner.
+- ✓ pass4-leads-misc: 20 works (16 lead works incl. Blast Theory x2, Haacke x2, Lee Mingwei x2, Rainer, De Maria, Earle Brown, Lozano-Hemmer, Tweenbots, Camp Elektra, Padín, MoMA Postcard, Real Abstraction; 4 theory 2025–26), 7 creators; 21/21 leads closed (17 covered, 4 off_topic). I cut the snippet-only 'eleven singers' (Sonic Blossom) and added terra0--autonomous-forest to strange-rules.json. Borderline: moma--moma-postcard (institutional author).
+- ✓ pass4-new-participatory: 13 works (Rimini Protokoll x3, Cryptorave, Cel, Falsnaes x2, Draw a Fish, The Portal, One Minute Park, Internet Fridge, HOST, Mp3 Experiment), 7 creators; leads 10 covered, 4 off_topic (incl. Operator), 1 no_media (Sehgal Leeum), 1 open (Scores for Meeting Otherwise, out 19 Nov 2026 → candidate survey collection).
+- Finding: none of the 4 agents found a qualifying work premiered Aug–Nov 2026 except 0xfff Transaction Sculptures (deployed 25 Sep 2026).

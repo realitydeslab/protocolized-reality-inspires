@@ -1,0 +1,828 @@
+{
+  "batch": "pass4-new-participatory",
+  "creators": [
+    {
+      "id": "mediengruppe-bitnik",
+      "name": "!Mediengruppe Bitnik",
+      "kind": "collective",
+      "role": "Artist duo",
+      "based": "Zurich, CH and Berlin, DE",
+      "bio": "Art group founded in 2003 by Carmen Weisskopf and Domagoj Smoljo, whose work deals with the internet and how it changes physical space, for example by posting a parcel with a camera to Julian Assange in the Ecuadorian embassy (2013).",
+      "why": "With OMSK Social Club they made the Cryptorave, a party whose entry is paid for by guests mining a cryptocurrency for the event.",
+      "links": {
+        "site": "https://wwwwwwwwwwwwwwwwwwwwww.bitnik.org/"
+      },
+      "role_zh": "艺术家二人组",
+      "based_zh": "苏黎世，瑞士；柏林，德国",
+      "bio_zh": "由 Carmen Weisskopf 和 Domagoj Smoljo 于 2003 年创立的艺术小组，作品关注互联网以及它如何改变物理空间，例如 2013 年把一个装有摄像头的包裹寄给身在厄瓜多尔大使馆的朱利安·阿桑奇。",
+      "why_zh": "他们与 OMSK Social Club 合作创作了 Cryptorave：一场靠来宾为活动挖加密货币来换取入场资格的派对。",
+      "connected_to": [
+        "omsk-social-club"
+      ],
+      "discovered_via": "omsk-social-club"
+    },
+    {
+      "id": "ed-fornieles",
+      "name": "Ed Fornieles",
+      "kind": "person",
+      "role": "Artist",
+      "bio": "British artist (born 1983) who has lived and worked in London, Los Angeles and Montreal, known for online and live role-play works such as Dorm Daze, a Facebook performance in which participants took on the profiles of American college students.",
+      "why": "He writes role-play systems that groups live inside for days, and turns what they do into the artwork.",
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Ed_Fornieles"
+      },
+      "role_zh": "艺术家",
+      "bio_zh": "英国艺术家（1983 年生），曾在伦敦、洛杉矶和蒙特利尔生活和工作，以网络与现场角色扮演作品闻名，例如 Dorm Daze：一场在 Facebook 上进行的表演，参与者扮演美国大学生的个人主页。",
+      "why_zh": "他编写让一群人连续几天生活其中的角色扮演系统，再把他们的所作所为变成作品。",
+      "connected_to": [
+        "nina-runa-essendrop",
+        "omsk-social-club"
+      ],
+      "discovered_via": "omsk-social-club"
+    },
+    {
+      "id": "nina-runa-essendrop",
+      "name": "Nina Runa Essendrop",
+      "kind": "person",
+      "role": "Larp designer",
+      "bio": "Danish live-action role-play designer from the Nordic larp community, with a background in theatre, dance and performance studies; her larps focus on movement, the senses and the meaning of physical action.",
+      "why": "She designs the rules and safety techniques that let participants improvise inside a fiction, and co-designed role-play works with Ed Fornieles and OMSK Social Club.",
+      "links": {
+        "site": "http://www.ninaessendrop.com/"
+      },
+      "role_zh": "真人角色扮演（larp）设计师",
+      "bio_zh": "丹麦真人角色扮演设计师，属于北欧 larp 社群，受过戏剧、舞蹈与表演研究训练；她的 larp 关注动作、感官以及身体行为的意义。",
+      "why_zh": "她设计让参与者在虚构中即兴的规则与安全技巧，并与 Ed Fornieles 和 OMSK Social Club 合作设计角色扮演作品。",
+      "connected_to": [
+        "ed-fornieles",
+        "omsk-social-club"
+      ],
+      "discovered_via": "ed-fornieles"
+    },
+    {
+      "id": "christian-falsnaes",
+      "name": "Christian Falsnaes",
+      "kind": "person",
+      "role": "Performance artist",
+      "based": "Berlin, DE",
+      "based_zh": "柏林，德国",
+      "bio": "Danish artist living in Berlin whose performances consist of instructions he or a recorded voice gives to the audience, who then paint, build, move and perform.",
+      "why": "His works test how far a crowd will follow an instruction, and the audience's compliance or refusal is the material of the piece.",
+      "links": {
+        "site": "https://www.christianfalsnaes.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Christian_Falsnaes"
+      },
+      "role_zh": "行为艺术家",
+      "bio_zh": "生活在柏林的丹麦艺术家，他的表演由他本人或一段录音向观众发出的指令构成，观众随之绘画、搭建、移动和表演。",
+      "why_zh": "他的作品检验一群人会在多大程度上服从一条指令，观众的服从或拒绝就是作品的材料。",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "alden-hallak",
+      "name": "Alden Hallak",
+      "kind": "person",
+      "role": "Software developer",
+      "based": "Pennsylvania, US",
+      "based_zh": "宾夕法尼亚州，美国",
+      "bio": "Developer who built and runs DrawAFish.com, a shared online fish tank, and wrote a public postmortem after it was hacked in August 2025.",
+      "why": "His site shows how a single gate (an AI that only lets fish through) and a vote can shape what a crowd draws together.",
+      "links": {
+        "site": "https://aldenhallak.com/",
+        "github": "https://github.com/aldenhallak"
+      },
+      "role_zh": "软件开发者",
+      "bio_zh": "开发并运营共享在线鱼缸 DrawAFish.com 的开发者，2025 年 8 月网站遭入侵后他公开发布了事故复盘。",
+      "why_zh": "他的网站展示了一道关卡（只放行“鱼”的 AI）加上一套投票，如何塑造一群人共同画出的东西。",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "benediktas-gylys",
+      "name": "Benediktas Gylys",
+      "kind": "person",
+      "role": "Artist",
+      "bio": "Lithuanian artist who created The Portal, a series of identical round video sculptures in public squares that link pairs of cities, and leads the Benediktas Gylys Foundation that runs them.",
+      "why": "The Portal hands a live, silent video link between two cities to passers-by, and what strangers choose to do in front of it is the work.",
+      "links": {
+        "site": "https://www.portals.org/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Benediktas_Gylys"
+      },
+      "role_zh": "艺术家",
+      "bio_zh": "立陶宛艺术家，创作了 The Portal：一系列安放在公共广场、两两连接城市的相同圆形视频雕塑，并领导负责运营它们的 Benediktas Gylys 基金会。",
+      "why_zh": "The Portal 把两座城市之间一条无声的实时视频连线交给路人，陌生人在它面前选择做什么，就是作品。",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "elliott-cost",
+      "name": "Elliott Cost",
+      "kind": "person",
+      "role": "Artist and web organizer",
+      "bio": "Artist and organizer who works with the web as a medium and material; he runs Bell Kiosk, Special Fish and HTML Energy and makes small poetic websites.",
+      "why": "One Minute Park turns a filming instruction into a world-wide, volunteer-made broadcast.",
+      "links": {
+        "site": "https://elliott.computer/"
+      },
+      "role_zh": "艺术家、网络社群组织者",
+      "bio_zh": "把网络当作媒介与材料来创作的艺术家和组织者；他运营 Bell Kiosk、Special Fish 和 HTML Energy，并制作小而富有诗意的网站。",
+      "why_zh": "One Minute Park 把一条拍摄指令变成了一个由全球志愿者共同制作的播出节目。",
+      "connected_to": [],
+      "discovered_via": "seed"
+    }
+  ],
+  "works": [
+    {
+      "id": "rimini-protokoll--remote-x",
+      "creator_ids": [
+        "rimini-protokoll"
+      ],
+      "title": "Remote X",
+      "year": 2013,
+      "field": "social",
+      "sub": "performance",
+      "also": [
+        "score"
+      ],
+      "mechanisms": [
+        "instruction",
+        "participation"
+      ],
+      "substrate": "body",
+      "kind": "artwork",
+      "description": "A group of about 50 people walks through a city wearing headphones, guided by a synthetic voice like a GPS navigator's. Conceived by Stefan Kaegi, it opened at HAU Hebbel am Ufer in Berlin in April 2013 and has since been remade for many cities.",
+      "description_zh": "大约 50 人戴着耳机穿过一座城市，由一个像导航仪那样的合成声音引路。作品由 Stefan Kaegi 构思，2013 年 4 月在柏林 HAU Hebbel am Ufer 首演，此后为许多城市重新制作。",
+      "idea_en": "Give a crowd one voice to follow and watch how a group decides when the algorithm leaves a gap.",
+      "idea_zh": "给一群人一个可以跟随的声音，看看当算法留下空白时，群体如何做决定。",
+      "protocol": "Each ticket holder receives headphones and joins a group of about 50. A recorded synthetic voice tells the group where to walk and what to look at, and leaves the group to make joint decisions along the way; there are no actors, and every site-specific version builds on the dramaturgy of the previous city.",
+      "protocol_zh": "每位购票者领到耳机，加入一个约 50 人的小组。一个预先录制的合成声音告诉大家往哪里走、看什么，途中也把一些决定留给群体共同作出；现场没有演员，每个城市的版本都在前一座城市的编剧基础上改写。",
+      "collective": "The audience is the only cast: fifty strangers watch each other, make individual decisions and still move as one group through the city, so passers-by see a crowd acting on instructions they cannot hear. The piece has toured to dozens of cities since its 2013 run in Berlin, Lisbon, Hanover, Avignon and Zurich, with later versions such as Remote Milano, Remote Taipei and Remote Santiago.",
+      "collective_zh": "观众就是全部演员：五十个陌生人彼此观察、各自做决定，却仍作为一个群体穿行城市，路人看到的是一群人在执行他们听不见的指令。自 2013 年在柏林、里斯本、汉诺威、阿维尼翁和苏黎世上演以来，作品已巡演数十座城市，后来还有 Remote Milano、Remote Taipei、Remote Santiago 等版本。",
+      "keywords": [
+        "Rimini Protokoll",
+        "Stefan Kaegi",
+        "headphones",
+        "audio walk",
+        "synthetic voice",
+        "HAU Hebbel am Ufer"
+      ],
+      "video": {
+        "url": "https://vimeo.com/116552002"
+      },
+      "images": [
+        "https://www.rimini-protokoll.de/website/cache/images/media/remotex/1280-RemoteTaipei%C2%A9Lafun%20Photography_1.jpg",
+        "https://www.rimini-protokoll.de/website/cache/images/media/remotex/1280-RemoteTaipei%C2%A9Lafun%20Photography_3%20copy%201.jpg"
+      ],
+      "source_url": "https://www.rimini-protokoll.de/website/en/project/remote-x"
+    },
+    {
+      "id": "rimini-protokoll--100-percent-city",
+      "creator_ids": [
+        "rimini-protokoll"
+      ],
+      "title": "100% City (100 Prozent Berlin)",
+      "year": 2008,
+      "field": "social",
+      "sub": "collective-action",
+      "also": [
+        "score"
+      ],
+      "mechanisms": [
+        "constraint",
+        "circulation",
+        "participation"
+      ],
+      "substrate": "body",
+      "kind": "series",
+      "description": "One hundred residents of a city, chosen so that together they match its population statistics, stand on stage and sort themselves into changing group pictures by age, address, gender, political leanings, means of transport and more. It began as 100 Prozent Berlin at HAU in February 2008 and became a format restaged in many cities.",
+      "description_zh": "一座城市的一百位居民站上舞台，他们合起来恰好符合这座城市的人口统计，并按年龄、住址、性别、政治倾向、出行方式等不断重组成新的群像。作品于 2008 年 2 月以 100 Prozent Berlin 之名在 HAU 首演，后来成为在许多城市重排的固定格式。",
+      "idea_en": "Cast a city by a statistical chain letter, then let the sample vote with their feet.",
+      "idea_zh": "用统计学的“连锁信”为一座城市选角，再让这份样本用脚投票。",
+      "protocol": "Only the first person is cast by the directors; each participant then recruits the next from their own circle, and the chain is steered by search criteria taken from the city statistics office: gender, age, marital status, nationality and type of income. On a stage of 100 square metres the hundred regroup by criterion after criterion, forming live statistics.",
+      "protocol_zh": "导演只直接选定第一个人；此后每位参与者从自己的熟人中推荐下一位，这条链由取自城市统计局的筛选条件引导：性别、年龄、婚姻状况、国籍和收入类型。在 100 平方米的舞台上，这一百人按一个又一个条件重新分组，构成活的统计图。",
+      "collective": "In Berlin the chain of one hundred people grew harder to fill as it neared the end, because the remaining slots had to match Berlin's ratios. On stage the group's self-sorting produces a portrait of the city that no single performer controls. The Mime Centrum Berlin archive says the format has been staged in more than 35 cities.",
+      "collective_zh": "在柏林，这条一百人的链越到后面越难补齐，因为剩下的名额必须符合柏林的人口比例。台上，群体的自我分组拼出一幅城市肖像，没有哪位表演者能单独左右。据柏林 Mime Centrum 档案记载，这一格式已在 35 座以上的城市上演。",
+      "keywords": [
+        "Rimini Protokoll",
+        "Helgard Haug",
+        "Stefan Kaegi",
+        "Daniel Wetzel",
+        "statistics",
+        "casting chain",
+        "HAU"
+      ],
+      "video": {
+        "url": "https://vimeo.com/41972757"
+      },
+      "images": [
+        "https://www.rimini-protokoll.de/website/cache/images/media/100prozentberlin/1280-DRAMA2008019-9381.jpg",
+        "https://www.rimini-protokoll.de/website/cache/images/media/100prozentberlin/1280-DRAMA_HAU1_100ProzentBerlin_09.jpg"
+      ],
+      "source_url": "https://www.rimini-protokoll.de/website/en/project/100-prozent-berlin"
+    },
+    {
+      "id": "rimini-protokoll--situation-rooms",
+      "creator_ids": [
+        "rimini-protokoll"
+      ],
+      "title": "Situation Rooms",
+      "year": 2013,
+      "field": "social",
+      "sub": "performance",
+      "also": [
+        "score"
+      ],
+      "mechanisms": [
+        "instruction",
+        "participation"
+      ],
+      "substrate": "body",
+      "kind": "artwork",
+      "description": "A \"multiplayer video piece\" set in a film set of rooms tied to the global arms trade. Each spectator follows a film on a handheld device, tracing the story of one of 20 people whose lives have been shaped by weapons, and crosses paths with other spectators doing the same. It premiered at the Ruhrtriennale in Bochum in August 2013.",
+      "description_zh": "一件“多人视频作品”，场景是一组与全球军火贸易相关的房间。每位观众手持设备跟随一段影片，追随 20 位人生被武器塑造的人之一的故事，并与同样在追随的其他观众相遇。2013 年 8 月在波鸿鲁尔三年展首演。",
+      "idea_en": "A score delivered on a screen turns each spectator into someone else's scene partner.",
+      "idea_zh": "通过屏幕下达的乐谱，让每位观众都成为别人场景里的搭档。",
+      "protocol": "Spectators are handed a device with a film and headphones and move through the building following what they see and hear on it. The films are synchronised so that each spectator's path crosses others' at set moments, and a spectator who has just watched a scene may later be the one acting it while others watch.",
+      "protocol_zh": "观众领到一台播放影片的设备和耳机，跟随屏幕上的所见所闻在楼里移动。影片彼此同步，使每位观众的路线在设定的时刻与他人交汇；刚刚看过某个场景的观众，稍后可能正是在别人注视下做出这个动作的人。",
+      "collective": "No actors are present; the audience performs the whole piece for itself. One spectator sits at a defence manager's desk while another, following a Pakistani lawyer's film, passes a third who is at a gun-club shooting range, so each person becomes part of a multi-perspective re-enactment that is watched by others.",
+      "collective_zh": "现场没有演员，整部作品由观众为彼此演出。一位观众坐在国防系统经理的办公桌前，另一位跟随一名巴基斯坦律师的影片，途中经过第三位正在枪械俱乐部射击场的观众，于是每个人都成为一场被他人观看的多视角重演的一部分。",
+      "keywords": [
+        "Rimini Protokoll",
+        "Ruhrtriennale",
+        "multiplayer",
+        "arms trade",
+        "re-enactment",
+        "handheld screen"
+      ],
+      "video": {
+        "url": "https://vimeo.com/66642177"
+      },
+      "images": [
+        "https://www.rimini-protokoll.de/website/cache/images/media/situationrooms/pressebilder/1280-RT_SituationRooms_061.jpg",
+        "https://www.rimini-protokoll.de/website/cache/images/media/situationrooms/pressebilder/1280-RT_SituationRooms_643.jpg"
+      ],
+      "source_url": "https://www.rimini-protokoll.de/website/en/project/situation-rooms"
+    },
+    {
+      "id": "omsk-social-club--cryptorave",
+      "creator_ids": [
+        "omsk-social-club",
+        "mediengruppe-bitnik"
+      ],
+      "title": "Cryptorave",
+      "year": 2018,
+      "field": "social",
+      "sub": "economies",
+      "mechanisms": [
+        "currency",
+        "participation",
+        "constraint"
+      ],
+      "substrate": "network",
+      "kind": "series",
+      "description": "A series of raves by OMSK Social Club and !Mediengruppe Bitnik where the ticket is earned by letting a website mine the cryptocurrency Monero on your computer for the event. Editions ran in Berlin, Barcelona, Athens and Basel, among others, from 2018.",
+      "description_zh": "OMSK Social Club 与 !Mediengruppe Bitnik 合作的一系列锐舞派对：门票要靠让一个网站在你的电脑上为活动挖加密货币 Monero 来换取。自 2018 年起在柏林、巴塞罗那、雅典、巴塞尔等地举办。",
+      "idea_en": "Pay for a party with your computer's time, and get a character as your receipt.",
+      "idea_zh": "用你电脑的运算时间为派对买单，换来的收据是一个角色。",
+      "protocol": "To attend, a guest runs the RaveEnabler website, which mines Monero into the organisers' wallet. In the Berlin edition reported by taz, one hour of mining earned a ticket, six hours the location and eleven hours a plus-one; later editions also gave each miner a character to play at the rave, a format the collectives call Real Game Play. At the door the ticket's QR code is checked against the mining ID.",
+      "protocol_zh": "想参加的人要运行 RaveEnabler 网站，让它把 Monero 挖进组织者的钱包。据 taz 报道的柏林场次，挖一小时得到门票，六小时得到地点，十一小时可多带一人；之后的场次还会给每位挖矿者分配一个在派对上扮演的角色，两个团体称这种形式为 Real Game Play。入场时用门票上的二维码核对挖矿编号。",
+      "collective": "Guests spent hours of their own CPU time to get in, and the coins they mined went toward the costs of the night, though taz noted they did not cover them. Inside, participants played their assigned identities among the DJs; the collectives say the event is \"collectively produced by the participants\" and that no one directs what happens. Edition #8 ran with transmediale in Berlin and moved to Berghain; #9 was in Athens in February 2019 and #10 at HEK Basel in March 2019.",
+      "collective_zh": "来宾花费自己电脑数小时的运算时间换取入场，挖到的币用于支付当晚的开销，不过 taz 指出这些钱并不够。进场后，参与者在 DJ 之间扮演分配给他们的身份；两个团体说活动“由参与者集体制作”，没有人导演现场发生的事。第 8 场与柏林 transmediale 合作并移至 Berghain 举行，第 9 场于 2019 年 2 月在雅典，第 10 场于 2019 年 3 月在巴塞尔 HEK。",
+      "keywords": [
+        "Monero",
+        "mining",
+        "RaveEnabler",
+        "Real Game Play",
+        "transmediale",
+        "Berghain",
+        "larp"
+      ],
+      "images": [
+        "https://omsksocial.club/assets/img/Cryptorave%209_Athens_Omsk%20Social%20Club%20and%20MedienGruppe%20Bitniks%20Credits%20Mike%20Tsolis%2021.jpg",
+        "https://networkcultures.org/moneylab/wp-content/uploads/sites/17/2019/11/cryptorave_browser_screenshots_fullscreen_2.png"
+      ],
+      "paper": {
+        "url": "https://networkcultures.org/moneylab/2019/11/11/cryptorave-an-interview-with-omsk-social-club-mediengruppe-bitnik-by-maisa-imamovic/",
+        "venue": "MoneyLab, Institute of Network Cultures",
+        "title": "Cryptorave: An Interview with Omsk Social Club & !Mediengruppe Bitnik"
+      },
+      "source_url": "https://omsksocial.club/cryptorave.html"
+    },
+    {
+      "id": "ed-fornieles--cel",
+      "creator_ids": [
+        "ed-fornieles",
+        "nina-runa-essendrop"
+      ],
+      "title": "Cel",
+      "year": 2019,
+      "field": "social",
+      "sub": "performance",
+      "mechanisms": [
+        "constraint",
+        "participation"
+      ],
+      "substrate": "body",
+      "kind": "artwork",
+      "description": "An immersive role-play in which a group lived in a house as members of an online community built on 4chan, Reddit, gamer and incel culture, filmed on chest cameras and CCTV; the footage became a two-channel video shown at Carlos/Ishikawa, London, in 2019 and later in Worldglimpsing (ArkDes, 2025–26).",
+      "description_zh": "一场沉浸式角色扮演：一群人以一个网络社群成员的身份住进一栋房子，这个社群取材于 4chan、Reddit、游戏玩家和“非自愿独身者”（incel）文化；全程由胸前摄像头和监控录像拍摄，影像剪成双频录像，2019 年在伦敦 Carlos/Ishikawa 展出，后来又在 Worldglimpsing（ArkDes，2025–26）展出。",
+      "idea_en": "Rehearse an ideology inside a game, with exit rules, to see how its hierarchy takes hold of bodies.",
+      "idea_zh": "在设有退出规则的游戏里排练一种意识形态，看它的等级如何附着到身体上。",
+      "protocol": "Fornieles worked out the game's protocols with larp designer Nina Runa Essendrop: participants trained for weeks, then played characters in tiered roles of dominance and submission and could improvise within them. The first stage ran on the rule \"you must always have someone lower than yourself\", and the group used larp techniques to protect their well-being.",
+      "protocol_zh": "Fornieles 与 larp 设计师 Nina Runa Essendrop 一起制定游戏规则：参与者先训练数周，再以分为支配与服从等级的角色进入，并在角色范围内即兴。第一阶段的规则是“你必须始终有一个比你更低的人”，整个群体借助 larp 技巧来保护自身安全。",
+      "collective": "Over two to three days (sources give 48 or 72 hours) the group reorganised itself through shows of strength and social dominance, and the hierarchy escalated into humiliation that Time Out's review describes in detail. The players' behaviour, recorded from inside, is the whole content of the video, and a separate podcast was made from the debrief conversations that followed.",
+      "collective_zh": "在两到三天里（不同资料记为 48 或 72 小时），这群人通过展示力量和社会支配不断重新排序，等级一路升级为羞辱，《Time Out》的评论对此有详细描述。从内部记录下来的玩家行为构成了录像的全部内容，此后的复盘谈话另外剪成了一档播客。",
+      "keywords": [
+        "larp",
+        "incel",
+        "masculinity",
+        "hierarchy",
+        "Carlos/Ishikawa",
+        "Worldglimpsing",
+        "role-play"
+      ],
+      "images": [
+        "https://media.timeout.com/images/105421348/image.jpg"
+      ],
+      "source_url": "https://www.timeout.com/london/art/ed-fornieles-cel",
+      "collections": [
+        "worldglimpsing"
+      ]
+    },
+    {
+      "id": "christian-falsnaes--front",
+      "creator_ids": [
+        "christian-falsnaes"
+      ],
+      "title": "Front",
+      "year": 2014,
+      "field": "score",
+      "sub": "public-instructions",
+      "also": [
+        "social"
+      ],
+      "mechanisms": [
+        "instruction",
+        "participation"
+      ],
+      "substrate": "body",
+      "kind": "artwork",
+      "description": "A participatory performance in which the audience, following the artist's instructions, spray-paints, takes apart, parades and rebuilds a wooden wall of OSB boards about 3 by 15 metres. It was first performed in 2014 at the Bielefelder Kunstverein and at Art Basel Miami Beach, and later at Kunsthalle Wien, YARAT in Baku and the Skulpturbiennale Bingen.",
+      "description_zh": "一件参与式表演：观众按照艺术家的指令，给一面约 3 × 15 米、由 OSB 板组成的木墙喷漆、拆开、举着游行，再重新搭起来。2014 年首演于比勒费尔德艺术协会和巴塞尔艺术展迈阿密海滩展，之后在维也纳美术馆、巴库 YARAT 和宾根雕塑双年展上演。",
+      "idea_en": "The artwork is the trace a crowd leaves when it does what it is told.",
+      "idea_zh": "作品是一群人照指令行事后留下的痕迹。",
+      "protocol": "The artist gives the visitors instructions step by step: what to do with the wooden structure and the spray cans, when to take it apart, carry it and put it back. Anyone present may join or refuse; the painted, dismantled and rebuilt boards remain as the sculpture.",
+      "protocol_zh": "艺术家一步步向观众下达指令：如何处理木结构和喷漆罐，何时把它拆开、扛走、再装回去。在场的任何人都可以参加或拒绝；被喷涂、拆散又重建的板子留下来，成为雕塑。",
+      "collective": "At each venue the crowd turned a blank wall into a painted surface, carried its parts through the space and reassembled it, so the object records a collective process run on instructions. Each version looks different because each audience followed, stretched or ignored the commands in its own way.",
+      "collective_zh": "在每个场地，人群都把一面空白的墙变成彩绘表面，扛着它的碎片穿过空间再拼回去，于是这件物品记录了一次按指令运行的集体过程。每个版本都不一样，因为每批观众都以自己的方式服从、发挥或无视这些命令。",
+      "keywords": [
+        "instructions",
+        "spray paint",
+        "audience",
+        "Art Basel Miami Beach",
+        "Kunsthalle Wien",
+        "obedience"
+      ],
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/59a43ac09f8dceb4db9b5d52/1504302948329-W574FVA9SO9NEVS0WC6O/christianfalsnaes_front_miami.jpg",
+        "https://images.squarespace-cdn.com/content/v1/59a43ac09f8dceb4db9b5d52/1504303001683-PCNDJC0AO01PIPTMNVTL/christianfalsnaes_front_bielefeld.jpg"
+      ],
+      "source_url": "https://www.christianfalsnaes.com/front/"
+    },
+    {
+      "id": "christian-falsnaes--force",
+      "creator_ids": [
+        "christian-falsnaes"
+      ],
+      "title": "FORCE",
+      "year": 2018,
+      "field": "score",
+      "sub": "public-instructions",
+      "mechanisms": [
+        "instruction",
+        "participation"
+      ],
+      "substrate": "body",
+      "kind": "artwork",
+      "description": "A performance with no performers: visitors change into a black costume, enter a white room with a mirror and follow a disembodied voice through a choreographed sequence, watched only by each other. It was shown at Kunstmuseen Krefeld (Kaiser Wilhelm Museum) in 2018.",
+      "description_zh": "一场没有表演者的表演：观众换上黑色服装，走进一间有镜子的白色房间，跟随一个看不见的声音完成一段编排好的动作，彼此是唯一的观众。2018 年在克雷费尔德美术馆（Kaiser Wilhelm Museum）展出。",
+      "idea_en": "Remove the artist and the audience; leave only a voice and the people willing to obey it.",
+      "idea_zh": "去掉艺术家，也去掉观众；只留下一个声音和愿意服从它的人。",
+      "protocol": "Any visitor may take part by putting on the costume and entering the room. A recorded voice gives the instructions; there is no other audience, so the participants perform for one another and for the mirror.",
+      "protocol_zh": "任何观众都可以穿上服装走进房间参与。一个录音声音下达指令；现场没有别的观众，参与者为彼此、也为镜子表演。",
+      "collective": "Groups of visitors who did not know each other carried out the choreography together, so the museum hosted a performance made entirely by its public. Documentation excerpts show the participants moving in unison and out of step as they interpret the voice.",
+      "collective_zh": "互不相识的观众一组组地共同完成这段编舞，于是美术馆里上演了一场完全由公众完成的表演。记录片段显示参与者在理解那个声音时时而同步、时而错拍。",
+      "keywords": [
+        "instructions",
+        "voice",
+        "choreography",
+        "Kunstmuseen Krefeld",
+        "obedience"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=n-lwoBlGdkY"
+      },
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/59a43ac09f8dceb4db9b5d52/1532675478624-BQY1Q4LNZA1DK47H6HXD/_MG_5735.jpg"
+      ],
+      "source_url": "https://www.christianfalsnaes.com/force/"
+    },
+    {
+      "id": "alden-hallak--draw-a-fish",
+      "creator_ids": [
+        "alden-hallak"
+      ],
+      "title": "Draw a Fish (DrawAFish.com)",
+      "year": 2025,
+      "field": "network",
+      "sub": "collective-games",
+      "mechanisms": [
+        "participation",
+        "constraint",
+        "governance"
+      ],
+      "substrate": "network",
+      "kind": "game",
+      "description": "A website where anyone draws a fish; a small neural network in the browser judges whether it looks like a fish, and accepted drawings swim in a shared tank with everyone else's, where they are voted on. Posted to Hacker News in July 2025, it reached the top of the front page on 1 August 2025.",
+      "description_zh": "一个人人都能画鱼的网站；浏览器里的小型神经网络判断画的像不像鱼，通过的画会和所有人的鱼一起在共享鱼缸里游动，并接受投票。它于 2025 年 7 月发到 Hacker News，8 月 1 日登上首页第一。",
+      "idea_en": "One automated gate plus one vote is enough to give a crowd's doodles a shared world and a taste.",
+      "idea_zh": "一道自动关卡加一张选票，就足以让一群人的涂鸦拥有一个共同的世界和一种品味。",
+      "protocol": "Anyone may draw. The classifier changes the background colour as it recognises a fish, and only fish it accepts enter the public tank; visitors vote on fish, and a ranking balances recency and popularity. Moderators can remove fish.",
+      "protocol_zh": "任何人都可以画。分类器一旦认出是鱼就会改变背景颜色，只有它认可的鱼才能进入公共鱼缸；访客给鱼投票，排名在新鲜度与受欢迎程度之间取平衡。管理员可以删除鱼。",
+      "collective": "Visitors filled the tank with hand-drawn fish and voted on each other's. On 3 August 2025 attackers who found an old admin password renamed every user with a slur and swapped good fish for offensive ones; a Hacker News user used a token flaw to remove the worst fish, and the developer rolled back the moderation log and fixed the system, as his public postmortem describes.",
+      "collective_zh": "访客用手绘的鱼填满了鱼缸，并给彼此的鱼投票。2025 年 8 月 3 日，有攻击者找到一个旧的管理员密码，把所有用户名改成侮辱性词语，并用冒犯性的鱼替换掉好的鱼；一位 Hacker News 用户利用令牌漏洞删掉了最糟的鱼，开发者随后回滚了管理日志并修复系统，过程见他公开的事故复盘。",
+      "keywords": [
+        "shared canvas",
+        "classifier",
+        "ONNX",
+        "voting",
+        "Hacker News",
+        "moderation"
+      ],
+      "images": [
+        "https://aldenhallak.com/blog/images/drawafish-hero.jpg"
+      ],
+      "paper": {
+        "url": "https://aldenhallak.com/blog/posts/draw-a-fish-postmortem.html",
+        "title": "DrawAFish.com Postmortem",
+        "venue": "aldenhallak.com"
+      },
+      "source_url": "https://drawafish.com/",
+      "code_url": "https://github.com/aldenhallak/fishes"
+    },
+    {
+      "id": "benediktas-gylys--the-portal",
+      "creator_ids": [
+        "benediktas-gylys"
+      ],
+      "title": "The Portal",
+      "year": 2021,
+      "field": "network",
+      "sub": "telematic",
+      "also": [
+        "social"
+      ],
+      "mechanisms": [
+        "participation",
+        "constraint"
+      ],
+      "substrate": "network",
+      "kind": "series",
+      "description": "Large round screens in public squares that show a live, silent video feed of a twin screen in another city. The first pair opened between Vilnius and Lublin on 26 May 2021; a Dublin–New York pair followed on 8 May 2024.",
+      "description_zh": "设在公共广场上的大型圆形屏幕，实时、无声地播放另一座城市里同款屏幕前的画面。第一对于 2021 年 5 月 26 日在维尔纽斯与卢布林之间开通；2024 年 5 月 8 日又开通了都柏林—纽约一对。",
+      "idea_en": "Give two crowds a window and no sound, and let them invent a language.",
+      "idea_zh": "给两群人一扇窗、不给声音，让他们自己发明一种语言。",
+      "protocol": "The screens run 24 hours a day and show only live video, no audio, of whoever stands before the other screen. Anyone passing may wave, write signs or gesture; there is no host and no script, only the operators' power to switch the link off.",
+      "protocol_zh": "屏幕全天 24 小时运行，只播放另一块屏幕前任何人的实时画面，没有声音。路过的任何人都可以挥手、举牌或做手势；没有主持人、没有脚本，只有运营方关闭连线的权力。",
+      "collective": "Passers-by waved, held up signs and phone screens and watched strangers in the other city do the same. In May 2024 a small number of visitors in Dublin and New York used the link for crass gestures, flashing and an image of the burning Twin Towers, and both portals were switched off on 14 May for several days before reopening. The Vilnius portal moved to Town Hall Square in April 2025, when the network also listed Philadelphia.",
+      "collective_zh": "路人挥手、举起标语和手机屏幕，也看着另一座城市的陌生人这样做。2024 年 5 月，都柏林和纽约有少数访客借这条连线做出粗鲁手势、裸露身体，还展示了燃烧的双子塔图片，两座 Portal 于 5 月 14 日关闭数日后重新开放。2025 年 4 月，维尔纽斯的 Portal 迁到市政厅广场，当时这一网络还列出了费城。",
+      "keywords": [
+        "live video",
+        "public space",
+        "Vilnius",
+        "Lublin",
+        "Dublin",
+        "New York",
+        "telepresence"
+      ],
+      "images": [
+        "https://www.govilnius.lt/images/60b481495ca9a64025442989?w=1200&h=630",
+        "https://static-2026.dezeen.com/uploads/2024/05/portal-nyc-dublin-news_dezeen_2364_hero-852x479.jpg"
+      ],
+      "source_url": "https://www.portals.org/"
+    },
+    {
+      "id": "elliott-cost--one-minute-park",
+      "creator_ids": [
+        "elliott-cost"
+      ],
+      "title": "One Minute Park",
+      "year": 2024,
+      "field": "network",
+      "sub": "crowdsourced",
+      "also": [
+        "score"
+      ],
+      "mechanisms": [
+        "instruction",
+        "participation"
+      ],
+      "substrate": "network",
+      "kind": "platform",
+      "description": "A website that plays full-screen, one-minute videos of ordinary park scenes from around the world, one after another; the clips are filmed and submitted by volunteers, and the goal is to fill all 1,440 minutes of a day. It won the 2024 Tiny Award.",
+      "description_zh": "一个网站，一段接一段地全屏播放世界各地公园里平常景象的一分钟视频；视频由志愿者拍摄并提交，目标是填满一天的全部 1,440 分钟。它获得 2024 年 Tiny Award。",
+      "idea_en": "A precise filming instruction lets strangers make one continuous, calm broadcast together.",
+      "idea_zh": "一条精确的拍摄指令，让陌生人一起做出一段连续、平静的播出节目。",
+      "protocol": "Contributors follow a short score: film exactly 60 seconds on a phone in landscape, hand-held but steady, no tripod and no edits, choosing a scene with many layers of activity and no dominating element; then upload the .mp4 to the project's Are.na channel with date, time, park and location in the title.",
+      "protocol_zh": "投稿者遵循一份简短的乐谱：用手机横屏拍摄整整 60 秒，手持但尽量稳定，不用三脚架、不剪辑，选择有多层活动、没有压倒性元素的画面；然后把 .mp4 上传到项目的 Are.na 频道，标题写明日期、时间、公园和地点。",
+      "collective": "Volunteers in many countries filmed their local parks to the same rules, so the site plays as one uniform programme made by people who never met. The Are.na submission channel, opened in March 2024, held about 350 blocks in November 2026.",
+      "collective_zh": "许多国家的志愿者按同样的规则拍摄自己附近的公园，于是网站播放的是一档由素未谋面的人共同制作、风格统一的节目。Are.na 投稿频道于 2024 年 3 月开设，到 2026 年 11 月约有 350 个条目。",
+      "keywords": [
+        "Are.na",
+        "parks",
+        "60 seconds",
+        "crowdsourced video",
+        "Tiny Awards",
+        "Bell Kiosk"
+      ],
+      "images": [
+        "https://oneminutepark.tv/images/social.jpg"
+      ],
+      "source_url": "https://oneminutepark.tv/",
+      "collections": [
+        "tiny-awards"
+      ]
+    },
+    {
+      "id": "spencer-chang--internet-fridge",
+      "creator_ids": [
+        "spencer-chang"
+      ],
+      "title": "Internet Fridge",
+      "year": 2023,
+      "field": "network",
+      "sub": "collective-games",
+      "mechanisms": [
+        "participation",
+        "co-authorship"
+      ],
+      "substrate": "network",
+      "kind": "game",
+      "description": "A shared magnetic-poetry fridge door on the web: visitors drag word magnets around to make poems and leave them for the next visitor to find and change. Built with Spencer Chang's playhtml library, it was added to the playhtml site in August 2023 and was a finalist for the 2024 Tiny Awards Multiplayer award.",
+      "description_zh": "网上一扇共享的磁贴诗冰箱门：访客拖动单词磁贴拼成诗，留给下一位访客发现并改写。它用 Spencer Chang 的 playhtml 库制作，2023 年 8 月加入 playhtml 网站，入围 2024 年 Tiny Awards 的“多人”奖。",
+      "idea_en": "A persistent shared surface with one gentle rule turns strangers into co-authors across time.",
+      "idea_zh": "一块持久共享的表面加上一条温和的规则，就能让不同时间的陌生人成为共同作者。",
+      "protocol": "Anyone visiting may move any word; positions are saved for everyone, so each visitor inherits the last state and can rearrange it. The only stated rule is \"Please be nice.\"",
+      "protocol_zh": "任何访客都可以移动任何一个单词；位置为所有人保存，所以每位访客接手的都是上一个人留下的状态，并可以重新排列。唯一写明的规则是“请友善”。",
+      "collective": "Visitors left poems, messages and jokes scattered across a wall larger than the screen, then came back to see how others had changed them. The fridge is a slow, asynchronous collective text with no author.",
+      "collective_zh": "访客在一面比屏幕还大的墙上留下散落的诗句、留言和玩笑，又回来看别人如何改动了它们。这台冰箱是一份缓慢、异步、没有作者的集体文本。",
+      "keywords": [
+        "playhtml",
+        "magnetic poetry",
+        "multiplayer",
+        "shared state",
+        "Tiny Awards"
+      ],
+      "images": [
+        "https://playhtml.fun/playhtml-fridge.png"
+      ],
+      "source_url": "https://playhtml.fun/fridge.html",
+      "code_url": "https://github.com/spencerc99/playhtml",
+      "collections": [
+        "tiny-awards"
+      ]
+    },
+    {
+      "id": "lauren-lee-mccarthy--host",
+      "creator_ids": [
+        "lauren-lee-mccarthy"
+      ],
+      "title": "HOST",
+      "year": 2024,
+      "field": "social",
+      "sub": "performance",
+      "also": [
+        "score"
+      ],
+      "mechanisms": [
+        "instruction",
+        "participation"
+      ],
+      "substrate": "ai",
+      "kind": "artwork",
+      "description": "A party as performance: performers carry silver platters of earpieces, and guests who put one in receive private directions from software that listens to the conversation. Commissioned for The Music Center's Black Bar Social programme, it took place at the Dorothy Chandler Pavilion, Los Angeles, on 13 August 2024.",
+      "description_zh": "一场作为表演的派对：表演者端着放满耳机的银盘，戴上耳机的来宾会收到一款监听谈话的软件私下给出的指示。作品受洛杉矶音乐中心 Black Bar Social 项目委托，于 2024 年 8 月 13 日在多萝西·钱德勒大厅举行。",
+      "idea_en": "When every guest may be secretly following a script, no one can tell whose behaviour is their own.",
+      "idea_zh": "当每位客人都可能在暗中照着脚本行事，就没人分得清谁的举动出自本心。",
+      "protocol": "Guests choose whether to take an earpiece. Once in, custom software listens and generates personalised directions for that guest alone; guests set an intention for the gathering at the start, and at each moment decide whether to follow the prompt or act on their own judgment.",
+      "protocol_zh": "来宾自己决定是否戴上耳机。戴上后，定制软件开始监听，并只为这位来宾生成个性化指示；派对开始时来宾为聚会设定一个意图，此后每一刻都自行决定是照提示做，还是按自己的判断行事。",
+      "collective": "Because each guest received different instructions in private, the party's conversations were a mix of prompted and unprompted acts that nobody could fully separate, and the guests made meaning together out of that uncertainty.",
+      "collective_zh": "由于每位来宾私下收到的指令都不同，派对上的对话混杂着被提示和未被提示的举动，谁也无法完全分清，来宾们就在这种不确定中共同生成意义。",
+      "keywords": [
+        "AI",
+        "earpiece",
+        "party",
+        "The Music Center",
+        "Black Bar Social",
+        "UCLA Social Software"
+      ],
+      "images": [
+        "https://framerusercontent.com/images/RdV6veZvtVZL46J0AW7Ha5wYQ4.png",
+        "https://framerusercontent.com/images/nIsNKk6msxxJwMf7E8GWfp9qmk.jpg?width=2048"
+      ],
+      "source_url": "https://get-lauren.net/HOST"
+    },
+    {
+      "id": "improv-everywhere--mp3-experiment",
+      "creator_ids": [
+        "improv-everywhere"
+      ],
+      "title": "The Mp3 Experiment",
+      "year": 2004,
+      "field": "score",
+      "sub": "public-instructions",
+      "also": [
+        "social"
+      ],
+      "mechanisms": [
+        "instruction",
+        "participation"
+      ],
+      "substrate": "body",
+      "kind": "series",
+      "description": "An annual mass event created by Charlie Todd and Tyler Walker: participants load the same audio track, gather in a public place in headphones and press play at the same moment, then carry out the narrator's synchronized instructions. The first edition was held indoors at the Upright Citizens Brigade Theatre in 2004; it has run in New York almost every year since.",
+      "description_zh": "由 Charlie Todd 和 Tyler Walker 创办的年度集体活动：参与者下载同一段音频，戴着耳机聚集到一个公共场所，同时按下播放，然后执行旁白同步发出的指令。第一届于 2004 年在 Upright Citizens Brigade 剧场室内举行，此后几乎每年在纽约举办。",
+      "idea_en": "Press play together and a crowd becomes a choir of strangers acting out one script.",
+      "idea_zh": "一起按下播放，一群陌生人就成了演同一份脚本的合唱团。",
+      "protocol": "Participants download a track of about 45 minutes (now through an app that synchronises playback), arrive at the announced place and time wearing headphones and blend in. A narrator called \"Steve\" gives instructions that everyone follows at once; bystanders without headphones hear nothing.",
+      "protocol_zh": "参与者下载一段约 45 分钟的音轨（如今通过一个同步播放的应用），在公布的时间和地点戴着耳机到场并混入人群。一位名叫“Steve”的旁白发出指令，所有人同时照做；没戴耳机的旁观者什么也听不见。",
+      "collective": "By Improv Everywhere's own counts, crowds grew from about 600 in 2006 to over 7,000 in 2013, and later editions drew thousands, carrying out coordinated actions in public while onlookers try to work out what is happening. The 21st edition was announced for June 2026 at Hudson River Park with Make Music New York.",
+      "collective_zh": "按 Improv Everywhere 自己的统计，参与人数从 2006 年的约 600 人增长到 2013 年的 7,000 多人，此后各届也有数千人参加；他们在公共场所同步行动，旁观者则努力弄清发生了什么。第 21 届宣布于 2026 年 6 月在哈德逊河公园与 Make Music New York 合作举行。",
+      "keywords": [
+        "Improv Everywhere",
+        "headphones",
+        "synchronised audio",
+        "Steve",
+        "flash mob",
+        "Make Music New York"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=gCZcT0URWMA"
+      },
+      "images": [
+        "https://improveverywhere.com/wp-content/uploads/2023/10/2023.06.24-001-Improv-Everywhere-MP3_IMG_9020-scaled.jpg",
+        "https://improveverywhere.com/wp-content/uploads/2008/12/2014_09_20-MP3-11_0533-1024x576.jpg"
+      ],
+      "source_url": "https://improveverywhere.com/missions/the-mp3-experiments/"
+    }
+  ],
+  "leads": [
+    {
+      "name": "Ed Fornieles & Nina Runa Essendrop, Cel (2019)",
+      "why": "Covered: ed-fornieles--cel (added to worldglimpsing).",
+      "link": "https://arkdes.se/en/exhibitions/worldglimpsing/",
+      "found_via": "omsk-social-club",
+      "status": "covered"
+    },
+    {
+      "name": "Rimini Protokoll: Call Cutta in a Box (2008), 100% City (2008–), Remote X (2013), Situation Rooms (2013)",
+      "why": "Covered: rimini-protokoll--remote-x, rimini-protokoll--100-percent-city, rimini-protokoll--situation-rooms. Call Cutta in a Box left out: a one-to-one phone conversation between one spectator and one call-centre worker, not a group protocol.",
+      "link": "https://www.rimini-protokoll.de/website/en/projects",
+      "found_via": "rimini-protokoll",
+      "status": "covered"
+    },
+    {
+      "name": "OMSK Social Club: Cryptorave, Perception as Participation, Worlds' End Hackathon (2024) and other Real Game Play works",
+      "why": "Covered: omsk-social-club--cryptorave. Perception as Participation is an essay and video, not a protocol; Worlds' End Hackathon (2024, commissioned by ARIA) has photos but no published description of its rules.",
+      "link": "https://omsksocial.club/",
+      "found_via": "omsk-social-club",
+      "status": "covered"
+    },
+    {
+      "name": "Christian Falsnaes, audience-instruction performances (JEG/I/MOI 2024; Randers performance collaboration 2025)",
+      "why": "Covered: christian-falsnaes--front, christian-falsnaes--force. The 2024–25 works have no description of an audience protocol on the artist's site.",
+      "link": "https://www.christianfalsnaes.com/",
+      "found_via": "seed",
+      "status": "covered"
+    },
+    {
+      "name": "Operator (Ania Catherine & Dejha Ti), Repeat as necessary: Performance Operating System (2025–26)",
+      "why": "A 31-minute choreography performed by dancers (premiere Scorpios Bodrum, 9–10 August 2025); the on-chain notation and a 1/1 registry token holding the restaging rights do not hand a rule to a group whose behaviour makes the work.",
+      "link": "https://www.operator.la/repeat-as-necessary",
+      "found_via": "seed",
+      "status": "off_topic"
+    },
+    {
+      "name": "Operator, Repeat as necessary: Performance Operating System (2025)",
+      "why": "Same work as the pass3 participatory lead: a choreography by dancers with on-chain notation and a single registry token for restaging rights; no collective protocol.",
+      "link": "https://www.operator.la/repeat-as-necessary",
+      "found_via": "seed",
+      "status": "off_topic"
+    },
+    {
+      "name": "Júlia Nueno Guitart, Sabot – Riding the Algorithm (2022–)",
+      "why": "An organising app prototype for delivery riders (map, restaurant ratings, pay estimates) defined with IWGB riders in 2022; a tool for labour organising rather than an artwork whose rules shape group behaviour, and no documented collective use.",
+      "link": "https://github.com/julianueno/sabot",
+      "found_via": "seed",
+      "status": "off_topic"
+    },
+    {
+      "name": "Draw a Fish (drawafish.com, 2025)",
+      "why": "Covered: alden-hallak--draw-a-fish (creator Alden Hallak, verified via the GitHub repo and his postmortem).",
+      "link": "https://drawafish.com/",
+      "found_via": "seed",
+      "status": "covered"
+    },
+    {
+      "name": "Benediktas Gylys, The Portal (Vilnius–Lublin 2021; Dublin–New York 2024)",
+      "why": "Covered: benediktas-gylys--the-portal.",
+      "link": "https://www.portals.org/",
+      "found_via": "seed",
+      "status": "covered"
+    },
+    {
+      "name": "Elliott Cost, One Minute Park (Tiny Awards 2024 winner)",
+      "why": "Covered: elliott-cost--one-minute-park (in tiny-awards).",
+      "link": "https://oneminutepark.tv/",
+      "found_via": "seed",
+      "status": "covered"
+    },
+    {
+      "name": "Tiny Awards 2024 Multiplayer finalists: Cursorwatching, Internet Fridge, Internet Stoop, Stranger Video, 7 Minutes in Heaven",
+      "why": "Covered: spencer-chang--internet-fridge (in tiny-awards). The others have no stated collective rule beyond co-presence (Cursorwatching, 7 Minutes in Heaven pairs two visitors), and stranger.video and stoop.dog no longer serve the original sites.",
+      "link": "https://tinyawards.net/2024/",
+      "found_via": "nolen-royalty",
+      "status": "covered"
+    },
+    {
+      "name": "Scores for Meeting Otherwise, ed. Aio Frei, Franziska Koch and Irene Revell (Silver Press, November 2026)",
+      "why": "Still on pre-order on 13 November 2026: Silver Press lists publication on 19 November 2026 (ISBN 978-1-9193180-3-5), a feminist history of the performance score from Pauline Oliveros and Womens Work, with new scores by Sarah Hennies, Matana Roberts, Elaine Mitchener, Ginger Brooks Takahashi and others. Add as theory/participation once published; could become a survey collection.",
+      "link": "https://www.silverpress.org/products/scores-for-meeting-otherwise-edited-by-irene-revell-aio-frei-franziska-koch",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "Lauren Lee McCarthy, HOST (party performance with AI earpiece directions)",
+      "why": "Covered: lauren-lee-mccarthy--host (The Music Center, 13 August 2024).",
+      "link": "https://get-lauren.net/HOST",
+      "found_via": "lauren-lee-mccarthy",
+      "status": "covered"
+    },
+    {
+      "name": "Tino Sehgal, new lobby work at Leeum Museum of Art (Seoul, 2026)",
+      "why": "Untitled in all reports, photography banned in the exhibition, and no image or video of the lobby piece exists.",
+      "link": "https://en.sedaily.com/culture/2026/02/26/tino-sehgals-first-korean-solo-show-bans-all-photography",
+      "found_via": "seed",
+      "status": "no_media"
+    },
+    {
+      "name": "Improv Everywhere, The Mp3 Experiment (2004–; 21st edition 2025)",
+      "why": "Covered: improv-everywhere--mp3-experiment (the 2025 edition was the 20th; the 21st was set for June 2026).",
+      "link": "https://improveverywhere.com/missions/the-mp3-experiments/",
+      "found_via": "seed",
+      "status": "covered"
+    },
+    {
+      "name": "Mehtap Baydu, Analı Kızlı – With Mothers and Daughters (Manifesta 16 Ruhr, 2026)",
+      "why": "A meal cooked by a collective of Bochum women for guests in a former church; no published invitation or seating rule, closer to a hosted dinner than a protocol (sources also differ on 11 or 12 cooks).",
+      "link": "https://www.goethe.de/prj/ger/en/ihr/27303804.html",
+      "found_via": "seed",
+      "status": "off_topic"
+    },
+    {
+      "name": "Ed Fornieles Studios, OMSK Social Club & Nina Runa Essendrop, The Group; A Temporary Autonomous Hotel (Athens Biennale, 2018)",
+      "why": "Larp at Esperia Palace, 9–10 November 2018: visitors collect an identity and a room key at reception and must play their role inside rooms named for psychological positions. Only one image found so far.",
+      "link": "https://anti.athensbiennale.org/en/artist/ed-fornieles-studios-omsk-social-club-and-nina-runa-essendrop",
+      "found_via": "ed-fornieles",
+      "status": "open"
+    },
+    {
+      "name": "Ed Fornieles, Dorm Daze (Facebook role-play performance)",
+      "why": "Large-scale online performance in which participants took on Facebook profiles of American college students; date and documentation to verify.",
+      "link": "https://en.wikipedia.org/wiki/Ed_Fornieles",
+      "found_via": "ed-fornieles",
+      "status": "open"
+    },
+    {
+      "name": "Christian Falsnaes: Rise (2014), A Good Reason Is One That Looks Like One (2015), Stage (2017), Feast (2021)",
+      "why": "Further audience-instruction works on the artist's site (instructions by microphone, loudspeaker or headphones); add if a later pass wants the artist's full set.",
+      "link": "https://www.christianfalsnaes.com/",
+      "found_via": "christian-falsnaes",
+      "status": "open"
+    },
+    {
+      "name": "Shin Hanagata, CHIMERIA (Prix Ars Electronica 2026 Award of Distinction)",
+      "why": "Five volunteers lived for two weeks in a Tokyo house with the eye moved to another part of the body by camera and headset, inventing new routines; performances let visitors enter. Check whether the artist's rules for the volunteers make it a group protocol.",
+      "link": "https://ars.electronica.art/prix/winners",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "Tarek Atoui, Hold (Hyundai Commission, Tate Modern, 13 October 2026 – 11 April 2027)",
+      "why": "Sound installation that invited musicians plug into as a system during scheduled sessions; it addresses selected performers, not a public under a rule.",
+      "link": "https://www.tate.org.uk/press/press-releases/hyundai-commission-tarek-atoui-hold",
+      "found_via": "seed",
+      "status": "off_topic"
+    }
+  ]
+}

@@ -6178,5 +6178,623 @@
   "ok": true,
   "type": "image",
   "content_type": "image/jpeg"
+ },
+ "img:https://clovers.network/img/twitter-optimized.png": {
+  "url": "https://clovers.network/img/twitter-optimized.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://miro.medium.com/max/2416/0*lZuZIEADkoWz0t_n.jpeg": {
+  "url": "https://miro.medium.com/max/2416/0*lZuZIEADkoWz0t_n.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://miro.medium.com/max/1200/1*Jrs_4INC4e3-8UTkVKutwA.gif": {
+  "url": "https://miro.medium.com/max/1200/1*Jrs_4INC4e3-8UTkVKutwA.gif",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/gif"
+ },
+ "img:https://isthisa.com/static/RememberingNetwork/Sarah-Friend-Remembering-Network-1.png": {
+  "url": "https://isthisa.com/static/RememberingNetwork/Sarah-Friend-Remembering-Network-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://static-assets.artlogic.net/w_1600,h_1600,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/gazelli/images/view/41a594f406d379fec42ca47d8a3bc3cbj/gazelliarthouse-sarah-friend-remembering-network-2019.jpg": {
+  "url": "https://static-assets.artlogic.net/w_1600,h_1600,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/gazelli/images/view/41a594f406d379fec42ca47d8a3bc3cbj/gazelliarthouse-sarah-friend-remembering-network-2019.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://isthisa.com/static/RememberingNetwork/Sarah-Friend-Remembering-Network-4.jpg": {
+  "url": "https://isthisa.com/static/RememberingNetwork/Sarah-Friend-Remembering-Network-4.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://isthisa.com/static/Webring/Sarah-Friend-Webring-8.png": {
+  "url": "https://isthisa.com/static/Webring/Sarah-Friend-Webring-8.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://static-assets.artlogic.net/w_2400,h_2400,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/gazelli/images/view/332b21e3f46e92220f46106af8430123p/gazelliarthouse-sarah-friend-portal-constellation-2020.png": {
+  "url": "https://static-assets.artlogic.net/w_2400,h_2400,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/gazelli/images/view/332b21e3f46e92220f46106af8430123p/gazelliarthouse-sarah-friend-portal-constellation-2020.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://isthisa.com/static/Webring/Sarah-Friend-Webring-1.png": {
+  "url": "https://isthisa.com/static/Webring/Sarah-Friend-Webring-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://snark.art/images/production/bbrcfc.png": {
+  "url": "https://snark.art/images/production/bbrcfc.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://nft.snark.art/0xd851fbd96d16d6b818c622cbc23e4197adce4058/974/1.png": {
+  "url": "https://nft.snark.art/0xd851fbd96d16d6b818c622cbc23e4197adce4058/974/1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "application/octet-stream"
+ },
+ "img:https://ogcrystals.com/webflow/images/og-min.jpg": {
+  "url": "https://ogcrystals.com/webflow/images/og-min.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://forklog.com/wp-content/uploads/Snark_Crystals_NFT-min.webp": {
+  "url": "https://forklog.com/wp-content/uploads/Snark_Crystals_NFT-min.webp",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://snark.art/images/production/ogcrmjdk.png": {
+  "url": "https://snark.art/images/production/ogcrmjdk.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://snark.art/images/production/atrlatp.png": {
+  "url": "https://snark.art/images/production/atrlatp.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://bitcoinmagazine.com/wp-content/uploads/2025/01/coin1.jpg": {
+  "url": "https://bitcoinmagazine.com/wp-content/uploads/2025/01/coin1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://bitcoinmagazine.com/wp-content/uploads/2025/01/coin.png": {
+  "url": "https://bitcoinmagazine.com/wp-content/uploads/2025/01/coin.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://versecontent.com/image/w3840/static%2F27ee9443-d49b-44ed-b94b-e9514dc20c50.png@jpeg": {
+  "url": "https://versecontent.com/image/w3840/static%2F27ee9443-d49b-44ed-b94b-e9514dc20c50.png@jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://versecontent.com/image/w3840/static%2Fe7d7c84e-d14a-482a-94c1-9ea63dd9f81f.jpeg@jpeg": {
+  "url": "https://versecontent.com/image/w3840/static%2Fe7d7c84e-d14a-482a-94c1-9ea63dd9f81f.jpeg@jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://versecontent.com/image/w1400/static%2F1123c06a-e052-4ef5-945f-e1fb089ffc77.jpeg@jpeg": {
+  "url": "https://versecontent.com/image/w1400/static%2F1123c06a-e052-4ef5-945f-e1fb089ffc77.jpeg@jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://cms.botto.com/assets/fddf76c9-3701-4d44-b958-aa65eb18d708.png": {
+  "url": "https://cms.botto.com/assets/fddf76c9-3701-4d44-b958-aa65eb18d708.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://substack-post-media.s3.amazonaws.com/public/images/d60e172f-8a21-4055-8b0c-2bd7034f8df6_200x1024.jpeg": {
+  "url": "https://substack-post-media.s3.amazonaws.com/public/images/d60e172f-8a21-4055-8b0c-2bd7034f8df6_200x1024.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://substack-post-media.s3.amazonaws.com/public/images/40bb6f49-d933-4bad-a87a-6566aa6f0eba_1409x513.png": {
+  "url": "https://substack-post-media.s3.amazonaws.com/public/images/40bb6f49-d933-4bad-a87a-6566aa6f0eba_1409x513.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "video:vimeo:22825752": {
+  "url": "https://vimeo.com/22825752",
+  "ok": true,
+  "platform": "vimeo",
+  "id": "22825752",
+  "embeddable": true,
+  "title": "Tweenbots",
+  "thumbnail": "https://i.vimeocdn.com/video/1501693110-9c746e1c9d4f2694d75e3979416b822404ad2fe8e47adc451511ea4959d09247-d?f=webp&amp;region=us"
+ },
+ "img:http://www.tweenbots.com/img/peopleBot.jpg": {
+  "url": "http://www.tweenbots.com/img/peopleBot.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:http://www.tweenbots.com/img/elfBoyHelp.jpg": {
+  "url": "http://www.tweenbots.com/img/elfBoyHelp.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.lozano-hemmer.com/image_sets/voz_alta/mexico_2008/voz_alta_01.jpg": {
+  "url": "https://www.lozano-hemmer.com/image_sets/voz_alta/mexico_2008/voz_alta_01.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.lozano-hemmer.com/image_sets/voz_alta/mexico_2008/voz_alta_03.jpg": {
+  "url": "https://www.lozano-hemmer.com/image_sets/voz_alta/mexico_2008/voz_alta_03.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://jamiedubs.com/images/blog/breaking-down-songcamp-elektra-crowdfund/mirror-screenshot.png": {
+  "url": "https://jamiedubs.com/images/blog/breaking-down-songcamp-elektra-crowdfund/mirror-screenshot.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "video:vimeo:7182676": {
+  "url": "https://vimeo.com/7182676",
+  "ok": true,
+  "platform": "vimeo",
+  "id": "7182676",
+  "embeddable": true,
+  "title": "Uncle Roy All Around You",
+  "thumbnail": "https://i.vimeocdn.com/video/449286241-8cc9c413271448080f2752d148d6c0e60e18a173cd54be341763bc4e55f977c2-d?f=webp&amp;region=us"
+ },
+ "img:https://www.blasttheory.co.uk/wp-content/uploads/2013/02/uraay_featured-scaled.jpg": {
+  "url": "https://www.blasttheory.co.uk/wp-content/uploads/2013/02/uraay_featured-scaled.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.blasttheory.co.uk/wp-content/uploads/2013/02/uraay_secondary-625x450.jpg": {
+  "url": "https://www.blasttheory.co.uk/wp-content/uploads/2013/02/uraay_secondary-625x450.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:vimeo:5490913": {
+  "url": "https://vimeo.com/5490913",
+  "ok": true,
+  "platform": "vimeo",
+  "id": "5490913",
+  "embeddable": true,
+  "title": "Day Of The Figurines",
+  "thumbnail": "https://i.vimeocdn.com/video/449286376-6bb09f42da263bae57f1054a3bf81fefd2310bddccfa6ce7fd7f9fe671d922ee-d?f=webp&amp;region=us"
+ },
+ "img:https://www.blasttheory.co.uk/wp-content/uploads/2013/02/dotf_featured-scaled.jpg": {
+  "url": "https://www.blasttheory.co.uk/wp-content/uploads/2013/02/dotf_featured-scaled.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.blasttheory.co.uk/wp-content/uploads/2013/02/dotf_secondary-625x450.jpg": {
+  "url": "https://www.blasttheory.co.uk/wp-content/uploads/2013/02/dotf_secondary-625x450.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://artdaily.cc/imagenes/2020/03/25/adance-2.jpg": {
+  "url": "https://artdaily.cc/imagenes/2020/03/25/adance-2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.getty.edu/publications/scores/_assets/images/figures/gri_94_b19099_021.jpg": {
+  "url": "https://www.getty.edu/publications/scores/_assets/images/figures/gri_94_b19099_021.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.getty.edu/publications/scores/_assets/images/figures/gri_94_b19099_011.jpg": {
+  "url": "https://www.getty.edu/publications/scores/_assets/images/figures/gri_94_b19099_011.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:qQICXB8_LSc": {
+  "url": "https://www.youtube.com/watch?v=qQICXB8_LSc",
+  "ok": true,
+  "platform": "youtube",
+  "id": "qQICXB8_LSc",
+  "title": "Olafur Eliasson – Green light | An artistic workshop",
+  "author": "TBA21 Thyssen-Bornemisza Art Contemporary",
+  "thumbnail": "https://i.ytimg.com/vi/qQICXB8_LSc/hqdefault.jpg"
+ },
+ "img:https://olafureliasson.net/greenlight/assets/image/slideshow/1.jpg": {
+  "url": "https://olafureliasson.net/greenlight/assets/image/slideshow/1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.designboom.com/twitterimages/uploads/2016/05/olafur-eliasson-TBA21-green-light-workshop-designboom-01-818x545.jpg": {
+  "url": "https://www.designboom.com/twitterimages/uploads/2016/05/olafur-eliasson-TBA21-green-light-workshop-designboom-01-818x545.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://artmetropole.com/image/8571/l": {
+  "url": "https://artmetropole.com/image/8571/l",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://cdn.sanity.io/images/cxgd3urn/production/b077051c7325f9e180addef7f0317f5dca043823-1400x1077.jpg?w=1200&fm=jpg": {
+  "url": "https://cdn.sanity.io/images/cxgd3urn/production/b077051c7325f9e180addef7f0317f5dca043823-1400x1077.jpg?w=1200&fm=jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://lh3.googleusercontent.com/ci/AL18g_Q2u3f9LPgFZKEBYq-AerWkd0WwcZmkmXNbNxySZZ_sznxC8cQ7-YpIwC5VQ_ZRz2aaj_pOOr33": {
+  "url": "https://lh3.googleusercontent.com/ci/AL18g_Q2u3f9LPgFZKEBYq-AerWkd0WwcZmkmXNbNxySZZ_sznxC8cQ7-YpIwC5VQ_ZRz2aaj_pOOr33",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://lh3.googleusercontent.com/ci/AL18g_RLp1lUzW6gm3oJIIJCDssjmk3CIlYNvYEfb4sr0hBElj7EbS0WXJG8RqRSMR24_-kJJPa_QA": {
+  "url": "https://lh3.googleusercontent.com/ci/AL18g_RLp1lUzW6gm3oJIIJCDssjmk3CIlYNvYEfb4sr0hBElj7EbS0WXJG8RqRSMR24_-kJJPa_QA",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://d2zy2h1755x359.cloudfront.net/public/DigitalAsset/11350-55065-a05276/b269683d706d4005c5dd0b354060a22a/full/medium/0/default.jpg": {
+  "url": "https://d2zy2h1755x359.cloudfront.net/public/DigitalAsset/11350-55065-a05276/b269683d706d4005c5dd0b354060a22a/full/medium/0/default.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "application/octet-stream"
+ },
+ "video:youtube:4n_sVCbZp2k": {
+  "url": "https://www.youtube.com/watch?v=4n_sVCbZp2k",
+  "ok": true,
+  "platform": "youtube",
+  "id": "4n_sVCbZp2k",
+  "title": "Lee Mingwei - Sonic Blossom",
+  "author": "MCA Australia",
+  "thumbnail": "https://i.ytimg.com/vi/4n_sVCbZp2k/hqdefault.jpg"
+ },
+ "img:https://acaw.info/wp-content/uploads/2015/04/Lee-Mingwei-banner-1024x304.jpg": {
+  "url": "https://acaw.info/wp-content/uploads/2015/04/Lee-Mingwei-banner-1024x304.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://fabricworkshopandmuseum.org/wp-content/uploads/2018/06/Lee_Mingwei_004_LR.jpg": {
+  "url": "https://fabricworkshopandmuseum.org/wp-content/uploads/2018/06/Lee_Mingwei_004_LR.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://plsdlr.net/aline/aline_01.jpg": {
+  "url": "https://plsdlr.net/aline/aline_01.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://plsdlr.net/aline/aline_02.jpg": {
+  "url": "https://plsdlr.net/aline/aline_02.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://cdn.prod.website-files.com/6411e594fbd274173bf8c35c/6a01b48f5eac33bbeedbb1a8_Untitled%20design%20(5).png": {
+  "url": "https://cdn.prod.website-files.com/6411e594fbd274173bf8c35c/6a01b48f5eac33bbeedbb1a8_Untitled%20design%20(5).png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://images.routledge.com/common/jackets/crclarge/978103261/9781032612317.jpg": {
+  "url": "https://images.routledge.com/common/jackets/crclarge/978103261/9781032612317.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.4324/9781032615301": {
+  "doi": "10.4324/9781032615301",
+  "ok": true,
+  "type": "doi",
+  "title": "Behaviourist Art and Cybernetics",
+  "year": 2025,
+  "venue": "",
+  "url": "https://doi.org/10.4324/9781032615301"
+ },
+ "img:https://www.openhumanitiespress.org/book-covers/curating-superintelligences_cover_200x300.jpg": {
+  "url": "https://www.openhumanitiespress.org/book-covers/curating-superintelligences_cover_200x300.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.sleek-mag.com/wp-content/uploads/2026/09/Plantoid-family.jpg": {
+  "url": "https://www.sleek-mag.com/wp-content/uploads/2026/09/Plantoid-family.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://tx.0xfff.love/site/previews/7.svg": {
+  "url": "https://tx.0xfff.love/site/previews/7.svg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/svg+xml"
+ },
+ "img:https://tx.0xfff.love/site/previews/0.svg": {
+  "url": "https://tx.0xfff.love/site/previews/0.svg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/svg+xml"
+ },
+ "img:https://pbs.twimg.com/media/FzLqIfPWYAAtqQn?format=jpg&name=large": {
+  "url": "https://pbs.twimg.com/media/FzLqIfPWYAAtqQn?format=jpg&name=large",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://line.fingerprintsdao.xyz/about/header.jpg": {
+  "url": "https://line.fingerprintsdao.xyz/about/header.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://line.fingerprintsdao.xyz/_next/image?url=%2Fabout%2Fmovement.gif&w=3840&q=75": {
+  "url": "https://line.fingerprintsdao.xyz/_next/image?url=%2Fabout%2Fmovement.gif&w=3840&q=75",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/gif"
+ },
+ "img:https://studio-line-dapp-web-6xbcxival-fingerprints.vercel.app/opengraph-image.jpg": {
+  "url": "https://studio-line-dapp-web-6xbcxival-fingerprints.vercel.app/opengraph-image.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:vimeo:1075743293": {
+  "url": "https://vimeo.com/1075743293",
+  "ok": true,
+  "platform": "vimeo",
+  "id": "1075743293",
+  "embeddable": true,
+  "title": "Fango 1000 (2024)",
+  "thumbnail": "https://i.vimeocdn.com/video/2052188612-b6c0072a949d19a0699b7eec6974f01eb39a9b61052a044cf3c6c9ec717927e1-d?f=webp&amp;region=us"
+ },
+ "img:https://dmstfctn.net/related-matters/fango-1000/content/hover.webp": {
+  "url": "https://dmstfctn.net/related-matters/fango-1000/content/hover.webp",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://assets.rcs-cdn.com/img/d3659b36-8c13-441d-b9ff-96b2e35a0be7/b5d8cbb3c7b366ea?w=2000&f=auto&sig=d7f00d573199bc1756143b5ad0f9c217": {
+  "url": "https://assets.rcs-cdn.com/img/d3659b36-8c13-441d-b9ff-96b2e35a0be7/b5d8cbb3c7b366ea?w=2000&f=auto&sig=d7f00d573199bc1756143b5ad0f9c217",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/avif"
+ },
+ "img:https://assets.rcs-cdn.com/img/15d951e5-7aa7-4b0b-86c5-c1ff7e6e5f2c/e82cea3f1208ffd2?w=1280&f=auto&sig=c1b9b7f37e687d224201ebf35a508d51": {
+  "url": "https://assets.rcs-cdn.com/img/15d951e5-7aa7-4b0b-86c5-c1ff7e6e5f2c/e82cea3f1208ffd2?w=1280&f=auto&sig=c1b9b7f37e687d224201ebf35a508d51",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/avif"
+ },
+ "img:https://assets.rcs-cdn.com/img/35cd0e88-2574-4298-9643-1f0bb381f40a/559495ff54224091?w=1280&f=auto&sig=595e2157ae9ca2242b19165802a68954": {
+  "url": "https://assets.rcs-cdn.com/img/35cd0e88-2574-4298-9643-1f0bb381f40a/559495ff54224091?w=1280&f=auto&sig=595e2157ae9ca2242b19165802a68954",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/avif"
+ },
+ "video:vimeo:116552002": {
+  "url": "https://vimeo.com/116552002",
+  "ok": true,
+  "platform": "vimeo",
+  "id": "116552002",
+  "embeddable": true,
+  "title": "Remote Berlin | Stefan Kaegi / Jörg Karrenbauer (in English)",
+  "thumbnail": "https://i.vimeocdn.com/video/502947158-d8fddc0e6c5e78d76d0da3410c6125ef214eb5b0bf2f52cca6aa05869cbd61af-d?f=webp&amp;region=us"
+ },
+ "img:https://www.rimini-protokoll.de/website/cache/images/media/remotex/1280-RemoteTaipei%C2%A9Lafun%20Photography_1.jpg": {
+  "url": "https://www.rimini-protokoll.de/website/cache/images/media/remotex/1280-RemoteTaipei%C2%A9Lafun%20Photography_1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.rimini-protokoll.de/website/cache/images/media/remotex/1280-RemoteTaipei%C2%A9Lafun%20Photography_3%20copy%201.jpg": {
+  "url": "https://www.rimini-protokoll.de/website/cache/images/media/remotex/1280-RemoteTaipei%C2%A9Lafun%20Photography_3%20copy%201.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:vimeo:41972757": {
+  "url": "https://vimeo.com/41972757",
+  "ok": true,
+  "platform": "vimeo",
+  "id": "41972757",
+  "embeddable": true,
+  "title": "TRAILER OF 100 PROZENT BERLIN - Eine statistische Kettenreaktion | Haug, Kaegi und Wetzel",
+  "thumbnail": "https://i.vimeocdn.com/video/291028795-90bb01ed4d8c8387fbc00ced8b6b1e8083449e0f07fd7ce39901b0b4b8c36d7f-d?f=webp&amp;region=us"
+ },
+ "img:https://www.rimini-protokoll.de/website/cache/images/media/100prozentberlin/1280-DRAMA2008019-9381.jpg": {
+  "url": "https://www.rimini-protokoll.de/website/cache/images/media/100prozentberlin/1280-DRAMA2008019-9381.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.rimini-protokoll.de/website/cache/images/media/100prozentberlin/1280-DRAMA_HAU1_100ProzentBerlin_09.jpg": {
+  "url": "https://www.rimini-protokoll.de/website/cache/images/media/100prozentberlin/1280-DRAMA_HAU1_100ProzentBerlin_09.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:vimeo:66642177": {
+  "url": "https://vimeo.com/66642177",
+  "ok": true,
+  "platform": "vimeo",
+  "id": "66642177",
+  "embeddable": true,
+  "title": "TRAILER of SITUATION ROOMS | Haug / Kaegi / Wetzel (with english subtitles)",
+  "thumbnail": "https://i.vimeocdn.com/video/438156239-b2427dc4a2744c0f2989727cc742f413799cb6c4dc86f2212b3cebc43c4f8fd2-d?f=webp&amp;region=us"
+ },
+ "img:https://www.rimini-protokoll.de/website/cache/images/media/situationrooms/pressebilder/1280-RT_SituationRooms_061.jpg": {
+  "url": "https://www.rimini-protokoll.de/website/cache/images/media/situationrooms/pressebilder/1280-RT_SituationRooms_061.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.rimini-protokoll.de/website/cache/images/media/situationrooms/pressebilder/1280-RT_SituationRooms_643.jpg": {
+  "url": "https://www.rimini-protokoll.de/website/cache/images/media/situationrooms/pressebilder/1280-RT_SituationRooms_643.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://omsksocial.club/assets/img/Cryptorave%209_Athens_Omsk%20Social%20Club%20and%20MedienGruppe%20Bitniks%20Credits%20Mike%20Tsolis%2021.jpg": {
+  "url": "https://omsksocial.club/assets/img/Cryptorave%209_Athens_Omsk%20Social%20Club%20and%20MedienGruppe%20Bitniks%20Credits%20Mike%20Tsolis%2021.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://networkcultures.org/moneylab/wp-content/uploads/sites/17/2019/11/cryptorave_browser_screenshots_fullscreen_2.png": {
+  "url": "https://networkcultures.org/moneylab/wp-content/uploads/sites/17/2019/11/cryptorave_browser_screenshots_fullscreen_2.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://media.timeout.com/images/105421348/image.jpg": {
+  "url": "https://media.timeout.com/images/105421348/image.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/59a43ac09f8dceb4db9b5d52/1504302948329-W574FVA9SO9NEVS0WC6O/christianfalsnaes_front_miami.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/59a43ac09f8dceb4db9b5d52/1504302948329-W574FVA9SO9NEVS0WC6O/christianfalsnaes_front_miami.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/59a43ac09f8dceb4db9b5d52/1504303001683-PCNDJC0AO01PIPTMNVTL/christianfalsnaes_front_bielefeld.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/59a43ac09f8dceb4db9b5d52/1504303001683-PCNDJC0AO01PIPTMNVTL/christianfalsnaes_front_bielefeld.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:n-lwoBlGdkY": {
+  "url": "https://www.youtube.com/watch?v=n-lwoBlGdkY",
+  "ok": true,
+  "platform": "youtube",
+  "id": "n-lwoBlGdkY",
+  "title": "Christian Falsnaes - FORCE (2018) (documentation excerpts)",
+  "author": "P0and0not0P",
+  "thumbnail": "https://i.ytimg.com/vi/n-lwoBlGdkY/hqdefault.jpg"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/59a43ac09f8dceb4db9b5d52/1532675478624-BQY1Q4LNZA1DK47H6HXD/_MG_5735.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/59a43ac09f8dceb4db9b5d52/1532675478624-BQY1Q4LNZA1DK47H6HXD/_MG_5735.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://aldenhallak.com/blog/images/drawafish-hero.jpg": {
+  "url": "https://aldenhallak.com/blog/images/drawafish-hero.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.govilnius.lt/images/60b481495ca9a64025442989?w=1200&h=630": {
+  "url": "https://www.govilnius.lt/images/60b481495ca9a64025442989?w=1200&h=630",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpg"
+ },
+ "img:https://static-2026.dezeen.com/uploads/2024/05/portal-nyc-dublin-news_dezeen_2364_hero-852x479.jpg": {
+  "url": "https://static-2026.dezeen.com/uploads/2024/05/portal-nyc-dublin-news_dezeen_2364_hero-852x479.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://oneminutepark.tv/images/social.jpg": {
+  "url": "https://oneminutepark.tv/images/social.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://playhtml.fun/playhtml-fridge.png": {
+  "url": "https://playhtml.fun/playhtml-fridge.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://framerusercontent.com/images/RdV6veZvtVZL46J0AW7Ha5wYQ4.png": {
+  "url": "https://framerusercontent.com/images/RdV6veZvtVZL46J0AW7Ha5wYQ4.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://framerusercontent.com/images/nIsNKk6msxxJwMf7E8GWfp9qmk.jpg?width=2048": {
+  "url": "https://framerusercontent.com/images/nIsNKk6msxxJwMf7E8GWfp9qmk.jpg?width=2048",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:gCZcT0URWMA": {
+  "url": "https://www.youtube.com/watch?v=gCZcT0URWMA",
+  "ok": true,
+  "platform": "youtube",
+  "id": "gCZcT0URWMA",
+  "title": "Following Ridiculous Synchronized Instructions: The Mp3 Experiment 20",
+  "author": "Improv Everywhere",
+  "thumbnail": "https://i.ytimg.com/vi/gCZcT0URWMA/hqdefault.jpg"
+ },
+ "img:https://improveverywhere.com/wp-content/uploads/2023/10/2023.06.24-001-Improv-Everywhere-MP3_IMG_9020-scaled.jpg": {
+  "url": "https://improveverywhere.com/wp-content/uploads/2023/10/2023.06.24-001-Improv-Everywhere-MP3_IMG_9020-scaled.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://improveverywhere.com/wp-content/uploads/2008/12/2014_09_20-MP3-11_0533-1024x576.jpg": {
+  "url": "https://improveverywhere.com/wp-content/uploads/2008/12/2014_09_20-MP3-11_0533-1024x576.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:qQICXB8_LSc": {
+  "url": "https://i.ytimg.com/vi/qQICXB8_LSc/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:4n_sVCbZp2k": {
+  "url": "https://i.ytimg.com/vi/4n_sVCbZp2k/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:n-lwoBlGdkY": {
+  "url": "https://i.ytimg.com/vi/n-lwoBlGdkY/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:gCZcT0URWMA": {
+  "url": "https://i.ytimg.com/vi/gCZcT0URWMA/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
  }
 }

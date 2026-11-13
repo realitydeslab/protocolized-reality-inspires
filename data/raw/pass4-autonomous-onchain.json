@@ -1,0 +1,610 @@
+{
+ "batch": "pass4-autonomous-onchain",
+ "creators": [
+  {
+   "id": "eboy",
+   "name": "eBoy",
+   "kind": "collective",
+   "role": "Pixel art group",
+   "role_zh": "像素艺术团体",
+   "based": "Berlin, DE",
+   "based_zh": "柏林，德国",
+   "bio": "Pixel art group founded in 1997, known for dense isometric pixel cityscapes; it has released NFT series on Ethereum, Art Blocks and fxhash and issues its own creator coin, $EBOY.",
+   "bio_zh": "1997 年成立的像素艺术团体，以密集的等距像素城市景观闻名；曾在以太坊、Art Blocks 和 fxhash 上发行 NFT 系列，并发行自己的创作者代币 $EBOY。",
+   "why": "In TOWR it hands the growth of each pixel tower to collectors, who pay in the group's own coin to stack new floors.",
+   "why_zh": "在 TOWR 中，它把每座像素塔的生长交给藏家：藏家用该团体自己的代币付费，一层层往上加盖。",
+   "links": {
+    "site": "https://eboy.com"
+   },
+   "connected_to": [],
+   "discovered_via": "ciphrd"
+  },
+  {
+   "id": "jack-and-leigh-ruby",
+   "name": "Jack & Leigh Ruby",
+   "kind": "collective",
+   "role": "Artist duo",
+   "role_zh": "艺术家二人组",
+   "bio": "Artist duo who directed the 'channelling' performance …all the reporters laughed and took pictures, cast through Snark.art and first performed at the SPRING/BREAK Art Show in 2019.",
+   "bio_zh": "艺术家二人组，执导了“通灵”表演《…all the reporters laughed and took pictures》，该表演通过 Snark.art 招募演员，2019 年在 SPRING/BREAK 艺术展首演。",
+   "why": "They used a blockchain token as a casting call, so that whoever claims one becomes a performer.",
+   "why_zh": "他们把区块链代币当作演员招募令：谁领取了代币，谁就成为表演者。",
+   "links": {},
+   "connected_to": [
+    "snark-art"
+   ],
+   "discovered_via": "snark-art"
+  },
+  {
+   "id": "michael-joo",
+   "name": "Michael Joo",
+   "kind": "person",
+   "role": "Artist",
+   "role_zh": "艺术家",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "bio": "American artist whose sculpture, installation and video work deals with science, natural systems and identity; he represented Korea at the 2001 Venice Biennale.",
+   "bio_zh": "美国艺术家，其雕塑、装置和影像作品关注科学、自然系统与身份问题；2001 年代表韩国参加威尼斯双年展。",
+   "why": "With Danil Krivoruchko he made OG:Crystals, NFTs that grow a new layer with every change of owner.",
+   "why_zh": "他与 Danil Krivoruchko 合作创作了 OG:Crystals：每换一次主人就长出新一层的 NFT。",
+   "links": {},
+   "connected_to": [
+    "danil-krivoruchko",
+    "snark-art"
+   ],
+   "discovered_via": "snark-art"
+  },
+  {
+   "id": "danil-krivoruchko",
+   "name": "Danil Krivoruchko",
+   "kind": "person",
+   "role": "Motion designer and creative director",
+   "role_zh": "动态设计师、创意总监",
+   "based": "US",
+   "based_zh": "美国",
+   "bio": "Motion designer and creative director who began the procedural 3D creatures Ksoids with Viktoriya Krivoruchko in 2013 and released 1,000 of them as NFTs in 2021.",
+   "bio_zh": "动态设计师、创意总监，2013 年与 Viktoriya Krivoruchko 一起开始创作程序化 3D 生物 Ksoids，2021 年将其中 1000 个发行为 NFT。",
+   "why": "He co-wrote the growth algorithm of OG:Crystals, which turns each owner's wallet history into new crystal structure.",
+   "why_zh": "他参与编写了 OG:Crystals 的生长算法，把每位持有者的钱包历史转化为新的晶体结构。",
+   "links": {
+    "site": "https://ksoids.com"
+   },
+   "connected_to": [
+    "michael-joo",
+    "snark-art"
+   ],
+   "discovered_via": "snark-art"
+  }
+ ],
+ "works": [
+  {
+   "id": "billy-rennekamp--clovers-network",
+   "creator_ids": [
+    "billy-rennekamp"
+   ],
+   "title": "Clovers Network",
+   "year": 2019,
+   "field": "onchain",
+   "sub": "co-authored",
+   "also": [
+    "network"
+   ],
+   "mechanisms": [
+    "participation",
+    "scarcity",
+    "currency"
+   ],
+   "substrate": "ethereum",
+   "kind": "game",
+   "description": "An Ethereum game and artwork in which players search the game tree of Reversi for games that end in a symmetrical board and register each unique endgame as an ERC-721 token called a Clover. It went live on mainnet during Berlin Blockchain Week in August 2019, after a 2018 residency at Pioneer Works.",
+   "description_zh": "一件以太坊上的游戏兼艺术作品：玩家在黑白棋（Reversi）的博弈树中搜索终局呈对称图案的对局，并把每个独一无二的终局登记为一枚名为 Clover 的 ERC-721 代币。2018 年在 Pioneer Works 驻留之后，它于 2019 年 8 月柏林区块链周期间在主网上线。",
+   "idea_en": "Replace proof-of-work with proof-of-search: let a crowd's patient play find the images, and pay each find by how rare its kind of symmetry is.",
+   "idea_zh": "用“搜索证明”取代工作量证明：让一群人耐心地下棋去找出图像，再按其对称类型的稀有程度给每次发现付酬。",
+   "protocol": "A Clover is the move list of a complete Reversi game that must start at square C4; the contracts accept any unique endgame and refuse duplicates. Players run random games in the browser and claim a find with a commit/reveal transaction backed by a stake; anyone may challenge an invalid claim and take the stake, and an unchallenged claim is confirmed after a waiting period. Only symmetrical boards earn Clover Coin (Club Token), and the reward for each type of symmetry shrinks as more boards of that type are registered. Clover Coin is bought and sold against a bonding curve whose reserve was seeded with the last $10,000 of an Ethereum Community Fund grant.",
+   "protocol_zh": "一枚 Clover 就是一局完整黑白棋的落子序列，且必须从 C4 格开始；合约接受任何独一无二的终局，拒绝重复。玩家在浏览器里跑随机对局，用“提交—揭示”交易并附上押金来认领发现；任何人都可以质疑无效的认领并拿走押金，无人质疑的认领在等待期后得到确认。只有对称的棋盘才能获得 Clover Coin（Club Token）奖励，而且某种对称类型登记得越多，这一类型的奖励就越少。Clover Coin 通过联合曲线买卖，其储备金来自以太坊社区基金（Ethereum Community Fund）资助中剩余的 1 万美元。",
+   "collective": "The players, not the artist, found the images: the collection is whatever the community's searches turned up, and its price structure follows how often each symmetry was found. Rennekamp traces the project to a Bard College exercise in which he wrote a Reversi player meant not to win but to leave the board symmetrical, after Bernard Suits's 'trifler'; the network scaled that private search into a shared one. The team simulated the in-game economy with cadCAD before launch and presented the network as 'an experiment and an artwork', not an investment.",
+   "collective_zh": "找到图像的是玩家而不是艺术家：整个收藏就是社群搜索所得，其价格结构取决于每种对称被找到的频率。Rennekamp 说这个项目源于他在巴德学院的一次作业：他写了一个不求赢、只求让棋盘终局对称的黑白棋程序，灵感来自 Bernard Suits 所说的“玩票者”（trifler）；这个网络把那场个人的搜索扩展成了众人的搜索。上线前团队用 cadCAD 模拟了游戏内经济，并强调这个网络是“一场实验、一件艺术品”，而不是投资。",
+   "keywords": [
+    "Reversi",
+    "Othello",
+    "proof-of-search",
+    "ERC-721",
+    "bonding curve",
+    "Clover Coin",
+    "Bin Studio",
+    "EthBerlin"
+   ],
+   "images": [
+    "https://clovers.network/img/twitter-optimized.png",
+    "https://miro.medium.com/max/2416/0*lZuZIEADkoWz0t_n.jpeg",
+    "https://miro.medium.com/max/1200/1*Jrs_4INC4e3-8UTkVKutwA.gif"
+   ],
+   "paper": {
+    "url": "https://docs.google.com/document/d/1If-yoN-4cbIT0X_PSEfxVYqlZ7kgFRQapx8AR79mhME/edit",
+    "title": "Clovers Network: Crypto-Collectibles with Network Incentives (draft white paper, April 2018)",
+    "venue": "Billy Rennekamp"
+   },
+   "source_url": "https://clovers.network",
+   "contract_url": "https://etherscan.io/address/0xb55c5cac5014c662fdbf21a2c59cd45403c482fd",
+   "code_url": "https://github.com/clovers-network/clovers-contracts"
+  },
+  {
+   "id": "sarah-friend--remembering-network",
+   "creator_ids": [
+    "sarah-friend"
+   ],
+   "title": "Remembering Network",
+   "year": 2019,
+   "field": "network",
+   "sub": "crowdsourced",
+   "mechanisms": [
+    "participation",
+    "circulation",
+    "time"
+   ],
+   "substrate": "network",
+   "kind": "artwork",
+   "description": "A peer-to-peer memorial to threatened and recently extinct animals, shown as an installation, a series of performances and a website: people add images of animals, which are packed into archives on IPFS and other peer-to-peer protocols, with generative birdsong by Arkadiy Kukarkin.",
+   "description_zh": "一座献给濒危和新近灭绝动物的点对点纪念碑，以装置、系列表演和网站的形式呈现：人们提交动物图像，这些图像被打包成存档，分发在 IPFS 和其他点对点协议上，并配有 Arkadiy Kukarkin 创作的生成式鸟鸣声。",
+   "idea_en": "A memorial that lasts only as long as many people keep copies of it.",
+   "idea_zh": "一座纪念碑，只要有足够多的人保存它的副本，它就一直存在。",
+   "protocol": "Visitors to the installation and to remembering.network are invited to submit images of currently threatened and endangered animals. Contributions are packaged into archives distributed over IPFS and other peer-to-peer protocols, so that no single server holds the memorial and it can survive network failures and takedowns. Friend compares it to the Svalbard seed vault: a local-first, resilient store kept by its participants.",
+   "protocol_zh": "装置现场和 remembering.network 网站的访客都可以提交当前受威胁和濒危动物的图像。投稿被打包成存档，通过 IPFS 和其他点对点协议分发，因此纪念碑不存放在任何单一服务器上，能够经受网络故障和删除。Friend 把它比作斯瓦尔巴全球种子库：一个本地优先、由参与者共同保存的韧性存储。",
+   "collective": "The content is crowdsourced: the memorial holds images contributed by attendees at its 2019 showings, at IPFS Camp in Spain, DWeb Camp in California and EthBerlin, and at Piksel 2019 in Bergen, and by visitors to the website; how long it lasts depends on the peers who store and serve it. No count of contributions is published.",
+   "collective_zh": "内容由众人提供：纪念碑收录了 2019 年各次展出现场（西班牙的 IPFS Camp、加州的 DWeb Camp、EthBerlin，以及卑尔根的 Piksel 2019）观众提交的图像和网站访客的投稿；它能存在多久，取决于存储和分发它的节点。投稿数量没有公开。",
+   "keywords": [
+    "IPFS",
+    "peer-to-peer",
+    "memorial",
+    "extinction",
+    "seed vault",
+    "Arkadiy Kukarkin",
+    "IUCN Red List"
+   ],
+   "images": [
+    "https://isthisa.com/static/RememberingNetwork/Sarah-Friend-Remembering-Network-1.png",
+    "https://static-assets.artlogic.net/w_1600,h_1600,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/gazelli/images/view/41a594f406d379fec42ca47d8a3bc3cbj/gazelliarthouse-sarah-friend-remembering-network-2019.jpg",
+    "https://isthisa.com/static/RememberingNetwork/Sarah-Friend-Remembering-Network-4.jpg"
+   ],
+   "source_url": "https://isthisa.com/rememberingnetwork"
+  },
+  {
+   "id": "sarah-friend--portal-constellation",
+   "creator_ids": [
+    "sarah-friend"
+   ],
+   "title": "Portal Constellation: Reviving the Webring",
+   "year": 2020,
+   "field": "network",
+   "sub": "open-infrastructure",
+   "mechanisms": [
+    "participation",
+    "chance",
+    "circulation"
+   ],
+   "substrate": "network",
+   "kind": "artwork",
+   "description": "A working webring made during Sarah Friend's online residency with arebyte On Screen: artists submit their sites through a form and paste in a small script that shows a 'portal' leading to another member's site.",
+   "description_zh": "Sarah Friend 在 arebyte On Screen 线上驻留期间制作的一个真正可用的网络环（webring）：艺术家通过表单提交自己的网站，并嵌入一小段脚本，网页上便出现一个通往另一位成员网站的“传送门”。",
+   "idea_en": "Navigation as a pact among small sites: each member gives up a corner of its page so visitors can drift to the others, outside search and social feeds.",
+   "idea_zh": "把导航变成小网站之间的约定：每个成员让出页面的一角，让访客漂流到其他成员那里，绕开搜索引擎和社交信息流。",
+   "protocol": "Anyone may join by signing up and placing one script tag in the head of their site. The script draws a portal at a random position on the page that links to a randomly chosen member site; both change on every refresh, which also throws off search-engine crawlers. Hosting the portal is the only condition of membership, and the ring exists only on the sites that host it.",
+   "protocol_zh": "任何人只要报名并在自己网站的 head 中放入一行脚本标签即可加入。脚本会在页面的随机位置画出一个传送门，链接到随机选出的另一个成员网站；每次刷新，位置和链接都会改变，这也让搜索引擎爬虫无所适从。托管传送门是成为成员的唯一条件，而这个环只存在于托管它的网站上。",
+   "collective": "Artists including Doreen Rios ([Anti]materia), Xuan Ye, Kei Kreutler, Dietrich Meyer, Vern Avola and Rozina Aamir installed the portal on their own sites, and the project site documents ten instantiations of the ring. Together the members' pages form a small network for wandering between hand-made sites, which is the work.",
+   "collective_zh": "Doreen Rios（[Anti]materia）、Xuan Ye、Kei Kreutler、Dietrich Meyer、Vern Avola 和 Rozina Aamir 等艺术家把传送门装在了自己的网站上，项目网站记录了这个环的十个实例。成员们的页面共同构成一个可以在手工网站之间漫游的小网络，这就是作品本身。",
+   "keywords": [
+    "webring",
+    "arebyte On Screen",
+    "embed script",
+    "Perverse Affordances",
+    "possible.social",
+    "Brenna Murphy"
+   ],
+   "images": [
+    "https://isthisa.com/static/Webring/Sarah-Friend-Webring-8.png",
+    "https://static-assets.artlogic.net/w_2400,h_2400,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/gazelli/images/view/332b21e3f46e92220f46106af8430123p/gazelliarthouse-sarah-friend-portal-constellation-2020.png",
+    "https://isthisa.com/static/Webring/Sarah-Friend-Webring-1.png"
+   ],
+   "source_url": "https://isthisa.com/webring",
+   "code_url": "https://github.com/ana0/futures.online"
+  },
+  {
+   "id": "snark-art--burn-before-reading",
+   "creator_ids": [
+    "snark-art"
+   ],
+   "title": "Burn Before Reading (The Oracle of Mr. Fox)",
+   "year": 2020,
+   "field": "onchain",
+   "sub": "supply",
+   "mechanisms": [
+    "burn",
+    "scarcity",
+    "chance"
+   ],
+   "substrate": "ethereum",
+   "kind": "series",
+   "description": "A Snark.art edition of 10,000 free crypto fortune cookies on Ethereum, each hiding a poem by 'Mr. Fox', an author described as part artificial intelligence, part anonymous artist. Opening a cookie reveals its fortune but destroys its trade value for good.",
+   "description_zh": "Snark.art 在以太坊上推出的 10000 个免费“加密幸运饼干”，每个饼干里藏着一首由“Mr. Fox”写的诗，这位作者被描述为一半是人工智能、一半是匿名艺术家。打开饼干就能读到诗句，但它的交易价值也随之永久消失。",
+   "idea_en": "Make every holder choose between reading the work and keeping its price, and let the sum of those choices set the edition's scarcity.",
+   "idea_zh": "让每位持有者在“读作品”和“保住价格”之间二选一，由所有人的选择共同决定这一版数的稀缺程度。",
+   "protocol": "Anyone may claim one free cookie. A holder can open it, which reveals the AI-written fortune, tweets it to the public and permanently removes the cookie's trade value, or keep it closed to sell or give away later. The supply of unopened cookies can only shrink, so each opening makes the remaining closed cookies scarcer.",
+   "protocol_zh": "任何人都可以免费领取一个饼干。持有者可以打开它：诗句显现、被发布到 Twitter 上，饼干的交易价值随之永久消失；也可以不打开，留着日后出售或赠送。未开封饼干的数量只减不增，因此每打开一个，剩下的就更稀缺。",
+   "collective": "What the work becomes depends on how many holders choose to read rather than hold: each opened cookie adds a public fortune to the stream and takes a token off the market, so the balance between published poems and speculative tokens is set by the collectors. Product Hunt lists the launch on 14 April 2020; no count of opened cookies is published.",
+   "collective_zh": "作品最终的样子取决于有多少持有者选择阅读而不是囤积：每打开一个饼干，公共信息流里就多一句签语，市场上就少一枚代币；已公开的诗和投机性代币之间的比例，由藏家们共同决定。Product Hunt 记录的上线日期是 2020 年 4 月 14 日；已打开的饼干数量没有公开。",
+   "keywords": [
+    "fortune cookie",
+    "Mr. Fox",
+    "AI poetry",
+    "burn",
+    "free claim",
+    "Snark.art"
+   ],
+   "images": [
+    "https://snark.art/images/production/bbrcfc.png",
+    "https://nft.snark.art/0xd851fbd96d16d6b818c622cbc23e4197adce4058/974/1.png"
+   ],
+   "source_url": "https://snark.art/fortune-cookies/"
+  },
+  {
+   "id": "michael-joo--og-crystals",
+   "creator_ids": [
+    "michael-joo",
+    "danil-krivoruchko",
+    "snark-art"
+   ],
+   "title": "OG:Crystals (Organic Growth: Crystal Reef)",
+   "year": 2021,
+   "field": "onchain",
+   "sub": "ownership",
+   "mechanisms": [
+    "circulation",
+    "merge",
+    "co-authorship"
+   ],
+   "substrate": "ethereum",
+   "kind": "series",
+   "description": "A generative collection of 10,301 3D crystals by Michael Joo and Danil Krivoruchko, produced with Snark.art, in which each crystal grows a new layer every time it changes hands, shaped by the new owner's wallet history; all crystals were then to be joined into one communal 'Crystal Reef'.",
+   "description_zh": "Michael Joo 与 Danil Krivoruchko 和 Snark.art 合作推出的 10301 个生成式 3D 晶体：每次易手，晶体都会按新主人的钱包历史长出新的一层；最终所有晶体将合成一座共同的“晶体礁”（Crystal Reef）。",
+   "idea_en": "Let an artwork's form be the sediment of its owners, so that trading it becomes a way of drawing it.",
+   "idea_zh": "让作品的形态成为历任主人的沉积层，于是买卖本身就成了绘制它的方式。",
+   "protocol": "On the primary sale a collector received a seed crystal and chose its colour; days later it grew into a crystal generated from the owner's wallet ID and history. Each resale kept the existing form and added a new structure derived from the buyer's wallet, with every stage saved as a separate file. Three months after the first sale, or after seven generations of growth, each crystal locked. Once all seeds were sold, the crystals were to be combined into a single reef, planned as a physical sculpture.",
+   "protocol_zh": "一级销售时，藏家得到一颗“种子晶体”并为它选定颜色；几天后，它会依据持有者的钱包 ID 和交易历史长成一颗晶体。每次转售，原有形态保留，并按买家的钱包再加上一层新结构，每个阶段都另存为单独的文件。首次销售三个月后，或长到第七代时，晶体即被锁定。全部种子售出后，所有晶体将被合并成一座礁，计划制作为实体雕塑。",
+   "collective": "The shapes record who owned them: the more a crystal was traded, the more layers it carries, so the market's circulation drew the collection, and the reef is credited to the artists 'and the OG:CR community'. According to ForkLog (22 October 2021), the sale sold out in three days and raised more than $4 million at 0.10301 ETH per crystal, with proceeds pledged to coral-reef and marine-invertebrate research. Whether the physical reef has been made is not verified.",
+   "collective_zh": "晶体的形状记录了它的主人：交易次数越多，层次越多，于是市场流通本身绘出了这套收藏；项目把晶体礁归功于艺术家“以及 OG:CR 社群”。据 ForkLog（2021 年 10 月 22 日）报道，发售三天售罄，以每颗 0.10301 ETH 的价格筹得超过 400 万美元，部分收益承诺用于珊瑚礁和海洋无脊椎动物研究。实体晶体礁是否已经完成，尚未核实。",
+   "keywords": [
+    "OG:Crystals",
+    "Crystal Reef",
+    "wallet history",
+    "dynamic NFT",
+    "resale growth",
+    "Snark.art",
+    "coral reef"
+   ],
+   "images": [
+    "https://ogcrystals.com/webflow/images/og-min.jpg",
+    "https://forklog.com/wp-content/uploads/Snark_Crystals_NFT-min.webp",
+    "https://snark.art/images/production/ogcrmjdk.png"
+   ],
+   "source_url": "https://ogcrystals.com"
+  },
+  {
+   "id": "jack-and-leigh-ruby--all-the-reporters",
+   "creator_ids": [
+    "jack-and-leigh-ruby",
+    "snark-art"
+   ],
+   "title": "…all the reporters laughed and took pictures",
+   "year": 2019,
+   "field": "social",
+   "sub": "performance",
+   "also": [
+    "onchain"
+   ],
+   "mechanisms": [
+    "instruction",
+    "participation"
+   ],
+   "substrate": "body",
+   "kind": "artwork",
+   "description": "A 'channelling' performance directed by Jack & Leigh Ruby and cast through Snark.art: token holders put in earbuds and repeat aloud, as they hear it, a spoken-word recording, so that a scattered chorus of apparent phone callers speaks the same lines in public. It was first performed at the SPRING/BREAK Art Show (5–11 March 2019).",
+   "description_zh": "由 Jack & Leigh Ruby 执导、通过 Snark.art 招募演员的“通灵”表演：代币持有者戴上耳机，边听一段口述录音边立刻大声复述，于是一群看似在打电话的人散落在公共场所，齐声说出同样的台词。首演于 SPRING/BREAK 艺术展（2019 年 3 月 5 日至 11 日）。",
+   "idea_en": "Use a token as a casting call and a phone call as a costume, so that a chorus hides inside ordinary public behaviour.",
+   "idea_zh": "把代币当作演员招募令，把打电话当作戏服，让一支合唱团藏在日常的公共行为之中。",
+   "protocol": "Claiming a free performance token makes a person a cast member. Performers bring a phone and earbuds, listen to an audio file and repeat each line aloud immediately as they hear it, while moving through the venue as if on a call: in a coffee queue, among the booths, in the bathroom. The script is the dialogue of 'a notorious liar'; Snark.art's page cites John Gotti in 1983.",
+   "protocol_zh": "领取一枚免费的表演代币，就成为演员。表演者带上手机和耳机，收听一段音频，听到一句就立刻大声复述一句，同时像在打电话一样在场馆里走动：在买咖啡的队伍里、在展位之间、在洗手间里。台词出自“一个臭名昭著的说谎者”的对话，Snark.art 页面提到的是 1983 年的 John Gotti。",
+   "collective": "The piece exists only when token holders turn up and speak: the more people channel at once, the more their separate 'calls' line up into a chorus that bystanders slowly recognise as staged. Snark.art describes it as the first live performance cast and organised via the blockchain and as an ongoing, anonymous piece of theatre, staged at SPRING/BREAK in New York and Los Angeles in 2019; no participant numbers are published.",
+   "collective_zh": "只有代币持有者到场开口，这件作品才存在：同时“通灵”的人越多，各自的“通话”就越会对齐成一支合唱，旁观者才慢慢意识到这是一场表演。Snark.art 称它是第一场通过区块链招募和组织的现场表演，是一出持续进行的匿名戏剧，2019 年在纽约和洛杉矶的 SPRING/BREAK 艺术展上演；参与人数没有公开。",
+   "keywords": [
+    "channelling",
+    "performance token",
+    "SPRING/BREAK",
+    "earbuds",
+    "chorus",
+    "Snark.art",
+    "John Gotti"
+   ],
+   "images": [
+    "https://snark.art/images/production/atrlatp.png"
+   ],
+   "source_url": "https://snark.art/allthereporters/"
+  },
+  {
+   "id": "coin-artist--dark-wallet-puzzle",
+   "creator_ids": [
+    "coin-artist"
+   ],
+   "title": "The Dark Wallet Puzzle",
+   "year": 2014,
+   "field": "network",
+   "sub": "collective-games",
+   "also": [
+    "onchain"
+   ],
+   "mechanisms": [
+    "constraint",
+    "participation"
+   ],
+   "substrate": "bitcoin",
+   "kind": "game",
+   "description": "Coin Artist's first crypto-puzzle: a painted portrait of two men set against a grid of lettered tiles, released with 12 puzzles to the Bitcoin community on Twitter under the tag 'dark wallet' in 2014, and built to be too hard for one person.",
+   "description_zh": "Coin Artist 的第一个加密谜题：一幅以字母方格为背景的双人肖像画，2014 年在 Twitter 上以“dark wallet”为标签连同 12 个谜题发布给比特币社群，谜题被设计得一个人无法独自解开。",
+   "idea_en": "Design a puzzle that is too hard for any one solver, so that the community has to become the solver.",
+   "idea_zh": "设计一个任何个人都解不开的谜题，迫使社群自己变成解题者。",
+   "protocol": "The artist published the painting and its 12 puzzles and then deactivated her Twitter account until a solution was found, so no one could ask her for hints. The puzzles' complexity was meant, in Bitcoin Magazine's words, to 'force people to work together'; only a full solution of all 12 counted.",
+   "protocol_zh": "艺术家发布了这幅画和 12 个谜题，随后停用了自己的 Twitter 账号，直到有人解出为止，因此没人能向她讨要提示。用《Bitcoin Magazine》的话说，谜题的复杂程度就是为了“迫使人们合作”；只有把 12 个谜题全部解开才算完成。",
+   "collective": "Redditors expected hours or days of work just to begin; a 32-page solution covering all 12 puzzles was shared with Bitcoin Magazine, which reported it in July 2014. The format of a public puzzle solved by a community grew into her TORCHED H34R7S trail of 2015.",
+   "collective_zh": "Reddit 用户估计光是入门就要花上几个小时甚至几天；一份涵盖全部 12 个谜题、长达 32 页的解答交给了《Bitcoin Magazine》，该刊于 2014 年 7 月作了报道。这种由社群合力破解公开谜题的形式，后来发展成她 2015 年的 TORCHED H34R7S 谜题之路。",
+   "keywords": [
+    "Dark Wallet",
+    "crypto-puzzle",
+    "Twitter",
+    "Reddit",
+    "Bitcoin Magazine"
+   ],
+   "images": [
+    "https://bitcoinmagazine.com/wp-content/uploads/2025/01/coin1.jpg",
+    "https://bitcoinmagazine.com/wp-content/uploads/2025/01/coin.png"
+   ],
+   "source_url": "https://bitcoinmagazine.com/culture/coin-artists-latest-dark-wallet-puzzle-32-page-solution"
+  },
+  {
+   "id": "botto--p5-botto",
+   "creator_ids": [
+    "botto"
+   ],
+   "title": "p5.botto (Algorithmic Evolution)",
+   "year": 2024,
+   "field": "autonomous",
+   "sub": "autonomous-artists",
+   "also": [
+    "onchain"
+   ],
+   "mechanisms": [
+    "governance",
+    "participation",
+    "autonomy"
+   ],
+   "substrate": "ai",
+   "kind": "series",
+   "description": "Botto's study of p5.js code art: from March 2024 a 19-week public training run in which anyone could vote on Botto's generative sketches, then a final three-week run in early 2025 in which Botto kept evolving algorithms while voters pruned more than 5,000 sketches down to 22. The 22 were shown as Algorithmic Evolution with Verse in London in February 2025.",
+   "description_zh": "Botto 对 p5.js 代码艺术的研究：自 2024 年 3 月起进行了为期 19 周的公开训练，任何人都可以给 Botto 的生成式草图投票；2025 年初又进行了三周的最终一轮，Botto 不断演化算法，投票者则把 5000 多张草图逐步淘汰到 22 个。这 22 个算法于 2025 年 2 月以“Algorithmic Evolution”为题在伦敦与 Verse 合作展出。",
+   "idea_en": "Open an AI artist's editing room to anyone with a wallet, and let pruning by many hands decide which algorithms survive.",
+   "idea_zh": "把 AI 艺术家的剪辑室向任何有钱包的人开放，让众人一起修剪，决定哪些算法能活下来。",
+   "protocol": "On p5.botto.com any wallet could vote up or down, or comment, once per sketch, with equal weight and no stake required. In the final run (16 January to 6 February 2025) Botto generated a new sketch at least every 20 minutes from the top 500 algorithms of 2024; from the third week the lowest-voted were pruned, and each participant could 'superlike' up to 22 sketches, each worth ten votes. Botto ran its own tournament in parallel to propose a set of 22. To share in revenue a voter had to stake at least 100 $BOTTO; 40% of net proceeds went to qualified voters, 40% to the treasury and 20% to protocol-owned liquidity.",
+   "protocol_zh": "在 p5.botto.com 上，任何钱包都可以对每张草图投一次赞成或反对票或发表评论，票权相同，无需质押。最终一轮（2025 年 1 月 16 日至 2 月 6 日）中，Botto 以 2024 年排名前 500 的算法为起点，至少每 20 分钟生成一张新草图；从第三周起，得票最低的被淘汰，每位参与者最多可以给 22 张草图“超级点赞”，每次相当于十票。与此同时，Botto 自己也进行了一场内部淘汰赛，提出它心目中的 22 个。投票者若要分享收益，须质押至少 100 个 $BOTTO；净收益的 40% 分给合格投票者，40% 归金库，20% 用于协议自有流动性。",
+   "collective": "Opening the vote beyond staked DAO members turned a wider crowd into Botto's editors for a new medium: their votes over 19 weeks and the final pruning decided which of thousands of evolving algorithms survived. The most popular algorithm of 2024, Geometric Fluidity, was released as an edition of up to 1,000 outputs, and the 22 surviving algorithms were exhibited at Verse's SOLOS space, 34 Mortimer Street, London (19 to 22 February 2025), and committed on-chain.",
+   "collective_zh": "把投票开放给质押的 DAO 成员以外的人，使更大的人群成了 Botto 在新媒介上的编辑：他们 19 周的投票和最后的淘汰，决定了数千个不断演化的算法中哪些能留下。2024 年最受欢迎的算法 Geometric Fluidity 以最多 1000 个输出的版数发行；最终留下的 22 个算法于 2025 年 2 月 19 日至 22 日在伦敦 Mortimer Street 34 号 Verse 的 SOLOS 空间展出，并写入区块链。",
+   "keywords": [
+    "BottoDAO",
+    "p5.js",
+    "$BOTTO",
+    "pruning",
+    "superlike",
+    "Verse",
+    "Geometric Fluidity",
+    "Algorithmic Evolution"
+   ],
+   "images": [
+    "https://versecontent.com/image/w3840/static%2F27ee9443-d49b-44ed-b94b-e9514dc20c50.png@jpeg",
+    "https://versecontent.com/image/w3840/static%2Fe7d7c84e-d14a-482a-94c1-9ea63dd9f81f.jpeg@jpeg",
+    "https://versecontent.com/image/w1400/static%2F1123c06a-e052-4ef5-945f-e1fb089ffc77.jpeg@jpeg",
+    "https://cms.botto.com/assets/fddf76c9-3701-4d44-b958-aa65eb18d708.png"
+   ],
+   "source_url": "https://docs.botto.com/collections/p5.botto"
+  },
+  {
+   "id": "eboy--towr",
+   "creator_ids": [
+    "eboy"
+   ],
+   "title": "TOWR",
+   "year": 2025,
+   "field": "onchain",
+   "sub": "co-authored",
+   "mechanisms": [
+    "co-authorship",
+    "currency"
+   ],
+   "substrate": "ethereum",
+   "kind": "series",
+   "description": "An fxhash open-form project by the pixel-art group eBoy in which each token is a procedurally assembled pixel tower that collectors can evolve, stacking new blocks on top. It was released as an ongoing mint in summer 2025.",
+   "description_zh": "像素艺术团体 eBoy 在 fxhash 上发布的开放形式（open-form）项目：每枚代币是一座程序化拼搭的像素塔，藏家可以让它“演化”，在塔顶继续叠加新的模块。2025 年夏天以持续铸造的方式发布。",
+   "idea_en": "A tower is only as tall as its collectors make it: every floor is a paid decision by someone who chose to build.",
+   "idea_zh": "塔能有多高，全看藏家：每一层都是某个人付费决定加盖的。",
+   "protocol": "Minting a tower cost 10 $EBOY, eBoy's own coin, plus 0.001 ETH; each tower combines predefined building blocks, floor objects and randomly chosen colour swatches on a tiled background. Any holder can evolve a tower for another 10 $EBOY and a small ETH fee: the evolution keeps the tower, adds new blocks and changes the background's colour while keeping its structure, and each stage remains a token of its own.",
+   "protocol_zh": "铸造一座塔需支付 10 个 $EBOY（eBoy 自己的代币）外加 0.001 ETH；每座塔由预设的建筑模块、楼层物件和随机选取的色板拼成，背景是拼贴的瓷砖图案。任何持有者都可以再付 10 个 $EBOY 和少量 ETH 让塔演化：演化保留原有的塔，加上新的模块，背景结构不变而颜色改变，每个阶段各自保留为一枚代币。",
+   "collective": "The towers' heights record how far collectors chose to build: a reviewer for The Culture Project evolved one piece three times and kept every stage, and one collector stacked a tower 37 times. The same review counted 1,621 pieces in the set about a week after release.",
+   "collective_zh": "塔的高度记录了藏家愿意建到多高：The Culture Project 的一位评论者把一件作品演化了三次并保留了每个阶段，另一位藏家把一座塔叠了 37 次。同一篇评论统计，发布约一周后系列中已有 1621 件。",
+   "keywords": [
+    "fxhash",
+    "open-form",
+    "evolution",
+    "$EBOY",
+    "pixel art",
+    "creator coin"
+   ],
+   "images": [
+    "https://substack-post-media.s3.amazonaws.com/public/images/d60e172f-8a21-4055-8b0c-2bd7034f8df6_200x1024.jpeg",
+    "https://substack-post-media.s3.amazonaws.com/public/images/40bb6f49-d933-4bad-a87a-6566aa6f0eba_1409x513.png"
+   ],
+   "source_url": "https://thecultureproject.substack.com/p/the-weekly-roundup-110"
+  }
+ ],
+ "leads": [
+  {
+   "name": "Spirit Protocol (2025-26)",
+   "why": "Token and legal infrastructure from Spirit Protocol Labs ($SPIRIT on Base, agent/trainer/platform/treasury split) for launching AI agents, not an artist-authored work; spiritprotocol.io still reads 'Sovereign memory. Coming soon.' in November 2026. The agents on it are covered as gene-kogan--abraham-covenant and kristi-coronado--solienne.",
+   "link": "https://spiritprotocol.io",
+   "found_via": "gene-kogan",
+   "status": "off_topic"
+  },
+  {
+   "name": "Bitcoin Ordinals recursive inscriptions",
+   "why": "A generic feature, not a work: searches in pass 4 found no artist project where holders' inscriptions compose a shared work (only single-artist composites such as Billy Restey's Metablocks and shared-library collections). Reopen only for a named project.",
+   "link": "https://docs.ordinals.com/inscriptions/recursion.html",
+   "found_via": "seed",
+   "status": "off_topic"
+  },
+  {
+   "name": "eBoy, TOWR (fxhash open-form, 2025)",
+   "why": "Added as eboy--towr.",
+   "link": "https://thecultureproject.substack.com/p/the-weekly-roundup-110",
+   "found_via": "ciphrd",
+   "status": "covered"
+  },
+  {
+   "name": "Billy Rennekamp, Clovers Network (2018)",
+   "why": "Added as billy-rennekamp--clovers-network (mainnet launch August 2019; white paper April 2018).",
+   "link": "https://clovers.network",
+   "found_via": "billy-rennekamp",
+   "status": "covered"
+  },
+  {
+   "name": "JODI & Billy Rennekamp, Chameleon (2021)",
+   "why": "Folia release by Joan Heemskerk (code by Rennekamp) that generates a unique video seeded by the buyer's wallet at mint; collectors only mint, no shared rule.",
+   "link": "https://folia.substack.com/p/joan-heemskerk-chameleon",
+   "found_via": "billy-rennekamp",
+   "status": "off_topic"
+  },
+  {
+   "name": "Sarah Friend, Remembering Network (2019)",
+   "why": "Added as sarah-friend--remembering-network.",
+   "link": "https://isthisa.com/rememberingnetwork",
+   "found_via": "sarah-friend",
+   "status": "covered"
+  },
+  {
+   "name": "Sarah Friend, Portal Constellation: Reviving the Webring (2020)",
+   "why": "Added as sarah-friend--portal-constellation.",
+   "link": "https://isthisa.com/webring",
+   "found_via": "sarah-friend",
+   "status": "covered"
+  },
+  {
+   "name": "Snark.art, other artist projects (2018–)",
+   "why": "Checked all 13 Snark productions: added snark-art--burn-before-reading, michael-joo--og-crystals and jack-and-leigh-ruby--all-the-reporters; the rest are recorded as separate leads (Tommy Hartung open; Duke Riley, Volkmar Klien, Nancy Baker Cahill, White Male Artist, Ksoids off_topic; OG.Art and OG Protocol are platforms).",
+   "link": "https://snark.art",
+   "found_via": "snark-art",
+   "status": "covered"
+  },
+  {
+   "name": "Coin Artist, The Dark Wallet Puzzle (2014)",
+   "why": "Added as coin-artist--dark-wallet-puzzle.",
+   "link": "https://bitcoinmagazine.com/culture/coin-artists-latest-dark-wallet-puzzle-32-page-solution",
+   "found_via": "coin-artist",
+   "status": "covered"
+  },
+  {
+   "name": "Botto, p5.botto (2024–2025)",
+   "why": "Added as botto--p5-botto.",
+   "link": "https://docs.botto.com/collections/p5.botto",
+   "found_via": "botto",
+   "status": "covered"
+  },
+  {
+   "name": "Operator, Repeat as necessary: Performance Operating System (2025)",
+   "why": "researched in pass4-new-participatory",
+   "link": "https://www.operator.la/repeat-as-necessary",
+   "found_via": "seed",
+   "status": "duplicate"
+  },
+  {
+   "name": "Parag K. Mital, The Game of Whispers (2026)",
+   "why": "Five-channel installation (LACMA commission, premiered Serendipity Arts Festival, Goa, December 2024) in which only AI-run non-player characters act; the audience watches, no human group follows rules.",
+   "link": "https://archive.aec.at/prix/317392/",
+   "found_via": "seed",
+   "status": "off_topic"
+  },
+  {
+   "name": "Primavera De Filippi, Will Papper, Adrien Guerrera & Jake Hartnell, Aminals (GLITCH)",
+   "why": "Not yet public as a working system: aminals-v2.pages.dev/about (2025) says the codebase is finished but not deployed (aminals cannot be owned, are fed crypto, and grow via genes approved by an Aminal DAO). Add once deployed and fed.",
+   "link": "https://aminals-v2.pages.dev/about",
+   "found_via": "primavera-de-filippi",
+   "status": "open"
+  },
+  {
+   "name": "Tommy Hartung, The Old Testament (Snark.art)",
+   "why": "Feature-length video in 25 chapters sold separately, 'intended for collective ownership' and reassemblable on the blockchain; check whether playing it whole requires owners to lend chapters as in 89 Seconds Atomized, and find the year.",
+   "link": "https://snark.art/oldtestament/",
+   "found_via": "snark-art",
+   "status": "open"
+  },
+  {
+   "name": "Duke Riley, In The Darkest Hour I Am By Your Side (Snark.art)",
+   "why": "Video split into free-to-claim 30x30px fragments that become publicly visible once claimed; no rule beyond claiming, and the fragment model is already represented by eve-sussman--89-seconds-atomized.",
+   "link": "https://snark.art/non-essential-consultants/",
+   "found_via": "snark-art",
+   "status": "off_topic"
+  },
+  {
+   "name": "Volkmar Klien, Sometimes a Thousand Twangling Instruments (Snark.art)",
+   "why": "2,000 image-sound pairings sold singly; owners may optionally share them into collages, with no rule shaping a group.",
+   "link": "https://snark.art/1000-twangling-instruments/",
+   "found_via": "snark-art",
+   "status": "off_topic"
+  },
+  {
+   "name": "Nancy Baker Cahill, Contract Killers (Snark.art, 2021)",
+   "why": "Site-specific AR series about broken social contracts on Tezos; collectors buy works, no collective rule.",
+   "link": "https://snark.art/contract-killers/",
+   "found_via": "snark-art",
+   "status": "off_topic"
+  },
+  {
+   "name": "White Male Artist (Cassils), $HT Coin (Snark.art, 2021)",
+   "why": "Daily auctions of cans of the artist's excrement as NFTs in July 2021; a performance about the art market with no rule addressed to a group.",
+   "link": "https://whitemaleartist.com/",
+   "found_via": "snark-art",
+   "status": "off_topic"
+  },
+  {
+   "name": "Danil Krivoruchko, Ksoids (2021)",
+   "why": "1,000 generative 3D characters sold in packs; profile-picture-style collection with no collective rule.",
+   "link": "https://ksoids.com/",
+   "found_via": "danil-krivoruchko",
+   "status": "off_topic"
+  },
+  {
+   "name": "Clawhol, Clawglyphs (2026)",
+   "why": "Fully on-chain generative collection (511,024 works on Ethereum and Base) attributed to an AI agent; collectors and agents only mint, no rule shapes group behaviour.",
+   "link": "https://clawglyphs.org",
+   "found_via": "seed",
+   "status": "off_topic"
+  },
+  {
+   "name": "Keke, Exit Vectors (Fellowship, 2025)",
+   "why": "Self-directed AI artist by an anonymous creator; 500 works curated with Alejandro Cartagena and paired with hand-painted versions, plus a $KEKE patronage token; no rule that makes a group's behaviour the work.",
+   "link": "https://verse.works/series/exit-vectors-by-keke",
+   "found_via": "seed",
+   "status": "off_topic"
+  },
+  {
+   "name": "Botto, LED screening at Huashan 1914, Taipei (Nov 2026–Jan 2027)",
+   "why": "Outdoor screening of existing Botto works with two talks by Mario Klingemann (6–7 November 2026); no new rule for the DAO or visitors.",
+   "link": "https://www.thenewslens.com/article/270898",
+   "found_via": "botto",
+   "status": "off_topic"
+  }
+ ]
+}

@@ -112,6 +112,14 @@
   "batch": "pass3-leads-autonomous-network"
  },
  {
+  "name": "Spirit Protocol (2025-26)",
+  "why": "Token and legal infrastructure from Spirit Protocol Labs ($SPIRIT on Base, agent/trainer/platform/treasury split) for launching AI agents, not an artist-authored work; spiritprotocol.io still reads 'Sovereign memory. Coming soon.' in November 2026. The agents on it are covered as gene-kogan--abraham-covenant and kristi-coronado--solienne.",
+  "link": "https://spiritprotocol.io",
+  "found_via": "gene-kogan",
+  "status": "off_topic",
+  "batch": "pass4-autonomous-onchain"
+ },
+ {
   "name": "Eden (Gene Kogan and others)",
   "why": "Judged on its own, Eden is a creative-AI platform and agent toolkit run by Eden Labs: a tool that many people use, with no single authored rule set for a group. Agents built with it that do have community rules are covered separately: gene-kogan--abraham, gene-kogan--abraham-covenant (new-autonomous batch) and kristi-coronado--solienne.",
   "link": "https://eden.art",
@@ -712,6 +720,14 @@
   "batch": "pass3-leads-onchain-a"
  },
  {
+  "name": "Bitcoin Ordinals recursive inscriptions",
+  "why": "A generic feature, not a work: searches in pass 4 found no artist project where holders' inscriptions compose a shared work (only single-artist composites such as Billy Restey's Metablocks and shared-library collections). Reopen only for a named project.",
+  "link": "https://docs.ordinals.com/inscriptions/recursion.html",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "pass4-autonomous-onchain"
+ },
+ {
   "name": "Higher (Farcaster, 2024)",
   "status": "off_topic",
   "why": "Community movement around the word 'higher', the ↑ sign and the HIGHER token on Base; no identifiable author wrote a rule set, so it falls under the brief's exclusion of collectives without an artistic author.",
@@ -1040,6 +1056,62 @@
   "batch": "pass3-leads-onchain-b"
  },
  {
+  "name": "Kacie Kinzer — Tweenbots (2009)",
+  "why": "kacie-kinzer--tweenbots",
+  "link": "http://www.tweenbots.com/",
+  "found_via": "david-harris-smith",
+  "status": "covered",
+  "batch": "pass4-leads-misc"
+ },
+ {
+  "name": "Rafael Lozano-Hemmer — Voz Alta (2008)",
+  "why": "rafael-lozano-hemmer--voz-alta",
+  "link": "https://www.lozano-hemmer.com/voz_alta.php",
+  "found_via": "rafael-lozano-hemmer",
+  "status": "covered",
+  "batch": "pass4-leads-misc"
+ },
+ {
+  "name": "Songcamp — Camp Elektra (2021)",
+  "why": "songcamp--camp-elektra",
+  "link": "https://www.waterandmusic.com/music-dao-deep-dives-pt-7-how-songcamp-elektra-is-building-web3-native-artist-collective/",
+  "found_via": "songcamp",
+  "status": "covered",
+  "batch": "pass4-leads-misc"
+ },
+ {
+  "name": "Blast Theory — Uncle Roy All Around You (2003) and other games",
+  "why": "blast-theory--uncle-roy-all-around-you, blast-theory--day-of-the-figurines",
+  "link": "https://www.blasttheory.co.uk/",
+  "found_via": "blast-theory",
+  "status": "covered",
+  "batch": "pass4-leads-misc"
+ },
+ {
+  "name": "eBoy, TOWR (fxhash open-form, 2025)",
+  "why": "Added as eboy--towr.",
+  "link": "https://thecultureproject.substack.com/p/the-weekly-roundup-110",
+  "found_via": "ciphrd",
+  "status": "covered",
+  "batch": "pass4-autonomous-onchain"
+ },
+ {
+  "name": "Billy Rennekamp, Clovers Network (2018)",
+  "why": "Added as billy-rennekamp--clovers-network (mainnet launch August 2019; white paper April 2018).",
+  "link": "https://clovers.network",
+  "found_via": "billy-rennekamp",
+  "status": "covered",
+  "batch": "pass4-autonomous-onchain"
+ },
+ {
+  "name": "JODI & Billy Rennekamp, Chameleon (2021)",
+  "why": "Folia release by Joan Heemskerk (code by Rennekamp) that generates a unique video seeded by the buyer's wallet at mint; collectors only mint, no shared rule.",
+  "link": "https://folia.substack.com/p/joan-heemskerk-chameleon",
+  "found_via": "billy-rennekamp",
+  "status": "off_topic",
+  "batch": "pass4-autonomous-onchain"
+ },
+ {
   "name": "Gordon Berger",
   "why": "Checked all series on his site: Circularity's burns and re-mints run automatically, Unveiling Emotions collects individual viewer responses to one painting; no rule shapes what holders or a group do.",
   "link": "https://www.gordonberger.com/",
@@ -1110,6 +1182,38 @@
   "found_via": "seed",
   "status": "off_topic",
   "batch": "pass3-leads-onchain-b"
+ },
+ {
+  "name": "Sarah Friend, Remembering Network (2019)",
+  "why": "Added as sarah-friend--remembering-network.",
+  "link": "https://isthisa.com/rememberingnetwork",
+  "found_via": "sarah-friend",
+  "status": "covered",
+  "batch": "pass4-autonomous-onchain"
+ },
+ {
+  "name": "Sarah Friend, Portal Constellation: Reviving the Webring (2020)",
+  "why": "Added as sarah-friend--portal-constellation.",
+  "link": "https://isthisa.com/webring",
+  "found_via": "sarah-friend",
+  "status": "covered",
+  "batch": "pass4-autonomous-onchain"
+ },
+ {
+  "name": "Snark.art, other artist projects (2018–)",
+  "why": "Checked all 13 Snark productions: added snark-art--burn-before-reading, michael-joo--og-crystals and jack-and-leigh-ruby--all-the-reporters; the rest are recorded as separate leads (Tommy Hartung open; Duke Riley, Volkmar Klien, Nancy Baker Cahill, White Male Artist, Ksoids off_topic; OG.Art and OG Protocol are platforms).",
+  "link": "https://snark.art",
+  "found_via": "snark-art",
+  "status": "covered",
+  "batch": "pass4-autonomous-onchain"
+ },
+ {
+  "name": "Coin Artist, The Dark Wallet Puzzle (2014)",
+  "why": "Added as coin-artist--dark-wallet-puzzle.",
+  "link": "https://bitcoinmagazine.com/culture/coin-artists-latest-dark-wallet-puzzle-32-page-solution",
+  "found_via": "coin-artist",
+  "status": "covered",
+  "batch": "pass4-autonomous-onchain"
  },
  {
   "name": "Marina Abramović, Rhythm 0 (1974)",
@@ -1352,6 +1456,38 @@
   "batch": "pass3-leads-score"
  },
  {
+  "name": "Yvonne Rainer: Passing and Jostling While Confined to a Small Apartment (2020)",
+  "why": "yvonne-rainer--passing-and-jostling",
+  "link": "https://artdaily.com/news/122049/A-dance-for-the-socially-isolated",
+  "found_via": "yvonne-rainer",
+  "status": "covered",
+  "batch": "pass4-leads-misc"
+ },
+ {
+  "name": "Walter De Maria: Boxes for Meaningless Work (1961)",
+  "why": "walter-de-maria--boxes-for-meaningless-work",
+  "link": "https://brooklynrail.org/2023/03/artseen/Walter-De-Maria-Boxes-for-Meaningless-Work/",
+  "found_via": "walter-de-maria",
+  "status": "covered",
+  "batch": "pass4-leads-misc"
+ },
+ {
+  "name": "Earle Brown: Twenty-Five Pages (1953) and Available Forms I (1961)",
+  "why": "earle-brown--twenty-five-pages; Available Forms I not added (the conductor alone chooses the order, no published rules found)",
+  "link": "https://earle-brown.org/?p=139",
+  "found_via": "earle-brown",
+  "status": "covered",
+  "batch": "pass4-leads-misc"
+ },
+ {
+  "name": "Olafur Eliasson: Green light — An artistic workshop",
+  "why": "olafur-eliasson--green-light",
+  "link": "https://olafureliasson.net/greenlight/",
+  "found_via": "olafur-eliasson",
+  "status": "covered",
+  "batch": "pass4-leads-misc"
+ },
+ {
   "name": "Ulises Carrión, Erratic Art Mail International System (1977)",
   "why": "added as ulises-carrion--eamis",
   "link": "https://en.wikipedia.org/wiki/Ulises_Carri%C3%B3n",
@@ -1560,6 +1696,70 @@
   "batch": "pass3-leads-social"
  },
  {
+  "name": "Clemente Padín, Festival de la Postal Creativa (Galería U, Montevideo, 1974)",
+  "why": "clemente-padin--festival-de-la-postal-creativa",
+  "link": "https://artpool.hu/MailArt/chrono/1984/Vigo.html",
+  "found_via": "ulises-carrion",
+  "status": "covered",
+  "batch": "pass4-leads-misc"
+ },
+ {
+  "name": "Feral File and MoMA, MoMA Postcard (2023–2024)",
+  "why": "moma--moma-postcard (built by MoMA with Bitmark's Autonomy app)",
+  "link": "https://www.theartnewspaper.com/2023/11/24/mail-art-meets-nfts-for-all-in-the-moma-postcard-programme",
+  "found_via": "holly-herndon",
+  "status": "covered",
+  "batch": "pass4-leads-misc"
+ },
+ {
+  "name": "Hans Haacke, World Poll (Venice Biennale, 2015)",
+  "why": "hans-haacke--world-poll",
+  "link": "https://artsandculture.google.com/asset/world-poll-hans-haacke/SwHLs2M0_W0CJQ",
+  "found_via": "hans-haacke",
+  "status": "covered",
+  "batch": "pass4-leads-misc"
+ },
+ {
+  "name": "Hans Haacke, John Weber Gallery Visitors' Profile (1972–73)",
+  "why": "hans-haacke--john-weber-gallery-visitors-profile",
+  "link": "https://www.artforum.com/features/hans-haackes-gallery-visitors-profile-210295/",
+  "found_via": "hans-haacke",
+  "status": "covered",
+  "batch": "pass4-leads-misc"
+ },
+ {
+  "name": "Lee Mingwei, Sonic Blossom (2013), The Letter Writing Project (1998) and The Dining Project (1997)",
+  "why": "lee-mingwei--sonic-blossom, lee-mingwei--the-letter-writing-project; The Dining Project not added (one host and one guest, no verifiable image found)",
+  "link": "https://en.wikipedia.org/wiki/Lee_Mingwei",
+  "found_via": "lee-mingwei",
+  "status": "covered",
+  "batch": "pass4-leads-misc"
+ },
+ {
+  "name": "terra0, courtyard project in Strange Rules (Venice, 2026)",
+  "why": "terra0--autonomous-forest: the courtyard shows stools and a wall text presenting the Autonomous Forest (Manhattan Art Review; 100 Collectors); add this id to data/collections/strange-rules.json",
+  "link": "https://www.e-flux.com/announcements/6786944/strange-rules",
+  "found_via": "holly-herndon",
+  "status": "covered",
+  "batch": "pass4-leads-misc"
+ },
+ {
+  "name": "Agnieszka Kurant, work in Strange Rules (Venice, 2026)",
+  "why": "The Strange Rules work is Phantomatics (with linguist Gašper Beguš): synthetic languages evolved by an AI language-generation protocol that visitors listen to; visitors do not act under rules.",
+  "link": "https://www.100collectors.art/info/articles/inside-strange-rules",
+  "found_via": "holly-herndon",
+  "status": "off_topic",
+  "batch": "pass4-leads-misc"
+ },
+ {
+  "name": "Stephen Willats, Social Resource Project for Tennis Clubs (Nottingham, 1971–72)",
+  "why": "Unfinished: posters and a manual were made, but the planned meetings and remodelled tournament never took place and no record of members' responses exists; the method is covered by the West London Social Resource Project.",
+  "link": "https://stephenwillats.com/work/social-resource-project-tennis-clubs/",
+  "found_via": "stephen-willats",
+  "status": "off_topic",
+  "batch": "pass4-leads-misc"
+ },
+ {
   "name": "Carey Young, Plato Contract (2008), Obsidian Contract (2010) and Uncertain Contract (2008)",
   "why": "Contract works addressed to a single collector or performed by an actor, not carried out by a group.",
   "link": "https://www.careyyoung.com/works",
@@ -1728,6 +1928,22 @@
   "batch": "pass3-leads-theory-sop"
  },
  {
+  "name": "World Computer Sculpture Garden contracts: Echoes (0xhaiku), Dear God, Layer of Roads (Travelers) (Figure31), Yesbot (Sarah Friend), Critique of This Show (Rhea Myers et al.), Real Abstraction (Paul Seidler)",
+  "why": "paul-seidler--real-abstraction added (images on plsdlr.net); the other five still lack images and are carried in a new open lead.",
+  "link": "https://worldcomputersculpture.garden/",
+  "found_via": "0xfff",
+  "status": "covered",
+  "batch": "pass4-leads-misc"
+ },
+ {
+  "name": "Casey Rodarmor, Ordinals protocol (2023)",
+  "why": "A numbering and inscription protocol for Bitcoin used as general infrastructure; inscribers are not carrying out an artist's rules toward a shared work, like Bitcoin itself in the inclusion test.",
+  "link": "https://web.archive.org/web/20251017111046/https://outland.art/ordinals-art/",
+  "found_via": "brian-droitcour",
+  "status": "off_topic",
+  "batch": "pass4-leads-misc"
+ },
+ {
   "name": "Distributed Gallery, Ready-Made Token (2017)",
   "why": "A single ERC-20 token signed 'Richard Prince' and sold through an auction contract; no rule for group behaviour beyond bidding.",
   "link": "https://www.rightclicksave.com/article/the-aesthetic-of-a-protocol",
@@ -1744,12 +1960,60 @@
   "batch": "pass3-leads-theory-sop"
  },
  {
+  "name": "Peter Bauman, 'The Cerebral Samba: Protocol Art, Worldbuilding & Our Two Brains' (Le Random, 2026)",
+  "why": "peter-bauman--cerebral-samba",
+  "link": "https://www.lerandom.art/editorial/the-cerebral-samba-protocol-art-worldbuilding-our-two-brains",
+  "found_via": "peter-bauman",
+  "status": "covered",
+  "batch": "pass4-leads-misc"
+ },
+ {
+  "name": "Kate Sloan, Behaviourist Art and Cybernetics: Mapping a Field (Routledge, 2025)",
+  "why": "kate-sloan--behaviourist-art-and-cybernetics",
+  "link": "https://doi.org/10.4324/9781032615301",
+  "found_via": "roy-ascott",
+  "status": "covered",
+  "batch": "pass4-leads-misc"
+ },
+ {
+  "name": "Simon Denny, Proof of Work (Schinkel Pavillon, Berlin)",
+  "why": "The show ran in 2018 (8 Sept – 21 Dec) with 19 artists/groups, but only Chaos Machine, Premna Daemon and CryptoKitties pass the test and are in the gallery; too few for a collection.",
+  "link": "https://artviewer.org/proof-of-work-at-schinkel-pavillon",
+  "found_via": "distributed-gallery",
+  "status": "off_topic",
+  "batch": "pass4-leads-misc"
+ },
+ {
   "name": "Gene Kogan, Abraham's Covenant (2025–2038)",
   "why": "Now in the gallery as gene-kogan--abraham-covenant.",
   "link": "https://abraham.ai",
   "found_via": "gene-kogan",
   "status": "covered",
   "batch": "pass3-new-autonomous"
+ },
+ {
+  "name": "Botto, p5.botto (2024–2025)",
+  "why": "Added as botto--p5-botto.",
+  "link": "https://docs.botto.com/collections/p5.botto",
+  "found_via": "botto",
+  "status": "covered",
+  "batch": "pass4-autonomous-onchain"
+ },
+ {
+  "name": "Operator, Repeat as necessary: Performance Operating System (2025)",
+  "why": "researched in pass4-new-participatory",
+  "link": "https://www.operator.la/repeat-as-necessary",
+  "found_via": "seed",
+  "status": "duplicate",
+  "batch": "pass4-autonomous-onchain"
+ },
+ {
+  "name": "Parag K. Mital, The Game of Whispers (2026)",
+  "why": "Five-channel installation (LACMA commission, premiered Serendipity Arts Festival, Goa, December 2024) in which only AI-run non-player characters act; the audience watches, no human group follows rules.",
+  "link": "https://archive.aec.at/prix/317392/",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "pass4-autonomous-onchain"
  },
  {
   "name": "Botto, Knowledge Graph and creative-reasoning Art Engine (2025)",
@@ -1864,6 +2128,94 @@
   "batch": "pass3-new-autonomous"
  },
  {
+  "name": "dmstfctn, Fango 1000 (2024–25)",
+  "why": "covered: dmstfctn--fango-1000",
+  "link": "https://dmstfctn.net/related-matters/fango-1000",
+  "found_via": "seed",
+  "status": "covered",
+  "batch": "pass4-new-onchain"
+ },
+ {
+  "name": "0xfff, Transaction Sculptures (2018–2026)",
+  "why": "covered: 0xfff--transaction-sculptures",
+  "link": "https://tx.0xfff.love/",
+  "found_via": "0xfff",
+  "status": "covered",
+  "batch": "pass4-new-onchain"
+ },
+ {
+  "name": "DX Research Group, DX Terminal (2025) and DX Terminal Pro (2026)",
+  "why": "Trading simulation run by a research/startup group; Gremplin only designed the characters, and the team frames it as a game and trading research, not an authored art protocol.",
+  "link": "https://www.lerandom.art/editorial/dx-research-group-on-the-agent-arena",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "pass4-new-onchain"
+ },
+ {
+  "name": "CROSSLUCID, The Way of Flowers (2023–2025)",
+  "why": "covered: crosslucid--the-way-of-flowers",
+  "link": "https://crosslucid.zone/",
+  "found_via": "seed",
+  "status": "covered",
+  "batch": "pass4-new-onchain"
+ },
+ {
+  "name": "Figure31, DEAD ENDS (Canto, 2022)",
+  "why": "Passes the test (collectors spend $UP to upsample the shared images), but the Canto explorer and RPCs are down and the artist's image host refuses hotlinking; no usable image found.",
+  "link": "https://figure31.com/",
+  "found_via": "figure31",
+  "status": "no_media",
+  "batch": "pass4-new-onchain"
+ },
+ {
+  "name": "Figure31, Reaper's Gambit (2023)",
+  "why": "covered: figure31--reapers-gambit",
+  "link": "https://reapersgambit.com/",
+  "found_via": "figure31",
+  "status": "covered",
+  "batch": "pass4-new-onchain"
+ },
+ {
+  "name": "Figure31, LINE (Fingerprints DAO, 2024)",
+  "why": "covered: figure31--line",
+  "link": "https://line.fingerprintsdao.xyz/about",
+  "found_via": "figure31",
+  "status": "covered",
+  "batch": "pass4-new-onchain"
+ },
+ {
+  "name": "Matt Kane, ANONS & Multitudes (2023–)",
+  "why": "Staggered timed auctions of 1/1 ANONs with companion Multitudes; no rule beyond bidding shapes what collectors do together.",
+  "link": "https://anons.art",
+  "found_via": "matt-kane",
+  "status": "off_topic",
+  "batch": "pass4-new-onchain"
+ },
+ {
+  "name": "Leander Herzog, 1000 True Fans (2023)",
+  "why": "Generative release via Highlight x Coinbase Onchain Summer; the title refers to the patronage idea but no collective rule was found.",
+  "link": "https://leanderherzog.ch/2023/1000/",
+  "found_via": "leander-herzog",
+  "status": "off_topic",
+  "batch": "pass4-new-onchain"
+ },
+ {
+  "name": "Anna Ridler, The Shell Record: Breathings of the Moon",
+  "why": "The tide rule belongs to The Breathings of the Moon (2025, 15 editions, ZKM): each shell is visible and sellable only at low tide at its point on the Thames. It constrains each owner separately; group behaviour is not the work.",
+  "link": "https://annaridler.com/works/breathings",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "pass4-new-onchain"
+ },
+ {
+  "name": "Ana María Caballero, In Record Time (2025)",
+  "why": "Free open edition (1,317 items) for Zero 10; the hand annotations of Training Data were by artists Caballero invited, not contributions by collectors under a rule, and nothing shows them recorded on-chain.",
+  "link": "https://opensea.io/collection/in-record-time-by-ana-maria-caballero/overview",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "pass4-new-onchain"
+ },
+ {
   "name": "Material Protocol Arts, Cycles (2025)",
   "why": "512-lens on-chain kinetic sculpture that runs on its own; holders can only freeze a lens, so collective behaviour is not the work.",
   "link": "https://opensea.io/blog/articles/in-conversation-with-material-protocol-arts-team-the-creative-studio-behind-cycles",
@@ -1958,6 +2310,118 @@
   "found_via": "seed",
   "status": "off_topic",
   "batch": "pass3-new-onchain"
+ },
+ {
+  "name": "Ed Fornieles & Nina Runa Essendrop, Cel (2019)",
+  "why": "Covered: ed-fornieles--cel (added to worldglimpsing).",
+  "link": "https://arkdes.se/en/exhibitions/worldglimpsing/",
+  "found_via": "omsk-social-club",
+  "status": "covered",
+  "batch": "pass4-new-participatory"
+ },
+ {
+  "name": "Rimini Protokoll: Call Cutta in a Box (2008), 100% City (2008–), Remote X (2013), Situation Rooms (2013)",
+  "why": "Covered: rimini-protokoll--remote-x, rimini-protokoll--100-percent-city, rimini-protokoll--situation-rooms. Call Cutta in a Box left out: a one-to-one phone conversation between one spectator and one call-centre worker, not a group protocol.",
+  "link": "https://www.rimini-protokoll.de/website/en/projects",
+  "found_via": "rimini-protokoll",
+  "status": "covered",
+  "batch": "pass4-new-participatory"
+ },
+ {
+  "name": "OMSK Social Club: Cryptorave, Perception as Participation, Worlds' End Hackathon (2024) and other Real Game Play works",
+  "why": "Covered: omsk-social-club--cryptorave. Perception as Participation is an essay and video, not a protocol; Worlds' End Hackathon (2024, commissioned by ARIA) has photos but no published description of its rules.",
+  "link": "https://omsksocial.club/",
+  "found_via": "omsk-social-club",
+  "status": "covered",
+  "batch": "pass4-new-participatory"
+ },
+ {
+  "name": "Christian Falsnaes, audience-instruction performances (JEG/I/MOI 2024; Randers performance collaboration 2025)",
+  "why": "Covered: christian-falsnaes--front, christian-falsnaes--force. The 2024–25 works have no description of an audience protocol on the artist's site.",
+  "link": "https://www.christianfalsnaes.com/",
+  "found_via": "seed",
+  "status": "covered",
+  "batch": "pass4-new-participatory"
+ },
+ {
+  "name": "Operator (Ania Catherine & Dejha Ti), Repeat as necessary: Performance Operating System (2025–26)",
+  "why": "A 31-minute choreography performed by dancers (premiere Scorpios Bodrum, 9–10 August 2025); the on-chain notation and a 1/1 registry token holding the restaging rights do not hand a rule to a group whose behaviour makes the work.",
+  "link": "https://www.operator.la/repeat-as-necessary",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "pass4-new-participatory"
+ },
+ {
+  "name": "Júlia Nueno Guitart, Sabot – Riding the Algorithm (2022–)",
+  "why": "An organising app prototype for delivery riders (map, restaurant ratings, pay estimates) defined with IWGB riders in 2022; a tool for labour organising rather than an artwork whose rules shape group behaviour, and no documented collective use.",
+  "link": "https://github.com/julianueno/sabot",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "pass4-new-participatory"
+ },
+ {
+  "name": "Draw a Fish (drawafish.com, 2025)",
+  "why": "Covered: alden-hallak--draw-a-fish (creator Alden Hallak, verified via the GitHub repo and his postmortem).",
+  "link": "https://drawafish.com/",
+  "found_via": "seed",
+  "status": "covered",
+  "batch": "pass4-new-participatory"
+ },
+ {
+  "name": "Benediktas Gylys, The Portal (Vilnius–Lublin 2021; Dublin–New York 2024)",
+  "why": "Covered: benediktas-gylys--the-portal.",
+  "link": "https://www.portals.org/",
+  "found_via": "seed",
+  "status": "covered",
+  "batch": "pass4-new-participatory"
+ },
+ {
+  "name": "Elliott Cost, One Minute Park (Tiny Awards 2024 winner)",
+  "why": "Covered: elliott-cost--one-minute-park (in tiny-awards).",
+  "link": "https://oneminutepark.tv/",
+  "found_via": "seed",
+  "status": "covered",
+  "batch": "pass4-new-participatory"
+ },
+ {
+  "name": "Tiny Awards 2024 Multiplayer finalists: Cursorwatching, Internet Fridge, Internet Stoop, Stranger Video, 7 Minutes in Heaven",
+  "why": "Covered: spencer-chang--internet-fridge (in tiny-awards). The others have no stated collective rule beyond co-presence (Cursorwatching, 7 Minutes in Heaven pairs two visitors), and stranger.video and stoop.dog no longer serve the original sites.",
+  "link": "https://tinyawards.net/2024/",
+  "found_via": "nolen-royalty",
+  "status": "covered",
+  "batch": "pass4-new-participatory"
+ },
+ {
+  "name": "Lauren Lee McCarthy, HOST (party performance with AI earpiece directions)",
+  "why": "Covered: lauren-lee-mccarthy--host (The Music Center, 13 August 2024).",
+  "link": "https://get-lauren.net/HOST",
+  "found_via": "lauren-lee-mccarthy",
+  "status": "covered",
+  "batch": "pass4-new-participatory"
+ },
+ {
+  "name": "Tino Sehgal, new lobby work at Leeum Museum of Art (Seoul, 2026)",
+  "why": "Untitled in all reports, photography banned in the exhibition, and no image or video of the lobby piece exists.",
+  "link": "https://en.sedaily.com/culture/2026/02/26/tino-sehgals-first-korean-solo-show-bans-all-photography",
+  "found_via": "seed",
+  "status": "no_media",
+  "batch": "pass4-new-participatory"
+ },
+ {
+  "name": "Improv Everywhere, The Mp3 Experiment (2004–; 21st edition 2025)",
+  "why": "Covered: improv-everywhere--mp3-experiment (the 2025 edition was the 20th; the 21st was set for June 2026).",
+  "link": "https://improveverywhere.com/missions/the-mp3-experiments/",
+  "found_via": "seed",
+  "status": "covered",
+  "batch": "pass4-new-participatory"
+ },
+ {
+  "name": "Mehtap Baydu, Analı Kızlı – With Mothers and Daughters (Manifesta 16 Ruhr, 2026)",
+  "why": "A meal cooked by a collective of Bochum women for guests in a former church; no published invitation or seating rule, closer to a hosted dinner than a protocol (sources also differ on 11 or 12 cooks).",
+  "link": "https://www.goethe.de/prj/ger/en/ihr/27303804.html",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "pass4-new-participatory"
  },
  {
   "name": "Nolen Royalty, snakes.run (2026)",
@@ -2062,6 +2526,94 @@
   "found_via": "seed",
   "status": "off_topic",
   "batch": "pass3-new-participatory"
+ },
+ {
+  "name": "Duke Riley, In The Darkest Hour I Am By Your Side (Snark.art)",
+  "why": "Video split into free-to-claim 30x30px fragments that become publicly visible once claimed; no rule beyond claiming, and the fragment model is already represented by eve-sussman--89-seconds-atomized.",
+  "link": "https://snark.art/non-essential-consultants/",
+  "found_via": "snark-art",
+  "status": "off_topic",
+  "batch": "pass4-autonomous-onchain"
+ },
+ {
+  "name": "Volkmar Klien, Sometimes a Thousand Twangling Instruments (Snark.art)",
+  "why": "2,000 image-sound pairings sold singly; owners may optionally share them into collages, with no rule shaping a group.",
+  "link": "https://snark.art/1000-twangling-instruments/",
+  "found_via": "snark-art",
+  "status": "off_topic",
+  "batch": "pass4-autonomous-onchain"
+ },
+ {
+  "name": "Nancy Baker Cahill, Contract Killers (Snark.art, 2021)",
+  "why": "Site-specific AR series about broken social contracts on Tezos; collectors buy works, no collective rule.",
+  "link": "https://snark.art/contract-killers/",
+  "found_via": "snark-art",
+  "status": "off_topic",
+  "batch": "pass4-autonomous-onchain"
+ },
+ {
+  "name": "White Male Artist (Cassils), $HT Coin (Snark.art, 2021)",
+  "why": "Daily auctions of cans of the artist's excrement as NFTs in July 2021; a performance about the art market with no rule addressed to a group.",
+  "link": "https://whitemaleartist.com/",
+  "found_via": "snark-art",
+  "status": "off_topic",
+  "batch": "pass4-autonomous-onchain"
+ },
+ {
+  "name": "Danil Krivoruchko, Ksoids (2021)",
+  "why": "1,000 generative 3D characters sold in packs; profile-picture-style collection with no collective rule.",
+  "link": "https://ksoids.com/",
+  "found_via": "danil-krivoruchko",
+  "status": "off_topic",
+  "batch": "pass4-autonomous-onchain"
+ },
+ {
+  "name": "Clawhol, Clawglyphs (2026)",
+  "why": "Fully on-chain generative collection (511,024 works on Ethereum and Base) attributed to an AI agent; collectors and agents only mint, no rule shapes group behaviour.",
+  "link": "https://clawglyphs.org",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "pass4-autonomous-onchain"
+ },
+ {
+  "name": "Keke, Exit Vectors (Fellowship, 2025)",
+  "why": "Self-directed AI artist by an anonymous creator; 500 works curated with Alejandro Cartagena and paired with hand-painted versions, plus a $KEKE patronage token; no rule that makes a group's behaviour the work.",
+  "link": "https://verse.works/series/exit-vectors-by-keke",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "pass4-autonomous-onchain"
+ },
+ {
+  "name": "Botto, LED screening at Huashan 1914, Taipei (Nov 2026–Jan 2027)",
+  "why": "Outdoor screening of existing Botto works with two talks by Mario Klingemann (6–7 November 2026); no new rule for the DAO or visitors.",
+  "link": "https://www.thenewslens.com/article/270898",
+  "found_via": "botto",
+  "status": "off_topic",
+  "batch": "pass4-autonomous-onchain"
+ },
+ {
+  "name": "Figure31, DEL (2026)",
+  "why": "256 animated ASCII tokens driven by live Ethereum block hashes; no holder rule, so the network rather than a group shapes it.",
+  "link": "https://del.figure31.com/",
+  "found_via": "figure31",
+  "status": "off_topic",
+  "batch": "pass4-new-onchain"
+ },
+ {
+  "name": "Parker Ito & Evil Biscuit, 111k (VVV, 2026)",
+  "why": "Ethereum pack-opening release (5,555 crates of about 20 artworks, minted from 11 Nov 2026); the Le Random interview describes timed reveals but no rule by which holders act together.",
+  "link": "https://www.lerandom.art/editorial/parker-ito-and-evil-biscuit-on-111k-and-galaxy-building",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "pass4-new-onchain"
+ },
+ {
+  "name": "Tarek Atoui, Hold (Hyundai Commission, Tate Modern, 13 October 2026 – 11 April 2027)",
+  "why": "Sound installation that invited musicians plug into as a system during scheduled sessions; it addresses selected performers, not a public under a rule.",
+  "link": "https://www.tate.org.uk/press/press-releases/hyundai-commission-tarek-atoui-hold",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "pass4-new-participatory"
  },
  {
   "name": "Tino Sehgal",
@@ -2188,7 +2740,7 @@
   "why": "AI film and digital collage; no participatory rule set.",
   "link": "https://crosslucid.zone/",
   "found_via": "seed",
-  "status": "off_topic",
+  "status": "covered",
   "batch": "symbient"
  },
  {
