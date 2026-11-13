@@ -73,7 +73,7 @@ Baseline: 459 works / 278 creators / 60 open leads. Inputs in `temp/pass4/` (exi
 RESEARCH_BRIEF working dir corrected to /home/amber/projects/protocolized-reality-inspires.
 - [x] 4 parallel agents: pass4-new-onchain (11 leads), pass4-autonomous-onchain (13), pass4-new-participatory (15, owns Operator), pass4-leads-misc (21 + 2026 theory)
 - [x] validate --all, build: 506 works / 298 creators (+47 / +20), dropped 0, media problems 0, open leads 20; audit_titles 5 groups (unchanged, all distinct). Empty stray untitled.md moved to temp/pass4/.
-- [ ] publish
+- [x] published 816042f (git identity not configured on this machine; committed with -c user.name/email of the repo author)
 - ✓ pass4-new-onchain: 5 works (0xfff transaction-sculptures 2026, figure31 reapers-gambit + line, dmstfctn fango-1000, crosslucid way-of-flowers), 2 creators; 11/11 leads closed (5 covered, 5 off_topic, 1 no_media); 9 new open. Low-confidence: way-of-flowers chain, fango testnet, reaper's gambit twimg image.
 - ✓ pass4-autonomous-onchain: 9 works (clovers, remembering-network, portal-constellation, burn-before-reading, og-crystals, all-the-reporters, dark-wallet-puzzle, p5-botto, towr), 4 creators; 13 leads: 8 covered, 4 off_topic (Spirit Protocol, Ordinals, Chameleon, Game of Whispers), 1 duplicate (Operator), Aminals still open (not deployed). Sent back to fix snippet-only facts (burn date, og-crystals lock/sales, all-the-reporters dates, dark wallet).
 - ✓ autonomous-onchain fix: Dark Wallet snippet facts cut; OG Crystals $4M credited to ForkLog; Burn date verified on Product Hunt; reporters dates from banner.
