@@ -1,7 +1,10 @@
-0xfff | 0xfff | 2 works
+0xfff | 0xfff | 3 works
+0xhaiku | 0xhaiku | 1 works
 aaron-koblin | Aaron Koblin | 6 works
 aaron-wright | Aaron Wright | 1 works
 aaron-z-lewis | Aaron Z. Lewis | 1 works
+agnes-cameron | Agnes Cameron | 1 works
+agnieszka-kurant | Agnieszka Kurant | 3 works
 ai-weiwei | Ai Weiwei | 1 works
 alden-hallak | Alden Hallak | 1 works
 alex-tew | Alex Tew | 1 works
@@ -31,10 +34,10 @@ benjamin-patterson | Benjamin Patterson | 1 works
 bill-wasik | Bill Wasik | 1 works
 billy-rennekamp | Billy Rennekamp | 3 works
 black-swan-dao | Black Swan DAO | 1 works
-blast-theory | Blast Theory | 3 works
+blast-theory | Blast Theory | 4 works
 botao-amber-hu | Botao Amber Hu | 3 works
 botto | Botto | 3 works
-brian-droitcour | Brian Droitcour | 1 works
+brian-droitcour | Brian Droitcour | 2 works
 brian-eno | Brian Eno | 1 works
 brian-moore | Brian Moore | 1 works
 caleb-larsen | Caleb Larsen | 1 works
@@ -42,7 +45,7 @@ carey-young | Carey Young | 1 works
 casey-pugh | Casey Pugh | 1 works
 chenoe-hart | Chenoe Hart | 1 works
 chris-milk | Chris Milk | 2 works
-christian-falsnaes | Christian Falsnaes | 2 works
+christian-falsnaes | Christian Falsnaes | 6 works
 christian-marclay | Christian Marclay | 3 works
 christian-wolff | Christian Wolff | 1 works
 cildo-meireles | Cildo Meireles | 1 works
@@ -75,7 +78,7 @@ douglas-davis | Douglas Davis | 1 works
 drew-austin | Drew Austin | 1 works
 earle-brown | Earle Brown | 2 works
 eboy | eBoy | 1 works
-ed-fornieles | Ed Fornieles | 1 works
+ed-fornieles | Ed Fornieles | 4 works
 eduardo-kac | Eduardo Kac | 1 works
 egor-kraft | Egor Kraft | 1 works
 ei-arakawa-nash | Ei Arakawa-Nash | 1 works
@@ -89,7 +92,7 @@ eve-sussman | Eve Sussman | 1 works
 fangting | Fangting | 1 works
 felix-beer | Felix Beer | 1 works
 felix-gonzalez-torres | Felix Gonzalez-Torres | 3 works
-figure31 | Figure31 (Loucas Braconnier) | 6 works
+figure31 | Figure31 (Loucas Braconnier) | 8 works
 florian-cramer | Florian Cramer | 1 works
 francis-alys | Francis Alÿs | 6 works
 frauke-zeller | Frauke Zeller | 1 works
@@ -116,11 +119,13 @@ holly-herndon | Holly Herndon | 10 works
 hua-xi-zi | hua xi zi | 1 works
 image-bank | Image Bank | 1 works
 improv-everywhere | Improv Everywhere | 2 works
+ivona-tau | Ivona Tau | 1 works
 jack-and-leigh-ruby | Jack & Leigh Ruby | 1 works
 jack-burnham | Jack Burnham | 3 works
-jack-butcher | Jack Butcher | 9 works
+jack-butcher | Jack Butcher | 11 works
 jackson-mac-low | Jackson Mac Low | 2 works
 jacob-horne | Jacob Horne | 1 works
+james-bloom | James Bloom | 1 works
 james-greig | James Greig | 1 works
 janet-echelman | Janet Echelman | 1 works
 janna-tay | Janna Tay | 1 works
@@ -131,6 +136,7 @@ joe-looney | Joe Looney | 1 works
 joel-simon | Joel Simon | 2 works
 john-baldessari | John Baldessari | 1 works
 john-cage | John Cage | 5 works
+john-menick | John Menick | 1 works
 jonah-brucker-cohen | Jonah Brucker-Cohen | 1 works
 jonas-lund | Jonas Lund | 13 works
 joon-yeon-park | Joon Yeon Park | 1 works
@@ -164,14 +170,18 @@ lawrence-weiner | Lawrence Weiner | 1 works
 leander-herzog | Leander Herzog | 1 works
 lee-mingwei | Lee Mingwei | 4 works
 lil-nounders | Lil Nounders | 1 works
+lina-lapelyte | Lina Lapelytė | 1 works
+ling-tan | Ling Tan | 1 works
 lizz-thabet | Lizz Thabet | 1 works
 lucy-lippard | Lucy R. Lippard | 1 works
 ludens | ludens | 1 works
+luna-maurer | Luna Maurer | 1 works
 luther-blissett-project | Luther Blissett Project | 1 works
 lygia-clark | Lygia Clark | 2 works
 lygia-pape | Lygia Pape | 1 works
 maia-chao | Maia Chao | 1 works
 malte-rauch | Malte Rauch | 1 works
+manus-nijhoff | Manus Nijhoff | 1 works
 marc-garrett | Marc Garrett | 1 works
 marcel-duchamp | Marcel Duchamp | 2 works
 maria-eichhorn | Maria Eichhorn | 1 works
@@ -192,6 +202,7 @@ mieko-shiomi | Mieko Shiomi | 1 works
 mierle-laderman-ukeles | Mierle Laderman Ukeles | 2 works
 mindy-seu | Mindy Seu | 1 works
 miranda-july | Miranda July | 1 works
+misha-de-ridder | misha de ridder | 1 works
 mitchell-f-chan | Mitchell F. Chan | 1 works
 moma | MoMA (The Museum of Modern Art) | 1 works
 moxie-marlinspike | Moxie Marlinspike | 2 works
@@ -203,14 +214,15 @@ nathaniel-stern | Nathaniel Stern | 1 works
 neal-agarwal | Neal Agarwal | 2 works
 nick-thurston | Nick Thurston | 1 works
 nicolas-bourriaud | Nicolas Bourriaud | 1 works
-nina-runa-essendrop | Nina Runa Essendrop | 1 works
+nina-runa-essendrop | Nina Runa Essendrop | 2 works
 nolen-royalty | Nolen Royalty | 5 works
 nounders | Nounders | 1 works
 okhaos | Okhaos | 1 works
 olafur-eliasson | Olafur Eliasson | 2 works
 olia-lialina | Olia Lialina | 1 works
 olivia-steiert | Olivia Steiert | 1 works
-omsk-social-club | OMSK Social Club | 3 works
+omsk-social-club | OMSK Social Club | 4 works
+ontroerend-goed | Ontroerend Goed | 1 works
 pablo-helguera | Pablo Helguera | 1 works
 pak | Pak | 8 works
 paul-ramirez-jonas | Paul Ramírez Jonas | 1 works
@@ -226,26 +238,27 @@ primavera-de-filippi | Primavera De Filippi | 7 works
 protocol-institute | Protocol Institute | 1 works
 rafael-fernandez | Rafael Fernández | 1 works
 rafael-lima | Rafael Lima | 1 works
-rafael-lozano-hemmer | Rafael Lozano-Hemmer | 5 works
+rafael-lozano-hemmer | Rafael Lozano-Hemmer | 6 works
 rare-pepe-directory | Rare Pepe Directory | 1 works
 ray-johnson | Ray Johnson | 1 works
 raymond-queneau | Raymond Queneau | 1 works
 reddit | Reddit | 2 works
-rhea-myers | Rhea Myers | 16 works
+rhea-myers | Rhea Myers | 17 works
 rich-mcdowell | Rich McDowell | 1 works
-rimini-protokoll | Rimini Protokoll | 4 works
+rimini-protokoll | Rimini Protokoll | 5 works
 rirkrit-tiravanija | Rirkrit Tiravanija | 1 works
 rithikha-rajamohan | Rithikha Rajamohan | 1 works
 robert-adrian | Robert Adrian X | 1 works
 robert-filliou | Robert Filliou | 2 works
 robert-projansky | Robert Projansky | 1 works
+roel-wouters | Roel Wouters | 1 works
 roman-ondak | Roman Ondák | 1 works
 roy-ascott | Roy Ascott | 3 works
 ruth-catlow | Ruth Catlow | 4 works
 saffron-huang | Saffron Huang | 1 works
 sam-spratt | Sam Spratt | 2 works
 santiago-sierra | Santiago Sierra | 3 works
-sarah-friend | Sarah Friend | 9 works
+sarah-friend | Sarah Friend | 10 works
 sarah-meyohas | Sarah Meyohas | 2 works
 scarab-experiment | The Scarab Experiment (SCARAB) | 1 works
 scott-kildall | Scott Kildall | 1 works
@@ -253,11 +266,12 @@ serpentine-arts-technologies | Serpentine Arts Technologies | 1 works
 seth-siegelaub | Seth Siegelaub | 2 works
 shannon-jackson | Shannon Jackson | 1 works
 sherrie-rabinowitz | Sherrie Rabinowitz | 2 works
+shin-hanagata | Shin Hanagata | 1 works
 shreeda-segan | Shreeda Segan | 1 works
 shuya-gong | Shuya Gong | 2 works
 simon-de-la-rouviere | Simon de la Rouviere | 7 works
 simone-forti | Simone Forti | 1 works
-snark-art | Snark.art | 4 works
+snark-art | Snark.art | 5 works
 snowfro | Snowfro (Erick Calderon) | 1 works
 sol-lewitt | Sol LeWitt | 11 works
 songcamp | Songcamp | 3 works
@@ -265,6 +279,7 @@ spawning | Spawning | 3 works
 spencer-chang | Spencer Chang | 3 works
 stelarc | Stelarc | 1 works
 stephen-willats | Stephen Willats | 1 works
+steve-pikelny | Steve Pikelny | 5 works
 summer-of-protocols | Summer of Protocols | 6 works
 superflex | Superflex | 6 works
 suum-cuique-labs | Suum Cuique Labs | 1 works
@@ -282,6 +297,7 @@ toby-shorin | Toby Shorin | 1 works
 tom-finkelpearl | Tom Finkelpearl | 1 works
 tom-marioni | Tom Marioni | 1 works
 tom-sachs | Tom Sachs | 1 works
+tommy-hartung | Tommy Hartung | 1 works
 twitch-plays-pokemon-streamer | The Streamer (Twitch Plays Pokémon) | 1 works
 tyler-hobbs | Tyler Hobbs | 1 works
 ulises-carrion | Ulises Carrión | 1 works

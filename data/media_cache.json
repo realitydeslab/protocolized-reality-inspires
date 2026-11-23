@@ -6796,5 +6796,497 @@
   "ok": true,
   "type": "image",
   "content_type": "image/jpeg"
+ },
+ "img:https://themassage.jp/wwp/wp-content/uploads/2025/03/c01d6e205aef755f26ef86e9ba214b43-1-800x469.jpg": {
+  "url": "https://themassage.jp/wwp/wp-content/uploads/2025/03/c01d6e205aef755f26ef86e9ba214b43-1-800x469.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://themassage.jp/wwp/wp-content/uploads/2025/03/b80e9adcdae14913dc2c137be2a2976d-1-800x467.jpg": {
+  "url": "https://themassage.jp/wwp/wp-content/uploads/2025/03/b80e9adcdae14913dc2c137be2a2976d-1-800x467.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://themassage.jp/wwp/wp-content/uploads/2025/03/3e4d221649888685d2e75d3a84b871be-1-800x469.jpg": {
+  "url": "https://themassage.jp/wwp/wp-content/uploads/2025/03/3e4d221649888685d2e75d3a84b871be-1-800x469.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://themassage.jp/wwp/wp-content/uploads/2025/03/bd7aa77bb462e2124e06b3f2776539a8-1-800x469.jpg": {
+  "url": "https://themassage.jp/wwp/wp-content/uploads/2025/03/bd7aa77bb462e2124e06b3f2776539a8-1-800x469.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://fig31static.s3.us-east-1.amazonaws.com/terminus_content/mark/%E2%8B%80/%E2%8B%80_1.JPEG": {
+  "url": "https://fig31static.s3.us-east-1.amazonaws.com/terminus_content/mark/%E2%8B%80/%E2%8B%80_1.JPEG",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://fig31static.s3.us-east-1.amazonaws.com/terminus_content/mark/%E2%A7%8A/%E2%A7%8A_56.JPEG": {
+  "url": "https://fig31static.s3.us-east-1.amazonaws.com/terminus_content/mark/%E2%A7%8A/%E2%A7%8A_56.JPEG",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:mp4:https://nft.snark.art/0x19fd551ae0426d576698d399e104313ef8d6a553/1/Adam_and_the_Void_FullTrailer.mp4": {
+  "url": "https://nft.snark.art/0x19fd551ae0426d576698d399e104313ef8d6a553/1/Adam_and_the_Void_FullTrailer.mp4",
+  "ok": true,
+  "platform": "mp4",
+  "id": "https://nft.snark.art/0x19fd551ae0426d576698d399e104313ef8d6a553/1/Adam_and_the_Void_FullTrailer.mp4",
+  "content_type": "application/octet-stream"
+ },
+ "img:https://snark.art/images/production/tot.png": {
+  "url": "https://snark.art/images/production/tot.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://nft.snark.art/0x19fd551ae0426d576698d399e104313ef8d6a553/1/Adam_and_the_Void_Poster.jpg": {
+  "url": "https://nft.snark.art/0x19fd551ae0426d576698d399e104313ef8d6a553/1/Adam_and_the_Void_Poster.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "application/octet-stream"
+ },
+ "video:mp4:https://making.gold/video/GOLD_60mb.mp4": {
+  "url": "https://making.gold/video/GOLD_60mb.mp4",
+  "ok": true,
+  "platform": "mp4",
+  "id": "https://making.gold/video/GOLD_60mb.mp4",
+  "content_type": "video/mp4"
+ },
+ "img:https://making.gold/images/seo.jpg": {
+  "url": "https://making.gold/images/seo.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://freight.cargo.site/w/1000/i/1ce0d88bcf0e9720ad40c01d0b6326c2f0b89581ef88b6db5e2d8c2136146dcc/gold.jpg": {
+  "url": "https://freight.cargo.site/w/1000/i/1ce0d88bcf0e9720ad40c01d0b6326c2f0b89581ef88b6db5e2d8c2136146dcc/gold.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://glitch.mishaderidder.com/opengraph-image.jpeg?ffe2398d0dfe605f": {
+  "url": "https://glitch.mishaderidder.com/opengraph-image.jpeg?ffe2398d0dfe605f",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://aw.network/img/sentences.png": {
+  "url": "https://aw.network/img/sentences.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "video:youtube:VfecFm5x6sE": {
+  "url": "https://www.youtube.com/watch?v=VfecFm5x6sE",
+  "ok": true,
+  "platform": "youtube",
+  "id": "VfecFm5x6sE",
+  "title": "Agnieszka Kurant, The End of Signature, 2021 and 2022",
+  "author": "MIT List Visual Arts Center",
+  "thumbnail": "https://i.ytimg.com/vi/VfecFm5x6sE/hqdefault.jpg"
+ },
+ "img:https://listart.mit.edu/sites/default/files/styles/colorbox_desktop/public/media/images/2022-06/list_publicart_20220614_0128.jpg.webp?itok=rSboL5wc": {
+  "url": "https://listart.mit.edu/sites/default/files/styles/colorbox_desktop/public/media/images/2022-06/list_publicart_20220614_0128.jpg.webp?itok=rSboL5wc",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://listart.mit.edu/sites/default/files/styles/colorbox_desktop/public/media/images/2022-06/list_publicart_20220614_0029.jpg.webp?itok=IQgsRlaE": {
+  "url": "https://listart.mit.edu/sites/default/files/styles/colorbox_desktop/public/media/images/2022-06/list_publicart_20220614_0029.jpg.webp?itok=IQgsRlaE",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "arxiv:2207.04312": {
+  "arxiv": "2207.04312",
+  "ok": true,
+  "type": "arxiv",
+  "title": "At the Intersection of Deep Learning and Conceptual Art: The End of Signature",
+  "year": 2022,
+  "url": "https://arxiv.org/abs/2207.04312"
+ },
+ "img:https://johnmenick.com/images/serial-13.png": {
+  "url": "https://johnmenick.com/images/serial-13.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://johnmenick.com/images/serial-3.png": {
+  "url": "https://johnmenick.com/images/serial-3.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://arts.mit.edu/wp-content/uploads/2020/02/Kurant-Assembly-Line-2017-Photo-Jerry-Liu-e1582219595704-1200x874.jpg": {
+  "url": "https://arts.mit.edu/wp-content/uploads/2020/02/Kurant-Assembly-Line-2017-Photo-Jerry-Liu-e1582219595704-1200x874.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://arts.mit.edu/wp-content/uploads/2020/03/Agnieszka-Kurant_in-progress-view-of-Assembly-Line-algorithm-2017-1200x960.jpg": {
+  "url": "https://arts.mit.edu/wp-content/uploads/2020/03/Agnieszka-Kurant_in-progress-view-of-Assembly-Line-algorithm-2017-1200x960.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://substackcdn.com/image/fetch/$s_!OUHD!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe5655183-f310-4f99-811b-706bfacf5ea7_2000x1461.jpeg": {
+  "url": "https://substackcdn.com/image/fetch/$s_!OUHD!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe5655183-f310-4f99-811b-706bfacf5ea7_2000x1461.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://substackcdn.com/image/fetch/$s_!6Lee!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F78c0d2f7-869b-4187-a940-3f92c3c14e80_3456x2159.png": {
+  "url": "https://substackcdn.com/image/fetch/$s_!6Lee!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F78c0d2f7-869b-4187-a940-3f92c3c14e80_3456x2159.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:8FAM_-IBkqg": {
+  "url": "https://www.youtube.com/watch?v=8FAM_-IBkqg",
+  "ok": true,
+  "platform": "youtube",
+  "id": "8FAM_-IBkqg",
+  "title": "Rider Spoke | Brighton Festival 2021",
+  "author": "BrightonFestival",
+  "thumbnail": "https://i.ytimg.com/vi/8FAM_-IBkqg/hqdefault.jpg"
+ },
+ "img:https://www.blasttheory.co.uk/wp-content/uploads/2013/02/rs_featured-950x534.jpg": {
+  "url": "https://www.blasttheory.co.uk/wp-content/uploads/2013/02/rs_featured-950x534.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.blasttheory.co.uk/wp-content/uploads/2013/02/rs_secondary-625x450.jpg": {
+  "url": "https://www.blasttheory.co.uk/wp-content/uploads/2013/02/rs_secondary-625x450.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:mp4:https://aotm.gallery/wp-content/uploads/2026/09/3_sound-Ivona-Tau.mp4": {
+  "url": "https://aotm.gallery/wp-content/uploads/2026/09/3_sound-Ivona-Tau.mp4",
+  "ok": true,
+  "platform": "mp4",
+  "id": "https://aotm.gallery/wp-content/uploads/2026/09/3_sound-Ivona-Tau.mp4",
+  "content_type": "video/mp4"
+ },
+ "img:https://anti.athensbiennale.org/sites/default/files/styles/venue_slideshow/public/2018-09/AB6_The%20Group_A%20temporary%20Autonomous%20Hotel.jpg": {
+  "url": "https://anti.athensbiennale.org/sites/default/files/styles/venue_slideshow/public/2018-09/AB6_The%20Group_A%20temporary%20Autonomous%20Hotel.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/hyperallergic-newspack-s3-amazonaws-com/uploads/2012/04/dorm-daze-series-home.jpg": {
+  "url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/hyperallergic-newspack-s3-amazonaws-com/uploads/2012/04/dorm-daze-series-home.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/59a43ac09f8dceb4db9b5d52/1504544578436-GJC8M3FVJWJLRMBM5SP9/christian_falsnaes_rise_3.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/59a43ac09f8dceb4db9b5d52/1504544578436-GJC8M3FVJWJLRMBM5SP9/christian_falsnaes_rise_3.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/59a43ac09f8dceb4db9b5d52/1504544712438-AH6RG3VOWJESYM2O5WSG/christian_falsnaes_rise_5.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/59a43ac09f8dceb4db9b5d52/1504544712438-AH6RG3VOWJESYM2O5WSG/christian_falsnaes_rise_5.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/59a43ac09f8dceb4db9b5d52/1504197964861-Q99ULRADBJM8Y731FL8G/christian_falsnaes_agoodreason_1.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/59a43ac09f8dceb4db9b5d52/1504197964861-Q99ULRADBJM8Y731FL8G/christian_falsnaes_agoodreason_1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/59a43ac09f8dceb4db9b5d52/1504197979287-IVKJZT0GTKMV44HCGSLB/christian_falsnaes_agoodreason_3.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/59a43ac09f8dceb4db9b5d52/1504197979287-IVKJZT0GTKMV44HCGSLB/christian_falsnaes_agoodreason_3.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:3zAUuV2KyWU": {
+  "url": "https://www.youtube.com/watch?v=3zAUuV2KyWU",
+  "ok": true,
+  "platform": "youtube",
+  "id": "3zAUuV2KyWU",
+  "title": "Christian Falsnaes - Stage (2017)",
+  "author": "P0and0not0P",
+  "thumbnail": "https://i.ytimg.com/vi/3zAUuV2KyWU/hqdefault.jpg"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/59a43ac09f8dceb4db9b5d52/1559660625106-JZ7NZDC847W3P7CLL4IK/2+%281%29+low.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/59a43ac09f8dceb4db9b5d52/1559660625106-JZ7NZDC847W3P7CLL4IK/2+%281%29+low.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/59a43ac09f8dceb4db9b5d52/1505152888587-UAMT3GUFQQFROZBKOWX2/image-asset.jpeg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/59a43ac09f8dceb4db9b5d52/1505152888587-UAMT3GUFQQFROZBKOWX2/image-asset.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:vimeo:652520842": {
+  "url": "https://vimeo.com/652520842",
+  "ok": true,
+  "platform": "vimeo",
+  "id": "652520842",
+  "embeddable": true,
+  "title": "Christian Falsnaes: FEAST (teaser)",
+  "thumbnail": "https://i.vimeocdn.com/video/1328079503-c880b2cd0c022ff7837c8af41f9560f692faca70aff3bca2dc730a302f4067a0-d?f=webp&amp;region=us"
+ },
+ "img:https://www.psm-gallery.com/wp-content/uploads/2021/11/FEAST-still-13-1920x1080.jpg": {
+  "url": "https://www.psm-gallery.com/wp-content/uploads/2021/11/FEAST-still-13-1920x1080.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.psm-gallery.com/wp-content/uploads/2021/11/03-1920x1083.jpg": {
+  "url": "https://www.psm-gallery.com/wp-content/uploads/2021/11/03-1920x1083.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:B7U_7kTxUWA": {
+  "url": "https://www.youtube.com/watch?v=B7U_7kTxUWA",
+  "ok": true,
+  "platform": "youtube",
+  "id": "B7U_7kTxUWA",
+  "title": "CHIMERIA I (2025), Shin Hanagata",
+  "author": "Shin Hanagata",
+  "thumbnail": "https://i.ytimg.com/vi/B7U_7kTxUWA/hqdefault.jpg"
+ },
+ "img:https://i.ytimg.com/vi/B7U_7kTxUWA/maxresdefault.jpg": {
+  "url": "https://i.ytimg.com/vi/B7U_7kTxUWA/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://jack.art/exchange/share/exchange-sankey.png": {
+  "url": "https://jack.art/exchange/share/exchange-sankey.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://jack.art/exchange/balance-example.svg": {
+  "url": "https://jack.art/exchange/balance-example.svg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/svg+xml"
+ },
+ "img:https://jack.art/exchange/bars/line.gif": {
+  "url": "https://jack.art/exchange/bars/line.gif",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/gif"
+ },
+ "img:https://versecontent.com/image/w1400/static%2Fbp_uploads_6c059bb0-7487-4f07-b663-1b5d84b5c7b9.svg@jpeg": {
+  "url": "https://versecontent.com/image/w1400/static%2Fbp_uploads_6c059bb0-7487-4f07-b663-1b5d84b5c7b9.svg@jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://steviep.xyz/moneymakingopportunity/favicon.png": {
+  "url": "https://steviep.xyz/moneymakingopportunity/favicon.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://pyramidgame.eth.limo/thumbnail.png": {
+  "url": "https://pyramidgame.eth.limo/thumbnail.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://busd.steviep.xyz/assets/thumbnail.png": {
+  "url": "https://busd.steviep.xyz/assets/thumbnail.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://busd.steviep.xyz/assets/tray.jpg": {
+  "url": "https://busd.steviep.xyz/assets/tray.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://predict.steviep.xyz/assets/predict.png": {
+  "url": "https://predict.steviep.xyz/assets/predict.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://etf.steviep.xyz/assets/etf.png": {
+  "url": "https://etf.steviep.xyz/assets/etf.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "video:vimeo:1116083186": {
+  "url": "https://vimeo.com/1116083186",
+  "ok": true,
+  "platform": "vimeo",
+  "id": "1116083186",
+  "embeddable": true,
+  "title": "Handle with Care - teaser",
+  "thumbnail": "https://i.vimeocdn.com/video/2055610254-02a1c5eff0eb78bf590faf8292d9e9fe1f6972bb46eff8b14d7750b6d7d00608-d?f=webp&amp;region=us"
+ },
+ "img:https://ontroerendgoed.be/uploads/images/HWC/_featured/Handle_with_Care_tryoutshot_ansbrys_20241214_G2A3568.jpg": {
+  "url": "https://ontroerendgoed.be/uploads/images/HWC/_featured/Handle_with_Care_tryoutshot_ansbrys_20241214_G2A3568.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://ontroerendgoed.be/uploads/images/_default/handlewithcare.jpg": {
+  "url": "https://ontroerendgoed.be/uploads/images/_default/handlewithcare.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://ontroerendgoed.be/uploads/images/HWC/_featured/HWC_posters_c_ansbrys_20250218_G2A4177.jpg": {
+  "url": "https://ontroerendgoed.be/uploads/images/HWC/_featured/HWC_posters_c_ansbrys_20250218_G2A4177.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Uniqlo_Tate_Play_Lina_Lapelyte_Se.width-1440.format-jpeg.jpg": {
+  "url": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Uniqlo_Tate_Play_Lina_Lapelyte_Se.width-1440.format-jpeg.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/6._Uniqlo_Tate_Play_Lina_Lapelyte.width-1440.format-jpeg.jpg": {
+  "url": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/6._Uniqlo_Tate_Play_Lina_Lapelyte.width-1440.format-jpeg.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:vimeo:1235370891": {
+  "url": "https://vimeo.com/1235370891",
+  "ok": true,
+  "platform": "vimeo",
+  "id": "1235370891",
+  "embeddable": true,
+  "title": "Transart2026 / Book a Scientist",
+  "thumbnail": "https://i.vimeocdn.com/video/2211597571-89781d29b399dbd46181ded0972c7d8e315edc560863a1076595a40b75516d5c-d?f=webp&amp;region=us"
+ },
+ "img:https://www.rimini-protokoll.de/website/cache/images/media/Book%20a%20Scientist/DEF_selezione_book%20a%20scientist/1280-2026%2009%2017_Book%20A%20Scientist_web_ph%20Lucia%20Rose%20Buffa-1.jpg": {
+  "url": "https://www.rimini-protokoll.de/website/cache/images/media/Book%20a%20Scientist/DEF_selezione_book%20a%20scientist/1280-2026%2009%2017_Book%20A%20Scientist_web_ph%20Lucia%20Rose%20Buffa-1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.rimini-protokoll.de/website/cache/images/media/Book%20a%20Scientist/DEF_selezione_book%20a%20scientist/1280-2026%2009%2017_Book%20A%20Scientist_web_ph%20Lucia%20Rose%20Buffa-16.jpg": {
+  "url": "https://www.rimini-protokoll.de/website/cache/images/media/Book%20a%20Scientist/DEF_selezione_book%20a%20scientist/1280-2026%2009%2017_Book%20A%20Scientist_web_ph%20Lucia%20Rose%20Buffa-16.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.rimini-protokoll.de/website/cache/images/media/Book%20a%20Scientist/DEF_selezione_book%20a%20scientist/1280-2026%2009%2017_Book%20A%20Scientist_web_ph%20Lucia%20Rose%20Buffa-26.jpg": {
+  "url": "https://www.rimini-protokoll.de/website/cache/images/media/Book%20a%20Scientist/DEF_selezione_book%20a%20scientist/1280-2026%2009%2017_Book%20A%20Scientist_web_ph%20Lucia%20Rose%20Buffa-26.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:mp4:https://www.lozano-hemmer.com/videos/artwork/undercurrents_houston_2026_rlh_001.mp4": {
+  "url": "https://www.lozano-hemmer.com/videos/artwork/undercurrents_houston_2026_rlh_001.mp4",
+  "ok": true,
+  "platform": "mp4",
+  "id": "https://www.lozano-hemmer.com/videos/artwork/undercurrents_houston_2026_rlh_001.mp4",
+  "content_type": "video/mp4"
+ },
+ "img:https://www.lozano-hemmer.com/image_sets/undercurrents/houston_2026/undercurrents_houston_2026_ne_001.jpg": {
+  "url": "https://www.lozano-hemmer.com/image_sets/undercurrents/houston_2026/undercurrents_houston_2026_ne_001.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.lozano-hemmer.com/image_sets/undercurrents/houston_2026/undercurrents_houston_2026_ne_005.jpg": {
+  "url": "https://www.lozano-hemmer.com/image_sets/undercurrents/houston_2026/undercurrents_houston_2026_ne_005.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.lozano-hemmer.com/image_sets/undercurrents/houston_2026/undercurrents_houston_2026_rlh_001.jpg": {
+  "url": "https://www.lozano-hemmer.com/image_sets/undercurrents/houston_2026/undercurrents_houston_2026_rlh_001.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:gmp0y75lu8c": {
+  "url": "https://youtu.be/gmp0y75lu8c",
+  "ok": true,
+  "platform": "youtube",
+  "id": "gmp0y75lu8c",
+  "title": "IDFA 2025 | Trailer | Deep Soup",
+  "author": "IDFA",
+  "thumbnail": "https://i.ytimg.com/vi/gmp0y75lu8c/hqdefault.jpg"
+ },
+ "img:https://my.idfa.nl/image-transforms/5ac4aa38-5e2c-4794-be27-59d81bd644a3/1920.jpeg": {
+  "url": "https://my.idfa.nl/image-transforms/5ac4aa38-5e2c-4794-be27-59d81bd644a3/1920.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "application/octet-stream"
+ },
+ "img:https://my.idfa.nl/image-transforms/e57916b5-b243-4a88-a2ab-800d0508b1af/1920.jpeg": {
+  "url": "https://my.idfa.nl/image-transforms/e57916b5-b243-4a88-a2ab-800d0508b1af/1920.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "application/octet-stream"
+ },
+ "img:https://archive.aec.at/asset/3905104/preview/": {
+  "url": "https://archive.aec.at/asset/3905104/preview/",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://archive.aec.at/asset/3905105/preview/": {
+  "url": "https://archive.aec.at/asset/3905105/preview/",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://archive.aec.at/asset/3905106/preview/": {
+  "url": "https://archive.aec.at/asset/3905106/preview/",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "ytmax:VfecFm5x6sE": {
+  "url": "https://i.ytimg.com/vi/VfecFm5x6sE/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:8FAM_-IBkqg": {
+  "url": "https://i.ytimg.com/vi/8FAM_-IBkqg/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:3zAUuV2KyWU": {
+  "url": "https://i.ytimg.com/vi/3zAUuV2KyWU/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:B7U_7kTxUWA": {
+  "url": "https://i.ytimg.com/vi/B7U_7kTxUWA/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:gmp0y75lu8c": {
+  "url": "https://i.ytimg.com/vi/gmp0y75lu8c/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
  }
 }

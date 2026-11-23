@@ -1,0 +1,598 @@
+{
+  "batch": "pass5-new-participatory-theory",
+  "creators": [
+    {
+      "id": "ontroerend-goed",
+      "name": "Ontroerend Goed",
+      "kind": "collective",
+      "role": "Theatre company",
+      "based": "Ghent, BE",
+      "bio": "Flemish theatre company based in Ghent; its piece Handle with Care was conceived by Alexander Devriendt, Karolien De Bleser, Samir Veen, Leonore Spee and Charlotte De Bruyne.",
+      "why": "With Handle with Care the company sends a show out as a box of instructions that an audience performs with no actors or technicians present.",
+      "links": {
+        "site": "https://ontroerendgoed.be/"
+      },
+      "role_zh": "剧团",
+      "based_zh": "根特，比利时",
+      "bio_zh": "设在根特的弗拉芒剧团；作品 Handle with Care 由 Alexander Devriendt、Karolien De Bleser、Samir Veen、Leonore Spee 和 Charlotte De Bruyne 共同构思。",
+      "why_zh": "在 Handle with Care 中，剧团把一场演出装进一箱指令寄出去，由观众自己演完，现场没有演员也没有技术人员。",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "lina-lapelyte",
+      "name": "Lina Lapelytė",
+      "kind": "person",
+      "role": "Artist and composer",
+      "based": "Lithuania",
+      "bio": "Lithuanian artist trained as a classical violinist and composer, whose work draws on experimental music, amateur performance and collaboration in what she calls 'sculptural situations'.",
+      "why": "Her Turbine Hall commission Serendipity Island gives museum visitors short scores to perform together, so the crowd itself makes the music and the choreography.",
+      "links": {},
+      "role_zh": "艺术家、作曲家",
+      "based_zh": "立陶宛",
+      "bio_zh": "立陶宛艺术家，受过古典小提琴和作曲训练，创作取材于实验音乐、业余表演，以及她称为“雕塑式情境”的协作。",
+      "why_zh": "她为泰特现代美术馆涡轮大厅创作的 Serendipity Island 把简短的乐谱交给观众一起表演，音乐和编舞都由人群自己完成。",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "luna-maurer",
+      "name": "Luna Maurer",
+      "kind": "person",
+      "role": "Artist and filmmaker",
+      "based": "Netherlands",
+      "bio": "Artist who works with Roel Wouters; together they wrote and directed Deep Soup (2025), a film that sets physical matter against frictionless digital systems.",
+      "why": "With Roel Wouters she builds works out of contributions that many people make under a shared brief.",
+      "links": {},
+      "role_zh": "艺术家、电影作者",
+      "based_zh": "荷兰",
+      "bio_zh": "与 Roel Wouters 合作的艺术家；两人共同编导了 Deep Soup（2025），影片用物质世界来对照毫无摩擦的数字系统。",
+      "why_zh": "她与 Roel Wouters 用许多人按同一份要求提交的素材来构成作品。",
+      "connected_to": [
+        "roel-wouters"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "roel-wouters",
+      "name": "Roel Wouters",
+      "kind": "person",
+      "role": "Artist and filmmaker",
+      "based": "Netherlands",
+      "bio": "Artist who works with Luna Maurer; together they wrote and directed Deep Soup (2025); his projects also include the manifesto project Designing Friction.",
+      "why": "With Luna Maurer he builds works out of contributions that many people make under a shared brief.",
+      "links": {
+        "site": "https://roelwouters.com/"
+      },
+      "role_zh": "艺术家、电影作者",
+      "based_zh": "荷兰",
+      "bio_zh": "与 Luna Maurer 合作的艺术家；两人共同编导了 Deep Soup（2025）；他的项目还包括宣言项目 Designing Friction。",
+      "why_zh": "他与 Luna Maurer 用许多人按同一份要求提交的素材来构成作品。",
+      "connected_to": [
+        "luna-maurer"
+      ],
+      "discovered_via": "luna-maurer"
+    },
+    {
+      "id": "ling-tan",
+      "name": "Ling Tan",
+      "kind": "person",
+      "role": "Artist and designer",
+      "based": "United Kingdom",
+      "bio": "Artist and designer (Singapore / UK) who created Low Carbon Chinatown, a project that uses Chinese diasporic food as a way into climate science.",
+      "why": "Her Harvesting Climate Action turns a list of 100 climate actions into seats at a banquet where the guests debate and vote on them.",
+      "links": {},
+      "role_zh": "艺术家、设计师",
+      "based_zh": "英国",
+      "bio_zh": "艺术家、设计师（新加坡 / 英国），Low Carbon Chinatown 项目的发起人，该项目以海外华人的饮食为入口来谈气候科学。",
+      "why_zh": "她的 Harvesting Climate Action 把 100 项气候行动变成一场宴会上的座位，由来宾对这些行动展开辩论和投票。",
+      "connected_to": [],
+      "discovered_via": "seed"
+    }
+  ],
+  "works": [
+    {
+      "id": "ontroerend-goed--handle-with-care",
+      "creator_ids": [
+        "ontroerend-goed"
+      ],
+      "title": "Handle with Care",
+      "year": 2025,
+      "field": "social",
+      "sub": "performance",
+      "also": [
+        "score"
+      ],
+      "mechanisms": [
+        "instruction",
+        "participation",
+        "circulation"
+      ],
+      "substrate": "body",
+      "kind": "artwork",
+      "description": "A one-hour theatre piece that arrives at the venue as a box in the post: there are no actors and no technicians, and the audience makes the show from what it finds inside. Its world premiere took place in several places at once in October and November 2025, including IDFA DocLab in Amsterdam.",
+      "description_zh": "一部时长一小时的剧场作品，以一个邮寄到剧院的箱子的形式到场：没有演员，也没有技术人员，观众用箱子里的东西自己把戏演出来。2025 年 10 月至 11 月在多地同时世界首演，其中包括阿姆斯特丹的 IDFA DocLab。",
+      "idea_en": "Ship the performance as a box; whoever opens it becomes the company.",
+      "idea_zh": "把演出装进箱子寄出去，谁打开它，谁就是剧团。",
+      "protocol": "The company mails a box to a theatre. The host invites a group of people for a set night and time, lets them take their seats and places the box at the centre of the stage. The audience waits until one of them stands up and opens the box; from then on the contents of the box direct the evening.",
+      "protocol_zh": "剧团把一个箱子寄到剧院。主办方在约定的日期和时间邀请一群人到场、入座，并把箱子放在舞台中央。观众等待，直到其中一人站起来打开箱子；此后的一切由箱中之物引导。",
+      "collective": "Each audience performs the piece once, for itself, and the company describes every evening as one-off and unrepeatable. Since 9 October 2025 the box has been opened by audiences in Belgium, the Netherlands, the UK, the US, France, Hong Kong, Taiwan, Singapore, Greece and Australia, with voice and text versions in several languages.",
+      "collective_zh": "每一批观众只为自己演出一次，剧团称每个夜晚都是一次性的、不可重复的。自 2025 年 10 月 9 日起，比利时、荷兰、英国、美国、法国、香港、台湾、新加坡、希腊和澳大利亚等地的观众都打开过这个箱子，作品备有多种语言的语音和文字版本。",
+      "keywords": [
+        "Ontroerend Goed",
+        "Alexander Devriendt",
+        "box",
+        "no actors",
+        "IDFA DocLab",
+        "NTGent"
+      ],
+      "video": {
+        "url": "https://vimeo.com/1116083186"
+      },
+      "images": [
+        "https://ontroerendgoed.be/uploads/images/HWC/_featured/Handle_with_Care_tryoutshot_ansbrys_20241214_G2A3568.jpg",
+        "https://ontroerendgoed.be/uploads/images/_default/handlewithcare.jpg",
+        "https://ontroerendgoed.be/uploads/images/HWC/_featured/HWC_posters_c_ansbrys_20250218_G2A4177.jpg"
+      ],
+      "source_url": "https://ontroerendgoed.be/projects/handle-with-care"
+    },
+    {
+      "id": "lina-lapelyte--serendipity-island",
+      "creator_ids": [
+        "lina-lapelyte"
+      ],
+      "title": "Serendipity Island",
+      "year": 2026,
+      "field": "score",
+      "sub": "public-instructions",
+      "also": [
+        "social"
+      ],
+      "mechanisms": [
+        "instruction",
+        "participation",
+        "chance"
+      ],
+      "substrate": "body",
+      "kind": "artwork",
+      "description": "An installation and mass performance in Tate Modern's Turbine Hall (25 July – 31 August 2026): visitors learn a short score and carry it out while walking in line through a maze of wooden queue barriers. It was the 2026 summer commission of the UNIQLO Tate Play programme.",
+      "description_zh": "泰特现代美术馆涡轮大厅里的一件装置兼大型表演（2026 年 7 月 25 日至 8 月 31 日）：观众先学会一段简短的乐谱，再排成一列穿过由木制排队围栏搭成的迷宫，边走边表演。作品是 UNIQLO Tate Play 项目 2026 年的夏季委托创作。",
+      "idea_en": "Turn the queue into the stage: give each line of visitors a small score and let the overlaps compose the piece.",
+      "idea_zh": "把排队变成舞台：给每一列观众一段小乐谱，让它们彼此重叠而成曲。",
+      "protocol": "On entering, visitors are guided by 'Conductors' through one of six scores, each a short set of simple directed actions such as stomping, humming and swaying. They then move in a line through the barrier maze and perform the actions in time with audio cues from a soundscape of London recorded by Peter Cusack. Several groups perform different scores at once; others may watch from the Turbine Hall bridge.",
+      "protocol_zh": "入场时，“指挥”带领观众学习六段乐谱中的一段，每段都是一组简单的指定动作，例如跺脚、哼唱、摇摆。随后观众排成一列穿过围栏迷宫，按照 Peter Cusack 录制的伦敦声景中的提示音做出这些动作。几组人同时表演不同的乐谱；其他人可以在涡轮大厅的桥上观看。",
+      "collective": "Throughout the run visitors were the only performers: lines carrying different scores crossed in the maze, so sounds and movements overlapped into crossovers and crescendos that nobody planned. Lithuanian broadcaster LRT reported that around 300 visitors could take part at once, each shifting between spectator, listener and performer.",
+      "collective_zh": "展期之内，观众是唯一的表演者：带着不同乐谱的队列在迷宫中相遇，声音与动作交叠出无人预先安排的交汇与高潮。立陶宛广播电视台 LRT 报道说，大约 300 名观众可以同时参与，每个人都在旁观者、聆听者与表演者之间转换。",
+      "keywords": [
+        "Lina Lapelytė",
+        "Tate Modern",
+        "Turbine Hall",
+        "UNIQLO Tate Play",
+        "score",
+        "maze",
+        "Peter Cusack"
+      ],
+      "images": [
+        "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Uniqlo_Tate_Play_Lina_Lapelyte_Se.width-1440.format-jpeg.jpg",
+        "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/6._Uniqlo_Tate_Play_Lina_Lapelyte.width-1440.format-jpeg.jpg"
+      ],
+      "source_url": "https://www.tate.org.uk/press/press-releases/uniqlo-tate-play-lina-lapelyt%C4%97-serendipity-island"
+    },
+    {
+      "id": "rimini-protokoll--book-a-scientist",
+      "creator_ids": [
+        "rimini-protokoll"
+      ],
+      "title": "Book a Scientist",
+      "year": 2026,
+      "field": "social",
+      "sub": "performance",
+      "also": [
+        "score"
+      ],
+      "mechanisms": [
+        "instruction",
+        "participation"
+      ],
+      "substrate": "body",
+      "kind": "artwork",
+      "description": "Residents of Bolzano book a researcher into their own living room for a conversation steered by a kit of questions, prompts and games. Conceived by Stefan Kaegi and Caroline Barneaud with the Transart festival and Eurac Research, it took place on 17–18 September 2026.",
+      "description_zh": "博尔扎诺的居民把一位研究者“预订”到自己家的客厅，按照一套由提问、提示和游戏组成的工具包展开交谈。作品由 Stefan Kaegi 与 Caroline Barneaud 构思，与 Transart 艺术节和 Eurac Research 合作，于 2026 年 9 月 17 至 18 日举行。",
+      "idea_en": "Move the lecture into a living room and replace the script with a kit both sides have to play.",
+      "idea_zh": "把讲座搬进客厅，用一套双方都得玩起来的工具包代替讲稿。",
+      "protocol": "Households answer an open call and host a researcher at home. Each encounter follows a 'creative kit' made by Kaegi and Barneaud: a collection of questions, prompts and interactive games meant to set off a spontaneous exchange between equals rather than a talk.",
+      "protocol_zh": "住户响应公开征集，在家中接待一位研究者。每次会面都按照 Kaegi 与 Barneaud 制作的“创意工具包”进行：一组提问、提示和互动游戏，目的是引出双方平等、即兴的交流，而不是一场讲座。",
+      "collective": "Over two days of the Transart festival, hosts sat down with researchers in private homes and worked through the kit together; what was said in each home made that home's version of the piece. The project page says the format was inspired by Rent a Musician.",
+      "collective_zh": "在 Transart 艺术节的两天里，主人在自己家中与研究者坐在一起，共同把工具包走完；每个家里说出的话，就是这个家的那一版作品。项目页面说，这一形式受 Rent a Musician 启发。",
+      "keywords": [
+        "Rimini Protokoll",
+        "Stefan Kaegi",
+        "Caroline Barneaud",
+        "Transart",
+        "Eurac Research",
+        "Bolzano",
+        "living room"
+      ],
+      "video": {
+        "url": "https://vimeo.com/1235370891"
+      },
+      "images": [
+        "https://www.rimini-protokoll.de/website/cache/images/media/Book%20a%20Scientist/DEF_selezione_book%20a%20scientist/1280-2026%2009%2017_Book%20A%20Scientist_web_ph%20Lucia%20Rose%20Buffa-1.jpg",
+        "https://www.rimini-protokoll.de/website/cache/images/media/Book%20a%20Scientist/DEF_selezione_book%20a%20scientist/1280-2026%2009%2017_Book%20A%20Scientist_web_ph%20Lucia%20Rose%20Buffa-16.jpg",
+        "https://www.rimini-protokoll.de/website/cache/images/media/Book%20a%20Scientist/DEF_selezione_book%20a%20scientist/1280-2026%2009%2017_Book%20A%20Scientist_web_ph%20Lucia%20Rose%20Buffa-26.jpg"
+      ],
+      "source_url": "https://www.rimini-protokoll.de/website/en/project/book-a-scientist"
+    },
+    {
+      "id": "rafael-lozano-hemmer--undercurrents",
+      "creator_ids": [
+        "rafael-lozano-hemmer"
+      ],
+      "title": "Undercurrents",
+      "year": 2026,
+      "field": "network",
+      "sub": "telematic",
+      "also": [
+        "social"
+      ],
+      "mechanisms": [
+        "participation",
+        "circulation",
+        "time"
+      ],
+      "substrate": "body",
+      "kind": "artwork",
+      "description": "A light-and-sound installation in the Buffalo Bayou Park Cistern, a 1926 underground reservoir in Houston: visitors speak into intercoms and their voices travel through the columns as pulses of light, returning mixed with echoes of earlier visitors. Commissioned by Buffalo Bayou Partnership and curated by Michael Nardone, it is on view in 2026–2027.",
+      "description_zh": "设在休斯敦 Buffalo Bayou Park Cistern（一座建于 1926 年的地下蓄水池）中的光与声音装置：观众对着对讲机说话，声音化作光的脉冲在立柱间传递，再混着此前观众的回声播放出来。作品由 Buffalo Bayou Partnership 委托、Michael Nardone 策展，展期为 2026 至 2027 年。",
+      "idea_en": "A message never arrives alone: each voice is delivered together with traces of the voices before it.",
+      "idea_zh": "没有一条讯息是独自抵达的：每个声音都带着先前声音的痕迹一起送达。",
+      "protocol": "Eight intercoms with a microphone, a speaker and a push button stand around the cistern; up to twelve people can send and receive at once. A visitor presses the button and speaks; the voice is encoded as changes in light brightness that travel along paths forking at the columns, and plays back when the light reaches another intercom. An AI system searches the archive of recordings, which includes commissioned poems, for matching patterns and adds them as echoes; each message joins the archive. A 'timekeeper' wave of light clears stranded messages, and when nobody takes part the piece triggers itself from the archive.",
+      "protocol_zh": "蓄水池四周设有八台对讲机，各带麦克风、扬声器和按钮；最多十二人可以同时收发。观众按下按钮说话，声音被编码为光的明暗变化，沿着在立柱处分叉的路径行进，光到达另一台对讲机时便播放出来。一个人工智能系统在录音档案（其中包括委托创作的诗）中寻找相近的片段，作为回声加入；每条讯息都会进入档案。一道“计时”光波定时扫过，清除滞留的讯息；无人参与时，作品从档案中自行触发。",
+      "collective": "Visitors' spoken messages are the material of the piece: each one is carried across the reservoir, answered by fragments of what earlier visitors and five commissioned poets said, and kept for later visitors to hear, so the soundscape changes with everyone who speaks. The artist's page gives no number of messages.",
+      "collective_zh": "观众说出的话就是作品的材料：每一条都被送过整座蓄水池，得到此前观众和五位受委托诗人的片段作为回应，并保留下来供后来者听到，因此声景随每一位开口的人而改变。艺术家的页面没有给出讯息数量。",
+      "keywords": [
+        "Rafael Lozano-Hemmer",
+        "Buffalo Bayou Park Cistern",
+        "Houston",
+        "intercom",
+        "voice",
+        "light",
+        "archive",
+        "Michael Nardone"
+      ],
+      "video": {
+        "url": "https://www.lozano-hemmer.com/videos/artwork/undercurrents_houston_2026_rlh_001.mp4"
+      },
+      "images": [
+        "https://www.lozano-hemmer.com/image_sets/undercurrents/houston_2026/undercurrents_houston_2026_ne_001.jpg",
+        "https://www.lozano-hemmer.com/image_sets/undercurrents/houston_2026/undercurrents_houston_2026_ne_005.jpg",
+        "https://www.lozano-hemmer.com/image_sets/undercurrents/houston_2026/undercurrents_houston_2026_rlh_001.jpg"
+      ],
+      "source_url": "https://www.lozano-hemmer.com/undercurrents.php"
+    },
+    {
+      "id": "luna-maurer--deep-soup",
+      "creator_ids": [
+        "luna-maurer",
+        "roel-wouters"
+      ],
+      "title": "Deep Soup",
+      "year": 2025,
+      "field": "network",
+      "sub": "crowdsourced",
+      "mechanisms": [
+        "participation",
+        "co-authorship",
+        "constraint"
+      ],
+      "substrate": "network",
+      "kind": "artwork",
+      "description": "An 18-minute participatory science-fiction film in which a 'physical intelligence' is fed on videos of matter in motion sent in by people around the world. It had its world premiere at IDFA 2025 in the DocLab Competition for Digital Storytelling and was also shown as an installation in the DocLab exhibition.",
+      "description_zh": "一部 18 分钟的参与式科幻短片：一种“物理智能”以世界各地的人寄来的、记录物质运动的视频为食。作品在 IDFA 2025 的 DocLab 数字叙事竞赛单元世界首映，同时作为装置在 DocLab 展览中展出。",
+      "idea_en": "Crowdsource a training set that contains no people and no data, only things falling, rolling and breaking.",
+      "idea_zh": "众包一份训练集：里面没有人，也没有数据，只有下落、滚动和破碎的东西。",
+      "protocol": "Maurer and Wouters invited people online to contribute their own videos on a set of themes. The brief excludes people: only matter and movement count, such as breaking, rolling, sinking, floating and falling. Every clip goes into 'the soup', the footage on which the film's green intelligence is said to be trained.",
+      "protocol_zh": "Maurer 与 Wouters 在网上邀请人们按若干主题提交自己拍的视频。要求中排除了人：只拍物质与运动，例如破碎、滚动、下沉、漂浮和坠落。每一段素材都进入“汤”里，也就是片中那个绿色智能据称用来训练的影像。",
+      "collective": "People around the world filmed physical matter and sent the clips in, and the film is assembled from that collected footage; the festival page gives no count of contributors or clips.",
+      "collective_zh": "世界各地的人拍下物质的运动并寄来片段，影片就由这些收集来的素材组成；电影节页面没有给出参与者或片段的数量。",
+      "keywords": [
+        "Luna Maurer",
+        "Roel Wouters",
+        "IDFA DocLab",
+        "participatory film",
+        "matter",
+        "Studio Biarritz",
+        "Designing Friction"
+      ],
+      "video": {
+        "url": "https://youtu.be/gmp0y75lu8c"
+      },
+      "images": [
+        "https://my.idfa.nl/image-transforms/5ac4aa38-5e2c-4794-be27-59d81bd644a3/1920.jpeg",
+        "https://my.idfa.nl/image-transforms/e57916b5-b243-4a88-a2ab-800d0508b1af/1920.jpeg"
+      ],
+      "source_url": "https://www.idfa.nl/en/film/9c0dd4eb-1a38-4fd9-a0da-55a2b0b25251/deep-soup/"
+    },
+    {
+      "id": "ling-tan--harvesting-climate-action",
+      "creator_ids": [
+        "ling-tan"
+      ],
+      "title": "Harvesting Climate Action",
+      "year": 2025,
+      "field": "social",
+      "sub": "collective-action",
+      "mechanisms": [
+        "participation",
+        "governance",
+        "chance"
+      ],
+      "substrate": "body",
+      "kind": "artwork",
+      "description": "An exhibition of 100 cardboard stools in Hackney, London, each printed with one climate action and the carbon footprint of a meal ingredient, that ended as a banquet where every guest sat on one of the stools. Part of Ling Tan's Low Carbon Chinatown, it ran in autumn 2025 and received an Honorary Mention at Prix Ars Electronica 2026.",
+      "description_zh": "在伦敦哈克尼展出的 100 张纸板凳，每张印着一项气候行动和一种食材的碳足迹；展览最后变成一场宴会，每位来宾都坐在其中一张凳子上。作品属于 Ling Tan 的 Low Carbon Chinatown 项目，于 2025 年秋季举行，获 2026 年 Prix Ars Electronica 荣誉提名。",
+      "idea_en": "Give every guest one climate action to sit on, then let the table argue about which ones matter.",
+      "idea_zh": "让每位来宾坐在一项气候行动上，再让整桌人争论哪些行动真正重要。",
+      "protocol": "Each of the 100 stools carries one climate action, framed for an individual, for 100 people or for a district, with evidence supplied by the University of Leeds Climate Evidence Unit. At the banquet in Hackney Town Hall each guest is given a stool at random on arrival, matched to a place setting with a prompt card. Over a low-carbon East and Southeast Asian meal, guests respond to provocations and vote on which actions have the biggest impact and which they already practise; each takes their stool home.",
+      "protocol_zh": "100 张凳子各承载一项气候行动，分别针对个人、一百人或一个城区，依据由利兹大学 Climate Evidence Unit 提供。在哈克尼市政厅的宴会上，每位来宾到场时随机领到一张凳子，对应一个放有提示卡的座位。大家一边吃低碳的东亚与东南亚菜肴，一边回应抛出的议题，并投票选出哪些行动影响最大、哪些自己已经在做；最后每人把凳子带回家。",
+      "collective": "Residents, teachers, scientists, council staff, councillors and the Mayor of Hackney sat with strangers, debated the actions and voted, which showed the gap between the impact people assumed and the impact that was measured. According to the Prix Ars Electronica entry, the local authority now refers to the 100 Climate Actions toolkit and a children's banquet has become a yearly part of a local school's curriculum.",
+      "collective_zh": "居民、教师、科学家、区政府职员、议员和哈克尼区长与陌生人同坐，就这些行动展开辩论并投票，由此显出人们以为的影响与实测影响之间的差距。据 Prix Ars Electronica 的条目，当地政府如今会参照这份“100 项气候行动”工具包，一场儿童宴会也成为当地一所学校每年的课程内容。",
+      "keywords": [
+        "Ling Tan",
+        "Low Carbon Chinatown",
+        "Hackney",
+        "banquet",
+        "stool",
+        "voting",
+        "Prix Ars Electronica 2026",
+        "University of Leeds"
+      ],
+      "images": [
+        "https://archive.aec.at/asset/3905104/preview/",
+        "https://archive.aec.at/asset/3905105/preview/",
+        "https://archive.aec.at/asset/3905106/preview/"
+      ],
+      "source_url": "https://archive.aec.at/prix/320305/"
+    }
+  ],
+  "leads": [
+    {
+      "name": "Brigitta Muntendorf, Last Show (CONNECT – The Audience as Artist, 2026)",
+      "why": "Commission by Ensemble Modern, London Sinfonietta, Het Muziek, Remix Ensemble and Ensemble intercontemporain: listeners answer questions about their affiliations and roles through a smartphone voting tool while the music plays, results shown live and comparable across cities. World premiere announced for 17 October 2026 at Donaueschinger Musiktage (Amsterdam on 3 December 2026); only the pre-premiere interview could be opened, so a review or documentation is needed before adding.",
+      "link": "https://www.ensemble-modern.com/en/media/interviews/2026-07-01/connect-the-audience-as-artist-10-questions-for-brigitta-muntendorf",
+      "found_via": "",
+      "status": "open"
+    },
+    {
+      "name": "Keith Yamashita, What Season Is It, America? (Brooklyn Museum, 21–25 October 2026)",
+      "why": "Visitors pick one of nearly 500 printed poems and photographs from a circle on the floor, bring it to a rotating 12-seat table and answer 'Why did you bring this?'; a hanko stamp closes each sitting. Passes the test on paper, but the only opened source is a Cool Hunting preview of 13 October 2026 and another outlet describes a lobby banner display; confirm with the museum's page that it ran as described.",
+      "link": "https://coolhunting.com/culture/what-season-is-it-america-bring-your-answer-to-the-table/",
+      "found_via": "",
+      "status": "open"
+    },
+    {
+      "name": "Yayoi Kusama, The Obliteration Room (2002–)",
+      "why": "Not in the gallery: visitors receive a sheet of coloured dot stickers and cover a white domestic interior (shown at Tate Modern for UNIQLO Tate Play, 23 July – 29 August 2022). Outside this batch's 'latest works' scope.",
+      "link": "https://www.tate.org.uk/whats-on/tate-modern/uniqlo-tate-play/lina-lapelyte-serendipity-island",
+      "found_via": "lina-lapelyte",
+      "status": "open"
+    },
+    {
+      "name": "UNIQLO Tate Play commissions: Ei Arakawa, Mega Please Draw Freely (2021); Rasheed Araeen, Zero to Infinity (Tate 2023); Oscar Murillo, The flooded garden (2024)",
+      "why": "Turbine Hall works made by visitors under one rule (drawing on the floor and banners, rebuilding 400 cubes, painting wave strokes on shared canvases); listed on Tate's programme archive and not in the gallery.",
+      "link": "https://www.tate.org.uk/whats-on/tate-modern/uniqlo-tate-play/lina-lapelyte-serendipity-island",
+      "found_via": "lina-lapelyte",
+      "status": "open"
+    },
+    {
+      "name": "Luna Maurer & Roel Wouters / Moniker, earlier participatory web works",
+      "why": "Search results say the two ran the studio Moniker before Deep Soup; its crowd-made web films and games were not opened in this pass and none are in the gallery.",
+      "link": "https://roelwouters.com/projects",
+      "found_via": "luna-maurer",
+      "status": "open"
+    },
+    {
+      "name": "Jeroen van Loon, Life Needs Internet 2010–2025",
+      "why": "Installation built on more than 1,400 handwritten letters about people's relation to the internet (IDFA DocLab 2025); check whether the letter invitation is a standing rule.",
+      "link": "https://festival.idfa.nl/en/section/a0d224d8-9ca1-4f1e-ace0-091ef8be218f/IDFA-DocLab-Program-and-Competition/",
+      "found_via": "",
+      "status": "open"
+    },
+    {
+      "name": "IDFA DocLab 2026 selection (12–22 November 2026)",
+      "why": "The festival's section pages still list the 2025 titles under a 2026 banner and the news page for the 2026 selection returned 404, so the 2026 line-up could not be read.",
+      "link": "https://festival.idfa.nl/en/new-media/about-doclab/",
+      "found_via": "",
+      "status": "open"
+    },
+    {
+      "name": "Lina Lapelytė, Mud Works (Clay Musical) (2026–) and other works in Gatherings, CAC Vilnius (9 October 2026 – 10 January 2027)",
+      "why": "Survey with new 2026 works; the announcement does not say who performs or under what instructions.",
+      "link": "https://www.e-flux.com/announcements/6788436/lina-lapelyt-gatherings",
+      "found_via": "lina-lapelyte",
+      "status": "open"
+    },
+    {
+      "name": "Matt DesLauriers, Kjetil Golid & Andreas Rau, Pattern Language (2024)",
+      "why": "Lumen Prize 2026 Nordic Award: installation drawing on Western Norwegian weaving in which visitors help generate patterns through code; check whether visitors' contributions accumulate under a rule.",
+      "link": "https://www.rightclicksave.com/article/systems-and-legacies-the-lumen-prize-announces-winners-of-2026-awards",
+      "found_via": "",
+      "status": "open"
+    },
+    {
+      "name": "Tiny Awards 2026 finalists not yet examined: Train Jazz, Geo Kash, Everything Everywhere All at Once (ori.dog), solarpanel.scrapthe.world, Baby Shaped Voids, Archive of Sino Women in Diaspora",
+      "why": "The 2026 page lists them without makers or descriptions and the sites render only with JavaScript; winner Cursor Camp is already in the gallery.",
+      "link": "https://tinyawards.net/2026",
+      "found_via": "",
+      "status": "open"
+    },
+    {
+      "name": "Nolen Royalty, Marc Andreessen Egg Game (2026)",
+      "why": "Listed on eieio.games above snakes.run; the page renders only with JavaScript, so rules and whether it is collective are unknown.",
+      "link": "https://marc-egg.eieio.games/",
+      "found_via": "nolen-royalty",
+      "status": "open"
+    },
+    {
+      "name": "Holly Herndon & Mat Dryhurst interviewed by Ned Beauman, Ocula (14 May 2026)",
+      "why": "Interview in which the artists set out 'protocol art' during Strange Rules; the page answers 403 to fetch tools.",
+      "link": "https://ocula.com/magazine/conversations/holly-herndon-mat-dryhurst-venice-ai/",
+      "found_via": "holly-herndon",
+      "status": "open"
+    },
+    {
+      "name": "Palazzo Diedo / Berggruen Arts & Culture, publication on Protocol Art (announced 2026)",
+      "why": "Press coverage of Strange Rules says a book on protocol art is in preparation during the exhibition's run; no title, date or publisher found by 23 November 2026.",
+      "link": "https://www.e-flux.com/announcements/6786944/strange-rules",
+      "found_via": "holly-herndon",
+      "status": "open"
+    },
+    {
+      "name": "Protocol Symposium 2026, protocol art workshop (Protocol Institute, September 2026)",
+      "why": "One of five two-day workshops at the symposium on 'New Nature'; the kickoff post names it without details. Look for recordings or a write-up.",
+      "link": "https://protocolized.summerofprotocols.com/p/methods-madness-monsters-and-magic",
+      "found_via": "protocol-institute",
+      "status": "open"
+    },
+    {
+      "name": "Canvas (Fediverse collaborative pixel canvas, 2026 edition)",
+      "why": "Yearly 48-hour pixel canvas for Fediverse users, seen only in search results; same class as the closed lead on pxls.space and other r/place clones unless an artistic author turns up.",
+      "link": "https://lemmy.world/post/49540448",
+      "found_via": "",
+      "status": "open"
+    },
+    {
+      "name": "Rimini Protokoll, 4 Meters per Second (Flachau, 22–24 January 2026)",
+      "why": "Audio piece by Helgard Haug for eight riders in a ski gondola guided by a cloned voice; the project page raises a group game only as a question and states no rule for the riders.",
+      "link": "https://www.rimini-protokoll.de/website/en/project/4-meter-pro-sekunde",
+      "found_via": "rimini-protokoll",
+      "status": "off_topic"
+    },
+    {
+      "name": "Rimini Protokoll, House of Hopes (2026), The Time Machine (2026), The Magic Formula of Zurich (2025), Futur4 (2025)",
+      "why": "Staged documentary theatre and a guided tour with cast performers; the audience watches and follows a route, with no rule for what it does.",
+      "link": "https://www.rimini-protokoll.de/website/en/projects",
+      "found_via": "rimini-protokoll",
+      "status": "off_topic"
+    },
+    {
+      "name": "Linda Bell, Loop. Swing. Shake. Remake (UNIQLO Tate Play, 28 March – 12 April 2026)",
+      "why": "Open-ended making with foil, paper and fabric; a materials workshop without a rule that shapes a collective result.",
+      "link": "https://www.tate.org.uk/whats-on/tate-modern/uniqlo-tate-play/lina-lapelyte-serendipity-island",
+      "found_via": "",
+      "status": "off_topic"
+    },
+    {
+      "name": "Sarah Rothberg, FOREVER MEETINGS (Prix Ars Electronica 2026 Honorary Mention)",
+      "why": "Offline software in which AI avatars converse under reshuffled prompts; no human group takes part.",
+      "link": "https://archive.aec.at/prix/320404/",
+      "found_via": "",
+      "status": "off_topic"
+    },
+    {
+      "name": "2girls1comp, Dancing Plague (2024)",
+      "why": "Grand Theft Auto V mod and video in which one player's key press makes male non-player characters dance; no group of people acts under the rule.",
+      "link": "https://archive.aec.at/prix/320400/",
+      "found_via": "",
+      "status": "off_topic"
+    },
+    {
+      "name": "Prix Ars Electronica 2026 winners list",
+      "why": "Read in full on 23 November 2026: besides CHIMERIA (lead owned by another batch), A Sexual History of the Internet (in the gallery) and Harvesting Climate Action (added), the remaining Interactive Art+, Digital Humanity and New Animation Art entries are installations, films, investigations or tools without an audience protocol.",
+      "link": "https://ars.electronica.art/prix/en/winners/",
+      "found_via": "",
+      "status": "off_topic"
+    },
+    {
+      "name": "Protocol Institute, PiBoWriMo 2026 (Protocol Institute Book Writing Month, November 2026)",
+      "why": "Writing month modelled on NaNoWriMo for books about protocols, with a Discord and a word-count leaderboard; a community programme, not an artwork or a text on protocol art.",
+      "link": "https://protocolized.summerofprotocols.com/p/announcing-pibowrimo-2026",
+      "found_via": "protocol-institute",
+      "status": "off_topic"
+    },
+    {
+      "name": "Protocol Institute, Blygger Protocol (13 November 2026)",
+      "why": "Open-source social publishing protocol built on RSS and Webmentions with a hackathon on 20–27 November 2026; presented as a writing medium, not as art.",
+      "link": "https://protocolized.summerofprotocols.com/p/introducing-the-blygger-protocol",
+      "found_via": "protocol-institute",
+      "status": "off_topic"
+    },
+    {
+      "name": "Protocolized newsletter, September–November 2026 posts",
+      "why": "Archive read on 23 November 2026 (Trust by Protocol, The Ductus of Protocol Fiction, Securing Stigmergic Systems, Monster Speculation, Protocols for Business 2026 Review, Signal Failure and others): protocol fiction, business and AI topics, none on protocol art.",
+      "link": "https://protocolized.summerofprotocols.com/archive",
+      "found_via": "protocol-institute",
+      "status": "off_topic"
+    },
+    {
+      "name": "Brian Droitcour, 'Coding a New Gift Economy' (Outland, 10 November 2026)",
+      "why": "Report on Art Blocks Marfa Weekend read through Lewis Hyde's gift economy; about community norms and value, with protocols only in passing.",
+      "link": "https://outlandart.substack.com/p/coding-a-new-gift-economy",
+      "found_via": "",
+      "status": "off_topic"
+    },
+    {
+      "name": "Adina Glickstein, 'Never Midcurve' (Spike, User Error column, 13 May 2026)",
+      "why": "Column mainly about Beeple's exhibitions; Strange Rules and protocol art appear as a short counterpoint linked to Jack Burnham's systems art.",
+      "link": "https://spikeartmagazine.com/articles/user-error-never-midcurve",
+      "found_via": "",
+      "status": "off_topic"
+    },
+    {
+      "name": "Le Random editorial, September–November 2026",
+      "why": "Listing read on 23 November 2026: interviews and essays on generative art, museums and Vera Molnár; nothing on protocol art after Living Aesthetics (24 August 2026, in the gallery).",
+      "link": "https://www.lerandom.art/editorial",
+      "found_via": "",
+      "status": "off_topic"
+    },
+    {
+      "name": "Lumen Prize 2026 winners",
+      "why": "Read via Right Click Save: Calculating Empires, Ground Truths, Drift Lattice and others are installations or films; AUTO by Lauren Lee McCarthy is already in the gallery; Pattern Language kept as a separate open lead.",
+      "link": "https://www.rightclicksave.com/article/systems-and-legacies-the-lumen-prize-announces-winners-of-2026-awards",
+      "found_via": "",
+      "status": "off_topic"
+    },
+    {
+      "name": "artport: A History of Internet Art (Whitney Museum, from 21 November 2026)",
+      "why": "Survey of more than 100 artport commissions curated by Christiane Paul; the announcement names no participatory or crowdsourced work.",
+      "link": "https://www.rightclicksave.com/article/whitney-museum-of-american-art-new-york-launches-landmark-exhibition-covering-history-of-internet-art",
+      "found_via": "",
+      "status": "off_topic"
+    },
+    {
+      "name": "steirischer herbst '26 (24 September – 18 October 2026)",
+      "why": "Programme page read: staged performances and concerts; the 'herbst deathmatches' are public debates decided by audience vote, a talk format rather than an artwork.",
+      "link": "https://www.steirischerherbst.at/en/",
+      "found_via": "",
+      "status": "off_topic"
+    },
+    {
+      "name": "Mudam Luxembourg, A Journey (17 October – 6 December 2026) and the PIT project",
+      "why": "Performance programme with Eiko Otake, Midori Takada, Némo Flouret and Diana Anselmo; despite the EU project name 'Participatory Performance in Art Museums', no piece gives the audience instructions.",
+      "link": "https://www.e-flux.com/announcements/6788101/a-journey",
+      "found_via": "",
+      "status": "off_topic"
+    },
+    {
+      "name": "Wild Up & Shelley Washington, How We Hold Together (REDCAT, 11 October 2026)",
+      "why": "Concert with an open community orchestra that registered and rehearsed in advance; a community music project without a published rule set.",
+      "link": "https://www.redcat.org/events/democracy-sessions-room-begins-rise",
+      "found_via": "",
+      "status": "off_topic"
+    },
+    {
+      "name": "Serpentine and LAS Art Foundation programmes, autumn 2026",
+      "why": "Both programme pages read on 23 November 2026: Serpentine lists exhibitions by Justin Caguiat and Amar Kanwar and Danielle Brathwaite-Shirley's single-player games; LAS lists Natasha Tontey, Xin Liu and Eunjo Lee plus terra0's Autonomous Forest (in the gallery). No new participatory protocol work.",
+      "link": "https://www.serpentinegalleries.org/whats-on/",
+      "found_via": "",
+      "status": "off_topic"
+    },
+    {
+      "name": "Strange Rules exhibitor list (e-flux announcement)",
+      "why": "Full list read again: Paglen's Voyager (one visitor in a booth), Dinkins's Not The Only One, Giraud, Denny, Singer, Kim, Parreno and others are not group protocols; Plantoid, Picbreeder, terra0 and the Herndon/Dryhurst assembly are already in the gallery.",
+      "link": "https://www.e-flux.com/announcements/6786944/strange-rules",
+      "found_via": "",
+      "status": "off_topic"
+    }
+  ]
+}

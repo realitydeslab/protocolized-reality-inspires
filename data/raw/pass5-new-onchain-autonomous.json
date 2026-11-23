@@ -1,0 +1,617 @@
+{
+  "batch": "pass5-new-onchain-autonomous",
+  "creators": [
+    {
+      "id": "steve-pikelny",
+      "name": "Steve Pikelny",
+      "kind": "person",
+      "role": "Artist and programmer working with money, scams and financial instruments",
+      "based": "",
+      "bio": "Steve Pikelny (steviep) makes websites, tokens and smart contracts that borrow the forms of finance: fake ICOs, an exchange-traded fund, a prediction market, a pyramid scheme. He describes his focus as the aesthetics of money, scams and arcane financial instruments.",
+      "why": "His contracts are complete small economies with written rules, and each one only becomes a work when strangers send money, vote, trade or mail in banknotes.",
+      "links": {
+        "site": "https://steviep.xyz/",
+        "github": "https://github.com/scyclow"
+      },
+      "role_zh": "以金钱、骗局和金融工具为题材的艺术家与程序员",
+      "bio_zh": "Steve Pikelny（steviep）制作网站、代币和智能合约，借用金融的各种形式：假 ICO、交易所交易基金、预测市场、金字塔骗局。他说自己关注的是金钱、骗局和冷僻金融工具的美学。",
+      "why_zh": "他的每份合约都是一个写明规则的小型经济体，只有当陌生人汇款、投票、交易或寄来纸币时，它才成为作品。",
+      "based_zh": "",
+      "connected_to": [
+        "jonas-lund"
+      ],
+      "discovered_via": "jonas-lund"
+    }
+  ],
+  "works": [
+    {
+      "id": "jack-butcher--balance",
+      "creator_ids": [
+        "jack-butcher"
+      ],
+      "title": "Balance (Exchange)",
+      "year": 2026,
+      "field": "onchain",
+      "sub": "supply",
+      "also": [],
+      "mechanisms": [
+        "currency",
+        "burn",
+        "circulation"
+      ],
+      "substrate": "ethereum",
+      "kind": "artwork",
+      "description": "The third stage of Jack Butcher's Credits: a holder can give up a Statement for good and receive BALANCE, an Ethereum token, one unit per rating point. Every wallet that holds any BALANCE is automatically drawn as its own artwork, which is redrawn each time the amount changes. The whole chain of Credits, Statements and Balance is now presented as one networked artwork called Exchange.",
+      "description_zh": "Jack Butcher 的 Credits 的第三阶段：持有者可以永久交出一个 Statement，按评分一分换一枚以太坊代币 BALANCE。任何持有 BALANCE 的钱包都会自动被画成一件属于它的作品，数额每变一次就重画一次。Credits、Statements 与 Balance 这一整条链如今被合称为一件联网作品 Exchange。",
+      "idea_en": "Let collectors decide, one irreversible step at a time, whether a work stays art or becomes money, and draw every wallet's holding as the artwork.",
+      "idea_zh": "让藏家一步一步、不可回头地决定作品是继续做艺术还是变成钱，并把每个钱包的持有量画成作品。",
+      "protocol": "Written by Jack Butcher (Visualize Value) as contracts with no admin keys or upgrade path. Burning 80 Credits makes a Statement whose rating is the sum of its Credits; surrendering a Statement locks it permanently and releases the same number of BALANCE from a fixed reserve (total 53,750,000; no other way to mint). An address's first receipt creates a wallet-bound ERC-721 that shows its balance in pixel numerals and cannot be transferred. Each token amount carries cyan, magenta, yellow and black quantities inherited from the Statement's inks, and every transfer moves a proportional share of the sender's mixture to the recipient.",
+      "protocol_zh": "由 Jack Butcher（Visualize Value）写成合约，没有管理员密钥，也无法升级。销毁 80 个 Credit 得到一个 Statement，其评分为这些 Credit 评分之和；交出 Statement 会将其永久锁定，并从固定储备中释放同等数量的 BALANCE（总量 53,750,000，没有其他铸造途径）。一个地址第一次收到 BALANCE 时，会自动生成一件绑定钱包、不可转让的 ERC-721，用像素数字显示余额。每笔代币都带着从 Statement 油墨继承来的青、品红、黄、黑四种数量，每次转账都按比例把发送方的混色带给接收方。",
+      "collective": "According to the project's whitepaper (version 1.2, 23 October 2026), 25,225 wallets took part in the original distribution of 122,154 Credits. A Uniswap auction on 20–21 October 2026 distributed 268,750 BALANCE (0.5% of supply) and raised about 54.95 ETH, after which conversion and transfers opened to everyone. Since then each holder chooses whether to keep Credits, compose Statements or lock them for Balance, and each purchase or transfer redraws the sender's and the recipient's wallet artworks and remixes their colours; the work exists across these connected holdings.",
+      "collective_zh": "据项目白皮书（1.2 版，2026 年 10 月 23 日），最初 122,154 个 Credit 的发放有 25,225 个钱包参与。2026 年 10 月 20 日至 21 日的 Uniswap 拍卖发出 268,750 枚 BALANCE（占总量 0.5%），募得约 54.95 ETH，此后兑换和转账向所有人开放。从那以后，每位持有者自己决定是保留 Credit、拼成 Statement，还是锁定换成 Balance；每一次购买或转账都会重画收发双方的钱包作品并重新混色，作品就存在于这些相互关联的持有之中。",
+      "keywords": [
+        "Jack Butcher",
+        "Visualize Value",
+        "Exchange",
+        "Credits",
+        "Statements",
+        "$BALANCE",
+        "ERC-20",
+        "wallet-bound",
+        "CMYK",
+        "Uniswap"
+      ],
+      "images": [
+        "https://jack.art/exchange/share/exchange-sankey.png",
+        "https://jack.art/exchange/balance-example.svg"
+      ],
+      "paper": {
+        "url": "https://jack.art/credits/whitepaper",
+        "title": "Art or money? (Exchange whitepaper, version 1.2)",
+        "venue": "Jack Butcher / Visualize Value, 23 October 2026"
+      },
+      "source_url": "https://jack.art/exchange/story",
+      "contract_url": "https://etherscan.io/token/0x3620540c994433D7B4a628C46d2ED5F92572eA07"
+    },
+    {
+      "id": "jack-butcher--bars",
+      "creator_ids": [
+        "jack-butcher"
+      ],
+      "title": "Bars",
+      "year": 2026,
+      "field": "onchain",
+      "sub": "supply",
+      "also": [],
+      "mechanisms": [
+        "scarcity",
+        "burn",
+        "time"
+      ],
+      "substrate": "ethereum",
+      "kind": "series",
+      "description": "An edition of numbered tokens made of BALANCE, the token from Jack Butcher's Exchange. Bar #1 seals 1 BALANCE in its own vault contract, Bar #2 seals 2, and so on; after an eight-day mint window an owner can melt a Bar, which burns it and returns the BALANCE inside.",
+      "description_zh": "一组用 BALANCE（Jack Butcher 的 Exchange 中的代币）铸成的编号代币。Bar #1 在自己的金库合约里封存 1 枚 BALANCE，Bar #2 封存 2 枚，依此类推；八天铸造期结束后，持有者可以把 Bar 熔掉，代币被销毁，里面的 BALANCE 退还给他。",
+      "idea_en": "An edition whose price rises by one unit with every mint and whose every piece can be melted back into money, so its size is set twice by the crowd: by how far they mint and by who melts.",
+      "idea_zh": "每铸一枚价格就涨一个单位、每一枚又都能熔回成钱的版数：规模由人群决定两次，先看大家铸到多远，再看谁选择熔掉。",
+      "protocol": "The contract has no owner, fee, setter or upgrade. Minting ran for eight days from 11 November 2026 (16:00 UTC), at most 10 Bars per transaction and 10,000 in total; Bar #N costs N BALANCE, held in a vault deployed for that Bar. For the first three days only listed wallets could mint: day 1 for wallets that converted Statements, bought in the auction or added liquidity and never sold, day 2 for wallets that bought more than once and never sold, day 3 for all others that never sold; from day 4 anyone. After the close only a Bar's owner can melt it; a melted number is never made again. Each Bar is drawn on-chain as its number, one cell per digit, inked with the colour mix of the BALANCE deposited.",
+      "protocol_zh": "合约没有所有者、手续费、可调参数，也不能升级。铸造自 2026 年 11 月 11 日（UTC 16:00）起持续八天，每笔交易最多 10 枚，总数最多 10,000 枚；Bar #N 的价格是 N 枚 BALANCE，存放在为它单独部署的金库里。前三天只有名单上的钱包可以铸造：第一天是兑换过 Statement、参加过拍卖或提供过流动性且从未卖出的钱包，第二天是多次买入且从未卖出的钱包，第三天是其余从未卖出的钱包；第四天起人人可铸。铸造结束后，只有持有者本人能熔掉自己的 Bar，被熔掉的编号不会再造。每枚 Bar 的图像都在链上按编号绘制，每位数字一格，颜色取自存入的 BALANCE 的混色。",
+      "collective": "The mint closed on 19 November 2026. A read of the contract on 23 November 2026 showed that collectors had minted 3,034 Bars and already melted 88 of them, leaving the 2,946 that Verse lists across 319 owners. Because each new Bar cost one BALANCE more than the last, the edition stopped where collectors' willingness to lock up Balance stopped, far below the 10,000 ceiling, and it can now only shrink as owners choose money over the object.",
+      "collective_zh": "铸造于 2026 年 11 月 19 日结束。2026 年 11 月 23 日读取合约时，藏家共铸造了 3,034 枚 Bar，其中 88 枚已被熔掉，剩下的 2,946 枚即 Verse 上列出的数量，分属 319 位持有者。由于每枚新 Bar 都比前一枚多花一枚 BALANCE，版数停在了藏家愿意锁住 Balance 的那个位置，远低于 10,000 的上限；此后只要有持有者选择钱而不是物件，它就只会变少。",
+      "keywords": [
+        "Jack Butcher",
+        "Visualize Value",
+        "Bars",
+        "$BALANCE",
+        "Exchange",
+        "melt",
+        "refundable edition",
+        "vault",
+        "Verse"
+      ],
+      "images": [
+        "https://jack.art/exchange/bars/line.gif",
+        "https://versecontent.com/image/w1400/static%2Fbp_uploads_6c059bb0-7487-4f07-b663-1b5d84b5c7b9.svg@jpeg"
+      ],
+      "source_url": "https://jack.art/exchange/bars",
+      "contract_url": "https://etherscan.io/address/0x7d9edea03dd97361c3e21389b95bc327e22752ae"
+    },
+    {
+      "id": "steve-pikelny--money-making-opportunity",
+      "creator_ids": [
+        "steve-pikelny"
+      ],
+      "title": "Money Making Opportunity",
+      "year": 2023,
+      "field": "autonomous",
+      "sub": "dao",
+      "also": [
+        "onchain"
+      ],
+      "mechanisms": [
+        "governance",
+        "time",
+        "exchange"
+      ],
+      "substrate": "ethereum",
+      "kind": "game",
+      "description": "A coordination game in a smart contract, modelled on the Pirate Game. People blindly sent 0.03 ETH each to moneymakingopportunity.eth; the 1,474 participants then received tokens and must agree, by vote, on where the pooled 45.736981 ETH should go, with one new leader proposing each week for 1,474 weeks.",
+      "description_zh": "一个写在智能合约里的协作游戏，原型是“海盗博弈”。人们在不知详情的情况下各向 moneymakingopportunity.eth 汇入 0.03 ETH；随后 1,474 名参与者领到代币，必须投票决定这笔共 45.736981 ETH 的资金去向，1,474 周里每周由一位新的领袖提出方案。",
+      "idea_en": "Pool strangers' money first, then make them spend up to 28 years voting on how to split it, one proposer a week.",
+      "idea_zh": "先把陌生人的钱汇到一起，再让他们用最长 28 年的时间投票决定怎么分，每周轮到一个人提案。",
+      "protocol": "Written by Steve Pikelny. Everyone who sent at least 0.03 ETH before the artist started the game may claim one MMO NFT. Each week one token is the Leader, in reverse order of token id, and can propose a Settlement Address (a wallet or a contract that splits the money by any logic). If at least 50% of eligible tokens vote in favour, anyone can settle and the whole balance goes to that address. If a week's proposal fails, that Leader's token loses its vote in later weeks. Each token may make one proposal, tokens can be traded, and votes are 'nay' by default.",
+      "protocol_zh": "由 Steve Pikelny 撰写。凡在艺术家启动游戏前汇入至少 0.03 ETH 的人都可以领取一枚 MMO NFT。每周按代币编号倒序轮到一枚代币担任“领袖”，由它提出一个“结算地址”（可以是钱包，也可以是按任意逻辑分钱的合约）。只要至少 50% 的有效代币投赞成票，任何人都可以触发结算，全部余额即转入该地址。若当周提案未获通过，这位领袖的代币在之后各周失去投票权。每枚代币只能提一次案，代币可以买卖，未投票一律视为反对。",
+      "collective": "1,474 people paid in before knowing the rules. The game is still running: a read of the contract balance on 23 November 2026 showed about 45.75 ETH still inside, so no week's leader has yet won a majority for a way to distribute it. Participants campaign for proposals, publish them through a companion contract and trade the tokens whose position decides when their holder gets to propose.",
+      "collective_zh": "1,474 人在不知道规则的情况下付了钱。游戏仍在进行：2026 年 11 月 23 日读取合约余额时，里面还有约 45.75 ETH，说明至今没有哪一周的领袖为自己的分配方案争取到多数。参与者为各自的方案拉票，通过配套合约公布方案说明，并买卖这些代币——代币的编号决定了持有者何时轮到提案。",
+      "keywords": [
+        "Steve Pikelny",
+        "MMO",
+        "Pirate Game",
+        "coordination game",
+        "voting",
+        "ERC-721",
+        "settlement",
+        "game theory"
+      ],
+      "images": [
+        "https://steviep.xyz/moneymakingopportunity/favicon.png"
+      ],
+      "source_url": "https://moneymakingopportunity.eth.limo",
+      "contract_url": "https://etherscan.io/address/0x41d3d86a84c8507a7bc14f2491ec4d188fa944e7"
+    },
+    {
+      "id": "steve-pikelny--pyramid-game",
+      "creator_ids": [
+        "steve-pikelny"
+      ],
+      "title": "Pyramid Game",
+      "year": 2025,
+      "field": "onchain",
+      "sub": "ownership",
+      "also": [
+        "autonomous"
+      ],
+      "mechanisms": [
+        "currency",
+        "exchange",
+        "governance"
+      ],
+      "substrate": "ethereum",
+      "kind": "game",
+      "description": "A contract that the artist calls a zero-sum wealth redistribution game using pyramid scheme technology. All ETH sent to pyramidgame.eth is split at once among the twelve players on a leaderboard, in proportion to what each has contributed; whoever contributes more than the lowest leader takes that leader's place.",
+      "description_zh": "一份被艺术家称为“采用金字塔骗局技术的零和财富再分配游戏”的合约。汇入 pyramidgame.eth 的所有 ETH 会立刻按贡献比例分给排行榜上的十二名玩家；谁的贡献超过榜上最低的一位，就取而代之。",
+      "idea_en": "State the pyramid scheme openly as the rule: every payment goes straight to earlier payers, and a seat among them can only be taken by paying more.",
+      "idea_zh": "把金字塔骗局直接写成明面上的规则：每一笔钱都直接流向先来的人，而要坐进他们中间，只能付得更多。",
+      "protocol": "Written by Steve Pikelny. Each of the twelve leaderboard slots is an ERC-721 token with on-chain art that records a contribution amount. A new contribution is first distributed to the current leaders, then counted for the sender: if it beats the lowest leader, that leader's token is transferred to the sender, and the displaced leader receives $PYRAMID, an ERC-20 placeholder equal to their contribution. Smaller contributors also receive $PYRAMID, which can be accumulated or bought to claim a slot later. Leaders control a shared wallet by simple majority, and any player can start a child game whose first contribution feeds the parent.",
+      "protocol_zh": "由 Steve Pikelny 撰写。排行榜的十二个席位各是一枚带链上图像的 ERC-721 代币，记录着一笔贡献额。新的贡献先分给现任领先者，再记到汇款人名下：如果超过榜上最低者，后者的代币就被转给汇款人，被挤下去的人得到与其贡献等额的 $PYRAMID（一种 ERC-20 凭证）。贡献不够上榜的人同样得到 $PYRAMID，可以积攒或买入，日后用来夺取席位。领先者以简单多数共同控制一个钱包；任何玩家都可以开一个子游戏，其首笔贡献流入母游戏。",
+      "collective": "Nothing happens unless people send money: each contribution is paid out to the twelve current leaders in the same transaction, so the contract holds no pool, and the leaderboard at any moment is a record of who has paid most to be there. Players compete for seats, are pushed off them without consent when someone outbids them, and can band together through child games and the leaders' shared wallet.",
+      "collective_zh": "没有人汇款，就什么都不会发生：每一笔贡献都在同一笔交易里付给当时的十二位领先者，合约里不留资金池，排行榜在任何时刻都是“谁为留在这里付得最多”的记录。玩家争夺席位，一旦有人出价更高就会不由分说地被挤下榜，也可以通过子游戏和领先者的共同钱包结成同盟。",
+      "keywords": [
+        "Steve Pikelny",
+        "pyramid scheme",
+        "leaderboard",
+        "$PYRAMID",
+        "ERC-721",
+        "ERC-20",
+        "redistribution",
+        "multisig"
+      ],
+      "images": [
+        "https://pyramidgame.eth.limo/thumbnail.png"
+      ],
+      "source_url": "https://pyramidgame.eth.limo",
+      "contract_url": "https://etherscan.io/address/0xcc88a0a881561148A8DaC357e385142Bb724057a"
+    },
+    {
+      "id": "steve-pikelny--burnt-us-dollars",
+      "creator_ids": [
+        "steve-pikelny"
+      ],
+      "title": "Burnt US Dollars (bUSD)",
+      "year": 2025,
+      "field": "onchain",
+      "sub": "supply",
+      "also": [
+        "social"
+      ],
+      "mechanisms": [
+        "burn",
+        "currency",
+        "contract"
+      ],
+      "substrate": "ethereum",
+      "kind": "artwork",
+      "description": "A coin that represents the value of burned US dollars. Participants hand or mail real banknotes to the artist with a signed Burn Agreement; he sets each bill on fire on camera in a Burn Ceremony and issues them the same amount in bUSD on Ethereum, with a Proof of Burn NFT of the video.",
+      "description_zh": "一种代表“被烧掉的美元”之价值的代币。参与者把真钞连同签好字的《焚烧协议》当面交给或寄给艺术家；他在镜头前举行“焚烧仪式”逐张点燃，并在以太坊上向对方发放等额的 bUSD，外加一枚记录焚烧视频的 Proof of Burn NFT。",
+      "idea_en": "A currency whose only backing is money that other people asked the artist to destroy.",
+      "idea_zh": "一种货币，它唯一的“储备”是别人请艺术家替他们毁掉的钱。",
+      "protocol": "Written by Steve Pikelny, who acts as Burn Agent. A participant signs the Burn Agreement, which establishes them as the bill's owner, and submits US banknotes with a Burn Application and a processing fee of $50 per bill (or one BurnAgreement NFT). Each bill gets its own ceremony and must be completely burned; the agent then issues bUSD one-to-one with its denomination and publishes a Proof of Burn token logging denomination, serial number, time and session. bUSD can never be redeemed for dollars. If bUSD were ever issued without a ceremony, holders could burn their NFT and bUSD to mark out the validly issued supply.",
+      "protocol_zh": "由 Steve Pikelny 撰写，他本人担任“焚烧代理人”。参与者签署《焚烧协议》，确认自己是纸币的所有人，然后提交美元纸币、焚烧申请表和每张 50 美元的手续费（或一枚 BurnAgreement NFT）。每张纸币都有一场单独的仪式，必须完全烧尽；随后代理人按面额一比一发放 bUSD，并发布一枚 Proof of Burn 代币，记录面额、冠字号、时间和场次。bUSD 永远不能兑回美元。如果有一天 bUSD 未经仪式而被增发，持有者可以销毁自己的 NFT 和 bUSD，以此标出合规发行的那部分供应。",
+      "collective": "Pikelny collected the bills largely in person, pitching people at events around NFT NYC 2025, and wrote that in the first session in September 2025 he burned 41 bills worth $2,455 over about five and a half hours. Further sessions followed; the project site reports $3,250 burned in total. The supply of the coin is exactly what participants chose to have destroyed, bill by bill, and each of them knowingly asked for an act that US law treats as a misdemeanour.",
+      "collective_zh": "Pikelny 主要靠当面游说收集纸币，尤其是在 2025 年 NFT NYC 期间的各种活动上。据他自述，2025 年 9 月的第一场焚烧用了约五个半小时，烧掉 41 张纸币，共 2,455 美元。此后又有几场，项目网站显示累计焚烧 3,250 美元。这种代币的供应量，正好等于参与者一张一张选择让人毁掉的金额；每位参与者都明知故犯地请人做了一件在美国法律上属于轻罪的事。",
+      "keywords": [
+        "Steve Pikelny",
+        "bUSD",
+        "Burn Ceremony",
+        "Proof of Burn",
+        "Burn Agreement",
+        "ERC-20",
+        "banknotes",
+        "18 U.S.C. § 333"
+      ],
+      "images": [
+        "https://busd.steviep.xyz/assets/thumbnail.png",
+        "https://busd.steviep.xyz/assets/tray.jpg"
+      ],
+      "paper": {
+        "url": "https://busd.steviep.xyz/howto",
+        "title": "How To Set $2,455 on Fire",
+        "venue": "Steve Pikelny, 21 September 2025"
+      },
+      "source_url": "https://busd.steviep.xyz",
+      "contract_url": "https://etherscan.io/address/0xb9bdb5221585ad31ba3a4fa9c7a7b73a0495916e"
+    },
+    {
+      "id": "steve-pikelny--predict-the-number",
+      "creator_ids": [
+        "steve-pikelny"
+      ],
+      "title": "Predict The Number",
+      "year": 2024,
+      "field": "onchain",
+      "sub": "co-authored",
+      "also": [],
+      "mechanisms": [
+        "exchange",
+        "chance",
+        "currency"
+      ],
+      "substrate": "ethereum",
+      "kind": "game",
+      "description": "A prediction market about nothing but the artist's whim: the NUMBER_PICKER will pick 1, 2, 3, 4 or 5, and people trade five coins, $ONE to $FIVE, to bet on which. Holders of the winning coin can burn it for a prize paid from the pool that market makers deposited.",
+      "description_zh": "一个只押艺术家一时兴起的预测市场：“选数人”会在 1、2、3、4、5 中选一个，人们买卖 $ONE 到 $FIVE 五种代币来押注。中奖代币的持有者可以销毁代币领奖，奖金来自做市商存入的资金池。",
+      "idea_en": "Build a full market, with prices, liquidity and arbitrage, around one arbitrary decision, so that the crowd's guess about a person becomes the visible work.",
+      "idea_zh": "围绕一个任意的决定搭起一整套市场——价格、流动性、套利一应俱全——让人群对一个人的猜测成为看得见的作品。",
+      "protocol": "Written by Steve Pikelny. Before the number is picked, anyone can act as market maker: depositing 0.0001 ETH creates one of each NUMBER_COIN plus one $PREDICT, and a full basket can be redeemed for the same amount. The coins trade freely on Uniswap, so their prices read as implied probabilities. The NUMBER_PICKER, at first the contract's deployer, picks at a time and by a method of their sole discretion and need not be fair; once picked, creating and redeeming baskets stops and each winning coin can be burned for 0.0001 ETH.",
+      "protocol_zh": "由 Steve Pikelny 撰写。选数之前，任何人都可以充当做市商：存入 0.0001 ETH 即得到五种 NUMBER_COIN 各一枚外加一枚 $PREDICT，凑齐一整篮也可以按原价赎回。这些代币在 Uniswap 上自由交易，价格因此可以读作隐含概率。“选数人”起初是合约的部署者，何时选、怎么选完全由其决定，也不保证公平；数字一旦选定，铸造和赎回整篮即告停止，每枚中奖代币可销毁换取 0.0001 ETH。",
+      "collective": "Traders and market makers priced the five coins against each other while trying to guess what Pikelny would do; he notes on his site that the number was 5. The result is a market record of how a group weighed an unknowable, unaccountable choice, made with the standard tools of serious prediction markets.",
+      "collective_zh": "交易者和做市商一边猜 Pikelny 会怎么做，一边给五种代币相互定价；他在个人网站上注明，最后的数字是 5。留下来的是一份市场记录：一群人如何用正经预测市场的全套工具，去衡量一个无从得知、也无需负责的选择。",
+      "keywords": [
+        "Steve Pikelny",
+        "prediction market",
+        "NUMBER_PICKER",
+        "$PREDICT",
+        "Uniswap",
+        "implied probability",
+        "David Lynch"
+      ],
+      "images": [
+        "https://predict.steviep.xyz/assets/predict.png"
+      ],
+      "source_url": "https://predict.steviep.xyz"
+    },
+    {
+      "id": "steve-pikelny--etf",
+      "creator_ids": [
+        "steve-pikelny"
+      ],
+      "title": "ETF",
+      "year": 2024,
+      "field": "onchain",
+      "sub": "ownership",
+      "also": [],
+      "mechanisms": [
+        "constraint",
+        "time",
+        "exchange"
+      ],
+      "substrate": "ethereum",
+      "kind": "artwork",
+      "description": "An Ethereum token that behaves like shares of a real exchange-traded fund. It can only be traded Monday to Friday between 9:30am and 4:00pm, new shares can only be created or redeemed by six Authorized Participants, and a Time Lord can declare market holidays and daylight saving time.",
+      "description_zh": "一种行为方式与真实交易所交易基金份额一模一样的以太坊代币。它只能在周一至周五上午 9:30 到下午 4:00 之间交易，新份额只能由六位“授权参与者”申购或赎回，另有一位“时间领主”可以宣布休市日和夏令时。",
+      "idea_en": "Re-impose the opening hours, gatekeepers and holidays of traditional finance on a token that never needed them, and let holders live inside those rules.",
+      "idea_zh": "把传统金融的营业时间、把关人和假日重新套到一种本来不需要它们的代币上，让持有者在这些规则里过日子。",
+      "protocol": "Written by Steve Pikelny; inception date 8 April 2024. ETF shares are ERC-20 tokens whose transfers only succeed during market hours. Six Authorized Participant NFTs give their owners the right to create shares by delivering ETH at 1 ETH per 10,000 ETF and to redeem them at the same rate, which lets them arbitrage any gap between market price and net asset value; five of the six can vote unanimously to revoke the sixth. The owner of the Time Lord NFT can switch daylight saving time on or off at will and declare up to 10 market holidays a year, and cannot be removed by the Authorized Participants.",
+      "protocol_zh": "由 Steve Pikelny 撰写，基金成立日为 2024 年 4 月 8 日。ETF 份额是 ERC-20 代币，只有在交易时段内转账才会成功。六枚“授权参与者”NFT 的持有者有权按 1 ETH 兑 10,000 ETF 的比例交付 ETH 申购份额，并按同一比例赎回，从而在市价与净值出现差距时套利；其中五位一致同意即可撤销第六位的资格。“时间领主”NFT 的持有者可以随意开关夏令时，每年最多宣布 10 个休市日，授权参与者无权罢免。",
+      "collective": "Holders can only buy and sell when the contract says the market is open, and the price they get depends on whether the six Authorized Participants bother to arbitrage it back to net asset value; the site warns of tracking error if they do not. A small group of token holders thus re-enacts the roles of an ETF market, with one of them able to close it for a holiday.",
+      "collective_zh": "持有者只有在合约认定“开市”时才能买卖，成交价是否贴近净值，则取决于六位授权参与者愿不愿意出手套利；网站提醒说，他们若不作为，就会出现跟踪误差。于是一小群代币持有者把一个 ETF 市场里的各种角色重演了一遍，其中一人还能宣布放假休市。",
+      "keywords": [
+        "Steve Pikelny",
+        "$ETF",
+        "Authorized Participants",
+        "Time Lord",
+        "trading hours",
+        "ERC-20",
+        "net asset value",
+        "market holiday"
+      ],
+      "images": [
+        "https://etf.steviep.xyz/assets/etf.png"
+      ],
+      "source_url": "https://etf.steviep.xyz",
+      "contract_url": "https://etherscan.io/address/0x7102653225d537e2fe703723ad83edfeb606396e"
+    }
+  ],
+  "leads": [
+    {
+      "name": "Jack Butcher, Balance / Exchange (October 2026)",
+      "why": "covered: jack-butcher--balance",
+      "link": "https://jack.art/exchange/story",
+      "found_via": "jack-butcher",
+      "status": "covered"
+    },
+    {
+      "name": "Jack Butcher, Bars (11–19 November 2026)",
+      "why": "covered: jack-butcher--bars",
+      "link": "https://jack.art/exchange/bars",
+      "found_via": "jack-butcher",
+      "status": "covered"
+    },
+    {
+      "name": "Steve Pikelny, Money Making Opportunity (2023)",
+      "why": "covered: steve-pikelny--money-making-opportunity",
+      "link": "https://moneymakingopportunity.eth.limo",
+      "found_via": "jonas-lund",
+      "status": "covered"
+    },
+    {
+      "name": "Steve Pikelny, Pyramid Game (2025)",
+      "why": "covered: steve-pikelny--pyramid-game",
+      "link": "https://pyramidgame.eth.limo",
+      "found_via": "jonas-lund",
+      "status": "covered"
+    },
+    {
+      "name": "Steve Pikelny, Burnt US Dollars (bUSD) (2025)",
+      "why": "covered: steve-pikelny--burnt-us-dollars",
+      "link": "https://busd.steviep.xyz",
+      "found_via": "jonas-lund",
+      "status": "covered"
+    },
+    {
+      "name": "Steve Pikelny, Predict The Number (2024)",
+      "why": "covered: steve-pikelny--predict-the-number",
+      "link": "https://predict.steviep.xyz",
+      "found_via": "jonas-lund",
+      "status": "covered"
+    },
+    {
+      "name": "Steve Pikelny, ETF (2024)",
+      "why": "covered: steve-pikelny--etf",
+      "link": "https://etf.steviep.xyz",
+      "found_via": "jonas-lund",
+      "status": "covered"
+    },
+    {
+      "name": "Jonas Lund, Network Maintenance (2025)",
+      "why": "For the network/social batch (not on a blockchain). Limited edition of networked wall devices; terms of ownership require each owner to keep the device online and interact with it, neglect shows as decay on the device and across the whole network, which goes dormant if too few nodes stay active. Shown with Office Impart at Zero 10, Art Basel Hong Kong (March 2026) and Tokyo Jazz Club (1–8 November 2026). Verified images: https://network-maintenance.com/images/device/OfficeImpart_JonasLund_MBP-3.jpg , https://network-maintenance.com/images/screenshots/01.jpg",
+      "link": "https://network-maintenance.com/",
+      "found_via": "jonas-lund",
+      "status": "open"
+    },
+    {
+      "name": "Jack Butcher, KYCM (second work built on Balance)",
+      "why": "Listed on jack.art/exchange/story as 'not yet announced'; rules and date to be published there and by @vvcredits. Check in the next pass.",
+      "link": "https://jack.art/exchange/story",
+      "found_via": "jack-butcher",
+      "status": "open"
+    },
+    {
+      "name": "Steve Pikelny, Free (2022)",
+      "why": "Described on his site as a smart contract obstacle course and scavenger hunt (Free 0 to Free 33, each with its own contract and claim condition). Likely passes; the rules of the individual contracts were not read in this pass.",
+      "link": "https://steviep.xyz/free",
+      "found_via": "steve-pikelny",
+      "status": "open"
+    },
+    {
+      "name": "Steve Pikelny, FastCashMoneyPlus.biz (2018)",
+      "why": "Satirical ICO with its own ERC-20 contract; check whether buyers and referrers followed an authored rule set.",
+      "link": "https://fastcashmoneyplus.biz",
+      "found_via": "steve-pikelny",
+      "status": "open"
+    },
+    {
+      "name": "Kim Asendorf, Alternate (alternate.cx)",
+      "why": "On-chain series with 'Mint' and 'Mod' functions and a public table of versions, seeds and owners; the readme is rendered client-side and was not read. Check whether owners' mods shape a shared work.",
+      "link": "https://alternate.cx",
+      "found_via": "kim-asendorf",
+      "status": "open"
+    },
+    {
+      "name": "Operator, Human Unreadable (2023–2026)",
+      "why": "Generative choreography on Art Blocks with on-chain reveal of the underlying movement score; its final Act III was performed at the Whitney Museum on 19, 21 and 22 November 2026 as part of 'artport: A History of Internet Art'. Not in the gallery; check whether collectors' reveals count as group behaviour.",
+      "link": "https://rightclicksave.beehiiv.com/p/right-click-save-the-voice-of-the-new-art-ecosystem-alex-estorick-danielle-king-tim-kent-aram-bartho",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "Leander Herzog, Field (Nguyen Wahed, New York, 28 October – 21 November 2026)",
+      "why": "Solo show; the gallery page had no text on 23 November 2026, so the mechanics are unknown.",
+      "link": "https://www.nguyenwahed.com/exhibitions",
+      "found_via": "leander-herzog",
+      "status": "open"
+    },
+    {
+      "name": "Parker Ito & Evil Biscuit, Mint Condition (Nguyen Wahed, New York, opens 28 November 2026)",
+      "why": "Opens after this pass; no description published yet.",
+      "link": "https://www.nguyenwahed.com/mint-condition",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "0xfff, Tall Grass (2026)",
+      "why": "Listed on 0xfff.love without link or description.",
+      "link": "https://0xfff.love/",
+      "found_via": "0xfff",
+      "status": "open"
+    },
+    {
+      "name": "Gene Kogan, AGENT-WIP",
+      "why": "Search result describes a crowdfunded, collectively designed artist agent announced on Mirror; the page returned 403, so date and rules are unverified.",
+      "link": "https://titles.mirror.xyz/L8_sppCcoOuZYDW4lJCv8PlZUfSE3X8dhpcDwz01Op4",
+      "found_via": "gene-kogan",
+      "status": "open"
+    },
+    {
+      "name": "Botto, community vote to let Botto choose its own period themes (2026)",
+      "why": "A Taiwanese listing for 'Botto: The Artist Is Typing...' says the DAO voted in 2026 to hand theme selection to Botto, starting with 'Collapse Aesthetics'. Seen only in a search summary; if confirmed on botto.com it is an update to botto--decentralized-autonomous-artist, not a new work.",
+      "link": "https://www.thenewslens.com/article/270898",
+      "found_via": "botto",
+      "status": "open"
+    },
+    {
+      "name": "Jonas Lund, Most Valuable Painting on Feral File (24 September 2026)",
+      "why": "Feral File lists an exhibition curated by Nora O'Murchú; the exhibition page could not be opened. Probably a re-presentation of jonas-lund--mvp-most-valuable-painting; check for new rules.",
+      "link": "https://feralfile.com/explore/exhibitions",
+      "found_via": "jonas-lund",
+      "status": "open"
+    },
+    {
+      "name": "Oscar Murillo, Frequencies archive on Verse (2026)",
+      "why": "For the social batch: long-running project in which schoolchildren mark canvases fixed to their desks; Right Click Save (23 October 2026) reports a digital archive to be minted on Verse.",
+      "link": "https://verse.works/",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "Protocol Symposium 2026, workshop 'Beyond the Artwork: Designing Protocols as Art' (21–22 September 2026)",
+      "why": "For the theory batch: Protocol Institute workshop teaching a framework for making protocol artworks; check for a published recording or text.",
+      "link": "https://protocolized.summerofprotocols.com/p/protocol-symposium-2026-registration",
+      "found_via": "protocol-institute",
+      "status": "open"
+    },
+    {
+      "name": "The Last Human Collective, Dead Internet Museum (MAD Arts, Dania Beach, to 1 November 2026)",
+      "why": "For the network batch: five galleries of browser-based and interactive works; participation rules unknown.",
+      "link": "https://rightclicksave.beehiiv.com/p/right-click-news-time-to-listen-paris-art-week-marfa-weekend-ana-maria-caballero-anna-ridler-ivona-t",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "0xfff, Die (2026)",
+      "why": "Procedural film of a microchip die that viewers can also play like an instrument, in the browser; no shared rule or group behaviour.",
+      "link": "https://die.0xfff.love/",
+      "found_via": "0xfff",
+      "status": "off_topic"
+    },
+    {
+      "name": "Emily Xie, Tensile Forms and Tensile Constructs (Art Blocks, Zero 10, Art Basel Miami Beach, December 2026)",
+      "why": "Embroidered generative works; 'agents' in the Art Blocks text means machine, AI and artisans, and collectors only mint.",
+      "link": "https://www.artblocks.io/articles/emily-xie-tensile-forms",
+      "found_via": "seed",
+      "status": "off_topic"
+    },
+    {
+      "name": "Zero 10 'Generation', Art Basel Miami Beach (4–6 December 2026)",
+      "why": "Announced projects (studio DRIFT Murmuring Minds, Refik Anadol, Sarah Meyohas, Jon Rafman, Harm van den Dorpel's Entfaltung, LoVid, Daniel Rozin, Yatreda, Emily Xie) are installations and generative series; nothing with an authored rule for a group was announced by 23 November 2026.",
+      "link": "https://www.artbasel.com/stories/art-basel-announces-further-highlights-of-its-2026-miami-beach-edition-1",
+      "found_via": "seed",
+      "status": "off_topic"
+    },
+    {
+      "name": "Lowbie & Duc de Berry, LOG (London Offsite Gallery) zine (2026)",
+      "why": "Artist-led print zine linked to VVV; no rule for a group.",
+      "link": "https://www.lerandom.art/editorial/lowbie-and-duc-de-berry-on-log-and-the-nft-to-zine-pipeline",
+      "found_via": "seed",
+      "status": "off_topic"
+    },
+    {
+      "name": "don't Buy, Liquidation (2026)",
+      "why": "Image series framed as an office going-out-of-business sale; no participation rule described.",
+      "link": "https://opensea.io/blog/articles/in-conversation-with-dont-buy",
+      "found_via": "seed",
+      "status": "off_topic"
+    },
+    {
+      "name": "Kevin Abosch, Testing Ground (2025–26)",
+      "why": "Series of moving and still AI landscape works (TAEX; Zero 10 Hong Kong, then Monaco); no group protocol.",
+      "link": "https://whitewall.art/art/taexs-testing-ground-kevin-abosch-and-stefanie-de-regel/",
+      "found_via": "kevin-abosch",
+      "status": "off_topic"
+    },
+    {
+      "name": "Sarah Friend, Heart (2026)",
+      "why": "Shown by Automata at Paris Photo 2026; Right Click Save describes it as asking a public AI model to show what her world looks like. An image work, no rule for others.",
+      "link": "https://www.rightclicksave.com/article/digital-art-exhibitions-to-see-during-paris-photo-2026",
+      "found_via": "sarah-friend",
+      "status": "off_topic"
+    },
+    {
+      "name": "Solienne at Paris Photo 2026 (Automata)",
+      "why": "New presentation of kristi-coronado--solienne, already in the gallery; no new mechanics described.",
+      "link": "https://www.rightclicksave.com/article/digital-art-exhibitions-to-see-during-paris-photo-2026",
+      "found_via": "kristi-coronado",
+      "status": "duplicate"
+    },
+    {
+      "name": "Grant Yun, Sections (Fellowship / NODE, November 2026)",
+      "why": "Generative navigable landscapes minted on Verse; viewers explore individually.",
+      "link": "https://opensea.io/blog/articles/opensea-digest-october-30-2026",
+      "found_via": "seed",
+      "status": "off_topic"
+    },
+    {
+      "name": "Hollywood Hills Villas (Steve Scott, October 2026)",
+      "why": "Commercial 3,000-piece collectible with a holder game; a product, not an authored art protocol.",
+      "link": "https://opensea.io/blog/articles/opensea-digest-october-30-2026",
+      "found_via": "seed",
+      "status": "off_topic"
+    },
+    {
+      "name": "Justin Aversano, Moments of the Unknown / Enter Through the Thrift Shop (2026)",
+      "why": "Daily Super 8 portraits turned into paintings and an exhibition; the artist alone makes the work.",
+      "link": "https://opensea.io/blog/articles/opensea-digest-november-13-2026",
+      "found_via": "seed",
+      "status": "off_topic"
+    },
+    {
+      "name": "Botto, period N°17 Borrowed Light (October 2026 – January 2027)",
+      "why": "A new themed period under the existing voting rules of botto--decentralized-autonomous-artist; not a separate work.",
+      "link": "https://www.botto.com/",
+      "found_via": "botto",
+      "status": "duplicate"
+    },
+    {
+      "name": "Steve Pikelny, IOUs (2021)",
+      "why": "Tokens gifted to collectors that the issuer may revoke or rename; a rule on each holder separately, no group behaviour.",
+      "link": "https://steviep.xyz/IOU",
+      "found_via": "steve-pikelny",
+      "status": "off_topic"
+    },
+    {
+      "name": "Steve Pikelny, The 10 ETH Giveaway (2022)",
+      "why": "A single token redeemable by its owner for 10 ETH and sold by auction; one buyer, no collective rule beyond bidding.",
+      "link": "https://steviep.xyz/10eth",
+      "found_via": "steve-pikelny",
+      "status": "off_topic"
+    },
+    {
+      "name": "Steve Pikelny, One Million Trees (2024)",
+      "why": "Pikelny alone minted one million on-chain trees on Arbitrum to meet the condition of Jonas Lund's Smart Burn Contract #7; it documents jonas-lund--smart-burn-contract being fulfilled rather than a new group protocol.",
+      "link": "https://steviep.xyz/one-million-trees/",
+      "found_via": "steve-pikelny",
+      "status": "off_topic"
+    },
+    {
+      "name": "Steve Pikelny, Cold Hard Cash (2023)",
+      "why": "Sixteen auctions of tokens redeemable for the banknotes they depict; ordinary bidding only.",
+      "link": "https://steviep.xyz/cash",
+      "found_via": "steve-pikelny",
+      "status": "off_topic"
+    },
+    {
+      "name": "Steve Pikelny, FinSexy.com (2024) and MoMI Site Interruption Activation (2026)",
+      "why": "Scripted chatbot site and a commissioned museum website takeover; individual interaction, no rule shaping a group.",
+      "link": "https://steviep.xyz/",
+      "found_via": "steve-pikelny",
+      "status": "off_topic"
+    },
+    {
+      "name": "Rhizome 2026 Microgrants (CO-OP, MISUSE, HANDMADE, PERMANENCE)",
+      "why": "Open call for new web works, deadline 20 November 2026; nothing to add until grantees publish work.",
+      "link": "https://opensea.io/blog/articles/opensea-digest-october-30-2026",
+      "found_via": "seed",
+      "status": "off_topic"
+    }
+  ]
+}

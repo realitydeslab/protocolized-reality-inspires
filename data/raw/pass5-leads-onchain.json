@@ -1,0 +1,638 @@
+{
+ "batch": "pass5-leads-onchain",
+ "creators": [
+  {
+   "id": "0xhaiku",
+   "name": "0xhaiku",
+   "kind": "person",
+   "role": "Artist and former software developer",
+   "based": "",
+   "bio": "0xhaiku is an artist who, after working as a software developer, began examining what art can be in Web3; his stated research themes are 'open system art' and 'relational art in Web3'. His work Receipt was acquired by Fingerprints DAO in 2024.",
+   "why": "His contracts turn a poem into a shared procedure: he fixes the vocabulary and anyone may add the next word.",
+   "links": {
+    "site": "https://0xhaiku.com/",
+    "x": "https://x.com/0xhaiku"
+   },
+   "role_zh": "艺术家，曾为软件开发者",
+   "bio_zh": "0xhaiku 是一位艺术家，做过软件开发者之后开始探究艺术在 Web3 中的可能性；他自述的研究主题是“开放系统艺术”和“Web3 中的关系艺术”。2024 年，他的作品 Receipt 被 Fingerprints DAO 收藏。",
+   "why_zh": "他的合约把一首诗变成一套共同的程序：词汇由他限定，下一个词由任何人来添。",
+   "based_zh": "",
+   "connected_to": [
+    "0xfff"
+   ],
+   "discovered_via": "0xfff"
+  },
+  {
+   "id": "tommy-hartung",
+   "name": "Tommy Hartung",
+   "kind": "person",
+   "role": "Artist working with video, sculpture and photography",
+   "based": "New York, US",
+   "bio": "Tommy Hartung (born 1979 in Akron, Ohio) makes stop-motion video, sculpture and photography on subjects such as the Bible and the history of colonialism. He was included in the 2017 Whitney Biennial and his work is in the collections of MoMA, the Whitney Museum and the Hammer Museum.",
+   "why": "With Snark.art he divided a feature-length video into separately owned chapters that only the owners together can put back together.",
+   "links": {
+    "site": "https://snark.art/oldtestament/"
+   },
+   "role_zh": "以影像、雕塑和摄影创作的艺术家",
+   "bio_zh": "Tommy Hartung（1979 年生于俄亥俄州阿克伦）以定格动画影像、雕塑和摄影创作，题材包括《圣经》和殖民史。他参加过 2017 年惠特尼双年展，作品被 MoMA、惠特尼美术馆和 Hammer Museum 收藏。",
+   "why_zh": "他与 Snark.art 合作，把一部长片拆成分别出售的章节，只有藏家们联手才能把它重新拼回完整。",
+   "based_zh": "纽约，美国",
+   "connected_to": [
+    "snark-art"
+   ],
+   "discovered_via": "snark-art"
+  },
+  {
+   "id": "james-bloom",
+   "name": "James Bloom",
+   "kind": "person",
+   "role": "Artist working with software and networked systems",
+   "based": "",
+   "bio": "James Bloom makes software artworks that change in real time and often connect hundreds of participants online. He has exhibited at ZKM, the Museum of the Moving Image in New York and Abu Dhabi Art, and his works are in the collections of ZKM and the Francisco Carolinum.",
+   "why": "His GOLD makes the trading behaviour of a whole collector group the thing that composes every image in the series.",
+   "links": {
+    "site": "https://jamesbloom.net/",
+    "x": "https://twitter.com/jamesbloom_"
+   },
+   "role_zh": "以软件和网络系统创作的艺术家",
+   "bio_zh": "James Bloom 创作实时变化的软件艺术作品，常常把数百名参与者在线连接起来。他曾在 ZKM、纽约 Museum of the Moving Image 和 Abu Dhabi Art 展出，作品被 ZKM 和 Francisco Carolinum 收藏。",
+   "why_zh": "他的 GOLD 让整个藏家群体的交易行为成为决定系列中每一幅图像的力量。",
+   "based_zh": "",
+   "connected_to": [],
+   "discovered_via": "figure31"
+  },
+  {
+   "id": "misha-de-ridder",
+   "name": "misha de ridder",
+   "kind": "person",
+   "role": "Visual artist making conceptual photo and video work",
+   "based": "",
+   "bio": "misha de ridder is a visual artist whose conceptual photo and video work is concerned with perception. He has exhibited at Foam Photography Museum, the Museum of the City of New York and the Stedelijk Museum Amsterdam, has published seven monographs and has released work on blockchains since 2020.",
+   "why": "His glitch ties the visible state of each image to what collectors do with its token: trading erases it, paying restores it, burning turns it into a print.",
+   "links": {
+    "site": "https://glitch.mishaderidder.com/"
+   },
+   "role_zh": "创作观念摄影与影像的视觉艺术家",
+   "bio_zh": "misha de ridder 是一位视觉艺术家，他的观念摄影和影像作品关注感知。他曾在 Foam Photography Museum、Museum of the City of New York 和阿姆斯特丹 Stedelijk Museum 展出，出版过七本专著，自 2020 年起在区块链上发布作品。",
+   "why_zh": "他的 glitch 把每幅图像的可见状态与藏家如何处置代币绑在一起：交易会抹去它，付费可以复原，销毁则换成一张实体照片。",
+   "based_zh": "",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "agnes-cameron",
+   "name": "Agnes Cameron",
+   "kind": "person",
+   "role": "Designer and builder of software and hardware",
+   "based": "",
+   "bio": "Agnes Cameron designs, builds and maintains software and hardware, with a specific interest in collective knowledge and infrastructural systems. She works as a specialist technician at UAL's Creative Computing Institute and was a founding member of the research studio Foreign Objects.",
+   "why": "Co-author of Sentences, a minimal on-chain rule set for writing a shared story by proposal and vote.",
+   "links": {
+    "site": "https://agnescameron.info/"
+   },
+   "role_zh": "软件与硬件的设计者和制作者",
+   "bio_zh": "Agnes Cameron 设计、制作并维护软件和硬件，尤其关注集体知识与基础设施系统。她在伦敦艺术大学 Creative Computing Institute 担任专业技师，也是研究工作室 Foreign Objects 的创始成员之一。",
+   "why_zh": "Sentences 的共同作者：一套极简的链上规则，让一群人通过提案和投票共写一个故事。",
+   "based_zh": "",
+   "connected_to": [
+    "manus-nijhoff",
+    "ed-fornieles"
+   ],
+   "discovered_via": "dmstfctn"
+  },
+  {
+   "id": "manus-nijhoff",
+   "name": "Manus Nijhoff",
+   "kind": "person",
+   "role": "Creative technologist",
+   "based": "",
+   "bio": "Manus Nijhoff is a creative technologist who makes games with Moving Castles, is a co-founder of Touchy Studios and works as a full-stack developer at 100k Berlin.",
+   "why": "Co-author of Sentences, a minimal on-chain rule set for writing a shared story by proposal and vote.",
+   "links": {
+    "site": "https://manusnijhoff.nl/",
+    "github": "https://github.com/manegame"
+   },
+   "role_zh": "创意技术人",
+   "bio_zh": "Manus Nijhoff 是一位创意技术人，与 Moving Castles 一起做游戏，是 Touchy Studios 的联合创始人，并在 100k Berlin 担任全栈开发者。",
+   "why_zh": "Sentences 的共同作者：一套极简的链上规则，让一群人通过提案和投票共写一个故事。",
+   "based_zh": "",
+   "connected_to": [
+    "agnes-cameron",
+    "ed-fornieles"
+   ],
+   "discovered_via": "dmstfctn"
+  }
+ ],
+ "works": [
+  {
+   "id": "0xhaiku--echoes",
+   "creator_ids": [
+    "0xhaiku"
+   ],
+   "title": "Echoes",
+   "year": 2024,
+   "field": "onchain",
+   "sub": "co-authored",
+   "also": [],
+   "mechanisms": [
+    "co-authorship",
+    "constraint",
+    "participation"
+   ],
+   "substrate": "ethereum",
+   "kind": "artwork",
+   "description": "A poetry-making smart contract with a limited dictionary, made for the contract show World Computer Sculpture Garden. Anyone can add a word by sending a transaction, but only words the artist chose in advance are accepted, so an endless shared poem grows from a handful of words.",
+   "description_zh": "一个词典有限的写诗智能合约，为合约展 World Computer Sculpture Garden 而作。任何人都可以发送一笔交易来添一个词，但只有艺术家事先选定的词才会被接受，于是一首没有尽头的共同诗歌从寥寥几个词里生长出来。",
+   "idea_en": "Give a crowd only four words and no ending: the poem is whatever order strangers choose to say them in.",
+   "idea_zh": "只给人群四个词，不设结尾：陌生人选择以什么顺序说出它们，诗就是什么样子。",
+   "protocol": "0xhaiku deployed a factory contract that created three poem contracts, each with its own fixed dictionary: 'not / lonely / poetic / enough', 'ping / pong' and 'up / down / left / right / stop / dance'. Anyone may call the echo function with one word from that dictionary; the contract records the sender, the time and the word as an 'Echo', and all Echoes can be read back in order. Words outside the dictionary cannot be added.",
+   "protocol_zh": "0xhaiku 部署了一个工厂合约，由它生成三个诗歌合约，每个合约各有一份固定的词典：“not / lonely / poetic / enough”、“ping / pong”和“up / down / left / right / stop / dance”。任何人都可以用词典里的一个词调用 echo 函数；合约把发送者、时间和这个词记录为一条“Echo”，所有 Echo 都能按顺序读出。词典之外的词无法加入。",
+   "collective": "Visitors to the show and to the artist's site, where the poem appears as a chat window, keep extending the three poems one transaction at a time. When the show page was generated on 23 November 2026, the first poem ended '… poetic not lonely not poetic poetic lonely enough not enough' and the second was still a run of pings and pongs.",
+   "collective_zh": "展览的访客，以及艺术家网站（在那里诗歌以聊天窗口的形式呈现）的访客，一笔交易一个词地把三首诗不断续写下去。2026 年 11 月 23 日展览页面生成时，第一首诗的结尾是“… poetic not lonely not poetic poetic lonely enough not enough”，第二首仍是一连串的 ping 和 pong。",
+   "keywords": [
+    "0xhaiku",
+    "collaborative poem",
+    "limited dictionary",
+    "smart contract",
+    "World Computer Sculpture Garden",
+    "relational art"
+   ],
+   "images": [
+    "https://themassage.jp/wwp/wp-content/uploads/2025/03/c01d6e205aef755f26ef86e9ba214b43-1-800x469.jpg"
+   ],
+   "source_url": "https://0xhaiku.com/echoes",
+   "contract_url": "https://etherscan.io/address/0x17a79a4900F3Dd0E0b35D5B0c19Bc2E1189174Dc",
+   "collections": [
+    "world-computer-sculpture-garden"
+   ]
+  },
+  {
+   "id": "figure31--dear-god-layer-of-roads-travelers",
+   "creator_ids": [
+    "figure31",
+    "0xfff"
+   ],
+   "title": "dear god, layer of roads (travelers)",
+   "year": 2024,
+   "field": "onchain",
+   "sub": "co-authored",
+   "also": [],
+   "mechanisms": [
+    "time",
+    "participation",
+    "co-authorship"
+   ],
+   "substrate": "ethereum",
+   "kind": "artwork",
+   "description": "A smart contract artwork in which Ethereum addresses travel through time, counted in blocks, forward or backward. Every block spent travelling adds a character to a traveller's text landscape, each day leaves a footprint on a landscape shared by all, and ending a journey leaves a monument. Made by Figure31 with 0xfff for World Computer Sculpture Garden, after Michael Heizer's Double Negative.",
+   "description_zh": "一件智能合约作品：以太坊地址在其中穿越以区块计数的时间，可以向前，也可以向后。旅行的每个区块都为旅人的文字地貌添上一个字符，每过一天就在所有人共享的地貌上留下一个脚印，结束旅程则留下一座纪念碑。由 Figure31 与 0xfff 为 World Computer Sculpture Garden 创作，致敬 Michael Heizer 的 Double Negative。",
+   "idea_en": "Let block time be a road: the landscape exists only because people choose to stay on it, and how long they stayed is what remains.",
+   "idea_zh": "把区块时间当作一条路：地貌只因有人愿意留在路上而存在，留下来的是他们走了多久。",
+   "protocol": "Any address can begin a journey and choose a direction, forward or backward; it may stop at any time, and a later journey starts from the block where the last one ended. The contract records every journey, draws terrain as text characters from block numbers, adds footprints according to how many travellers are on the road, and on stopping generates a monument whose size is proportionate to the length of the journey. The contract's read functions return only fragments of a landscape; complete ones are generated off-chain with the algorithm stored in the contract.",
+   "protocol_zh": "任何地址都可以开始一段旅程，并选择方向：向前或向后；可以随时停下，下一段旅程从上一段结束的区块出发。合约记录每一段旅程，根据区块号用文字字符画出地形，按路上旅人的多少添上脚印，并在旅人停下时生成一座纪念碑，其大小与旅程的长度成正比。合约的读取函数只能返回地貌的片段；完整的地貌要用存在合约里的算法在链下生成。",
+   "collective": "The road is made by the people on it: 59 travellers were on the road when the show page was generated on 23 November 2026. The contract itself is the first traveller, having begun a journey when it was deployed. The work was shown at Rhizome World, New York, and the Non Fungible Conference, Lisbon, in 2025.",
+   "collective_zh": "这条路是路上的人走出来的：2026 年 11 月 23 日展览页面生成时，路上有 59 位旅人。合约自己是第一位旅人，在部署时就开始了一段旅程。2025 年，作品在纽约 Rhizome World 和里斯本 Non Fungible Conference 展出。",
+   "keywords": [
+    "DGLR (T)",
+    "Figure31",
+    "0xfff",
+    "block time",
+    "ASCII landscape",
+    "monument",
+    "Michael Heizer",
+    "World Computer Sculpture Garden"
+   ],
+   "images": [
+    "https://themassage.jp/wwp/wp-content/uploads/2025/03/b80e9adcdae14913dc2c137be2a2976d-1-800x467.jpg"
+   ],
+   "source_url": "https://travelers.figure31.com/",
+   "contract_url": "https://etherscan.io/address/0x8170e7DB1AB0930D6afbBB67b7be81Dbd66B7c01",
+   "collections": [
+    "world-computer-sculpture-garden"
+   ]
+  },
+  {
+   "id": "sarah-friend--yesbot",
+   "creator_ids": [
+    "sarah-friend"
+   ],
+   "title": "Yesbot",
+   "year": 2024,
+   "field": "onchain",
+   "sub": "co-authored",
+   "also": [],
+   "mechanisms": [
+    "participation",
+    "contract",
+    "co-authorship"
+   ],
+   "substrate": "ethereum",
+   "kind": "artwork",
+   "description": "A contract that wraps Rhea Myers' Is Art, the 2014 contract whose single bit anyone can flip between 'is' and 'is not' art. Yesbot always answers 'yes', and lets anyone flip Is Art back for free whenever it says no.",
+   "description_zh": "一个包裹 Rhea Myers 作品 Is Art 的合约。Is Art 是 2014 年的合约，任何人都可以把它唯一的一位状态在“是”艺术与“不是”艺术之间翻转。Yesbot 永远回答“yes”，并且只要 Is Art 说了“不是”，就让任何人免费把它翻回来。",
+   "idea_en": "Answer an open question with a public service: a bot, funded by donations, that lets anyone keep another artist's contract saying yes.",
+   "idea_zh": "用一项公共服务来回答一个开放的问题：一个靠捐款运转的机器人，让任何人都能使另一位艺术家的合约一直说“是”。",
+   "protocol": "Yesbot's question function returns 'yes' whatever Is Art currently says. Anyone may call setYes: if Is Art reads 'is not', Yesbot toggles it, and refunds the caller's gas from its own balance when it holds enough ETH; if Is Art already reads 'is', nothing changes. Anyone may donate ETH to the contract to pay for future toggles. The owner can only adjust gas settings, the description and the address of the wrapped contract.",
+   "protocol_zh": "无论 Is Art 当前怎么说，Yesbot 的提问函数都返回“yes”。任何人都可以调用 setYes：如果 Is Art 显示“is not”，Yesbot 就翻转它，并在自身余额足够时退还调用者的 gas；如果 Is Art 已经显示“is”，则什么都不变。任何人都可以向合约捐 ETH，为以后的翻转付费。合约所有者只能调整 gas 参数、说明文字和被包裹合约的地址。",
+   "collective": "Is Art leaves the question to whoever acted last; Yesbot adds a standing crowd on one side of it, made up of the donors who fund the bot and the visitors who press it. The contract's own text says: 'I am a bot that only says yes'. Its status therefore depends on people continuing to care, and reviewers of the show read it as one artwork vouching for another.",
+   "collective_zh": "Is Art 把问题交给最后一个出手的人；Yesbot 则在问题的一边安排了一群常驻的人：出钱养机器人的捐助者，和按下它的访客。合约自己的文字写道：“I am a bot that only says yes”。因此它的状态取决于人们是否继续在意；展览的评论者把它读作一件作品为另一件作品担保。",
+   "keywords": [
+    "Sarah Friend",
+    "Rhea Myers",
+    "Is Art",
+    "wrapper contract",
+    "toggle",
+    "gas refund",
+    "World Computer Sculpture Garden"
+   ],
+   "images": [
+    "https://themassage.jp/wwp/wp-content/uploads/2025/03/3e4d221649888685d2e75d3a84b871be-1-800x469.jpg"
+   ],
+   "paper": {
+    "url": "https://www.artforum.com/lists/the-artists-artists-2025/mat-dryhurst-and-holly-herndon/",
+    "venue": "Artforum, Best of 2025",
+    "title": "The Artists' Artists: Mat Dryhurst and Holly Herndon on World Computer Sculpture Garden"
+   },
+   "source_url": "https://worldcomputersculpture.garden/",
+   "contract_url": "https://etherscan.io/address/0x6802Ba6353bc5a6338DC7598D5e5eE568e807B16",
+   "collections": [
+    "world-computer-sculpture-garden"
+   ]
+  },
+  {
+   "id": "rhea-myers--critique-of-this-show",
+   "creator_ids": [
+    "rhea-myers"
+   ],
+   "title": "Critique of This Show",
+   "year": 2024,
+   "field": "onchain",
+   "sub": "co-authored",
+   "also": [],
+   "mechanisms": [
+    "participation",
+    "constraint",
+    "co-authorship"
+   ],
+   "substrate": "ethereum",
+   "kind": "artwork",
+   "description": "A contract in World Computer Sculpture Garden that lets anyone become the critic of any work in the show, including this one. The critic can only pick from sixteen ready-made opinions, all of them positive, and the show page prints the result as 'X thinks that Y is groundbreaking'.",
+   "description_zh": "World Computer Sculpture Garden 中的一个合约：任何人都可以成为展览里任何一件作品（包括它自己）的评论家。评论家只能从十六条现成的意见里挑一条，而且全是好话；展览页面把结果印成“X 认为 Y 具有开创性”这样的句子。",
+   "idea_en": "Open criticism to everyone and remove the option to dislike: the review section becomes a portrait of a scene that only praises.",
+   "idea_zh": "把评论权交给所有人，同时拿掉“不喜欢”这个选项：评论区于是成了一幅只会叫好的圈子的画像。",
+   "protocol": "Anyone may call critiqueWork with the number of a work in the show and the number of one of sixteen fixed opinions, among them 'totally awesome', 'deeply moving', 'groundbreaking', 'so cute' and 'a revelation'. The contract stores one critique per work, so each new critic replaces the previous one, and it signs the sentence with the critic's ENS name or address. No other text can be entered. The work is credited to 'Rhea Myers et al.'.",
+   "protocol_zh": "任何人都可以调用 critiqueWork，填入展览中某件作品的序号和十六条固定意见之一的序号，这些意见包括“totally awesome”“deeply moving”“groundbreaking”“so cute”“a revelation”等。合约为每件作品只保存一条评论，所以新的评论家会顶替上一位；句子以评论家的 ENS 名字或地址署名。除此之外无法输入任何文字。作品署名为“Rhea Myers et al.”。",
+   "collective": "The critics are the 'et al.': the text of the work is whatever the latest visitors chose. On 23 November 2026 the page read, for example, 'themassage.eth thinks that Echoes by 0xhaiku is visually stimulating' and 'excelsior.eth thinks that Dear God, Layer of Roads (Travelers) by Loucas Braconnier (Figure31) is a revelation'. A reviewer read it as a memento of the 2021–23 period, when NFT criticism was mostly praise.",
+   "collective_zh": "那些评论家就是署名里的“et al.”：作品的文字完全取决于最近的访客选了什么。2026 年 11 月 23 日，页面上写着诸如“themassage.eth thinks that Echoes by 0xhaiku is visually stimulating”和“excelsior.eth thinks that Dear God, Layer of Roads (Travelers) by Loucas Braconnier (Figure31) is a revelation”。有评论者把它读作对 2021 至 2023 年的一份纪念：那时的 NFT 评论几乎只有赞美。",
+   "keywords": [
+    "Rhea Myers",
+    "ShowCritique",
+    "art criticism",
+    "fixed opinions",
+    "ENS",
+    "World Computer Sculpture Garden"
+   ],
+   "images": [
+    "https://themassage.jp/wwp/wp-content/uploads/2025/03/bd7aa77bb462e2124e06b3f2776539a8-1-800x469.jpg"
+   ],
+   "source_url": "https://worldcomputersculpture.garden/",
+   "contract_url": "https://etherscan.io/address/0x6582Adc209769bb9974e42cA61F4Db802D25997E",
+   "collections": [
+    "world-computer-sculpture-garden"
+   ]
+  },
+  {
+   "id": "figure31--mark",
+   "creator_ids": [
+    "figure31"
+   ],
+   "title": "MARK",
+   "year": 2022,
+   "field": "onchain",
+   "sub": "supply",
+   "also": [],
+   "mechanisms": [
+    "scarcity",
+    "participation",
+    "contract"
+   ],
+   "substrate": "ethereum",
+   "kind": "series",
+   "description": "500 machine-generated fingerprints, each with a made-up surname, shown together on (GALLERY) as identities waiting to be claimed. Collectors picked the marks they wanted, and the exhibition page emptied piece by piece until only a blank white screen was left.",
+   "description_zh": "500 枚由机器生成的指纹，每枚配一个虚构的姓氏，作为等待认领的身份一起陈列在 (GALLERY) 上。藏家挑走自己想要的印记，展览页面一件一件地空下去，最后只剩一片空白的白屏。",
+   "idea_en": "Invert Klein's The Void: start with a full gallery and let the visitors empty it, each taking away an identity.",
+   "idea_zh": "把克莱因的《空》倒过来做：从一个摆满的画廊开始，让访客把它搬空，每人带走一个身份。",
+   "protocol": "All 500 tokens were minted in advance and shown on one page; collectors chose specific marks by hand rather than receiving random ones, and each acquired mark disappeared from the exhibition. A holder who assembles five marks can unlock a set of five silver rings engraved with a wallet address, a private key and a domain name, secret information then shared between artist and collector; only 42 sets exist.",
+   "protocol_zh": "500 枚代币全部预先铸造，陈列在同一个页面上；藏家亲手挑选具体的印记，而不是随机获得，每被取走一枚，它就从展览中消失。集齐五枚印记的持有者可以解锁一套五枚银戒指，上面刻着一个钱包地址、一把私钥和一个域名，这些秘密信息从此由艺术家和藏家共享；戒指总共只有 42 套。",
+   "collective": "The emptying was done by the collectors: according to the artist, the exhibition page ended as a blank white screen, which he relates to Yves Klein's The Void at Galerie Iris Clert in 1958, noting that here the gallery empties as visitors take pieces of it with them. No figures for the number of collectors or ring sets claimed are published.",
+   "collective_zh": "把展览搬空的是藏家：据艺术家说，展览页面最终成了一片空白的白屏。他把这与伊夫·克莱因 1958 年在 Iris Clert 画廊的《空》联系起来，并指出在这里画廊是随着访客带走展品而变空的。藏家人数和已兑换的戒指套数没有公开数字。",
+   "keywords": [
+    "Figure31",
+    "(GALLERY)",
+    "GAN fingerprints",
+    "pre-minted",
+    "Yves Klein",
+    "The Void",
+    "silver rings",
+    "private key"
+   ],
+   "images": [
+    "https://fig31static.s3.us-east-1.amazonaws.com/terminus_content/mark/%E2%8B%80/%E2%8B%80_1.JPEG",
+    "https://fig31static.s3.us-east-1.amazonaws.com/terminus_content/mark/%E2%A7%8A/%E2%A7%8A_56.JPEG"
+   ],
+   "source_url": "https://figure31.com/",
+   "contract_url": "https://etherscan.io/address/0x5872c9360cb6d6a0309f3045376e2bf8e7837971"
+  },
+  {
+   "id": "tommy-hartung--the-old-testament",
+   "creator_ids": [
+    "tommy-hartung",
+    "snark-art"
+   ],
+   "title": "The Old Testament",
+   "year": 2019,
+   "field": "onchain",
+   "sub": "ownership",
+   "also": [],
+   "mechanisms": [
+    "circulation",
+    "merge",
+    "contract"
+   ],
+   "substrate": "ethereum",
+   "kind": "artwork",
+   "description": "A feature-length video of about an hour, an extended version of Hartung's 2014 video THE BIBLE, divided into 25 chapters that were sold one by one as unique tokens through Snark.art. It is intended for collective ownership: the whole film can be played only when the chapters are brought back together on the blockchain.",
+   "description_zh": "一部约一小时的长片，是 Hartung 2014 年影像作品 THE BIBLE 的扩展版，被分成 25 个章节，通过 Snark.art 作为独一无二的代币逐个出售。它为集体拥有而设计：只有把各章节在区块链上重新聚到一起，才能完整播放整部影片。",
+   "idea_en": "Sell a film as chapters so that no one owns the film: seeing it whole becomes something the owners have to arrange with each other.",
+   "idea_zh": "把一部影片按章节卖出，于是没有人拥有整部影片：想看全片，藏家们就得彼此商量着来。",
+   "protocol": "Each chapter is a discrete work that its owner can play from a digital wallet. The collective of owners and the artist have the right to reassemble the full video through a loan mechanism developed by Snark.art; each loan is temporary, and the loan protocol is coded into the smart contract that governs ownership of the chapters. One chapter was reserved for the artist's own archive.",
+   "protocol_zh": "每个章节都是一件独立的作品，所有者可以从自己的数字钱包里播放。全体所有者和艺术家有权通过 Snark.art 开发的出借机制把完整影片重新拼合；每次出借都是临时的，出借协议写在管理章节所有权的智能合约里。其中一个章节留给艺术家自己存档。",
+   "collective": "Chapters went on sale on 29 March 2019, priced between $1,500 and $5,000 each, a few months after Snark.art's first project, 89 Seconds Atomized, which used a similar lending rule. Buyers thereby became a community of owners who hold the film in parts. The sources opened do not record how many chapters sold or whether the owners ever lent them for a complete screening.",
+   "collective_zh": "章节于 2019 年 3 月 29 日开售，每章定价 1,500 至 5,000 美元，比 Snark.art 的第一个项目 89 Seconds Atomized 晚几个月，后者采用了类似的出借规则。买家由此成为一个分段持有这部影片的所有者群体。已查阅的资料没有记录卖出了多少章节，也没有记录所有者是否曾把章节借出来完成一次完整放映。",
+   "keywords": [
+    "Tommy Hartung",
+    "Snark.art",
+    "THE BIBLE",
+    "25 chapters",
+    "collective ownership",
+    "loan mechanism",
+    "video art"
+   ],
+   "video": {
+    "url": "https://nft.snark.art/0x19fd551ae0426d576698d399e104313ef8d6a553/1/Adam_and_the_Void_FullTrailer.mp4"
+   },
+   "images": [
+    "https://snark.art/images/production/tot.png",
+    "https://nft.snark.art/0x19fd551ae0426d576698d399e104313ef8d6a553/1/Adam_and_the_Void_Poster.jpg"
+   ],
+   "paper": {
+    "url": "https://steemit.com/art/@creativecrypto/tommyhartung-vtyzmu0a2p",
+    "venue": "The Creative Crypto, 2019",
+    "title": "CADAF Artist Spotlight: Tommy Hartung"
+   },
+   "source_url": "https://snark.art/oldtestament/",
+   "contract_url": "https://etherscan.io/address/0x19fd551ae0426d576698d399e104313ef8d6a553"
+  },
+  {
+   "id": "james-bloom--gold",
+   "creator_ids": [
+    "james-bloom"
+   ],
+   "title": "GOLD",
+   "year": 2023,
+   "field": "onchain",
+   "sub": "ownership",
+   "also": [],
+   "mechanisms": [
+    "exchange",
+    "time",
+    "circulation"
+   ],
+   "substrate": "ethereum",
+   "kind": "series",
+   "description": "A series of 500 on-chain artworks, released with Fingerprints DAO, whose images change in response to the series' own live market activity. Sales, transfers, listings approvals, holding time and flipping are recorded by the contract and show up inside every piece.",
+   "description_zh": "与 Fingerprints DAO 合作发布的 500 件链上作品，图像随这个系列自身的实时市场活动而变化。出售、转移、挂单授权、持有时间和倒手都被合约记录下来，并显现在每一件作品里。",
+   "idea_en": "Make the market the art: every collector's decision to hold, list or flip repaints the whole collection, so no one's piece is theirs alone.",
+   "idea_zh": "让市场成为艺术：每个藏家持有、挂单或倒手的决定都会重画整个系列，谁的作品都不只属于自己。",
+   "protocol": "Some rules act on one piece: a work sold within three months of mint or of its last sale carries a Flip Marker until it has rested three months in one wallet, and holding it in the same wallet for 6 months, then 1, 2, 5, 10 and 20 years lets the owner claim a permanent Bonus Plate within 24 days of each milestone. Others act on all 500 at once: a sale with royalty turns every background gold for ten minutes, a transfer or a sale without royalty turns them red, a marketplace approval turns them blue, and long-term trends in activity, royalties, approvals, transfers and the share of unique owners change the number, direction and position of shapes across the whole series.",
+   "protocol_zh": "有些规则只作用于单件作品：在铸造或上次出售后三个月内被卖出的作品会带上“倒手标记”，直到在同一个钱包里静置满三个月；在同一个钱包里持有满 6 个月，以及 1、2、5、10、20 年，所有者可以在每个节点后的 24 天内领取一块永久的“奖励板”。另一些规则同时作用于全部 500 件：一笔支付了版税的出售会让所有作品的背景变成金色十分钟，一次转移或未付版税的出售让它们变红，一次市场挂单授权让它们变蓝；活动量、版税、授权、转移的长期趋势以及独立持有者的比例，则改变整个系列中形状的数量、朝向和位置。",
+   "collective": "The contract was deployed in June 2023 and holds 500 tokens. What any owner sees is the combined behaviour of all the others: the essay written for the project by Anika Meier notes that the market decides what the artwork will look like and that collectors influence it individually and collectively, and calls GOLD 'a marathon that is run together'. Bloom describes it as 'Market Art'.",
+   "collective_zh": "合约于 2023 年 6 月部署，共有 500 枚代币。任何一位所有者看到的画面，都是其他所有人行为的总和：Anika Meier 为项目撰写的文章指出，作品长什么样由市场决定，藏家既以个人也以集体的方式影响它，并称 GOLD 是“一场大家一起跑的马拉松”。Bloom 把它叫作“市场艺术”。",
+   "keywords": [
+    "James Bloom",
+    "Fingerprints DAO",
+    "Market Art",
+    "dynamic NFT",
+    "royalties",
+    "flipping",
+    "holding time",
+    "on-chain SVG"
+   ],
+   "video": {
+    "url": "https://making.gold/video/GOLD_60mb.mp4"
+   },
+   "images": [
+    "https://making.gold/images/seo.jpg",
+    "https://freight.cargo.site/w/1000/i/1ce0d88bcf0e9720ad40c01d0b6326c2f0b89581ef88b6db5e2d8c2136146dcc/gold.jpg"
+   ],
+   "paper": {
+    "url": "https://making.gold/essay",
+    "venue": "making.gold, 2023",
+    "title": "Is GOLD an Elaborate Reward System? On Optimism and Market Art (Anika Meier)"
+   },
+   "source_url": "https://making.gold/",
+   "contract_url": "https://etherscan.io/address/0xccbe56ea12b845a281431290f202196864f2f576"
+  },
+  {
+   "id": "misha-de-ridder--glitch",
+   "creator_ids": [
+    "misha-de-ridder"
+   ],
+   "title": "glitch",
+   "year": 2024,
+   "field": "onchain",
+   "sub": "ownership",
+   "also": [],
+   "mechanisms": [
+    "time",
+    "exchange",
+    "burn"
+   ],
+   "substrate": "ethereum",
+   "kind": "series",
+   "description": "50 animated GIFs made from photographs of erased graffiti, released by Fingerprints DAO with Assembly, that wear away as they change hands. The first trade removes the animation, later trades fade the photo to a faint residue; anyone can pay to restore a token, and an owner can burn it for a physical print.",
+   "description_zh": "50 幅由被抹去的涂鸦照片做成的动态 GIF，由 Fingerprints DAO 与 Assembly 合作发布，会随着转手而磨损。第一次交易让动画消失，之后的交易让照片逐渐褪成一抹淡淡的残迹；任何人都可以付费让代币复原，所有者也可以销毁它换取一张实体照片。",
+   "idea_en": "Let trading erase the image: every sale costs the work something, and the group decides whether to preserve, repair or cash out into paper.",
+   "idea_zh": "让交易抹去图像：每一次出售都让作品损失一点，而保存、修复还是换成纸上的照片，由这群人自己决定。",
+   "protocol": "Each of the 50 one-of-one tokens degrades with every sale or transfer to another wallet: after the first the animation disappears, after the second the photo fades by half, after the third only a residue remains. Anyone, not just the owner, can pay a small amount to refresh a token to its original state. An owner can burn a token and pay to redeem a large print made by Assembly, which is final. A separate edition of 510 mosaics of the whole series degraded as more were minted, so the last ones show only residue.",
+   "protocol_zh": "50 枚独一无二的代币，每出售或转移到另一个钱包一次就退化一级：第一次之后动画消失，第二次之后照片褪去一半，第三次之后只剩残迹。任何人（不只是所有者）都可以付一小笔钱把代币刷新回原始状态。所有者可以销毁代币并付费兑换一张由 Assembly 制作的大幅照片，这一步不可逆。另有一个 510 版的系列拼图版本，铸造得越多图像越退化，最后几版只剩残迹。",
+   "collective": "The one-of-ones were sold in a three-day ranked auction from 25 April 2024, followed by the edition mint. The artist presents the mechanism as an alternative to creator royalties and a comment on secondary-market dynamics: the state of every image is a record of how its holders have treated it, and if all tokens are burned only an empty website and contract remain. The contract reported a total supply of 45 when checked on 23 November 2026.",
+   "collective_zh": "独版作品自 2024 年 4 月 25 日起以为期三天的排名拍卖售出，随后开放版数铸造。艺术家把这套机制看作创作者版税的一种替代方案，也是对二级市场的评论：每幅图像的状态都记录着持有者如何对待它；如果所有代币都被销毁，就只剩一个空网站和一个空合约。2026 年 11 月 23 日查看时，合约显示的总供应量为 45。",
+   "keywords": [
+    "misha de ridder",
+    "Fingerprints DAO",
+    "Assembly",
+    "erased graffiti",
+    "degradation",
+    "refresh",
+    "burn and redeem",
+    "CC0"
+   ],
+   "images": [
+    "https://glitch.mishaderidder.com/opengraph-image.jpeg?ffe2398d0dfe605f"
+   ],
+   "source_url": "https://glitch.mishaderidder.com/",
+   "contract_url": "https://etherscan.io/address/0xAa39B261b8d4FDaa8A1ED436cC14A723c0480eE9"
+  },
+  {
+   "id": "agnes-cameron--sentences",
+   "creator_ids": [
+    "agnes-cameron",
+    "manus-nijhoff",
+    "ed-fornieles"
+   ],
+   "title": "Sentences",
+   "year": 2023,
+   "field": "onchain",
+   "sub": "co-authored",
+   "also": [
+    "network"
+   ],
+   "mechanisms": [
+    "co-authorship",
+    "governance",
+    "time"
+   ],
+   "substrate": "ethereum",
+   "kind": "game",
+   "description": "An on-chain tool for collective worldbuilding, made with Jacob Willemsma and built with the MUD framework. Each game starts a new world from a one-line prompt, and players extend its story one sentence at a time by proposing additions and voting on them.",
+   "description_zh": "一个用于集体构建世界的链上工具，与 Jacob Willemsma 共同制作，基于 MUD 框架搭建。每一局都从一句提示语开启一个新世界，玩家通过提出续写并投票，一句一句地把它的故事写下去。",
+   "idea_en": "Reduce collective fiction to one rule, propose then vote, and keep every losing sentence on record as a world that might have been.",
+   "idea_zh": "把集体虚构简化成一条规则：先提案，再投票；每一句落选的话都留在记录里，成为一个本可能存在的世界。",
+   "protocol": "A new world opens with a prompt picked at random from a hard-coded list, such as 'This group is built on money'. Writers then have a set number of blocks (20 in the authors' setup) to propose the next sentence, followed by a voting period; the proposal with the most votes is appended, a tie is broken at random, and the cycle repeats. There is no chat and no contribution other than extending the narrative. If nobody proposes in time the world dies and joins an archive, and all proposals and votes stay on-chain as 'dead' branches.",
+   "protocol_zh": "新世界以一句从硬编码列表里随机抽出的提示语开场，例如“This group is built on money”。接着，写作者有固定数量的区块（作者的设置是 20 个）来提出下一句，然后进入投票期；得票最多的提案被接到叙事末尾，平票则随机决定，如此循环。没有聊天功能，除了续写叙事之外不能做任何别的贡献。如果没有人及时提案，这个世界就会死去并进入档案；所有提案和投票都留在链上，成为“死去的”分支。",
+   "collective": "The authors, who published the design as a 'primitive' with the Autonomous Worlds Network in May 2024, imagine sessions of 10 to 50 participants who may not know one another, for example an event that sets out to generate five new worlds in an hour. They describe it as a laboratory rather than a finished world; no record of played sessions is published. Le Random lists it among on-chain experiments by artists that treat language as both medium and mechanic.",
+   "collective_zh": "作者于 2024 年 5 月在 Autonomous Worlds Network 把这套设计作为一个“primitive”发表。他们设想的是 10 到 50 人、彼此未必相识的场次，比如一场以一小时内生成五个新世界为目标的活动。他们称它是一间实验室，而不是一个完成的世界；实际游玩的记录没有公开。Le Random 把它列入艺术家把语言同时当作媒介和机制的链上实验之中。",
+   "keywords": [
+    "Sentences",
+    "MUD",
+    "Autonomous Worlds",
+    "worldbuilding",
+    "lore",
+    "append-only narrative",
+    "Jacob Willemsma",
+    "Moving Castles"
+   ],
+   "images": [
+    "https://aw.network/img/sentences.png"
+   ],
+   "paper": {
+    "url": "https://aw.network/primitives/primitive-sentences",
+    "venue": "Autonomous Worlds Network, 2024",
+    "title": "Collaborative Prompt-Based Narrative Systems: A Model for the Collective Authorship of Onchain Lore"
+   },
+   "source_url": "https://aw.network/primitives/primitive-sentences",
+   "code_url": "https://github.com/manegame/sentence"
+  }
+ ],
+ "leads": [
+  {
+   "name": "Primavera De Filippi, Will Papper, Adrien Guerrera & Jake Hartnell, Aminals (GLITCH)",
+   "why": "Not launched: the project's own about page says the code 'hasn't been deployed yet' and its site lists 0 Aminals, so no group has acted under the rules; the repositories are still in development and no image exists.",
+   "link": "https://aminals-v2.pages.dev/about",
+   "found_via": "primavera-de-filippi",
+   "status": "off_topic"
+  },
+  {
+   "name": "Tommy Hartung, The Old Testament (Snark.art)",
+   "why": "covered: tommy-hartung--the-old-testament",
+   "link": "https://snark.art/oldtestament/",
+   "found_via": "snark-art",
+   "status": "covered"
+  },
+  {
+   "name": "World Computer Sculpture Garden contracts still without images: Echoes (0xhaiku), Dear God, Layer of Roads (Travelers) (Figure31), Yesbot (Sarah Friend), Critique of This Show (Rhea Myers et al.)",
+   "why": "covered: 0xhaiku--echoes, figure31--dear-god-layer-of-roads-travelers, sarah-friend--yesbot, rhea-myers--critique-of-this-show",
+   "link": "https://worldcomputersculpture.garden/",
+   "found_via": "0xfff",
+   "status": "covered"
+  },
+  {
+   "name": "Figure31 & 0xfff, dear god, layer of roads (travelers) (2024)",
+   "why": "covered: figure31--dear-god-layer-of-roads-travelers",
+   "link": "https://travelers.figure31.com/",
+   "found_via": "figure31",
+   "status": "covered"
+  },
+  {
+   "name": "Figure31, MARK (2022)",
+   "why": "covered: figure31--mark",
+   "link": "https://figure31.com/",
+   "found_via": "figure31",
+   "status": "covered"
+  },
+  {
+   "name": "Leander Herzog, Likes (2026)",
+   "why": "Passes the test (contract deployed 24 March 2026; 93 likes on 23 November 2026) but the page is a single inline SVG heart with no image file, and no video, statement or article was found.",
+   "link": "https://leanderherzog.ch/2026/likes/",
+   "found_via": "leander-herzog",
+   "status": "no_media"
+  },
+  {
+   "name": "James Bloom, GOLD (Fingerprints DAO, 2023)",
+   "why": "covered: james-bloom--gold",
+   "link": "https://making.gold/",
+   "found_via": "figure31",
+   "status": "covered"
+  },
+  {
+   "name": "misha de ridder, glitch (Assembly)",
+   "why": "covered: misha-de-ridder--glitch",
+   "link": "https://glitch.mishaderidder.com/",
+   "found_via": "seed",
+   "status": "covered"
+  },
+  {
+   "name": "Agnes Cameron, Ed Fornieles, Manus Nijhoff & Jacob Willemsma, Sentences (2023)",
+   "why": "covered: agnes-cameron--sentences",
+   "link": "https://aw.network/primitives/primitive-sentences",
+   "found_via": "dmstfctn",
+   "status": "covered"
+  },
+  {
+   "name": "Arb & 0xhank, Network States (2024)",
+   "why": "A player-versus-player on-chain strategy game; the lore is generated by language models from play, not written under an authored art protocol, and Le Random cites it only as a game.",
+   "link": "https://www.lerandom.art/editorial/post-generative-language-games",
+   "found_via": "dmstfctn",
+   "status": "off_topic"
+  },
+  {
+   "name": "Material Protocol Arts, Modulation Studies (World Computer Sculpture Garden, 2024)",
+   "why": "Daily musical studies and edit history recorded by the artist alone; visitors can only listen and replay, so no group carries out the rules.",
+   "link": "https://modulations.material.work/",
+   "found_via": "0xfff",
+   "status": "off_topic"
+  },
+  {
+   "name": "113, Extimacy / hehe (World Computer Sculpture Garden, 2024)",
+   "why": "Contract that hands all its answers to an external contract set by its owners; no rule addressed to the public was found.",
+   "link": "https://worldcomputersculpture.garden/",
+   "found_via": "0xfff",
+   "status": "off_topic"
+  },
+  {
+   "name": "0xhaiku, other relational contract works (Receipt, Recycle Bin, Public Art, Still Remember, human-readable)",
+   "why": "Works listed on the artist's site, several marked open for participation; Receipt was acquired by Fingerprints DAO in 2024 and Still Remember was a 2024 Lumen Prize finalist. Not yet researched.",
+   "link": "https://0xhaiku.com/",
+   "found_via": "0xhaiku",
+   "status": "open"
+  },
+  {
+   "name": "James Bloom, other networked works (Transactional space, Unseen changes)",
+   "why": "His bio says his software works often connect hundreds of participants online; the projects listed on his site besides GOLD were not checked.",
+   "link": "https://jamesbloom.net/",
+   "found_via": "james-bloom",
+   "status": "open"
+  }
+ ]
+}

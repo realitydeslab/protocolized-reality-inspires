@@ -1,0 +1,734 @@
+{
+ "batch": "pass5-leads-participatory",
+ "creators": [
+  {
+   "id": "agnieszka-kurant",
+   "name": "Agnieszka Kurant",
+   "kind": "person",
+   "role": "Conceptual artist",
+   "based": "New York, US",
+   "bio": "Artist born in Łódź, Poland, in 1978, who works with systems, sculpture and film at the meeting point of art, science and technology. She was artist in residence at MIT's Center for Art, Science & Technology (2016–18) and was commissioned in 2015 to make a project for the façade of the Solomon R. Guggenheim Museum, New York.",
+   "why": "She collects signatures, single lines and selfies from communities and online crowd workers, merges them by algorithm into one object, and in some works shares the sale proceeds with the contributors.",
+   "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Agnieszka_Kurant"
+   },
+   "role_zh": "观念艺术家",
+   "based_zh": "纽约，美国",
+   "bio_zh": "1978 年生于波兰罗兹的艺术家，创作涉及系统、雕塑和影像，处在艺术、科学与技术的交汇处。2016–18 年任麻省理工学院艺术、科学与技术中心驻留艺术家，2015 年受委托为纽约所罗门·R·古根海姆美术馆的外立面创作项目。",
+   "why_zh": "她向社区居民和线上众包工人收集签名、线条和自拍，用算法把它们合并成一件作品，并在部分作品中把销售收益分给贡献者。",
+   "connected_to": [
+    "john-menick"
+   ],
+   "discovered_via": "holly-herndon"
+  },
+  {
+   "id": "john-menick",
+   "name": "John Menick",
+   "kind": "person",
+   "role": "Artist",
+   "bio": "Artist working with the moving image, sound, performance and technological systems; his work was shown at dOCUMENTA(13) and in Greater New York at MoMA PS1.",
+   "why": "With Agnieszka Kurant he made Production Line, a series of drawings assembled from single lines drawn by online crowd workers who share in any sale.",
+   "links": {
+    "site": "https://johnmenick.com/"
+   },
+   "role_zh": "艺术家",
+   "bio_zh": "从事影像、声音、表演和技术系统创作的艺术家，作品曾在第 13 届卡塞尔文献展和 MoMA PS1 的 Greater New York 展出。",
+   "why_zh": "他与 Agnieszka Kurant 合作了 Production Line：由线上众包工人每人画一条线拼成的系列绘画，作品售出后工人参与分成。",
+   "connected_to": [
+    "agnieszka-kurant"
+   ],
+   "discovered_via": "agnieszka-kurant"
+  },
+  {
+   "id": "ivona-tau",
+   "name": "Ivona Tau",
+   "kind": "person",
+   "role": "Artist working with AI and photography",
+   "bio": "Artist from Lithuania who uses neural networks and code to explore experimental photography and moving images.",
+   "why": "In 11:05 World Feed she lets friends and anonymous strangers steer an AI video made from her own archive by sending short memories of one ordinary moment.",
+   "links": {
+    "site": "https://ivonatau.com/"
+   },
+   "role_zh": "以人工智能和摄影创作的艺术家",
+   "bio_zh": "来自立陶宛的艺术家，用神经网络和代码探索实验摄影与动态影像。",
+   "why_zh": "在 11:05 World Feed 中，她让朋友和匿名陌生人寄来对某个平常时刻的简短记忆，由这些文字左右一部用她个人档案生成的 AI 影像。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "shin-hanagata",
+   "name": "Shin Hanagata",
+   "kind": "person",
+   "role": "Artist working across performance and media art",
+   "bio": "Artist born in Tokyo in 1995 who uses wearable devices, prosthetics and generative AI to rewire the body's relation to the world. He has shown at MOT Annual (Museum of Contemporary Art Tokyo, 2023) and the Taipei Arts Festival (2023).",
+   "why": "In CHIMERIA he fixes one bodily rule, sight moved away from the head, and lets a group of volunteers living together work out the habits, tools and rooms that follow from it.",
+   "links": {
+    "site": "https://www.shinhanagata.com/"
+   },
+   "role_zh": "跨表演与媒体艺术的艺术家",
+   "bio_zh": "1995 年生于东京的艺术家，用可穿戴设备、义肢和生成式人工智能重新连接身体与世界的关系。曾参加 MOT Annual（东京都现代美术馆，2023）和台北艺术节（2023）。",
+   "why_zh": "在 CHIMERIA 中，他只定下一条身体规则：把视觉从头部移走，然后让一群共同生活的志愿者自己摸索出随之而来的习惯、工具和房间。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "agnieszka-kurant--the-end-of-signature",
+   "creator_ids": [
+    "agnieszka-kurant"
+   ],
+   "title": "The End of Signature",
+   "year": 2015,
+   "field": "social",
+   "sub": "collective-action",
+   "also": [
+    "network"
+   ],
+   "mechanisms": [
+    "merge",
+    "participation"
+   ],
+   "substrate": "text",
+   "kind": "series",
+   "description": "A series of collective signatures: Kurant asks the members of a community to sign blank sheets of paper, then merges the scanned signatures by algorithm into one averaged scrawl shown as a light work on a building. Versions were made for a housing block in Utrecht, the façade of the Guggenheim Museum in New York (2015) and two buildings at MIT (2021 and 2022).",
+   "description_zh": "一个“集体签名”系列：Kurant 请一个社区的成员在白纸上签名，再用算法把扫描后的签名合并成一个平均化的笔迹，以灯光作品的形式呈现在建筑上。先后为乌得勒支的一栋住宅楼、纽约古根海姆美术馆外立面（2015）和麻省理工学院的两栋建筑（2021、2022）制作了不同版本。",
+   "idea_en": "Give a community one signature that nobody wrote, by averaging everyone's.",
+   "idea_zh": "把每个人的签名平均起来，给一个社区一个谁也没有写过的签名。",
+   "protocol": "Members of a defined community (the residents of one building, museum visitors, a university and its neighbours) each sign a blank sheet. The signatures are scanned and an algorithm morphs them into a single averaged signature; for MIT a neural network (a GAN) built with CSAIL researchers was trained on the collected signatures and the artist chose the result in a feedback loop. The outcome is installed as a projection, LED or neon sign that appears to sign the building.",
+   "protocol_zh": "一个明确的社区（一栋楼的住户、美术馆观众、一所大学及其邻里）的成员各自在一张白纸上签名。签名被扫描，由算法变形合并成一个平均化的签名；在麻省理工学院的版本中，艺术家与 CSAIL 的研究者一起用收集到的签名训练了一个神经网络（GAN），再由艺术家在反馈循环中挑选结果。成品以投影、LED 或霓虹灯的形式安装，看上去像是在给建筑签名。",
+   "collective": "In Utrecht all residents of the Radboud high-rise were asked to sign, and the blended signature is projected on the building at nightfall. At MIT one sculpture aggregates the signatures of thousands of past and present scientists, students, interns and other academics, and a second is made from signatures of Cambridge residents. The result is an illegible scribble that belongs to no individual; the List Center notes that the collecting itself borrows from activism, where signatures are gathered to show support for a cause.",
+   "collective_zh": "在乌得勒支，Radboud 高层住宅的全体住户都被请来签名，合成的签名每到入夜投射在楼体上。在麻省理工学院，一件雕塑汇集了数千名过去和现在的科学家、学生、实习生及其他学者的签名，另一件则来自剑桥市居民的签名。结果是一个不属于任何个人、无法辨认的涂画；MIT List 视觉艺术中心指出，收集签名这一步本身借用了社会行动的方法，就像为某项诉求征集签名一样。",
+   "keywords": [
+    "collective signature",
+    "handwriting",
+    "authorship",
+    "Guggenheim",
+    "MIT List Visual Arts Center",
+    "CSAIL",
+    "GAN",
+    "Utrecht"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=VfecFm5x6sE"
+   },
+   "images": [
+    "https://listart.mit.edu/sites/default/files/styles/colorbox_desktop/public/media/images/2022-06/list_publicart_20220614_0128.jpg.webp?itok=rSboL5wc",
+    "https://listart.mit.edu/sites/default/files/styles/colorbox_desktop/public/media/images/2022-06/list_publicart_20220614_0029.jpg.webp?itok=IQgsRlaE"
+   ],
+   "paper": {
+    "url": "https://arxiv.org/abs/2207.04312",
+    "arxiv": "2207.04312",
+    "title": "At the Intersection of Deep Learning and Conceptual Art: The End of Signature",
+    "venue": "arXiv, 2022 (Shanmugam, Lewis, Gonzalez-Ortiz, Kurant, Guttag)"
+   },
+   "source_url": "https://listart.mit.edu/art-artists/end-signature-2021"
+  },
+  {
+   "id": "agnieszka-kurant--production-line",
+   "creator_ids": [
+    "agnieszka-kurant",
+    "john-menick"
+   ],
+   "title": "Production Line",
+   "year": 2016,
+   "field": "network",
+   "sub": "crowdsourced",
+   "also": [
+    "social"
+   ],
+   "mechanisms": [
+    "merge",
+    "participation",
+    "exchange"
+   ],
+   "substrate": "network",
+   "kind": "series",
+   "description": "An ongoing series of plotter drawings by Agnieszka Kurant and John Menick whose making is outsourced to workers on Amazon Mechanical Turk. Each worker draws one line with a computer mouse; an algorithm assembles the lines into one composite drawing.",
+   "description_zh": "Agnieszka Kurant 与 John Menick 合作的一个持续进行的绘图仪绘画系列，制作被外包给 Amazon Mechanical Turk 上的工人。每个工人用鼠标画一条线，再由算法把这些线拼成一幅合成图。",
+   "idea_en": "Pay a crowd for one line each, then route the art market's profit back to the people who drew.",
+   "idea_zh": "请一群人每人画一条线并付酬，再把艺术市场的利润送回画线的人手里。",
+   "protocol": "The artists post a task on Mechanical Turk asking each worker for a single line drawn with a mouse. No worker can see the other lines or knows the task is part of an artwork. After a set number of lines is reached, a simple algorithm combines them into one drawing, which is output on a pen plotter. If a drawing is sold, the workers who contributed to it share in the profit through the platform's bonus system.",
+   "protocol_zh": "艺术家在 Mechanical Turk 上发布任务，请每位工人用鼠标画一条线。工人看不到别人的线，也不知道这项任务属于一件艺术作品。线条达到预定数量后，一个简单的算法把它们合成一幅图，由笔式绘图仪输出。如果某幅画售出，参与那幅画的工人通过平台的奖金机制分享利润。",
+   "collective": "Each drawing is made of hundreds of lines from workers acting in isolation, and the series as a whole draws on thousands of workers. Because nobody sees the others' marks, the composition is unplanned; the artists present it as a test of whether scattered online labour can add up to a collective.",
+   "collective_zh": "每幅画由数百条线组成，画线的工人彼此隔绝，整个系列动用了数千名工人。由于谁也看不到别人的笔迹，画面的构图无人规划；艺术家把它当作一次检验：分散的线上劳动能否汇成一个集体。",
+   "keywords": [
+    "Amazon Mechanical Turk",
+    "crowd work",
+    "profit sharing",
+    "pen plotter",
+    "digital labour"
+   ],
+   "images": [
+    "https://johnmenick.com/images/serial-13.png",
+    "https://johnmenick.com/images/serial-3.png"
+   ],
+   "source_url": "https://johnmenick.com/art/production-line.html"
+  },
+  {
+   "id": "agnieszka-kurant--assembly-line",
+   "creator_ids": [
+    "agnieszka-kurant"
+   ],
+   "title": "Assembly Line",
+   "year": 2017,
+   "field": "network",
+   "sub": "crowdsourced",
+   "also": [
+    "social"
+   ],
+   "mechanisms": [
+    "merge",
+    "exchange",
+    "participation"
+   ],
+   "substrate": "network",
+   "kind": "series",
+   "description": "Sculptures that form a collective portrait of Amazon Mechanical Turk workers: thousands of paid selfies are fused by an algorithm into 3D forms, printed in resin and coated with copper and nickel. Made during Kurant's residency at MIT with the scientists Boris Katz, Andrei Barbu and David Mayo.",
+   "description_zh": "一组构成 Amazon Mechanical Turk 工人集体肖像的雕塑：数千张付费征集的自拍由算法融合成三维形体，用树脂 3D 打印后镀上铜和镍。作品创作于 Kurant 在麻省理工学院驻留期间，与科学家 Boris Katz、Andrei Barbu 和 David Mayo 合作完成。",
+   "idea_en": "Let the people whose faces are harvested as data own a share of what their faces sell for.",
+   "idea_zh": "让那些面孔被当作数据采集的人，分得自己面孔卖出的一份钱。",
+   "protocol": "Through a system built with MIT researchers, Mechanical Turk workers take self-portraits with their phones and are paid at once through the platform. An algorithm takes a single line of pixels from each photo and stacks the lines into a layered 3D form. If a sculpture is sold, the workers whose selfies went into it share in the profit through a bonus system.",
+   "protocol_zh": "借助与麻省理工学院研究者共同搭建的系统，Mechanical Turk 的工人用手机自拍，并立即通过平台拿到报酬。算法从每张照片中取出一行像素，把这些线一层层叠成三维形体。如果某件雕塑售出，自拍被用在其中的工人通过奖金机制分享利润。",
+   "collective": "Workers sent thousands of selfies, and the sculptures' layered shapes are made of nothing but one line from each face. Kurant describes the bonus rule as a way to connect an anonymous group of online workers with the money that circulates in the art market.",
+   "collective_zh": "工人们寄来了数千张自拍，雕塑层层叠叠的形状完全由每张脸上取出的一行像素构成。Kurant 说，奖金规则是为了把一群匿名的线上工人与艺术市场里流动的钱连接起来。",
+   "keywords": [
+    "Amazon Mechanical Turk",
+    "selfie",
+    "collective portrait",
+    "profit sharing",
+    "MIT CAST",
+    "3D print"
+   ],
+   "images": [
+    "https://arts.mit.edu/wp-content/uploads/2020/02/Kurant-Assembly-Line-2017-Photo-Jerry-Liu-e1582219595704-1200x874.jpg",
+    "https://arts.mit.edu/wp-content/uploads/2020/03/Agnieszka-Kurant_in-progress-view-of-Assembly-Line-algorithm-2017-1200x960.jpg"
+   ],
+   "paper": {
+    "url": "https://openspace.sfmoma.org/2018/03/assembly-line-animal-internet/",
+    "title": "Assembly Line / Animal Internet",
+    "venue": "SFMOMA Open Space, 5 March 2018 (text by Agnieszka Kurant)"
+   },
+   "source_url": "https://arts.mit.edu/assembly-line/"
+  },
+  {
+   "id": "brian-droitcour--beautiful-rules",
+   "creator_ids": [
+    "brian-droitcour"
+   ],
+   "title": "Beautiful Rules",
+   "year": 2025,
+   "field": "theory",
+   "sub": "crypto-theory",
+   "also": [
+    "onchain"
+   ],
+   "mechanisms": [
+    "constraint",
+    "co-authorship"
+   ],
+   "substrate": "text",
+   "kind": "publication",
+   "description": "Essay in Outland (25 November 2025) on the Dutch artist Harm van den Dorpel. Droitcour calls protocol art a useful but unsettled term and argues that van den Dorpel is a rare case where the system and the images it produces cannot be separated.",
+   "description_zh": "2025 年 11 月 25 日发表于 Outland 的文章，讨论荷兰艺术家 Harm van den Dorpel。Droitcour 认为“协议艺术”是一个有用但尚未定型的说法，而 van den Dorpel 是少见的例子：系统与它生成的图像无法分开。",
+   "idea_en": "A protocol can be judged the way an artwork is judged, once its rules are made visible as form.",
+   "idea_zh": "当规则以形式的方式被看见时，协议就可以像艺术作品一样被评判。",
+   "protocol": "Droitcour's argument: protocol art is hard to appreciate on its own terms because its meaning sits in code most viewers cannot read, while images still draw the desire. Van den Dorpel avoids that split by building interfaces, algorithms and decentralized systems that are 'inseparable from the beautiful abstractions they generate', so protocols can be judged as expressive and contingent, shaped by decisions and values.",
+   "protocol_zh": "Droitcour 的论证是：协议艺术很难按它自己的方式被欣赏，因为意义藏在多数观众读不懂的代码里，而吸引欲望的仍是图像。Van den Dorpel 避开了这种分裂：他搭建的界面、算法和去中心化系统与它们生成的抽象图像密不可分，于是协议也可以被当作有表达力、有偶然性、由决定和价值观塑造的东西来评判。",
+   "collective": "The essay follows two decades of work, from the online group shows of Club Internet and the image-and-text platform Delinear.info (2014) to Mutant Garden Seeder (2021) and Quantizer (2025). On Mutant Garden Seeder it notes that collectors were invited into the selection process but some bypassed the interface and minted directly from the contract, and concludes that 'protocols can be gamed as easily as images can be circulated'.",
+   "collective_zh": "文章梳理了他二十年的创作，从 Club Internet 的线上群展、图文平台 Delinear.info（2014）到 Mutant Garden Seeder（2021）和 Quantizer（2025）。谈到 Mutant Garden Seeder 时，文章指出藏家被邀请参与筛选过程，但有人绕过界面直接从合约铸造，并由此得出结论：协议可以被钻空子，就像图像可以被传播一样容易。",
+   "keywords": [
+    "Harm van den Dorpel",
+    "protocol art",
+    "Outland",
+    "Mutant Garden Seeder",
+    "Quantizer",
+    "Delinear.info",
+    "Club Internet"
+   ],
+   "images": [
+    "https://substackcdn.com/image/fetch/$s_!OUHD!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe5655183-f310-4f99-811b-706bfacf5ea7_2000x1461.jpeg",
+    "https://substackcdn.com/image/fetch/$s_!6Lee!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F78c0d2f7-869b-4187-a940-3f92c3c14e80_3456x2159.png"
+   ],
+   "paper": {
+    "url": "https://outlandart.substack.com/p/beautiful-rules",
+    "title": "Beautiful Rules",
+    "venue": "Outland, 25 November 2025"
+   },
+   "source_url": "https://outlandart.substack.com/p/beautiful-rules"
+  },
+  {
+   "id": "blast-theory--rider-spoke",
+   "creator_ids": [
+    "blast-theory"
+   ],
+   "title": "Rider Spoke",
+   "year": 2007,
+   "field": "network",
+   "sub": "crowdsourced",
+   "also": [
+    "social"
+   ],
+   "mechanisms": [
+    "participation",
+    "co-authorship",
+    "circulation"
+   ],
+   "substrate": "network",
+   "kind": "artwork",
+   "description": "A work for cyclists: each rider sets off alone through the city in the evening with a smartphone on the handlebars and a voice in one ear, answers personal questions by recording them in hiding places of their choice, and can search for the recordings other riders have hidden. First shown at the Barbican, London, in October 2007, with the Mixed Reality Lab, University of Nottingham.",
+   "description_zh": "一件写给骑车人的作品：每位骑行者在傍晚独自骑车穿过城市，车把上装着手机，一只耳朵里有一个声音；他们在自己挑选的“藏身处”录下对私人问题的回答，也可以去寻找其他骑行者藏下的录音。2007 年 10 月在伦敦巴比肯艺术中心首次呈现，与诺丁汉大学 Mixed Reality Lab 合作开发。",
+   "idea_en": "Let strangers hide confessions around a city, to be heard only by one person standing in the same spot.",
+   "idea_zh": "让陌生人把心里话藏在城市各处，只有站到同一个地点的人才能听到，而且一次只有一个人。",
+   "protocol": "The voice asks one question at a time, gentle at first and then more personal. A rider may answer, by finding a quiet spot and recording there, or look for other riders' hiding places: the screen shows nearby riders' names and the questions they answered. A recording stays at the place where it was made and plays only there, to one listener who has stopped at that spot.",
+   "protocol_zh": "那个声音一次只问一个问题，开始温和，随后越来越私人。骑行者可以选择回答，找一个安静的角落当场录音；也可以去找别人的藏身处，屏幕会显示附近骑行者的名字和他们回答过的问题。录音留在录下它的地点，只在那里播放，只放给停在那一处的一位听者。",
+   "collective": "Ride after ride, cyclists add answers, so each city builds up its own layer of hidden recordings that later riders find and listen to; Blast Theory describes the players as co-authors of the piece and a visible part of it as they cycle. The work has been presented in cities including Athens, Brighton, Budapest, Copenhagen, Linz, Sydney and Adelaide, with further presentations in 2021 and 2022.",
+   "collective_zh": "一次又一次骑行中，人们不断留下回答，于是每座城市都积累出一层属于自己的隐藏录音，由后来的骑行者找到并聆听；Blast Theory 把玩家称为作品的共同作者，他们骑车穿行时也成了作品看得见的一部分。作品曾在雅典、布莱顿、布达佩斯、哥本哈根、林茨、悉尼、阿德莱德等城市呈现，2021 和 2022 年又多次上演。",
+   "keywords": [
+    "Blast Theory",
+    "Mixed Reality Lab",
+    "IPerG",
+    "cycling",
+    "locative media",
+    "Barbican",
+    "audio recordings"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=8FAM_-IBkqg"
+   },
+   "images": [
+    "https://www.blasttheory.co.uk/wp-content/uploads/2013/02/rs_featured-950x534.jpg",
+    "https://www.blasttheory.co.uk/wp-content/uploads/2013/02/rs_secondary-625x450.jpg"
+   ],
+   "source_url": "https://www.blasttheory.co.uk/projects/rider-spoke/"
+  },
+  {
+   "id": "ivona-tau--11-05-world-feed",
+   "creator_ids": [
+    "ivona-tau"
+   ],
+   "title": "11:05 World Feed",
+   "year": 2026,
+   "field": "network",
+   "sub": "crowdsourced",
+   "mechanisms": [
+    "participation",
+    "merge",
+    "time"
+   ],
+   "substrate": "ai",
+   "kind": "artwork",
+   "description": "A video work built from one question: what were you doing yesterday at 11:05? For some months Ivona Tau filmed a few seconds each day at 11:05, then used memories sent by friends and by anonymous strangers, together with world events from the same moment, as prompts that pull her footage away from what really happened. Made during the AOTM artist residency.",
+   "description_zh": "一件从一个问题出发的影像作品：昨天 11:05 你在做什么？Ivona Tau 在几个月里每天 11:05 拍下几秒钟的视频，再把朋友和匿名陌生人寄来的记忆，连同同一时刻发生的世界大事，当作提示词，把她的素材从真实发生的事情上一点点拉开。作品创作于 AOTM 艺术家驻留期间。",
+   "idea_en": "Let an audience's small memories overwrite the artist's own record, the way a feed averages everyone into one image.",
+   "idea_zh": "让观众的琐碎记忆改写艺术家自己的记录，就像信息流把所有人平均成一张图像。",
+   "protocol": "Anyone may open the online form and anonymously leave a fragment of their yesterday at 11:05, in at most 200 characters; friends in the artist's circle were asked the same question directly. Each 11:05 clip starts as documentation of the artist's real moment, then an AI video model fine-tuned on her own archive transforms it using the collected memories and the news of that time as prompts.",
+   "protocol_zh": "任何人都可以打开在线表单，匿名留下自己昨天 11:05 的一个片段，最多 200 个字符；艺术家也直接向身边的朋友问了同一个问题。每段 11:05 的影像都从艺术家真实时刻的记录开始，再由一个用她个人档案微调过的 AI 视频模型，以收集到的记忆和当时的新闻为提示词加以改写。",
+   "collective": "Tau writes that the community prompts 'guided the images into unexpected territory', moving the work from her reality to that of the people who answered; she opened the anonymous form to see whether such records differ from what friends tell her. The piece was minted as an open edition through AOTM in September 2026; the form stays open and the last chapter is still being built.",
+   "collective_zh": "Tau 写道，来自社群的提示词把图像带到了意想不到的地方，让作品从她的现实移向回答者的现实；她开放匿名表单，是想看看这些记录与朋友告诉她的有没有不同。作品于 2026 年 9 月通过 AOTM 以开放版数的形式铸造；表单仍然开放，最后一章还在制作中。",
+   "keywords": [
+    "AOTM",
+    "AI video",
+    "memory",
+    "anonymous form",
+    "social media",
+    "AI slop",
+    "training data"
+   ],
+   "video": {
+    "url": "https://aotm.gallery/wp-content/uploads/2026/09/3_sound-Ivona-Tau.mp4"
+   },
+   "paper": {
+    "url": "https://www.rightclicksave.com/post/57/who-gets-to-shape-our-online-presence",
+    "title": "Who gets to shape our online presence?",
+    "venue": "Right Click Save forum, 2026 (text by Ivona Tau)"
+   },
+   "source_url": "https://aotm.gallery/artwork/1105-world-feed/"
+  },
+  {
+   "id": "ed-fornieles--the-group-a-temporary-autonomous-hotel",
+   "creator_ids": [
+    "ed-fornieles",
+    "omsk-social-club",
+    "nina-runa-essendrop"
+   ],
+   "title": "The Group; A Temporary Autonomous Hotel",
+   "year": 2018,
+   "field": "social",
+   "sub": "performance",
+   "mechanisms": [
+    "constraint",
+    "participation"
+   ],
+   "substrate": "body",
+   "kind": "artwork",
+   "description": "A live action role-play staged for two days on a floor of the Esperia Palace hotel during the 6th Athens Biennale (9–10 November 2018). Visitors received a new identity and a room key at reception and played inside rooms that each stood for a different psychological position. Role play by Ed Fornieles Studios and OMSK Social Club, game design by Nina Runa Essendrop.",
+   "description_zh": "第 6 届雅典双年展期间（2018 年 11 月 9–10 日）在 Esperia Palace 酒店的一层楼里连续两天进行的真人角色扮演。观众在前台领取一个新身份和一把房间钥匙，进入各自代表不同心理位置的房间里扮演。角色扮演由 Ed Fornieles Studios 与 OMSK Social Club 完成，游戏设计为 Nina Runa Essendrop。",
+   "idea_en": "Turn a hotel into a map of the psyche and let guests check in as someone else.",
+   "idea_zh": "把一家酒店变成一张心理地图，让客人以另一个人的身份入住。",
+   "protocol": "At reception each visitor is given a new identity and the key to a room. The biennale's rule is short: when you enter the room, you must play. The team of The Group guides the players, and each visitor may stay as long as they wish. The rooms are typed in advance: Private, Public, Rooms with Agency, Rooms with No Agency, Dream Rooms, Fear Rooms, Safe Rooms, Online / Offline Rooms and Rooms without Doors.",
+   "protocol_zh": "每位观众在前台领到一个新身份和一把房间钥匙。双年展写下的规则很短：进了房间，你就必须扮演。The Group 的团队引导玩家，每个人想待多久就待多久。房间的类型事先设定：私人房间、公共房间、有能动性的房间、没有能动性的房间、梦的房间、恐惧的房间、安全房间、在线／离线房间，以及没有门的房间。",
+   "collective": "Over the two days the piece consisted of what visitors, acting under assumed identities, did in the rooms. The artists describe the hotel as a model of society's 'hidden lusts, polished interfaces, and unspoken fears'; the biennale page documents the rules but not what happened inside.",
+   "collective_zh": "两天里，作品的内容就是以假定身份行动的观众在房间里做了什么。艺术家把酒店看作一个社会模型，里面有隐藏的欲望、打磨过的界面和没有说出口的恐惧；双年展页面记录了规则，但没有记录房间里发生了什么。",
+   "keywords": [
+    "larp",
+    "Athens Biennale",
+    "ANTI",
+    "Esperia Palace",
+    "role-play",
+    "hotel",
+    "identity"
+   ],
+   "images": [
+    "https://anti.athensbiennale.org/sites/default/files/styles/venue_slideshow/public/2018-09/AB6_The%20Group_A%20temporary%20Autonomous%20Hotel.jpg"
+   ],
+   "source_url": "https://anti.athensbiennale.org/en/artist/ed-fornieles-studios-omsk-social-club-and-nina-runa-essendrop"
+  },
+  {
+   "id": "ed-fornieles--dorm-daze",
+   "creator_ids": [
+    "ed-fornieles"
+   ],
+   "title": "Dorm Daze",
+   "year": 2011,
+   "field": "network",
+   "sub": "collective-games",
+   "also": [
+    "social"
+   ],
+   "mechanisms": [
+    "participation",
+    "constraint",
+    "co-authorship"
+   ],
+   "substrate": "network",
+   "kind": "artwork",
+   "description": "A 'Facebook sitcom': for three months participants ran Facebook profiles copied from real American college students inside a closed network, playing 35 characters through a semi-scripted story of campus life.",
+   "description_zh": "一部“Facebook 情景剧”：在三个月里，参与者在一个封闭的网络中经营从真实美国大学生那里复制来的 Facebook 账号，以 35 个角色演出一段半剧本化的校园生活。",
+   "idea_en": "Use a social network's own reward for engagement as the casting system of a collective fiction.",
+   "idea_zh": "把社交网络对“活跃”的奖励机制，当作一部集体虚构作品的选角系统。",
+   "protocol": "Each participant takes over a profile 'scalped' from a real American college student and keeps it going inside a self-contained Facebook network. The story is semi-scripted: it moves forward through the characters' interaction with each other and through direction from Fornieles, and events from the real world may be brought in.",
+   "protocol_zh": "每位参与者接手一个从真实美国大学生那里“剥”下来的账号，在一个自成一体的 Facebook 网络里把它经营下去。故事是半剧本化的：靠角色之间的互动和 Fornieles 的指示向前推进，现实世界里的事件也可以被带进来。",
+   "collective": "Fornieles reports that the characters who put the most time into the community became the lead roles, and that local plots started by players fed the whole narrative. One character joined the Occupy movement as it was happening, and the first series ended with a group that grew out of it blowing up a bank. The material was reused in sculptures and installations in his exhibition The Hangover (Part II) and in a book.",
+   "collective_zh": "Fornieles 说，在社群里投入时间最多的角色成了主角，玩家自己发起的局部情节不断汇入整个叙事。有一个角色在占领运动发生的同时加入了它，第一季以一个从中演变出来的团体炸掉一家银行收尾。这些素材后来被用在他的展览 The Hangover (Part II) 的雕塑和装置里，也用在一本书中。",
+   "keywords": [
+    "Facebook",
+    "role-play",
+    "sitcom",
+    "social media",
+    "college",
+    "Occupy",
+    "The Hangover (Part II)"
+   ],
+   "images": [
+    "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/hyperallergic-newspack-s3-amazonaws-com/uploads/2012/04/dorm-daze-series-home.jpg"
+   ],
+   "paper": {
+    "url": "https://rhizome.org/editorial/2012/apr/02/artist-profile-ed-fornieles/",
+    "title": "Artist Profile: Ed Fornieles",
+    "venue": "Rhizome, 2 April 2012 (interview by Joanne McNeil)"
+   },
+   "source_url": "https://hyperallergic.com/a-three-month-college-sitcom-on-facebook"
+  },
+  {
+   "id": "christian-falsnaes--rise",
+   "creator_ids": [
+    "christian-falsnaes"
+   ],
+   "title": "Rise",
+   "year": 2014,
+   "field": "score",
+   "sub": "public-instructions",
+   "also": [
+    "social"
+   ],
+   "mechanisms": [
+    "instruction",
+    "participation"
+   ],
+   "substrate": "body",
+   "kind": "artwork",
+   "description": "A performance first held at the Akademie der Künste, Berlin, in 2014, in which Falsnaes gives the seated audience instructions that escalate from sitting to storming the stage. It exists as a video of 14:35 minutes.",
+   "description_zh": "2014 年首次在柏林艺术学院（Akademie der Künste）进行的表演：Falsnaes 向坐着的观众发出一连串逐步升级的指令，从坐着不动到冲上舞台。作品以一部 14 分 35 秒的录像留存。",
+   "idea_en": "Raise the demands step by step and the room shows how far a group will follow, and who stays seated.",
+   "idea_zh": "把要求一步步提高，整个房间就会显示出一群人愿意跟到哪里，以及谁坐着不动。",
+   "protocol": "The artist stands before the audience as a motivator and issues clear orders, one stage at a time; one instruction is to touch the strangers standing nearby or to dance slowly with them. Nothing forces anyone to obey, and refusing is also a position inside the piece.",
+   "protocol_zh": "艺术家以“鼓动者”的身份站在观众面前，一个阶段接一个阶段地下达明确的命令；其中一条是去触碰身边的陌生人，或者和他们慢慢跳舞。没有什么强迫任何人服从，拒绝同样是作品之内的一种位置。",
+   "collective": "The audience was drawn stage by stage into a shared performance, handing over control and crossing social boundaries with people they did not know. Some spectators stayed in their seats on purpose; the Berlinische Galerie's handout counts this resistance as part of the performance.",
+   "collective_zh": "观众一步步被带进一场共同的表演，交出控制权，并和不认识的人一起越过社交界线。也有观众故意坐在座位上不动；柏林画廊（Berlinische Galerie）的导览页把这种抵抗也算作表演的一部分。",
+   "keywords": [
+    "instructions",
+    "audience",
+    "authority",
+    "obedience",
+    "Akademie der Künste",
+    "group dynamics"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/59a43ac09f8dceb4db9b5d52/1504544578436-GJC8M3FVJWJLRMBM5SP9/christian_falsnaes_rise_3.jpg",
+    "https://images.squarespace-cdn.com/content/v1/59a43ac09f8dceb4db9b5d52/1504544712438-AH6RG3VOWJESYM2O5WSG/christian_falsnaes_rise_5.jpg"
+   ],
+   "source_url": "https://www.christianfalsnaes.com/rise/"
+  },
+  {
+   "id": "christian-falsnaes--a-good-reason-is-one-that-looks-like-one",
+   "creator_ids": [
+    "christian-falsnaes"
+   ],
+   "title": "A Good Reason Is One That Looks Like One",
+   "year": 2015,
+   "field": "score",
+   "sub": "public-instructions",
+   "also": [
+    "social"
+   ],
+   "mechanisms": [
+    "instruction",
+    "participation"
+   ],
+   "substrate": "body",
+   "kind": "artwork",
+   "description": "An installation in which loudspeakers in the exhibition room give visitors instructions for social and physical interactions, from singing to dancing, while a hired instructor makes sure they take part. It was shown at the Postgalerie Karlsruhe as part of ZKM's exhibition GLOBALE in 2015 and at Kunstforeningen Gl. Strand, Copenhagen, in 2016.",
+   "description_zh": "一件装置：展厅里的扬声器向观众发出社交和身体互动的指令，从唱歌到跳舞，一名受雇的“指导员”负责确保大家参与。2015 年作为 ZKM 展览 GLOBALE 的一部分在卡尔斯鲁厄 Postgalerie 展出，2016 年在哥本哈根 Kunstforeningen Gl. Strand 展出。",
+   "idea_en": "Replace the charismatic artist with a loudspeaker and a hired enforcer, and see whether the group still performs.",
+   "idea_zh": "把有魅力的艺术家换成一只扬声器和一名受雇的执行者，看这群人是否照样表演。",
+   "protocol": "A single audio track plays on speakers and tells whoever is in the room what to do, alone and with each other. A hired instructor is present to ensure participation. The work's materials are listed as audio on speakers, hired instructor and visitors.",
+   "protocol_zh": "一条音轨通过扬声器播放，告诉房间里的人各自以及彼此之间该做什么。一名受雇的指导员在场，确保大家参与。作品的材料写作：扬声器播放的音频、受雇的指导员、观众。",
+   "collective": "Whoever happens to be in the room at the same time becomes a temporary group that sings, dances and interacts on command, so each showing produces different collective actions. The artist's own description stops at that; no account of a particular session was found.",
+   "collective_zh": "碰巧同时在房间里的人组成一个临时群体，按命令唱歌、跳舞、互动，因此每一场产生的集体行动都不一样。艺术家本人的说明到此为止，没有找到关于某一场具体情形的记录。",
+   "keywords": [
+    "instructions",
+    "loudspeaker",
+    "hired instructor",
+    "ZKM",
+    "GLOBALE",
+    "Gl. Strand"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/59a43ac09f8dceb4db9b5d52/1504197964861-Q99ULRADBJM8Y731FL8G/christian_falsnaes_agoodreason_1.jpg",
+    "https://images.squarespace-cdn.com/content/v1/59a43ac09f8dceb4db9b5d52/1504197979287-IVKJZT0GTKMV44HCGSLB/christian_falsnaes_agoodreason_3.jpg"
+   ],
+   "source_url": "https://www.christianfalsnaes.com/agoodreasonisonethatlookslikeone/"
+  },
+  {
+   "id": "christian-falsnaes--stage",
+   "creator_ids": [
+    "christian-falsnaes"
+   ],
+   "title": "Stage",
+   "year": 2017,
+   "field": "score",
+   "sub": "public-instructions",
+   "also": [
+    "social"
+   ],
+   "mechanisms": [
+    "instruction",
+    "participation"
+   ],
+   "substrate": "body",
+   "kind": "artwork",
+   "description": "An ongoing performance in which exhibition visitors are invited onto a lit stage and told through headphones how to carry out a choreography. Shown at arteBA, Buenos Aires, in 2017 and at Kiasma, Helsinki, in 2019.",
+   "description_zh": "一件持续进行的表演：展览观众被请上一座打着灯光的舞台，通过耳机得到指令，完成一段编舞。2017 年在布宜诺斯艾利斯 arteBA、2019 年在赫尔辛基 Kiasma 当代艺术博物馆展出。",
+   "idea_en": "A stage, a light and a private voice are enough to turn any visitor into the exhibit.",
+   "idea_zh": "一座舞台、一束灯光和一个只有自己听得见的声音，就足以把任何一位观众变成展品。",
+   "protocol": "Any visitor may step onto the stage and put on headphones. The instructions for the choreography come through the headphones. The work's materials are listed as stage, stage light, audio on headphones and visitors.",
+   "protocol_zh": "任何观众都可以走上舞台、戴上耳机。编舞的指令通过耳机传来。作品的材料写作：舞台、舞台灯光、耳机音频、观众。",
+   "collective": "For as long as the exhibition runs, the choreography is carried out by whichever visitors accept the invitation. The artist describes the stage as a pedestal on which visitors' bodies and identities serve as the material of the work.",
+   "collective_zh": "在整个展期里，这段编舞由愿意接受邀请的观众来完成。艺术家把这座舞台形容为一个基座，观众的身体和身份在上面充当作品的材料。",
+   "keywords": [
+    "instructions",
+    "headphones",
+    "choreography",
+    "arteBA",
+    "Kiasma",
+    "visitors"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=3zAUuV2KyWU"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/59a43ac09f8dceb4db9b5d52/1559660625106-JZ7NZDC847W3P7CLL4IK/2+%281%29+low.jpg",
+    "https://images.squarespace-cdn.com/content/v1/59a43ac09f8dceb4db9b5d52/1505152888587-UAMT3GUFQQFROZBKOWX2/image-asset.jpeg"
+   ],
+   "source_url": "https://www.christianfalsnaes.com/stage/"
+  },
+  {
+   "id": "christian-falsnaes--feast",
+   "creator_ids": [
+    "christian-falsnaes"
+   ],
+   "title": "FEAST",
+   "year": 2021,
+   "field": "social",
+   "sub": "performance",
+   "also": [
+    "score"
+   ],
+   "mechanisms": [
+    "participation",
+    "constraint"
+   ],
+   "substrate": "body",
+   "kind": "artwork",
+   "description": "A performance held during a festive dinner at PSM gallery, Berlin, marking ten years of the artist's work with the gallery. The guests were dressed in white unisex outfits matching the all-white room and table, and Falsnaes intervened in the meal until its manners broke down. It exists as a video of 14:08 minutes and as the stained clothes and tablecloth.",
+   "description_zh": "在柏林 PSM 画廊一场庆祝晚宴上进行的表演，纪念艺术家与画廊合作十年。来宾换上与全白房间和餐桌相配的白色中性服装，Falsnaes 不断介入这顿饭，直到餐桌礼仪瓦解。作品留下一部 14 分 08 秒的录像，以及沾满污渍的衣服和桌布。",
+   "idea_en": "Take a ritual everyone knows how to behave in and change its rules while people are in the middle of it.",
+   "idea_zh": "选一个人人都知道该怎么做的仪式，趁大家正在其中的时候改掉它的规则。",
+   "protocol": "The invited dinner guests first receive identical white outfits. During the meal the artist intervenes, reusing elements from his earlier audience performances; the piece proceeds only through what the guests agree to do. The gallery's text gives the frame but does not list the individual instructions.",
+   "protocol_zh": "受邀的晚宴来宾先领到一模一样的白色服装。用餐过程中艺术家不断介入，沿用他以往观众表演里的手法；作品只靠来宾愿意去做的事情向前推进。画廊的文字交代了这个框架，但没有逐条列出指令。",
+   "collective": "According to PSM, the guests' participation turned the dinner into a collective experience: codes of behaviour were violated and the banquet became 'an outbreak of excessive revelry'. The vegetable stains on the guests' clothes and on the tablecloth were then exhibited as a work in the exhibition FEAST, which opened at PSM in November 2021.",
+   "collective_zh": "据 PSM 的说明，来宾的参与把晚宴变成了一次集体经验：行为规范被打破，宴会变成一场放纵的狂欢。来宾衣服和桌布上的蔬菜污渍随后作为一件作品，在 2021 年 11 月于 PSM 开幕的展览 FEAST 中展出。",
+   "keywords": [
+    "dinner",
+    "PSM",
+    "ritual",
+    "group dynamics",
+    "white outfits",
+    "bacchanal"
+   ],
+   "video": {
+    "url": "https://vimeo.com/652520842"
+   },
+   "images": [
+    "https://www.psm-gallery.com/wp-content/uploads/2021/11/FEAST-still-13-1920x1080.jpg",
+    "https://www.psm-gallery.com/wp-content/uploads/2021/11/03-1920x1083.jpg"
+   ],
+   "paper": {
+    "url": "https://www.psm-gallery.com/wp-content/uploads/2021/10/PR_Christian-Falsnaes.pdf",
+    "title": "Christian Falsnaes: FEAST (press release)",
+    "venue": "PSM, Berlin, 2021"
+   },
+   "source_url": "https://psm-gallery.com/exhibitions/christian-falsnaes"
+  },
+  {
+   "id": "shin-hanagata--chimeria",
+   "creator_ids": [
+    "shin-hanagata"
+   ],
+   "title": "CHIMERIA",
+   "year": 2025,
+   "field": "social",
+   "sub": "collective-action",
+   "also": [
+    "score"
+   ],
+   "mechanisms": [
+    "constraint",
+    "participation"
+   ],
+   "substrate": "body",
+   "kind": "artwork",
+   "description": "A project in which volunteers wear a camera and a head-mounted display that move their sight to another part of the body, such as the toes, and then live together in a house in Tokyo. Furniture, doors and stairs made for people with eyes in their heads stop working for them, so the group rebuilds its daily life. It received an Award of Distinction (Interactive Art +) at the Prix Ars Electronica 2026.",
+   "description_zh": "在这个项目里，志愿者戴上摄像头和头戴式显示器，把视觉移到身体的另一个部位，比如脚趾，然后一起住进东京的一栋房子。为“眼睛长在头上的人”设计的家具、门和楼梯对他们不再适用，这群人只好重建自己的日常生活。作品获 2026 年 Prix Ars Electronica 互动艺术+ 类别的优秀奖（Award of Distinction）。",
+   "idea_en": "Change one fact about the body, make a group live with it, and a new set of social norms has to be invented.",
+   "idea_zh": "改掉身体的一个事实，让一群人带着它生活，一套新的社会规范就不得不被发明出来。",
+   "protocol": "Volunteers are recruited through a phone number circulated in public and must answer set questions to qualify. Each one's eye is 'transplanted' by headset to another body part, and the group lives communally under that condition. Outsiders may enter the space, but anyone who wants to observe has to imitate the environment and become part of it.",
+   "protocol_zh": "志愿者通过一个公开流传的电话号码招募，必须回答规定的问题才能获得资格。每个人的眼睛通过头戴设备被“移植”到身体的另一个部位，整个群体在这一条件下共同生活。外人可以进入这个空间，但想要观察的人必须模仿这里的环境，成为其中的一部分。",
+   "collective": "The credited volunteers, seven including the artist, worked out their own norms in order to get by: they took liquid food through tubes, used wire-driven prosthetics and built a toilet for use from a kneeling posture. The jury describes the result as a habitat built for bodies that no longer fit standard human design, in which the upright human becomes the strange creature.",
+   "collective_zh": "署名的志愿者共七人，包括艺术家本人，他们为了把日子过下去而摸索出自己的规范：用管子吃流质食物，使用线控义肢，并造了一个供跪姿使用的厕所。评审团把结果形容为一处为不再符合标准人体设计的身体而建的栖居地，在那里，直立的人反而成了奇怪的生物。",
+   "keywords": [
+    "head-mounted display",
+    "body schema",
+    "communal living",
+    "Prix Ars Electronica",
+    "WHITEHOUSE",
+    "still human",
+    "Tokyo"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=B7U_7kTxUWA"
+   },
+   "images": [
+    "https://i.ytimg.com/vi/B7U_7kTxUWA/maxresdefault.jpg"
+   ],
+   "source_url": "https://www.shinhanagata.com/en/works/chimeria"
+  }
+ ],
+ "leads": [
+  {
+   "name": "Scores for Meeting Otherwise, ed. Aio Frei, Franziska Koch and Irene Revell (Silver Press, November 2026)",
+   "why": "Still not published on 23 November 2026: the Silver Press page lists it as a pre-order, now due 17 December 2026 (Spiral House imprint, ISBN 978-1-9193180-3-5). The page names ten contributors of new scores but gives no contents list, so no survey collection can be defined yet. Recheck after 17 December 2026.",
+   "link": "https://www.silverpress.org/products/scores-for-meeting-otherwise-edited-by-irene-revell-aio-frei-franziska-koch",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Agnieszka Kurant, The End of Signature (2015) and other crowd-sourced works",
+   "why": "Covered: agnieszka-kurant--the-end-of-signature, agnieszka-kurant--production-line, agnieszka-kurant--assembly-line. Only works in which she asks a crowd to contribute under a stated rule were added; her other works were not researched in depth.",
+   "link": "https://www.liarumma.com/artists/agnieszka-kurant",
+   "found_via": "holly-herndon",
+   "status": "covered"
+  },
+  {
+   "name": "Brian Droitcour, 'Beautiful Rules' (Outland, 25 November 2025)",
+   "why": "Covered: brian-droitcour--beautiful-rules.",
+   "link": "https://outlandart.substack.com/p/beautiful-rules",
+   "found_via": "brian-droitcour",
+   "status": "covered"
+  },
+  {
+   "name": "Blast Theory, Rider Spoke (2007) and A Machine To See With (2010)",
+   "why": "Covered: blast-theory--rider-spoke. A Machine To See With left out: each participant follows automated phone instructions alone, and Blast Theory's page describes no rule by which participants' actions shape the work for others.",
+   "link": "https://www.blasttheory.co.uk/",
+   "found_via": "blast-theory",
+   "status": "covered"
+  },
+  {
+   "name": "dmstfctn, Godmode Epochs (2023–24)",
+   "why": "Off topic: a clicker game played mostly alone (leaderboard, in-game graffiti and PvP notices are side features); what players do does not make up the work. Its player data is already covered where it becomes collective material, in dmstfctn--fango-1000.",
+   "link": "https://dmstfctn.net/related-matters/godmode-epochs",
+   "found_via": "dmstfctn",
+   "status": "off_topic"
+  },
+  {
+   "name": "Ivona Tau, 11:05 participatory video project (2026)",
+   "why": "Covered: ivona-tau--11-05-world-feed.",
+   "link": "https://www.rightclicksave.com/post/57/who-gets-to-shape-our-online-presence",
+   "found_via": "seed",
+   "status": "covered"
+  },
+  {
+   "name": "Ed Fornieles Studios, OMSK Social Club & Nina Runa Essendrop, The Group; A Temporary Autonomous Hotel (Athens Biennale, 2018)",
+   "why": "Covered: ed-fornieles--the-group-a-temporary-autonomous-hotel (one image, from the biennale page).",
+   "link": "https://anti.athensbiennale.org/en/artist/ed-fornieles-studios-omsk-social-club-and-nina-runa-essendrop",
+   "found_via": "ed-fornieles",
+   "status": "covered"
+  },
+  {
+   "name": "Ed Fornieles, Dorm Daze (Facebook role-play performance)",
+   "why": "Covered: ed-fornieles--dorm-daze.",
+   "link": "https://en.wikipedia.org/wiki/Ed_Fornieles",
+   "found_via": "ed-fornieles",
+   "status": "covered"
+  },
+  {
+   "name": "Christian Falsnaes: Rise (2014), A Good Reason Is One That Looks Like One (2015), Stage (2017), Feast (2021)",
+   "why": "Covered: christian-falsnaes--rise, christian-falsnaes--a-good-reason-is-one-that-looks-like-one, christian-falsnaes--stage, christian-falsnaes--feast.",
+   "link": "https://www.christianfalsnaes.com/",
+   "found_via": "christian-falsnaes",
+   "status": "covered"
+  },
+  {
+   "name": "Shin Hanagata, CHIMERIA (Prix Ars Electronica 2026 Award of Distinction)",
+   "why": "Covered: shin-hanagata--chimeria.",
+   "link": "https://ars.electronica.art/prix/winners",
+   "found_via": "seed",
+   "status": "covered"
+  },
+  {
+   "name": "Ed Fornieles, Animal House (Guest Projects, London, 2011)",
+   "why": "College-party performances for which, by the artist's account in Rhizome (2012), over 200 people were briefed in advance on characters and actions taken from films, pranks and college scenarios. Passes the test on paper; needs images or video.",
+   "link": "https://rhizome.org/editorial/2012/apr/02/artist-profile-ed-fornieles/",
+   "found_via": "ed-fornieles",
+   "status": "open"
+  },
+  {
+   "name": "Christian Falsnaes, Influence (2012)",
+   "why": "Performance in which the audience become extras in a music video, described in the Berlinische Galerie's 2017 handout; check the artist's page for media and the rules given to the audience.",
+   "link": "https://www.christianfalsnaes.com/influence/",
+   "found_via": "christian-falsnaes",
+   "status": "open"
+  }
+ ]
+}

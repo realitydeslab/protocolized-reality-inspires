@@ -444,8 +444,8 @@
       "idea_zh": "把付款记录当作印版：藏家花掉“信用”，换来更少、更厚重的印张。",
       "protocol": "A transaction ID is hashed (SHA-256) into 256 bits, split into cyan, magenta, yellow and black 64-bit grids; the timestamp selects which layers show. Burning 80 Credits composes a Statement, one Credit per cell. Overprinting one Statement onto another burns the top one and multiplies the inks. Statements are capped at 1,526 and the minimum is 1.",
       "protocol_zh": "交易编号经 SHA-256 哈希得到 256 位，分成青、品红、黄、黑四个 64 位网格；时间戳决定显示哪些层。销毁 80 个 Credit 组成一个 Statement，每个 Credit 填一个格子。把一个 Statement 叠印到另一个上，上层被销毁，油墨相乘。Statement 最多 1,526 个，最少 1 个。",
-      "collective": "Credits are being issued from X Money payments; Statement assembly opens on 1 October 2026, so how far collectors will compress the supply is not yet known.",
-      "collective_zh": "Credit 正随着 X Money 付款不断生成；Statement 的组装于 2026 年 10 月 1 日开放，藏家会把供应压缩到什么程度尚不可知。",
+      "collective": "According to the project's whitepaper (version 1.2, 23 October 2026), the edition closed at 122,154 Credits, distributed to 25,225 wallets. Statement assembly is now open, and since October 2026 a Statement can also be given up for Balance (see the separate entry), so how far collectors will compress the supply is still being decided.",
+      "collective_zh": "据项目白皮书（1.2 版，2026 年 10 月 23 日），发行止于 122,154 个 Credit，分布在 25,225 个钱包中。Statement 的组装已经开放，2026 年 10 月起还可以放弃 Statement 换取 Balance（见另一条目），藏家最终会把供应压缩到什么程度仍在形成之中。",
       "keywords": ["X Money", "CMYK", "overprint", "Statement", "SHA-256", "burn"],
       "images": ["https://jack.art/credits/assets/art-0.svg", "https://jack.art/credits/assets/credit-0.svg"],
       "source_url": "https://jack.art/credits"

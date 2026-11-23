@@ -17,7 +17,7 @@ git rev-parse --git-dir > /dev/null 2>&1 || { echo "✗ not a git repository yet
 git add -A
 git commit -q -m "$msg
 
-Co-Authored-By: Claude Opus 5.5 (1M context) <noreply@anthropic.com>"
+Co-Authored-By: Claude Fable 5.2 <noreply@anthropic.com>"
 if git remote | grep -q .; then
   git pull --rebase --autostash -q   # GitHub may commit to CNAME when the Pages domain is changed
   git push -q
