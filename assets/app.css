@@ -467,3 +467,8 @@ a.chip { text-decoration: none; }
   .filters:not(.is-open) #hasContract, .filters:not(.is-open) .facets { display: none; }
   .search { flex-basis: 100%; }
 }
+
+/* what's new */
+.upd__date { font-size: 12px; color: var(--muted); white-space: nowrap; }
+.upd .scat__head { flex-wrap: wrap; }
+.upd__who { margin: -8px 0 18px; }

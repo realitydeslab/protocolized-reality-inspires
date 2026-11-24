@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23",
+ "generated": "2026-11-24",
  "taxonomy": {
   "fields": [
    {
@@ -6770,7 +6770,8 @@
    },
    "source_url": "https://aotm.gallery/artwork/1105-world-feed/",
    "images": [],
-   "also": []
+   "also": [],
+   "added": "2026-11-23"
   },
   {
    "id": "holly-herndon--attention-guild",
@@ -6825,7 +6826,8 @@
    "paper": {},
    "collections": [
     "strange-rules"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "jack-butcher--balance",
@@ -6875,7 +6877,8 @@
    },
    "source_url": "https://jack.art/exchange/story",
    "contract_url": "https://etherscan.io/token/0x3620540c994433D7B4a628C46d2ED5F92572eA07",
-   "video": {}
+   "video": {},
+   "added": "2026-11-23"
   },
   {
    "id": "jack-butcher--bars",
@@ -6920,7 +6923,8 @@
    "source_url": "https://jack.art/exchange/bars",
    "contract_url": "https://etherscan.io/address/0x7d9edea03dd97361c3e21389b95bc327e22752ae",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-11-23"
   },
   {
    "id": "rimini-protokoll--book-a-scientist",
@@ -6970,7 +6974,8 @@
     "https://www.rimini-protokoll.de/website/cache/images/media/Book%20a%20Scientist/DEF_selezione_book%20a%20scientist/1280-2026%2009%2017_Book%20A%20Scientist_web_ph%20Lucia%20Rose%20Buffa-26.jpg"
    ],
    "source_url": "https://www.rimini-protokoll.de/website/en/project/book-a-scientist",
-   "paper": {}
+   "paper": {},
+   "added": "2026-11-23"
   },
   {
    "id": "jack-butcher--credits",
@@ -7011,7 +7016,8 @@
    "source_url": "https://jack.art/credits",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "neal-agarwal--cursor-camp",
@@ -7052,7 +7058,8 @@
    ],
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-10-18"
   },
   {
    "id": "jack-butcher--economy-of-words",
@@ -7092,7 +7099,8 @@
    "source_url": "https://jack.art/economy-of-words",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "ei-arakawa-nash--grass-babies-moon-babies",
@@ -7139,7 +7147,8 @@
    ],
    "source_url": "https://venezia-biennale-japan.jpf.go.jp/e/art/2026-en",
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-10-18"
   },
   {
    "id": "rimini-protokoll--hooked-on-a-book",
@@ -7180,7 +7189,8 @@
    ],
    "source_url": "https://wdc2026.org/en/frames/hooked-on-a-book",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-10-18"
   },
   {
    "id": "jack-butcher--know-your-collector",
@@ -7218,7 +7228,8 @@
    "source_url": "https://jack.art/kyc",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "primavera-de-filippi--living-aesthetics",
@@ -7265,7 +7276,8 @@
     "title": "Living Aesthetics: A Grammar of Protocol Art and Worldbuilding"
    },
    "source_url": "https://lerandom.art/editorial/living-aesthetics-a-grammar-of-protocol-art-and-worldbuilding",
-   "video": {}
+   "video": {},
+   "added": "2026-10-18"
   },
   {
    "id": "figure31--melancholia",
@@ -7306,7 +7318,8 @@
    "source_url": "https://melancholia.figure31.com/",
    "contract_url": "https://etherscan.io/address/0x26f609Db4b517cEDEcFc9422cB85dEBd16dA883E",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-10-18"
   },
   {
    "id": "botto--mirror-stages",
@@ -7357,7 +7370,8 @@
     "https://abhk.botto.com/artworks-metadata/7.jpg"
    ],
    "source_url": "https://docs.botto.com/collections/mirror-stages-installation",
-   "paper": {}
+   "paper": {},
+   "added": "2026-10-18"
   },
   {
    "id": "jonas-lund--optimized-trajectory",
@@ -7402,7 +7416,8 @@
    ],
    "source_url": "https://optimized-trajectory.jonaslund.com/",
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "kim-asendorf--pxl-net",
@@ -7449,7 +7464,8 @@
     "title": "The Economy Is The Medium Pt. I - The Market"
    },
    "source_url": "https://www.tetragrammaton.com/article/the-economy-is-the-medium-pt-i---the-market",
-   "video": {}
+   "video": {},
+   "added": "2026-10-18"
   },
   {
    "id": "jonas-lund--performance-review",
@@ -7501,7 +7517,8 @@
     "https://cdn.jonaslund.com/wp-content/uploads/2026/09/24112232/IMG_0072-scaled.jpg"
    ],
    "source_url": "https://jonaslund.com/works/performance-review/",
-   "paper": {}
+   "paper": {},
+   "added": "2026-10-18"
   },
   {
    "id": "maia-chao--scores-for-the-museum-visitor",
@@ -7542,7 +7559,8 @@
    ],
    "source_url": "https://whitney.org/exhibitions/2026-biennial/art?section=12",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-10-18"
   },
   {
    "id": "lina-lapelyte--serendipity-island",
@@ -7586,7 +7604,8 @@
    ],
    "source_url": "https://www.tate.org.uk/press/press-releases/uniqlo-tate-play-lina-lapelyt%C4%97-serendipity-island",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-11-23"
   },
   {
    "id": "martin-zeilinger--becoming-curatorial",
@@ -7630,7 +7649,8 @@
    },
    "source_url": "https://www.openhumanitiespress.org/books/titles/curating-superintelligences/",
    "video": {},
-   "also": []
+   "also": [],
+   "added": "2026-11-13"
   },
   {
    "id": "nolen-royalty--solitaire-alone-together",
@@ -7668,7 +7688,8 @@
    "source_url": "https://eieio.games/blog/solitaire-alone-together",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-10-18"
   },
   {
    "id": "figure31--sprawl",
@@ -7712,7 +7733,8 @@
    "contract_url": "https://etherscan.io/address/0x29E485CE51a4dF0b9f4e468855c1C9B4145bdeE2",
    "code_url": "https://github.com/figure31/sprawl-agent-kit",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-10-18"
   },
   {
    "id": "peter-bauman--cerebral-samba",
@@ -7756,7 +7778,8 @@
    },
    "source_url": "https://www.lerandom.art/editorial/the-cerebral-samba-protocol-art-worldbuilding-our-two-brains",
    "video": {},
-   "also": []
+   "also": [],
+   "added": "2026-11-13"
   },
   {
    "id": "0xfff--transaction-sculptures",
@@ -7799,7 +7822,8 @@
    "source_url": "https://tx.0xfff.love/",
    "contract_url": "https://etherscan.io/address/0x246899cEA564Adc92EAF05FA882DC3f6aAF599bf",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-11-13"
   },
   {
    "id": "rafael-lozano-hemmer--undercurrents",
@@ -7851,7 +7875,8 @@
     "https://www.lozano-hemmer.com/image_sets/undercurrents/houston_2026/undercurrents_houston_2026_rlh_001.jpg"
    ],
    "source_url": "https://www.lozano-hemmer.com/undercurrents.php",
-   "paper": {}
+   "paper": {},
+   "added": "2026-11-23"
   },
   {
    "id": "primavera-de-filippi--when-the-artwork-hires-the-artist",
@@ -7899,7 +7924,8 @@
     "strange-rules"
    ],
    "video": {},
-   "also": []
+   "also": [],
+   "added": "2026-11-13"
   },
   {
    "id": "jack-butcher--work-luck-play",
@@ -7942,7 +7968,8 @@
    ],
    "source_url": "https://jack.art/work-luck-play",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "omsk-social-club--operative-image",
@@ -7985,7 +8012,8 @@
    ],
    "source_url": "https://omsksocial.club/operative-image.html",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-10-18"
   },
   {
    "id": "figure31--throwofdice",
@@ -8026,7 +8054,8 @@
    "source_url": "https://throwofdice.figure31.com/",
    "contract_url": "https://explorer.etherlink.com/address/0x9C4eBDfF80e8F3825B67b7E78592a62e4BBAe8b3",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-10-18"
   },
   {
    "id": "brian-moore--715-999-7483",
@@ -8069,7 +8098,8 @@
    ],
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-10-18"
   },
   {
    "id": "mindy-seu--a-sexual-history-of-the-internet",
@@ -8111,7 +8141,8 @@
    ],
    "source_url": "https://asexualhistoryoftheinternet.com/",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-10-18"
   },
   {
    "id": "lauren-lee-mccarthy--auto",
@@ -8151,7 +8182,8 @@
    "source_url": "https://lauren-mccarthy.com/AUTO",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-10-18"
   },
   {
    "id": "gene-kogan--abraham-covenant",
@@ -8200,7 +8232,8 @@
    "source_url": "https://www.rightclicksave.com/article/agents-of-eden-gene-kogan-and-xander-steenbrugge-interview-ai-art",
    "contract_url": "https://etherscan.io/address/0x8f814c7c75c5e9e0ede0336f535604b1915c1985",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-10-18"
   },
   {
    "id": "primavera-de-filippi--arborithms",
@@ -8246,7 +8279,8 @@
    "source_url": "https://gazell.io/products/arborithms",
    "contract_url": "https://etherscan.io/address/0x7a5b58e12ed9022ff63f236a77ada9d3d3e8b15c",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-10-18"
   },
   {
    "id": "vera-list-center--as-for-protocols",
@@ -8290,7 +8324,8 @@
     "title": "As for Protocols"
    },
    "source_url": "https://www.veralistcenter.org/publications/as-for-protocols",
-   "video": {}
+   "video": {},
+   "added": "2026-09-28"
   },
   {
    "id": "terra0--autonomous-forest",
@@ -8342,7 +8377,8 @@
    "paper": {},
    "collections": [
     "strange-rules"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "brian-droitcour--beautiful-rules",
@@ -8389,7 +8425,8 @@
     "venue": "Outland, 25 November 2025"
    },
    "source_url": "https://outlandart.substack.com/p/beautiful-rules",
-   "video": {}
+   "video": {},
+   "added": "2026-11-23"
   },
   {
    "id": "kate-sloan--behaviourist-art-and-cybernetics",
@@ -8434,7 +8471,8 @@
    },
    "source_url": "https://www.routledge.com/Behaviourist-Art-and-Cybernetics-Mapping-a-Field/Sloan/p/book/9781032615301",
    "video": {},
-   "also": []
+   "also": [],
+   "added": "2026-11-13"
   },
   {
    "id": "figure31--blue-moon-flaming-star",
@@ -8477,7 +8515,8 @@
    "source_url": "https://flamingstar.figure31.com/",
    "contract_url": "https://basescan.org/address/0x727BcEDaEa3661fd31A9e03b4f59ddA6E5aA38c4",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-10-18"
   },
   {
    "id": "steve-pikelny--burnt-us-dollars",
@@ -8527,7 +8566,8 @@
    },
    "source_url": "https://busd.steviep.xyz",
    "contract_url": "https://etherscan.io/address/0xb9bdb5221585ad31ba3a4fa9c7a7b73a0495916e",
-   "video": {}
+   "video": {},
+   "added": "2026-11-23"
   },
   {
    "id": "shin-hanagata--chimeria",
@@ -8575,7 +8615,8 @@
     "https://i.ytimg.com/vi/B7U_7kTxUWA/maxresdefault.jpg"
    ],
    "source_url": "https://www.shinhanagata.com/en/works/chimeria",
-   "paper": {}
+   "paper": {},
+   "added": "2026-11-23"
   },
   {
    "id": "luna-maurer--deep-soup",
@@ -8624,7 +8665,8 @@
    ],
    "source_url": "https://www.idfa.nl/en/film/9c0dd4eb-1a38-4fd9-a0da-55a2b0b25251/deep-soup/",
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-11-23"
   },
   {
    "id": "alden-hallak--draw-a-fish",
@@ -8669,7 +8711,8 @@
    "source_url": "https://drawafish.com/",
    "code_url": "https://github.com/aldenhallak/fishes",
    "video": {},
-   "also": []
+   "also": [],
+   "added": "2026-11-13"
   },
   {
    "id": "jack-butcher--full-set",
@@ -8708,7 +8751,8 @@
    "source_url": "https://jack.art/full-set",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "nolen-royalty--global-caps-lock",
@@ -8745,7 +8789,8 @@
    "source_url": "https://eieio.games/blog/the-global-capslock-key",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-10-18"
   },
   {
    "id": "ciphrd--generations",
@@ -8786,7 +8831,8 @@
    "source_url": "https://thecultureproject.substack.com/p/the-weekly-roundup-110",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-10-18"
   },
   {
    "id": "ontroerend-goed--handle-with-care",
@@ -8836,7 +8882,8 @@
     "https://ontroerendgoed.be/uploads/images/HWC/_featured/HWC_posters_c_ansbrys_20250218_G2A4177.jpg"
    ],
    "source_url": "https://ontroerendgoed.be/projects/handle-with-care",
-   "paper": {}
+   "paper": {},
+   "added": "2026-11-23"
   },
   {
    "id": "ling-tan--harvesting-climate-action",
@@ -8880,7 +8927,8 @@
    "source_url": "https://archive.aec.at/prix/320305/",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-11-23"
   },
   {
    "id": "leander-herzog--infinite-garden",
@@ -8922,7 +8970,8 @@
    "source_url": "https://www.infinite-garden.xyz/",
    "contract_url": "https://shapescan.xyz/address/0xbB8F2711bd4BC98223990267f771E97d2d9Bc167",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-10-18"
   },
   {
    "id": "neal-agarwal--internet-roadtrip",
@@ -8965,7 +9014,8 @@
    ],
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-10-18"
   },
   {
    "id": "sam-spratt--masquerade",
@@ -9006,7 +9056,8 @@
    "contract_url": "https://etherscan.io/address/0x4440732b0d85e2a77dcb2caedfd940154241249a",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "omsk-social-club--our-br00d",
@@ -9053,7 +9104,8 @@
     "worldglimpsing"
    ],
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-10-18"
   },
   {
    "id": "nolen-royalty--one-million-chessboards",
@@ -9090,7 +9142,8 @@
    "source_url": "https://eieio.games/blog/a-million-realtime-chess-boards-in-a-single-process/",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "kim-asendorf--pxl-dex",
@@ -9138,7 +9191,8 @@
    },
    "source_url": "https://pxl.onl/dex",
    "contract_url": "https://etherscan.io/address/0x81345761670fc8b90665466A94C196E26b92EcFB",
-   "video": {}
+   "video": {},
+   "added": "2026-10-18"
   },
   {
    "id": "mat-dryhurst--protocol-art",
@@ -9185,7 +9239,8 @@
    },
    "source_url": "https://carrier-bag.net/video/protocol-art/",
    "images": [],
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "primavera-de-filippi--protocol-art-lectures",
@@ -9241,7 +9296,8 @@
    "source_url": "https://protocolized.io/resources/protocol-art-ii",
    "collections": [
     "summer-of-protocols"
-   ]
+   ],
+   "added": "2026-10-18"
   },
   {
    "id": "botao-amber-hu--protocol-futuring",
@@ -9284,7 +9340,8 @@
    "source_url": "https://doi.org/10.1145/3772318.3790527",
    "video": {},
    "images": [],
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "botao-amber-hu--protocol-as-poetry",
@@ -9329,7 +9386,8 @@
    },
    "source_url": "https://doi.org/10.1145/3773699.3773918",
    "video": {},
-   "images": []
+   "images": [],
+   "added": "2026-09-28"
   },
   {
    "id": "protocol-institute--protocolized",
@@ -9377,7 +9435,8 @@
     "summer-of-protocols"
    ],
    "video": {},
-   "also": []
+   "also": [],
+   "added": "2026-10-18"
   },
   {
    "id": "steve-pikelny--pyramid-game",
@@ -9422,7 +9481,8 @@
    "source_url": "https://pyramidgame.eth.limo",
    "contract_url": "https://etherscan.io/address/0xcc88a0a881561148A8DaC357e385142Bb724057a",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-11-23"
   },
   {
    "id": "jack-butcher--self-checkout",
@@ -9465,7 +9525,8 @@
    ],
    "source_url": "https://jack.art/self-checkout",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "kristi-coronado--solienne",
@@ -9518,7 +9579,8 @@
     "symbient-life"
    ],
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "holly-herndon--starmirror",
@@ -9565,7 +9627,8 @@
    ],
    "source_url": "https://www.kunstsammlung.de/en/exhibitions/holly-herndon-mat-dryhurst-en",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "eboy--towr",
@@ -9605,7 +9668,8 @@
    "source_url": "https://thecultureproject.substack.com/p/the-weekly-roundup-110",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-11-13"
   },
   {
    "id": "summer-of-protocols--protocol-reader",
@@ -9648,7 +9712,8 @@
    "video": {},
    "collections": [
     "summer-of-protocols"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "crosslucid--the-way-of-flowers",
@@ -9691,7 +9756,8 @@
    ],
    "source_url": "https://www.rightclicksave.com/article/the-interview-crosslucid-the-way-of-flowers-office-impart-berlin",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-11-13"
   },
   {
    "id": "murilo-matsubara--wplace",
@@ -9731,7 +9797,8 @@
    "source_url": "https://wplace.live/",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "her-she-loves-data--pneumos",
@@ -9786,7 +9853,8 @@
    "collections": [
     "symbient-life"
    ],
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "snowfro--send-receive",
@@ -9830,7 +9898,8 @@
    "source_url": "https://www.artblocks.io/collection/sendreceive-by-snowfro",
    "contract_url": "https://etherscan.io/address/0xababababab20053426ad1c782de9ea8444358070",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-10-18"
   },
   {
    "id": "nolen-royalty--tiny-christmas",
@@ -9868,7 +9937,8 @@
    "source_url": "https://eieio.games/blog/tiny-christmas",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-10-18"
   },
   {
    "id": "jack-butcher--1-of-1-of",
@@ -9908,7 +9978,8 @@
    "source_url": "https://jack.art/supply",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "rhea-myers--10k-drop",
@@ -9953,7 +10024,8 @@
     "thumbnail": "https://i.ytimg.com/vi/ahB4LtWLIDE/maxresdefault.jpg",
     "embeddable": true
    },
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "janna-tay--phenomenology-of-protocols",
@@ -9997,7 +10069,8 @@
    "video": {},
    "collections": [
     "summer-of-protocols"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "chenoe-hart--addressable-space",
@@ -10039,7 +10112,8 @@
    "video": {},
    "collections": [
     "summer-of-protocols"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "holly-herndon--all-media-is-training-data",
@@ -10089,7 +10163,8 @@
     "title": "All Media Is Training Data"
    },
    "source_url": "https://herndondryhurst.studio/projects/all-media",
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "kei-kreutler--artificial-memory-and-orienting-infinity",
@@ -10132,7 +10207,8 @@
    "video": {},
    "collections": [
     "summer-of-protocols"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "botao-amber-hu--autonomous-realities",
@@ -10180,7 +10256,8 @@
    "paper": {},
    "collections": [
     "summer-of-protocols"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "brian-droitcour--breaking-protocol",
@@ -10226,7 +10303,8 @@
     "title": "Breaking Protocol"
    },
    "source_url": "https://web.archive.org/web/20251017111046/https://outland.art/ordinals-art/",
-   "video": {}
+   "video": {},
+   "added": "2026-10-18"
   },
   {
    "id": "fangting--composable-life",
@@ -10271,7 +10349,8 @@
    "video": {},
    "collections": [
     "summer-of-protocols"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "malte-rauch--computation-expanded-field",
@@ -10317,7 +10396,8 @@
    "images": [],
    "collections": [
     "world-computer-sculpture-garden"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "terra0--conditional-power",
@@ -10361,7 +10441,8 @@
    ],
    "source_url": "https://kadist.org/work/conditional-power-if-the-antarctic-sea-ice-extent-falls-to-zero-percent-this-nft-will-burn-itself/",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "jonas-lund--consensus-architects-inc",
@@ -10406,7 +10487,8 @@
    ],
    "source_url": "https://jonaslund.com/works/consensus-architects-inc/",
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "saffron-huang--control-and-consciousness-of-time",
@@ -10449,7 +10531,8 @@
    "video": {},
    "collections": [
     "summer-of-protocols"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "rhea-myers--critique-of-this-show",
@@ -10493,7 +10576,8 @@
     "world-computer-sculpture-garden"
    ],
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-11-23"
   },
   {
    "id": "shreeda-segan--dangerous-dating-protocols",
@@ -10536,7 +10620,8 @@
    "video": {},
    "collections": [
     "summer-of-protocols"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "nadia-asparouhova--dangerous-protocols",
@@ -10579,7 +10664,8 @@
    "video": {},
    "collections": [
     "summer-of-protocols"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "rithikha-rajamohan--dispatches-from-cascadia",
@@ -10621,7 +10707,8 @@
    "video": {},
    "collections": [
     "summer-of-protocols"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "steve-pikelny--etf",
@@ -10664,7 +10751,8 @@
    "source_url": "https://etf.steviep.xyz",
    "contract_url": "https://etherscan.io/address/0x7102653225d537e2fe703723ad83edfeb606396e",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-11-23"
   },
   {
    "id": "0xhaiku--echoes",
@@ -10708,7 +10796,8 @@
     "world-computer-sculpture-garden"
    ],
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-11-23"
   },
   {
    "id": "shuya-gong--exit-to-protocol",
@@ -10754,7 +10843,8 @@
    "video": {},
    "collections": [
     "summer-of-protocols"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "dmstfctn--fango-1000",
@@ -10807,7 +10897,8 @@
     "title": "Large Lore Models",
     "venue": "Autonomous Worlds N1 (2023)"
    },
-   "source_url": "https://dmstfctn.net/related-matters/fango-1000"
+   "source_url": "https://dmstfctn.net/related-matters/fango-1000",
+   "added": "2026-11-13"
   },
   {
    "id": "nathalia-scherer--fire-protocols",
@@ -10860,7 +10951,8 @@
    "source_url": "https://summerofprotocols.com/case-study/fire-protocols",
    "collections": [
     "summer-of-protocols"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "sarah-friend--good-death",
@@ -10906,7 +10998,8 @@
    "video": {},
    "collections": [
     "summer-of-protocols"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "lauren-lee-mccarthy--host",
@@ -10948,7 +11041,8 @@
    ],
    "source_url": "https://get-lauren.net/HOST",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-11-13"
   },
   {
    "id": "figure31--line",
@@ -10992,7 +11086,8 @@
    "source_url": "https://line.fingerprintsdao.xyz/about",
    "contract_url": "https://etherscan.io/address/0xc49d27C4A520a71fF899de7aca9FB56794Bb0f1e",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-11-13"
   },
   {
    "id": "lizz-thabet--meet-me-on-the-deep-net",
@@ -11033,7 +11128,8 @@
    "collections": [
     "sop24-protocol-exhibition",
     "summer-of-protocols"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "sarah-friend--memoryforms",
@@ -11073,7 +11169,8 @@
    "paper": {},
    "collections": [
     "symbient-life"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "aaron-z-lewis--new-time-machines",
@@ -11124,7 +11221,8 @@
    "video": {},
    "collections": [
     "summer-of-protocols"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "haotian-fang--on-chain-data-sculpture",
@@ -11164,7 +11262,8 @@
    "collections": [
     "sop24-protocol-exhibition",
     "summer-of-protocols"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "nolen-royalty--one-million-checkboxes",
@@ -11207,7 +11306,8 @@
    "also": [],
    "collections": [
     "tiny-awards"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "elliott-cost--one-minute-park",
@@ -11251,7 +11351,8 @@
     "tiny-awards"
    ],
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-11-13"
   },
   {
    "id": "spawning--pd12m-source-plus",
@@ -11306,7 +11407,8 @@
     "title": "Public Domain 12M: A Highly Aesthetic Image-Text Dataset with Novel Governance Mechanisms"
    },
    "source_url": "https://huggingface.co/datasets/Spawning/PD12M",
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "alternative-machine--plantbot",
@@ -11351,7 +11453,8 @@
    ],
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "primavera-de-filippi--plantoid-14-15",
@@ -11404,7 +11507,8 @@
    "paper": {},
    "collections": [
     "symbient-life"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "martin-benedikt-busch--plurality-in-practice",
@@ -11457,7 +11561,8 @@
    "source_url": "https://summerofprotocols.com/case-study/plurality-in-practice",
    "collections": [
     "summer-of-protocols"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "steve-pikelny--predict-the-number",
@@ -11498,7 +11603,8 @@
    ],
    "source_url": "https://predict.steviep.xyz",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-11-23"
   },
   {
    "id": "mashal-waqar--protocol-party",
@@ -11541,7 +11647,8 @@
    "video": {},
    "collections": [
     "summer-of-protocols"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "summer-of-protocols--protocol-worlds",
@@ -11582,7 +11689,8 @@
    "paper": {},
    "collections": [
     "summer-of-protocols"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "yuemin-huang--protocol-with-uncommunicables",
@@ -11629,7 +11737,8 @@
    "collections": [
     "sop24-protocol-exhibition",
     "summer-of-protocols"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "paul-seidler--real-abstraction",
@@ -11672,7 +11781,8 @@
    ],
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-11-13"
   },
   {
    "id": "ben-zucker--renotations",
@@ -11713,7 +11823,8 @@
    "collections": [
     "sop24-protocol-exhibition",
     "summer-of-protocols"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "dorian-taylor--retrofitting-the-web",
@@ -11755,7 +11866,8 @@
    "video": {},
    "collections": [
     "summer-of-protocols"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "goodbye-monkey--san",
@@ -11810,7 +11922,8 @@
    "collections": [
     "symbient-life"
    ],
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "timber-stinson-schroff--safe-new-world",
@@ -11857,7 +11970,8 @@
    "video": {},
    "collections": [
     "summer-of-protocols"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "holly-herndon--the-call",
@@ -11908,7 +12022,8 @@
     "https://ars.electronica.art/starts-prize/files/2026/06/the-call_hero-still-2.jpg"
    ],
    "source_url": "https://www.serpentinegalleries.org/whats-on/holly-herndon-mat-dryhurst-the-call/",
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "alice-noujaim--death-of-orkut",
@@ -11952,7 +12067,8 @@
    "video": {},
    "collections": [
     "summer-of-protocols"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "angela-walch--protocol-system-experience",
@@ -11995,7 +12111,8 @@
    "video": {},
    "collections": [
     "summer-of-protocols"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "rafael-fernandez--the-swarm-and-the-formation",
@@ -12041,7 +12158,8 @@
    "video": {},
    "collections": [
     "summer-of-protocols"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "andy-ayrey--truth-terminal",
@@ -12093,7 +12211,8 @@
    "paper": {},
    "collections": [
     "symbient-life"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "kara-kittel--unprotocolized-knowledge",
@@ -12137,7 +12256,8 @@
    "video": {},
    "collections": [
     "summer-of-protocols"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "spencer-chang--memory-pouch",
@@ -12182,7 +12302,8 @@
    "video": {},
    "collections": [
     "summer-of-protocols"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "james-greig--wib-and-wob",
@@ -12235,7 +12356,8 @@
    "collections": [
     "symbient-life"
    ],
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "0xfff--world-computer-sculpture-garden",
@@ -12280,7 +12402,8 @@
    ],
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-10-18"
   },
   {
    "id": "sarah-friend--yesbot",
@@ -12329,7 +12452,8 @@
    "collections": [
     "world-computer-sculpture-garden"
    ],
-   "video": {}
+   "video": {},
+   "added": "2026-11-23"
   },
   {
    "id": "distributed-gallery--aside",
@@ -12375,7 +12499,8 @@
    },
    "source_url": "https://verse.works/journal/protocol-art-and-museum-acquisitions",
    "video": {},
-   "also": []
+   "also": [],
+   "added": "2026-10-18"
   },
   {
    "id": "hua-xi-zi--all-just-fresh-off-the-boat",
@@ -12416,7 +12541,8 @@
    "collections": [
     "sop24-protocol-exhibition",
     "summer-of-protocols"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "figure31--dear-god-layer-of-roads-travelers",
@@ -12463,7 +12589,8 @@
     "world-computer-sculpture-garden"
    ],
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-11-23"
   },
   {
    "id": "misha-de-ridder--glitch",
@@ -12506,7 +12633,8 @@
    "source_url": "https://glitch.mishaderidder.com/",
    "contract_url": "https://etherscan.io/address/0xAa39B261b8d4FDaa8A1ED436cC14A723c0480eE9",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-11-23"
   },
   {
    "id": "botto--p5-botto",
@@ -12553,7 +12681,8 @@
    ],
    "source_url": "https://docs.botto.com/collections/p5.botto",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-11-13"
   },
   {
    "id": "holly-herndon--xhairymutantx",
@@ -12603,7 +12732,8 @@
     "https://xhairymutantx.whitney.org/opengraph-image.jpg?opengraph-image.3t0ugbh2s8kkk.jpg"
    ],
    "source_url": "https://whitney.org/exhibitions/xhairymutantx",
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "basepaint--basepaint",
@@ -12648,7 +12778,8 @@
    "contract_url": "https://basescan.org/address/0xBa5e05cb26b78eDa3A2f8e3b3814726305dcAc83",
    "code_url": "https://github.com/BasePaint/basepaint-contracts",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "songcamp--c4",
@@ -12687,7 +12818,8 @@
    "contract_url": "https://explorer.zora.energy/address/0x38898cAdB5241121620A81e7BcA47eaB8a87402A",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-10-18"
   },
   {
    "id": "jack-butcher--checks",
@@ -12730,7 +12862,8 @@
    "contract_url": "https://etherscan.io/address/0x036721e5A769Cc48B3189EFbb9ccE4471E8A48B1",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "james-bloom--gold",
@@ -12784,7 +12917,8 @@
     "title": "Is GOLD an Elaborate Reward System? On Optimism and Market Art (Anika Meier)"
    },
    "source_url": "https://making.gold/",
-   "contract_url": "https://etherscan.io/address/0xccbe56ea12b845a281431290f202196864f2f576"
+   "contract_url": "https://etherscan.io/address/0xccbe56ea12b845a281431290f202196864f2f576",
+   "added": "2026-11-23"
   },
   {
    "id": "spencer-chang--internet-fridge",
@@ -12826,7 +12960,8 @@
    ],
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-11-13"
   },
   {
    "id": "rhea-myers--is-art-editions",
@@ -12864,7 +12999,8 @@
    ],
    "source_url": "https://rhea.art/is-art-editions/",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "spawning--kudurru",
@@ -12905,7 +13041,8 @@
    "source_url": "https://www.wired.com/story/kudurru-ai-scraping-block-poisoning-spawning/",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "sam-spratt--the-monument-game",
@@ -12947,7 +13084,8 @@
    "source_url": "https://samspratt.com/5/ix/",
    "contract_url": "https://etherscan.io/address/0xda6558fa1c2452938168ef79dfd29c45aba8a32b",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "moma--moma-postcard",
@@ -12991,7 +13129,8 @@
    ],
    "source_url": "https://www.theartnewspaper.com/2023/11/24/mail-art-meets-nfts-for-all-in-the-moma-postcard-programme",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-11-13"
   },
   {
    "id": "steve-pikelny--money-making-opportunity",
@@ -13036,7 +13175,8 @@
    "source_url": "https://moneymakingopportunity.eth.limo",
    "contract_url": "https://etherscan.io/address/0x41d3d86a84c8507a7bc14f2491ec4d188fa944e7",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-11-23"
   },
   {
    "id": "jack-butcher--opepen-edition",
@@ -13080,7 +13220,8 @@
    "contract_url": "https://etherscan.io/address/0x6339e5E072086621540D0362C4e3Cea0d643E114",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "rhea-myers--proof-of-work",
@@ -13125,7 +13266,8 @@
     "title": "Proof of Work: Blockchain Provocations 2011–2021"
    },
    "source_url": "https://www.urbanomic.com/book/proof-of-work/",
-   "video": {}
+   "video": {},
+   "added": "2026-09-28"
   },
   {
    "id": "summer-of-protocols--protocol-kit",
@@ -13168,7 +13310,8 @@
    "video": {},
    "collections": [
     "summer-of-protocols"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "drew-austin--protocols-dont-build-pyramids",
@@ -13211,7 +13354,8 @@
    "video": {},
    "collections": [
     "summer-of-protocols"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "olivia-steiert--protocols-in-emergency-time",
@@ -13253,7 +13397,8 @@
    "video": {},
    "collections": [
     "summer-of-protocols"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "figure31--reapers-gambit",
@@ -13296,7 +13441,8 @@
    "source_url": "https://reapersgambit.com/",
    "contract_url": "https://etherscan.io/address/0x2C91D908E9fab2dD2441532a04182d791e590f2d",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-11-13"
   },
   {
    "id": "agnes-cameron--sentences",
@@ -13347,7 +13493,8 @@
    },
    "source_url": "https://aw.network/primitives/primitive-sentences",
    "code_url": "https://github.com/manegame/sentence",
-   "video": {}
+   "video": {},
+   "added": "2026-11-23"
   },
   {
    "id": "david-lang--standards-make-the-world",
@@ -13390,7 +13537,8 @@
    "video": {},
    "collections": [
     "summer-of-protocols"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "summer-of-protocols--program",
@@ -13437,7 +13585,8 @@
    "also": [],
    "collections": [
     "summer-of-protocols"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "venkatesh-rao--unreasonable-sufficiency",
@@ -13483,7 +13632,8 @@
    "also": [],
    "collections": [
     "summer-of-protocols"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "billy-rennekamp--viper",
@@ -13533,7 +13683,8 @@
    "contract_url": "https://etherscan.io/address/0x32f8F03197c55741ccF8Dea9D8f014281bd30183",
    "code_url": "https://github.com/folia-app/viper-contracts",
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-10-18"
   },
   {
    "id": "simon-de-la-rouviere--witness-the-draft",
@@ -13573,7 +13724,8 @@
    ],
    "source_url": "https://www.untitledfrontier.studio/blog/witness-the-draft",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "reddit--place-2023",
@@ -13612,7 +13764,8 @@
    "source_url": "https://en.wikipedia.org/wiki/R/place",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "terra0--a-tree-a-corporation-a-person",
@@ -13652,7 +13805,8 @@
    "source_url": "http://plsdlr.net/works/atree/",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "pak--metamorphosis",
@@ -13694,7 +13848,8 @@
    "contract_url": "https://etherscan.io/address/0x4d232cd85294acd53ec03f4a57f57888c9ea1946",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-10-18"
   },
   {
    "id": "ludens--autonomous-worlds",
@@ -13735,7 +13890,8 @@
    "source_url": "https://0xparc.org/blog/autonomous-worlds",
    "video": {},
    "images": [],
-   "also": []
+   "also": [],
+   "added": "2026-10-18"
   },
   {
    "id": "pak--censored",
@@ -13777,7 +13933,8 @@
    "contract_url": "https://etherscan.io/address/0xDa22422592Ee3623c8d3c40Fe0059CdEcF30CA79",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "songcamp--chaos",
@@ -13823,7 +13980,8 @@
     "title": "Value Flow: How Chaos Artists Are Getting Paid"
    },
    "source_url": "https://paragraph.com/@songcamp/how-to-build-a-headless-band-architecting-chaos",
-   "video": {}
+   "video": {},
+   "added": "2026-10-18"
   },
   {
    "id": "pak--clock",
@@ -13871,7 +14029,8 @@
     "thumbnail": "https://i.ytimg.com/vi/7AzW59oWfKA/maxresdefault.jpg",
     "embeddable": true
    },
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "alexis-andre--friendship-bracelets",
@@ -13920,7 +14079,8 @@
    ],
    "source_url": "https://whitehotmagazine.com/articles/nfts-with-diy-phygital-component/5567",
    "contract_url": "https://etherscan.io/address/0x942bc2d3e7a589fe5bd4a5c6ef9727dfd82f5c8a",
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "serpentine-arts-technologies--fae3",
@@ -13963,7 +14123,8 @@
    },
    "source_url": "https://futureartecosystems.org/briefing/fae3/",
    "video": {},
-   "also": []
+   "also": [],
+   "added": "2026-10-18"
   },
   {
    "id": "egor-kraft--hashd0x-proof-of-war",
@@ -14007,7 +14168,8 @@
    "source_url": "https://ars.electronica.art/starts-prize/en/hashd0x-proof-of-war/",
    "code_url": "https://github.com/Hashd0x/",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "spawning--have-i-been-trained",
@@ -14059,7 +14221,8 @@
     "https://techcrunch.com/wp-content/uploads/2023/05/haveibeentrained.png"
    ],
    "source_url": "https://techcrunch.com/2023/05/03/spawning-lays-out-its-plans-for-letting-creators-opt-out-of-generative-ai-training/",
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "jacob-horne--hyperstructures",
@@ -14102,7 +14265,8 @@
    },
    "source_url": "https://jacob.energy/hyperstructures.html",
    "video": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "lil-nounders--lil-nouns",
@@ -14150,7 +14314,8 @@
    ],
    "source_url": "https://lilnouns.wtf",
    "contract_url": "https://etherscan.io/address/0x4b10701Bfd7BFEdc47d50562b76b436fbB5BdB3B",
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "figure31--mark",
@@ -14194,7 +14359,8 @@
    "source_url": "https://figure31.com/",
    "contract_url": "https://etherscan.io/address/0x5872c9360cb6d6a0309f3045376e2bf8e7837971",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-11-23"
   },
   {
    "id": "jonas-lund--mvp-most-valuable-painting",
@@ -14241,7 +14407,8 @@
     "https://cdn.jonaslund.com/wp-content/uploads/2022/04/23083229/DSC06153-scaled.jpg"
    ],
    "source_url": "https://mvp.art",
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "pak--matter",
@@ -14281,7 +14448,8 @@
    "source_url": "https://mass.black/",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "tyler-hobbs--qql",
@@ -14328,7 +14496,8 @@
    "source_url": "https://qql.art/about",
    "contract_url": "https://etherscan.io/address/0x845dd2a7ee2a92a0518ab2135365ed63fdba0c88",
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "ruth-catlow--radical-friends",
@@ -14374,7 +14543,8 @@
     "title": "Radical Friends: Decentralised Autonomous Organisations and the Arts"
    },
    "source_url": "https://ruthcatlow.net/?works=radical-friends-decentralised-autonomous-organisations-and-the-arts",
-   "video": {}
+   "video": {},
+   "added": "2026-09-28"
   },
   {
    "id": "terra0--seed-capital",
@@ -14422,7 +14592,8 @@
     "venue": "terra0 on Medium, 2022"
    },
    "source_url": "https://terra0.medium.com/wen-growth-an-introduction-to-seed-capital-8d4a9df93789",
-   "video": {}
+   "video": {},
+   "added": "2026-09-28"
   },
   {
    "id": "simon-de-la-rouviere--room-of-infinite-paintings",
@@ -14461,7 +14632,8 @@
    ],
    "source_url": "https://www.untitledfrontier.studio/blog/the-room-of-infinite-paintings",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "sarah-friend--wildcards",
@@ -14502,7 +14674,8 @@
    "paper": {},
    "collections": [
     "symbient-life"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "reddit--place-2022",
@@ -14542,7 +14715,8 @@
    "source_url": "https://www.mediaweek.com.au/10-4-million-people-get-involved-as-r-place-returns-to-reddit",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "kei-kreutler--prehistory-of-daos",
@@ -14590,7 +14764,8 @@
     "title": "A Prehistory of DAOs: Cooperatives, gaming guilds, and the networks to come"
    },
    "source_url": "https://gnosisguild.mirror.xyz/t4F5rItMw4-mlpLZf5JQhElbDfQ2JRVKAzEpanyxW1Q",
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "async-art--async-music",
@@ -14628,7 +14803,8 @@
    "source_url": "https://www.prnewswire.com/news-releases/the-worlds-first-programmable-music-launch-301279780.html",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "moxie-marlinspike--at-my-whim",
@@ -14670,7 +14846,8 @@
    "source_url": "https://moxie.org/2022/01/07/web3-first-impressions.html",
    "contract_url": "https://etherscan.io/address/0x5c61afa47570ab2b562606fa578221305b12c307",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "moxie-marlinspike--autonomous-art",
@@ -14711,7 +14888,8 @@
    "source_url": "https://autonomous.graphics",
    "contract_url": "https://etherscan.io/address/0x3a56AB63c7ef4f07fe353bEb132e0Fd5AD270Ca0",
    "video": {},
-   "images": []
+   "images": [],
+   "added": "2026-09-28"
   },
   {
    "id": "black-swan-dao--black-swan",
@@ -14763,7 +14941,8 @@
     "venue": "Radical Friends, Torque Editions, 2022"
    },
    "source_url": "https://dyor.kunsthallezurich.ch/seeders/black-swan/",
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "dom-hofmann--blitmap",
@@ -14804,7 +14983,8 @@
    "contract_url": "https://etherscan.io/address/0x8d04a8c79ceb0889bdd12acdf3fa9d207ed3ff63",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "botto--decentralized-autonomous-artist",
@@ -14864,7 +15044,8 @@
    "contract_url": "https://etherscan.io/token/0x9DFAD1b7102D46b1b197b90095B5c4E9f5845BBA",
    "collections": [
     "symbient-life"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "songcamp--camp-elektra",
@@ -14912,7 +15093,8 @@
     "title": "Music DAO Deep Dives, Pt. 7: How Songcamp/Elektra is building a Web3-native artist collective"
    },
    "source_url": "https://jamiedubs.com/blog/breaking-down-songcamp-elektra-crowdfund/",
-   "video": {}
+   "video": {},
+   "added": "2026-11-13"
   },
   {
    "id": "furtherfield--culturestake",
@@ -14961,7 +15143,8 @@
     "https://www.furtherfield.org/wp-content/uploads/2021/10/Haringey.jpg-scaled.jpeg"
    ],
    "source_url": "https://www.furtherfield.org/culturestake/",
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "christian-falsnaes--feast",
@@ -15013,7 +15196,8 @@
     "title": "Christian Falsnaes: FEAST (press release)",
     "venue": "PSM, Berlin, 2021"
    },
-   "source_url": "https://psm-gallery.com/exhibitions/christian-falsnaes"
+   "source_url": "https://psm-gallery.com/exhibitions/christian-falsnaes",
+   "added": "2026-11-23"
   },
   {
    "id": "suum-cuique-labs--hashmasks",
@@ -15060,7 +15244,8 @@
    "source_url": "https://www.thehashmasks.com",
    "contract_url": "https://etherscan.io/address/0xc2c747e0f7004f9e8817db2ca4997657a7746928",
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "rafael-lima--hic-et-nunc",
@@ -15102,7 +15287,8 @@
    "contract_url": "https://tzkt.io/KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
    "code_url": "https://github.com/hicetnunc2000/objkt-swap",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "holly-herndon--holly-plus",
@@ -15156,7 +15342,8 @@
    "paper": {},
    "collections": [
     "symbient-life"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "kei-kreutler--inventories-not-identities",
@@ -15200,7 +15387,8 @@
    },
    "source_url": "https://medium.com/gnosis-pm/inventories-not-identities-7da9a4ec5a3e",
    "video": {},
-   "also": []
+   "also": [],
+   "added": "2026-10-18"
   },
   {
    "id": "billy-rennekamp--kudzu",
@@ -15249,7 +15437,8 @@
    "contract_url": "https://etherscan.io/address/0x9d413b9434c20c73f509505f7fbc6fc591bbf04a",
    "code_url": "https://github.com/folia-app/kudzu",
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-10-18"
   },
   {
    "id": "sarah-friend--lifeforms",
@@ -15301,7 +15490,8 @@
    "paper": {},
    "collections": [
     "symbient-life"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "dom-hofmann--loot",
@@ -15346,7 +15536,8 @@
    "source_url": "https://www.lootproject.com",
    "contract_url": "https://etherscan.io/address/0xff9c1b15b16263c61d017ee9f65c50e4ae0113d7",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "pak--lost-poets",
@@ -15390,7 +15581,8 @@
    "contract_url": "https://etherscan.io/address/0x4b3406a41399c7FD2BA65cbC93697Ad9E7eA61e5",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "pak--merge",
@@ -15437,7 +15629,8 @@
    "source_url": "https://www.gemini.com/blog/paks-merge-drop-on-nifty-gateway-breaks-records-in-largest-ever-public-sale",
    "contract_url": "https://etherscan.io/address/0xc3f8a0F5841aBFf777d3eefA5047e8D413a1C9AB",
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "harm-van-den-dorpel--mutant-garden-seeder",
@@ -15478,7 +15671,8 @@
    "contract_url": "https://etherscan.io/address/0x20c70bdfcc398c1f06ba81730c8b52ace3af7cc3",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "nounders--nouns",
@@ -15529,7 +15723,8 @@
    ],
    "source_url": "https://nouns.wtf",
    "contract_url": "https://etherscan.io/address/0x9C8fF314C9Bc7F6e59A9d9225Fb22946427eDC03",
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "michael-joo--og-crystals",
@@ -15574,7 +15769,8 @@
    "source_url": "https://ogcrystals.com",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-11-13"
   },
   {
    "id": "sarah-friend--off",
@@ -15616,7 +15812,8 @@
    "paper": {},
    "collections": [
     "symbient-life"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "tom-sachs--rocket-factory",
@@ -15658,7 +15855,8 @@
    "source_url": "https://unframed.lacma.org/2021/11/09/nfts-and-museum-tom-sachs-rocket-launch",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "jonas-lund--smart-burn-contract",
@@ -15696,7 +15894,8 @@
    "source_url": "https://smart-contracts.host/works/1",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "teia-community--teia",
@@ -15744,7 +15943,8 @@
    "source_url": "https://blog.teia.art/blog/press-release-dao-launch",
    "contract_url": "https://tzkt.io/KT1PHubm9HtyQEJ4BBpMTVomq6mhbfNZ9z5w",
    "code_url": "https://github.com/teia-community",
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "mathcastles--terraforms",
@@ -15792,7 +15992,8 @@
    "source_url": "https://www.bankless.com/terraforms-explained-is-this-ethereums-best-onchain-art",
    "contract_url": "https://etherscan.io/address/0x4e1f41613c9084fdb9e34e11fae9412427480e56",
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "damien-hirst--the-currency",
@@ -15840,7 +16041,8 @@
    ],
    "source_url": "https://heni.com/nft/more-info/the-currency",
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "pak--the-fungible",
@@ -15883,7 +16085,8 @@
    "contract_url": "https://etherscan.io/address/0xc7cc3e8c6b69dc272ccf64cbff4b7503cbf7c1c5",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "simon-de-la-rouviere--logged-universe",
@@ -15925,7 +16128,8 @@
    ],
    "source_url": "https://www.untitledfrontier.studio/the-logged-universe",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-10-18"
   },
   {
    "id": "benediktas-gylys--the-portal",
@@ -15968,7 +16172,8 @@
    ],
    "source_url": "https://www.portals.org/",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-11-13"
   },
   {
    "id": "simon-de-la-rouviere--the-signature",
@@ -16006,7 +16211,8 @@
    ],
    "source_url": "https://blog.simondlr.com/posts/the-signature-exploring-time-amp-provenance-in-nft-art",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "terra0--two-degrees",
@@ -16054,7 +16260,8 @@
    },
    "source_url": "https://terra0.medium.com/two-degrees-nft-5af1263bfcc",
    "contract_url": "https://etherscan.io/address/0xabf5c7c066a48a06524438f6f51bdceb6e670dad",
-   "video": {}
+   "video": {},
+   "added": "2026-09-28"
   },
   {
    "id": "pak--burn-art-ash",
@@ -16097,7 +16304,8 @@
    "contract_url": "https://etherscan.io/address/0x64D91f12Ece7362F91A6f8E7940Cd55F05060b92",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "async-art--async-art",
@@ -16137,7 +16345,8 @@
    "contract_url": "https://etherscan.io/address/0xb6dae651468e9593e4581705a09c10a76ac1e0c8",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "snark-art--burn-before-reading",
@@ -16178,7 +16387,8 @@
    "source_url": "https://snark.art/fortune-cookies/",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-11-13"
   },
   {
    "id": "dark-forest-team--dark-forest",
@@ -16226,7 +16436,8 @@
    "source_url": "https://blog.zkga.me/announcing-darkforest",
    "code_url": "https://github.com/darkforest-eth",
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "async-art--first-supper",
@@ -16274,7 +16485,8 @@
    "source_url": "https://x.com/asyncart/status/1233482051548065793",
    "contract_url": "https://etherscan.io/address/0xb6dae651468e9593e4581705a09c10a76ac1e0c8",
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "simon-de-la-rouviere--neolastics",
@@ -16315,7 +16527,8 @@
    "source_url": "https://neolastics.com",
    "code_url": "https://github.com/simondlr/neolastics",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "yvonne-rainer--passing-and-jostling",
@@ -16354,7 +16567,8 @@
    "source_url": "https://artdaily.com/news/122049/A-dance-for-the-socially-isolated",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-11-13"
   },
   {
    "id": "sarah-friend--portal-constellation",
@@ -16397,7 +16611,8 @@
    "code_url": "https://github.com/ana0/futures.online",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-11-13"
   },
   {
    "id": "matt-kane--right-place-right-time",
@@ -16438,7 +16653,8 @@
    "contract_url": "https://etherscan.io/address/0xb6dae651468e9593e4581705a09c10a76ac1e0c8",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "furtherfield--treaty-of-finsbury-park",
@@ -16488,7 +16704,8 @@
     "https://www.furtherfield.org/wp-content/uploads/2020/05/Larp.jpeg"
    ],
    "source_url": "https://www.furtherfield.org/the-treaty-of-finsbury-park-2025/",
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "gene-kogan--abraham",
@@ -16538,7 +16755,8 @@
     "venue": "Medium, July 2019"
    },
    "source_url": "https://abraham.ai",
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "amy-whitaker--art-and-blockchain",
@@ -16582,7 +16800,8 @@
    },
    "source_url": "https://artivate.org/index.php/artivate/article/view/94",
    "video": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "larva-labs--autoglyphs",
@@ -16631,7 +16850,8 @@
    ],
    "source_url": "https://www.larvalabs.com/autoglyphs",
    "contract_url": "https://etherscan.io/address/0xd4e4078ca3495DE5B1d4dB434BEbc5a986197782",
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "ed-fornieles--cel",
@@ -16675,7 +16895,8 @@
    ],
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-11-13"
   },
   {
    "id": "billy-rennekamp--clovers-network",
@@ -16727,7 +16948,8 @@
    "source_url": "https://clovers.network",
    "contract_url": "https://etherscan.io/address/0xb55c5cac5014c662fdbf21a2c59cd45403c482fd",
    "code_url": "https://github.com/clovers-network/clovers-contracts",
-   "video": {}
+   "video": {},
+   "added": "2026-11-13"
   },
   {
    "id": "rhea-myers--hack-line-properties",
@@ -16764,7 +16986,8 @@
    ],
    "source_url": "https://rhea.art/hack-line-properties/",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "simon-de-la-rouviere--is-this-prediction-market-art",
@@ -16800,7 +17023,8 @@
    ],
    "source_url": "https://home.simondlr.com/art",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "holly-herndon--proto-live-training",
@@ -16849,7 +17073,8 @@
     "https://i.ytimg.com/vi/lajRPj6QMZA/hqdefault.jpg"
    ],
    "source_url": "https://en.wikipedia.org/wiki/Proto_(Holly_Herndon_album)",
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "rhea-myers--pay-previous-path",
@@ -16886,7 +17111,8 @@
    ],
    "source_url": "https://rhea.art/pay-previous-path/",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "rhea-myers--proof-of-work-bitmap",
@@ -16923,7 +17149,8 @@
    ],
    "source_url": "https://rhea.art/proof-of-work-bitmap/",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "jennifer-mccoy--public-key-private-key",
@@ -16967,7 +17194,8 @@
    ],
    "source_url": "https://whitney.org/exhibitions/public-key-private-key",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-10-18"
   },
   {
    "id": "sarah-friend--remembering-network",
@@ -17010,7 +17238,8 @@
    "source_url": "https://isthisa.com/rememberingnetwork",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-11-13"
   },
   {
    "id": "lauren-lee-mccarthy--someone",
@@ -17050,7 +17279,8 @@
    ],
    "source_url": "https://lauren-mccarthy.com/SOMEONE",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "rhea-myers--staking-ratio",
@@ -17087,7 +17317,8 @@
    ],
    "source_url": "https://rhea.art/staking-ratio/",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "tommy-hartung--the-old-testament",
@@ -17141,7 +17372,8 @@
     "title": "CADAF Artist Spotlight: Tommy Hartung"
    },
    "source_url": "https://snark.art/oldtestament/",
-   "contract_url": "https://etherscan.io/address/0x19fd551ae0426d576698d399e104313ef8d6a553"
+   "contract_url": "https://etherscan.io/address/0x19fd551ae0426d576698d399e104313ef8d6a553",
+   "added": "2026-11-23"
   },
   {
    "id": "simon-de-la-rouviere--this-artwork-is-always-on-sale",
@@ -17189,7 +17421,8 @@
    "source_url": "https://thisartworkisalwaysonsale.com",
    "contract_url": "https://etherscan.io/address/0xB602c0bBfaB973422B91C8dfc8302B7b47550fC0",
    "code_url": "https://github.com/simondlr/thisartworkisalwaysonsale",
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "rhea-myers--token-grid",
@@ -17226,7 +17459,8 @@
    ],
    "source_url": "https://rhea.art/token-grid/",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "jack-and-leigh-ruby--all-the-reporters",
@@ -17269,7 +17503,8 @@
    ],
    "source_url": "https://snark.art/allthereporters/",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-11-13"
   },
   {
    "id": "eve-sussman--89-seconds-atomized",
@@ -17315,7 +17550,8 @@
     "https://snark.art/images/production/89sa.png"
    ],
    "source_url": "https://snark.art/89seconds",
-   "paper": {}
+   "paper": {},
+   "added": "2026-10-18"
   },
   {
    "id": "max-haiven--art-after-money",
@@ -17362,7 +17598,8 @@
     "title": "Art after Money, Money after Art: Creative Strategies Against Financialization"
    },
    "source_url": "https://www.plutobooks.com/product/art-after-money-money-after-art/",
-   "video": {}
+   "video": {},
+   "added": "2026-10-18"
   },
   {
    "id": "primavera-de-filippi--blockchain-and-the-law",
@@ -17407,7 +17644,8 @@
    },
    "source_url": "https://www.hup.harvard.edu/books/9780674241596",
    "video": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "distributed-gallery--chaos-machine",
@@ -17456,7 +17694,8 @@
     "title": "The Aesthetic of a Protocol"
    },
    "source_url": "https://www.rightclicksave.com/article/the-aesthetic-of-a-protocol",
-   "video": {}
+   "video": {},
+   "added": "2026-10-18"
   },
   {
    "id": "omsk-social-club--cryptorave",
@@ -17503,7 +17742,8 @@
    },
    "source_url": "https://omsksocial.club/cryptorave.html",
    "video": {},
-   "also": []
+   "also": [],
+   "added": "2026-11-13"
   },
   {
    "id": "jonas-lund--culture-wars-xyz",
@@ -17547,7 +17787,8 @@
    ],
    "source_url": "https://jonaslund.com/works/culture-wars-xyz/",
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "christian-falsnaes--force",
@@ -17591,7 +17832,8 @@
    ],
    "source_url": "https://www.christianfalsnaes.com/force/",
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-11-13"
   },
   {
    "id": "terra0--flowertokens",
@@ -17641,7 +17883,8 @@
    "source_url": "https://flowertokens.terra0.org",
    "contract_url": "https://etherscan.io/address/0x1B0AebafEB9452C7ABBDa0B920bB1a272182AaCB",
    "code_url": "https://github.com/terra0project/source/tree/min_dapp/ERC721",
-   "video": {}
+   "video": {},
+   "added": "2026-09-28"
   },
   {
    "id": "kevin-abosch--forever-rose",
@@ -17679,7 +17922,8 @@
    ],
    "source_url": "https://www.crowdfundinsider.com/2018/02/128411-valentines-day-crypto-art-sells-1-million-gifto/",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "joel-simon--artbreeder",
@@ -17727,7 +17971,8 @@
     "symbient-life"
    ],
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "kevin-abosch--iama-coin",
@@ -17771,7 +18016,8 @@
     "https://kevinabosch.com/images/iamacoin_blood_1600.jpg",
     "https://kevinabosch.com/images/iamacoin_contract.jpg"
    ],
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "jonas-lund--jonas-lund-token",
@@ -17821,7 +18067,8 @@
    ],
    "source_url": "https://jlt.ltd/",
    "contract_url": "https://etherscan.io/address/0x6E146C41547826a939794d64d53dB22A99423d8c",
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "jonas-lund--operation-earnest-voice",
@@ -17860,7 +18107,8 @@
    "source_url": "https://jonaslund.com/works/operation-earnest-voice/",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "kevin-abosch--priceless",
@@ -17898,7 +18146,8 @@
    ],
    "source_url": "https://kevinabosch.com/priceless.html",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "terra0--premna-daemon",
@@ -17943,7 +18192,8 @@
    },
    "source_url": "https://terra0.medium.com/premna-daemon-an-introduction-via-a-history-of-autonomy-in-the-cryptosphere-3cee15e92fe2",
    "video": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "rhea-myers--schellingflags",
@@ -17980,7 +18230,8 @@
    ],
    "source_url": "https://rhea.art/schellingflags/",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "rhea-myers--secret-artwork",
@@ -18024,7 +18275,8 @@
     "thumbnail": "https://i.ytimg.com/vi/HLSOG5fWVow/maxresdefault.jpg",
     "embeddable": true
    },
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "william-entriken--su-squares",
@@ -18069,7 +18321,8 @@
    ],
    "source_url": "https://tenthousandsu.com",
    "contract_url": "https://etherscan.io/address/0xE9e3F9cfc1A64DFca53614a0182CFAD56c10624F",
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "ed-fornieles--the-group-a-temporary-autonomous-hotel",
@@ -18111,7 +18364,8 @@
    "source_url": "https://anti.athensbiennale.org/en/artist/ed-fornieles-studios-omsk-social-club-and-nina-runa-essendrop",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-11-23"
   },
   {
    "id": "ruth-catlow--artists-rethinking-the-blockchain",
@@ -18155,7 +18409,8 @@
    },
    "source_url": "https://www.furtherfield.org/artists-rethinking-blockchain/",
    "video": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "agnieszka-kurant--assembly-line",
@@ -18202,7 +18457,8 @@
     "venue": "SFMOMA Open Space, 5 March 2018 (text by Agnieszka Kurant)"
    },
    "source_url": "https://arts.mit.edu/assembly-line/",
-   "video": {}
+   "video": {},
+   "added": "2026-11-23"
   },
   {
    "id": "sarah-friend--clickmine",
@@ -18245,7 +18501,8 @@
    "paper": {},
    "collections": [
     "symbient-life"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "sarah-meyohas--cloud-of-petals",
@@ -18285,7 +18542,8 @@
    ],
    "source_url": "https://www.sarahmeyohas.com/cloud-of-petals",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-10-18"
   },
   {
    "id": "jonas-lund--critical-mass",
@@ -18324,7 +18582,8 @@
    "source_url": "https://jonaslund.com/works/critical-mass/",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "dapper-labs--cryptokitties",
@@ -18370,7 +18629,8 @@
    ],
    "source_url": "https://www.cryptokitties.co",
    "contract_url": "https://etherscan.io/address/0x06012c8cf97BEaD5deAe237070F9587f8E7A266d",
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "larva-labs--cryptopunks",
@@ -18417,7 +18677,8 @@
    ],
    "source_url": "https://www.larvalabs.com/cryptopunks",
    "contract_url": "https://etherscan.io/address/0xb47e3cd837dDF8e4c57F05d70Ab865de6e193BBB",
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "curio-cards--curio-cards",
@@ -18464,7 +18725,8 @@
    ],
    "source_url": "https://github.com/curiocards/vintage.curio.cards",
    "contract_url": "https://etherscan.io/address/0x73DA73EF3a6982109c4d5BDb0dB9dd3E3783f313",
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "furtherfield--daowo",
@@ -18514,7 +18776,8 @@
     "https://www.daowo.org/wp-content/uploads/2019/01/DAOWO_UK-Summit_Final.jpg"
    ],
    "source_url": "https://www.daowo.org/",
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "mitchell-f-chan--digital-zones",
@@ -18563,7 +18826,8 @@
    "contract_url": "https://etherscan.io/address/0x88ae96845e157558ef59e9ff90e766e22e480390",
    "code_url": "https://github.com/mitchellfchan/IKB",
    "video": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "rhea-myers--lottery-symbol",
@@ -18600,7 +18864,8 @@
    ],
    "source_url": "https://rhea.art/lottery-symbol/",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "josh-wardle--place",
@@ -18640,7 +18905,8 @@
    "source_url": "https://www.redditinc.com/blog/place-part-two",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "christian-falsnaes--stage",
@@ -18688,7 +18954,8 @@
     "https://images.squarespace-cdn.com/content/v1/59a43ac09f8dceb4db9b5d52/1505152888587-UAMT3GUFQQFROZBKOWX2/image-asset.jpeg"
    ],
    "source_url": "https://www.christianfalsnaes.com/stage/",
-   "paper": {}
+   "paper": {},
+   "added": "2026-11-23"
   },
   {
    "id": "andrey-petrov--thousand-ether-homepage",
@@ -18733,7 +19000,8 @@
    "contract_url": "https://etherscan.io/address/0xb5fe93ccfec708145d6278b0c71ce60aa75ef925",
    "code_url": "https://github.com/thousandetherhomepage/ketherhomepage",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-10-18"
   },
   {
    "id": "yoko-ono--add-colour-refugee-boat",
@@ -18774,7 +19042,8 @@
    ],
    "source_url": "https://www.tate.org.uk/whats-on/tate-modern/yoko-ono/exhibition-guide",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "rhea-myers--democratic-palette",
@@ -18811,7 +19080,8 @@
    ],
    "source_url": "https://rhea.art/democratic-palette/",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "olafur-eliasson--green-light",
@@ -18860,7 +19130,8 @@
     "https://www.designboom.com/twitterimages/uploads/2016/05/olafur-eliasson-TBA21-green-light-workshop-designboom-01-818x545.jpg"
    ],
    "source_url": "https://olafureliasson.net/greenlight/",
-   "paper": {}
+   "paper": {},
+   "added": "2026-11-13"
   },
   {
    "id": "jonas-lund--open-call-club",
@@ -18902,7 +19173,8 @@
    ],
    "source_url": "https://jonaslund.com/works/open-call-club/",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-10-18"
   },
   {
    "id": "ken-erwin--pixelmap",
@@ -18946,7 +19218,8 @@
    "contract_url": "https://etherscan.io/address/0x015a06a433353f8db634df4eddf0c109882a15ab",
    "code_url": "https://github.com/Pixel-Map/pixelmap.io/blob/main/contracts/PixelMap.sol",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-10-18"
   },
   {
    "id": "agnieszka-kurant--production-line",
@@ -18989,7 +19262,8 @@
    ],
    "source_url": "https://johnmenick.com/art/production-line.html",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-11-23"
   },
   {
    "id": "sarah-friend--protective-rituals",
@@ -19032,7 +19306,8 @@
    ],
    "source_url": "https://isthisa.com/protectiverituals",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-10-18"
   },
   {
    "id": "joe-looney--rare-pepe-wallet",
@@ -19073,7 +19348,8 @@
    },
    "source_url": "https://rarepepewallet.com",
    "images": [],
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "rare-pepe-directory--rare-pepes",
@@ -19119,7 +19395,8 @@
     "https://rarepepedirectory.com/wp-content/uploads/2016/10/thegodpepe.jpg",
     "https://rarepepedirectory.com/wp-content/uploads/2016/09/magic-template.jpg"
    ],
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "peter-porobov--million-ether-homepage",
@@ -19161,7 +19438,8 @@
    "source_url": "https://million-ether-homepage.readthedocs.io/en/latest/whitepaper.html",
    "contract_url": "https://etherscan.io/address/0xCEf41878Db032586C835eE0890484399402A64f6",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "terra0--self-owning-forest",
@@ -19219,7 +19497,8 @@
    "code_url": "https://github.com/terra0project",
    "collections": [
     "symbient-life"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "jeremy-deller--were-here-because-were-here",
@@ -19265,7 +19544,8 @@
    ],
    "source_url": "https://becausewearehere.co.uk/",
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "christian-falsnaes--a-good-reason-is-one-that-looks-like-one",
@@ -19307,7 +19587,8 @@
    ],
    "source_url": "https://www.christianfalsnaes.com/agoodreasonisonethatlookslikeone/",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-11-23"
   },
   {
    "id": "sarah-meyohas--bitchcoin",
@@ -19347,7 +19628,8 @@
    ],
    "source_url": "https://www.sarahmeyohas.com/bitchcoin",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "cyrus-adkisson--etheria",
@@ -19393,7 +19675,8 @@
    ],
    "source_url": "https://etheria.world/faq.html",
    "code_url": "https://github.com/cyrusadkisson/etheria_source",
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "kyle-mcdonald--exhausting-a-crowd",
@@ -19432,7 +19715,8 @@
    "code_url": "https://github.com/kylemcdonald/ExhaustingACrowd",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "aram-bartholl--keepalive",
@@ -19472,7 +19756,8 @@
    "source_url": "https://arambartholl.com/keepalive/",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "geert-lovink--moneylab-reader",
@@ -19516,7 +19801,8 @@
    },
    "source_url": "https://networkcultures.org/blog/publication/moneylab-reader-an-intervention-in-digital-economy/",
    "video": {},
-   "also": []
+   "also": [],
+   "added": "2026-10-18"
   },
   {
    "id": "primavera-de-filippi--plantoid",
@@ -19572,7 +19858,8 @@
    "collections": [
     "strange-rules",
     "symbient-life"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "scarab-experiment--scarab",
@@ -19616,7 +19903,8 @@
    "source_url": "https://www.thescarabexperiment.org/faq1.html",
    "contract_url": "https://tokenscan.io/asset/SCARAB",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-10-18"
   },
   {
    "id": "jonas-lund--strings-attached",
@@ -19656,7 +19944,8 @@
    "source_url": "https://jonaslund.com/works/strings-attached/",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "coin-artist--torched-h34r7s",
@@ -19699,7 +19988,8 @@
    ],
    "source_url": "https://www.vice.com/en/article/kzpqzz/heres-the-solution-to-the-3-year-old-dollar50000-bitcoin-puzzle",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-10-18"
   },
   {
    "id": "josh-wardle--the-button",
@@ -19738,7 +20028,8 @@
    "source_url": "https://en.wikipedia.org/wiki/The_Button_(Reddit)",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "agnieszka-kurant--the-end-of-signature",
@@ -19793,7 +20084,8 @@
     "title": "At the Intersection of Deep Learning and Conceptual Art: The End of Signature",
     "venue": "arXiv, 2022 (Shanmugam, Lewis, Gonzalez-Ortiz, Kurant, Guttag)"
    },
-   "source_url": "https://listart.mit.edu/art-artists/end-signature-2021"
+   "source_url": "https://listart.mit.edu/art-artists/end-signature-2021",
+   "added": "2026-11-23"
   },
   {
    "id": "hans-haacke--world-poll",
@@ -19836,7 +20128,8 @@
    ],
    "source_url": "https://artsandculture.google.com/asset/world-poll-hans-haacke/SwHLs2M0_W0CJQ",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-11-13"
   },
   {
    "id": "marina-abramovic--512-hours",
@@ -19876,7 +20169,8 @@
    "source_url": "https://www.serpentinegalleries.org/whats-on/marina-abramovic-512-hours/",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-10-18"
   },
   {
    "id": "rhea-myers--art-is",
@@ -19912,7 +20206,8 @@
    ],
    "source_url": "https://rhea.art/art-is/",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "eva-and-franco-mattes--befnoed",
@@ -19954,7 +20249,8 @@
    ],
    "source_url": "https://0100101110101101.org/befnoed/",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "joel-simon--fb-graffiti",
@@ -19997,7 +20293,8 @@
    ],
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "jonas-lund--flip-city",
@@ -20037,7 +20334,8 @@
    "source_url": "https://jonaslund.com/works/flip-city/",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "christian-falsnaes--front",
@@ -20079,7 +20377,8 @@
    ],
    "source_url": "https://www.christianfalsnaes.com/front/",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-11-13"
   },
   {
    "id": "rhea-myers--is-art",
@@ -20123,7 +20422,8 @@
     "thumbnail": "https://i.ytimg.com/vi/RfgZ8DhWg8Y/maxresdefault.jpg",
     "embeddable": true
    },
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "kevin-mccoy--monegraph",
@@ -20166,7 +20466,8 @@
    },
    "source_url": "https://web.archive.org/web/20141218051740/http://monegraph.com/",
    "images": [],
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "kevin-mccoy--quantum",
@@ -20205,7 +20506,8 @@
    ],
    "source_url": "https://www.sothebys.com/en/buy/auction/2021/natively-digital-a-curated-nft-sale-2/quantum",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "christian-falsnaes--rise",
@@ -20247,7 +20549,8 @@
    ],
    "source_url": "https://www.christianfalsnaes.com/rise/",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-11-23"
   },
   {
    "id": "coin-artist--dark-wallet-puzzle",
@@ -20288,7 +20591,8 @@
    ],
    "source_url": "https://bitcoinmagazine.com/culture/coin-artists-latest-dark-wallet-puzzle-32-page-solution",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-11-13"
   },
   {
    "id": "twitch-plays-pokemon-streamer--twitch-plays-pokemon",
@@ -20327,7 +20631,8 @@
    "source_url": "https://en.wikipedia.org/wiki/Twitch_Plays_Pok%C3%A9mon",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "janet-echelman--unnumbered-sparks",
@@ -20367,7 +20672,8 @@
    "source_url": "https://www.aaronkoblin.com/project/unnumbered-sparks/",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "kyle-mcdonald--who-pays-artists",
@@ -20409,7 +20715,8 @@
    "source_url": "https://whopaysartists.com/",
    "code_url": "https://github.com/kylemcdonald/whopaysartists/",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-10-18"
   },
   {
    "id": "david-harris-smith--hitchbot",
@@ -20456,7 +20763,8 @@
     "title": "The Death and Lives of hitchBOT: The Design and Implementation of a Hitchhiking Robot"
    },
    "source_url": "https://en.wikipedia.org/wiki/HitchBOT",
-   "video": {}
+   "video": {},
+   "added": "2026-10-18"
   },
   {
    "id": "suzanne-lacy--between-the-door-and-the-street",
@@ -20496,7 +20804,8 @@
    "source_url": "https://www.suzannelacy.com/between-the-door-and-the-street/",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-10-18"
   },
   {
    "id": "thomas-hirschhorn--gramsci-monument",
@@ -20541,7 +20850,8 @@
    ],
    "source_url": "https://www.diaart.org/program/exhibitions-projects/thomas-hirschhorn-gramsci-monument-project",
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "david-horvitz--let-us-keep-our-own-noon",
@@ -20583,7 +20893,8 @@
    ],
    "source_url": "https://www.listasafn.is/en/art/exhibitions/david-horvitz/",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "darius-kazemi--nanogenmo",
@@ -20625,7 +20936,8 @@
    "source_url": "https://github.com/dariusk/NaNoGenMo",
    "code_url": "https://github.com/dariusk/NaNoGenMo",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "nick-thurston--of-the-subcontract",
@@ -20667,7 +20979,8 @@
    },
    "source_url": "http://www.informationasmaterial.org/portfolio/of-the-subcontract-or-principles-of-poetic-right/",
    "video": {},
-   "also": []
+   "also": [],
+   "added": "2026-10-18"
   },
   {
    "id": "rimini-protokoll--remote-x",
@@ -20715,7 +21028,8 @@
     "https://www.rimini-protokoll.de/website/cache/images/media/remotex/1280-RemoteTaipei%C2%A9Lafun%20Photography_3%20copy%201.jpg"
    ],
    "source_url": "https://www.rimini-protokoll.de/website/en/project/remote-x",
-   "paper": {}
+   "paper": {},
+   "added": "2026-11-13"
   },
   {
    "id": "suzanne-lacy--silver-action",
@@ -20756,7 +21070,8 @@
    "source_url": "https://www.suzannelacy.com/silver-action/",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-10-18"
   },
   {
    "id": "rimini-protokoll--situation-rooms",
@@ -20804,7 +21119,8 @@
     "https://www.rimini-protokoll.de/website/cache/images/media/situationrooms/pressebilder/1280-RT_SituationRooms_643.jpg"
    ],
    "source_url": "https://www.rimini-protokoll.de/website/en/project/situation-rooms",
-   "paper": {}
+   "paper": {},
+   "added": "2026-11-13"
   },
   {
    "id": "jonas-lund--social-turk",
@@ -20842,7 +21158,8 @@
    "source_url": "https://jonaslund.com/works/social-turk/",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "lauren-lee-mccarthy--social-turkers",
@@ -20883,7 +21200,8 @@
    ],
    "source_url": "https://lauren-mccarthy.com/Social-Turkers",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "lee-mingwei--sonic-blossom",
@@ -20929,7 +21247,8 @@
    ],
    "source_url": "https://www.metmuseum.org/perspectives/lee-mingwei-sonic-blossom",
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-11-13"
   },
   {
    "id": "tom-finkelpearl--what-we-made",
@@ -20974,7 +21293,8 @@
     "title": "What We Made: Conversations on Art and Social Cooperation"
    },
    "source_url": "https://www.dukeupress.edu/what-we-made",
-   "video": {}
+   "video": {},
+   "added": "2026-10-18"
   },
   {
    "id": "hans-ulrich-obrist--do-it-compendium",
@@ -21020,7 +21340,8 @@
     "title": "do it: the compendium"
    },
    "source_url": "https://www.artbook.com/9781938922015.html",
-   "video": {}
+   "video": {},
+   "added": "2026-09-28"
   },
   {
    "id": "claire-bishop--artificial-hells",
@@ -21062,7 +21383,8 @@
    },
    "source_url": "https://www.versobooks.com/products/2251-artificial-hells",
    "video": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "superflex--superkilen",
@@ -21101,7 +21423,8 @@
    "source_url": "https://superflex.net/works/superkilen",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "marina-abramovic--abramovic-method",
@@ -21144,7 +21467,8 @@
    ],
    "source_url": "https://mai.art/the-abramovic-method",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-10-18"
   },
   {
    "id": "tino-sehgal--these-associations",
@@ -21184,7 +21508,8 @@
    "source_url": "https://en.wikipedia.org/wiki/Tino_Sehgal",
    "video": {},
    "images": [],
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "aaron-koblin--this-exquisite-forest",
@@ -21232,7 +21557,8 @@
     "https://www.aaronkoblin.com/wp-content/uploads/2015/08/tef-01.jpg"
    ],
    "source_url": "https://www.aaronkoblin.com/project/this-exquisite-forest/",
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "ed-fornieles--dorm-daze",
@@ -21279,7 +21605,8 @@
     "venue": "Rhizome, 2 April 2012 (interview by Joanne McNeil)"
    },
    "source_url": "https://hyperallergic.com/a-three-month-college-sitcom-on-facebook",
-   "video": {}
+   "video": {},
+   "added": "2026-11-23"
   },
   {
    "id": "pablo-helguera--education-for-socially-engaged-art",
@@ -21323,7 +21650,8 @@
     "title": "Education for Socially Engaged Art: A Materials and Techniques Handbook"
    },
    "source_url": "https://openlibrary.org/works/OL17404616W",
-   "video": {}
+   "video": {},
+   "added": "2026-10-18"
   },
   {
    "id": "tania-bruguera--immigrant-movement-international",
@@ -21365,7 +21693,8 @@
    "source_url": "https://queensmuseum.org/program/immigrant-movement-international-2/",
    "images": [],
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "rhea-myers--shareable-readymades",
@@ -21408,7 +21737,8 @@
    ],
    "source_url": "https://rhea.art/shareable-readymades/",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "shannon-jackson--social-works",
@@ -21454,7 +21784,8 @@
     "title": "Social Works: Performing Art, Supporting Publics"
    },
    "source_url": "https://www.routledge.com/Social-Works-Performing-Art-Supporting-Publics/Jackson/p/book/9780415486019",
-   "video": {}
+   "video": {},
+   "added": "2026-10-18"
   },
   {
    "id": "superflex--2000-watt-society-contract",
@@ -21495,7 +21826,8 @@
    "source_url": "https://superflex.net/press/label/2000_watt_society_contract",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-10-18"
   },
   {
    "id": "christian-marclay--chalkboard",
@@ -21539,7 +21871,8 @@
    ],
    "source_url": "https://whitney.org/exhibitions/christian-marclay",
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-10-18"
   },
   {
    "id": "aram-bartholl--dead-drops",
@@ -21580,7 +21913,8 @@
    "source_url": "https://deaddrops.com/",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "superflex--free-sol-lewitt",
@@ -21621,7 +21955,8 @@
    ],
    "source_url": "https://superflex.net/works/free_sol_lewitt",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "paul-ramirez-jonas--key-to-the-city",
@@ -21666,7 +22001,8 @@
    ],
    "source_url": "https://creativetime.org/projects/key-to-the-city/",
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "kevin-macdonald--life-in-a-day",
@@ -21705,7 +22041,8 @@
    "source_url": "https://en.wikipedia.org/wiki/Life_in_a_Day_(2011_film)",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "aram-bartholl--speed-show",
@@ -21747,7 +22084,8 @@
    ],
    "source_url": "https://speedshow.net/about/",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "marina-abramovic--the-artist-is-present",
@@ -21787,7 +22125,8 @@
    "source_url": "https://www.moma.org/calendar/exhibitions/964",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "aaron-koblin--johnny-cash-project",
@@ -21833,7 +22172,8 @@
    ],
    "source_url": "https://www.aaronkoblin.com/project/johnny-cash-project/",
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "tino-sehgal--this-progress",
@@ -21875,7 +22215,8 @@
    "source_url": "https://www.guggenheim.org/exhibition/tino-sehgal",
    "images": [],
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "julieta-aranda--time-bank",
@@ -21917,7 +22258,8 @@
    ],
    "source_url": "https://www.e-flux.com/announcements/36461/time-bank/",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "eric-whitacre--virtual-choir",
@@ -21964,7 +22306,8 @@
     "https://ericwhitacre.com/wp-content/uploads/vc1.jpg"
    ],
    "source_url": "https://ericwhitacre.com/the-virtual-choir",
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "david-horvitz--241543903",
@@ -22005,7 +22348,8 @@
    ],
    "source_url": "https://en.wikipedia.org/wiki/David_Horvitz",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "caleb-larsen--a-tool-to-deceive-and-slaughter",
@@ -22047,7 +22391,8 @@
    ],
    "source_url": "https://visuall.net/2012/07/07/a-tool-to-deceive-and-slaughter-by-caleb-larsen/",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-10-18"
   },
   {
    "id": "aaron-koblin--bicycle-built-for-two-thousand",
@@ -22093,7 +22438,8 @@
    ],
    "source_url": "https://www.aaronkoblin.com/project/bicycle-built-for-two-thousand/",
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "jeremy-deller--procession",
@@ -22132,7 +22478,8 @@
    "source_url": "https://factoryinternational.org/whats-on/procession/",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-10-18"
   },
   {
    "id": "casey-pugh--star-wars-uncut",
@@ -22177,7 +22524,8 @@
    ],
    "source_url": "http://www.starwarsuncut.com/",
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "tania-bruguera--tatlins-whisper-6",
@@ -22223,7 +22571,8 @@
    ],
    "source_url": "https://www.guggenheim.org/artwork/33083",
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "lee-mingwei--the-mending-project",
@@ -22264,7 +22613,8 @@
    "source_url": "https://en.wikipedia.org/wiki/Lee_Mingwei",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-10-18"
   },
   {
    "id": "lee-mingwei--the-moving-garden",
@@ -22312,7 +22662,8 @@
     "https://content.ngv.vic.gov.au/col-images/api/EXHI039447/1280"
    ],
    "source_url": "https://www.ngv.vic.gov.au/essay/lee-mingwei-the-moving-garden-2009/",
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "kacie-kinzer--tweenbots",
@@ -22360,7 +22711,8 @@
     "http://www.tweenbots.com/img/elfBoyHelp.jpg"
    ],
    "source_url": "http://www.tweenbots.com/",
-   "paper": {}
+   "paper": {},
+   "added": "2026-11-13"
   },
   {
    "id": "scott-kildall--wikipedia-art",
@@ -22403,7 +22755,8 @@
    ],
    "source_url": "https://en.wikipedia.org/wiki/Scott_Kildall",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "rimini-protokoll--100-percent-city",
@@ -22453,7 +22806,8 @@
     "https://www.rimini-protokoll.de/website/cache/images/media/100prozentberlin/1280-DRAMA_HAU1_100ProzentBerlin_09.jpg"
    ],
    "source_url": "https://www.rimini-protokoll.de/website/en/project/100-prozent-berlin",
-   "paper": {}
+   "paper": {},
+   "added": "2026-11-13"
   },
   {
    "id": "francis-alys--dont-cross-the-bridge",
@@ -22495,7 +22849,8 @@
    "source_url": "https://francisalys.com/dont-cross-the-bridge-before-you-get-to-the-river/",
    "images": [],
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "improv-everywhere--frozen-grand-central",
@@ -22541,7 +22896,8 @@
     "https://improveverywhere.com/wp-content/uploads/2008/01/frozen_grand_central-copy.jpg"
    ],
    "source_url": "https://improveverywhere.com/2008/01/31/frozen-grand-central/",
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "sol-lewitt--wall-drawing-retrospective",
@@ -22591,7 +22947,8 @@
     "venue": "Cahiers d'Art Institute"
    },
    "source_url": "https://massmoca.org/sol-lewitt/",
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "tania-bruguera--tatlins-whisper-5",
@@ -22635,7 +22992,8 @@
    ],
    "source_url": "https://www.tate.org.uk/art/artworks/bruguera-tatlins-whisper-5-t12989",
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "aaron-koblin--ten-thousand-cents",
@@ -22681,7 +23039,8 @@
    ],
    "source_url": "http://www.tenthousandcents.com/",
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "rafael-lozano-hemmer--voz-alta",
@@ -22724,7 +23083,8 @@
    ],
    "source_url": "https://www.lozano-hemmer.com/voz_alta.php",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-11-13"
   },
   {
    "id": "ai-weiwei--fairytale",
@@ -22771,7 +23131,8 @@
     "https://slought.org/media/files/fairytale-3.jpg?w=828&h=485&c=1"
    ],
    "source_url": "https://slought.org/resources/fairytale_project",
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "perry-bard--man-with-a-movie-camera-global-remake",
@@ -22816,7 +23177,8 @@
    ],
    "source_url": "https://docubase.mit.edu/project/man-with-a-movie-camera-global-remake/",
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "roman-ondak--measuring-the-universe",
@@ -22857,7 +23219,8 @@
    ],
    "source_url": "https://www.tate.org.uk/research/publications/performance-at-tate/case-studies/roman-ondak-measuring-universe",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "kenneth-o-stanley--picbreeder",
@@ -22906,7 +23269,8 @@
     "strange-rules"
    ],
    "video": {},
-   "also": []
+   "also": [],
+   "added": "2026-10-18"
   },
   {
    "id": "blast-theory--rider-spoke",
@@ -22956,7 +23320,8 @@
     "https://www.blasttheory.co.uk/wp-content/uploads/2013/02/rs_secondary-625x450.jpg"
    ],
    "source_url": "https://www.blasttheory.co.uk/projects/rider-spoke/",
-   "paper": {}
+   "paper": {},
+   "added": "2026-11-23"
   },
   {
    "id": "christian-marclay--shuffle",
@@ -22994,7 +23359,8 @@
    "source_url": "https://aperture.org/shop/shuffle/",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-10-18"
   },
   {
    "id": "alexander-galloway--the-exploit",
@@ -23037,7 +23403,8 @@
    },
    "source_url": "https://www.upress.umn.edu/book-division/books/the-exploit",
    "video": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "francis-alys--bridge-puente",
@@ -23079,7 +23446,8 @@
    "source_url": "https://francisalys.com/bridge-puente/",
    "images": [],
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "blast-theory--day-of-the-figurines",
@@ -23128,7 +23496,8 @@
     "https://www.blasttheory.co.uk/wp-content/uploads/2013/02/dotf_secondary-625x450.jpg"
    ],
    "source_url": "https://www.blasttheory.co.uk/projects/day-of-the-figurines/",
-   "paper": {}
+   "paper": {},
+   "added": "2026-11-13"
   },
   {
    "id": "claire-bishop--participation",
@@ -23170,7 +23539,8 @@
    },
    "source_url": "https://shop.whitechapelgallery.org/products/participation",
    "video": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "rafael-lozano-hemmer--pulse-room",
@@ -23215,7 +23585,8 @@
    ],
    "source_url": "https://www.lozano-hemmer.com/pulse_room.php",
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-10-18"
   },
   {
    "id": "aaron-koblin--the-sheep-market",
@@ -23261,7 +23632,8 @@
    ],
    "source_url": "https://www.aaronkoblin.com/project/the-sheep-market/",
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "carey-young--declared-void",
@@ -23304,7 +23676,8 @@
    ],
    "source_url": "https://www.careyyoung.com/declared-void",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-10-18"
   },
   {
    "id": "peter-edmunds--swarmsketch",
@@ -23347,7 +23720,8 @@
    },
    "source_url": "http://web.archive.org/web/20080110101609/http://swarmsketch.com:80/",
    "video": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "alex-tew--million-dollar-homepage",
@@ -23386,7 +23760,8 @@
    "source_url": "http://www.milliondollarhomepage.com/",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "olafur-eliasson--the-collectivity-project",
@@ -23427,7 +23802,8 @@
    ],
    "source_url": "https://olafureliasson.net/artwork/the-collectivity-project-2005/",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-10-18"
   },
   {
    "id": "florian-cramer--words-made-flesh",
@@ -23469,7 +23845,8 @@
    },
    "source_url": "https://www.netzliteratur.net/cramer/wordsmadefleshpdf.pdf",
    "video": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "francis-alys--barrenderos",
@@ -23511,7 +23888,8 @@
    "source_url": "https://francisalys.com/barrenderos/",
    "images": [],
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "grant-kester--conversation-pieces",
@@ -23553,7 +23931,8 @@
    },
    "source_url": "https://www.ucpress.edu/books/conversation-pieces/paper",
    "video": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "superflex--free-beer",
@@ -23595,7 +23974,8 @@
    ],
    "source_url": "https://superflex.net/works/free_beer",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "francis-alys--guards",
@@ -23640,7 +24020,8 @@
    ],
    "source_url": "https://www.artangel.org.uk/artwork/guards/",
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "yoko-ono--my-mummy-was-beautiful",
@@ -23679,7 +24060,8 @@
    "source_url": "https://www.tate.org.uk/tate-etc/issue-44-autumn-2018/archive-yoko-ono-mothers-daisy-johnson",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-10-18"
   },
   {
    "id": "alexander-galloway--protocol",
@@ -23722,7 +24104,8 @@
    },
    "source_url": "https://direct.mit.edu/books/book/2528/ProtocolHow-Control-Exists-after-Decentralization",
    "video": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "improv-everywhere--mp3-experiment",
@@ -23770,7 +24153,8 @@
     "https://improveverywhere.com/wp-content/uploads/2008/12/2014_09_20-MP3-11_0533-1024x576.jpg"
    ],
    "source_url": "https://improveverywhere.com/missions/the-mp3-experiments/",
-   "paper": {}
+   "paper": {},
+   "added": "2026-11-13"
   },
   {
    "id": "sol-lewitt--wall-drawing-1136",
@@ -23808,7 +24192,8 @@
    "source_url": "https://www.tate.org.uk/art/artworks/lewitt-wall-drawing-1136-ar00165",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "rafael-lozano-hemmer--amodal-suspension",
@@ -23853,7 +24238,8 @@
    ],
    "source_url": "https://www.lozano-hemmer.com/amodal_suspension.php",
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-10-18"
   },
   {
    "id": "jonah-brucker-cohen--bumplist",
@@ -23899,7 +24285,8 @@
     "title": "BumpList: Developing Beneficial Email List Structures"
    },
    "source_url": "https://whitney.org/exhibitions/jonah-brucker-cohen",
-   "video": {}
+   "video": {},
+   "added": "2026-09-28"
   },
   {
    "id": "superflex--free-shop",
@@ -23941,7 +24328,8 @@
    "source_url": "https://superflex.net/works/free_shop",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-10-18"
   },
   {
    "id": "superflex--guarana-power",
@@ -23981,7 +24369,8 @@
    "source_url": "https://superflex.net/works/guarana_power",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "bill-wasik--mob-project",
@@ -24029,7 +24418,8 @@
     "title": "My Crowd, or, Phase 5: A report from the inventor of the flash mob"
    },
    "source_url": "https://harpers.org/archive/2006/03/my-crowd/",
-   "video": {}
+   "video": {},
+   "added": "2026-10-18"
   },
   {
    "id": "blast-theory--uncle-roy-all-around-you",
@@ -24078,7 +24468,8 @@
     "https://www.blasttheory.co.uk/wp-content/uploads/2013/02/uraay_secondary-625x450.jpg"
    ],
    "source_url": "https://www.blasttheory.co.uk/projects/uncle-roy-all-around-you/",
-   "paper": {}
+   "paper": {},
+   "added": "2026-11-13"
   },
   {
    "id": "santiago-sierra--wall-enclosing-a-space",
@@ -24117,7 +24508,8 @@
    "source_url": "https://www.santiago-sierra.com/200303_1024.php",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-10-18"
   },
   {
    "id": "francis-alys--when-faith-moves-mountains",
@@ -24162,7 +24554,8 @@
    ],
    "source_url": "https://www.guggenheim.org/artwork/11412",
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "tino-sehgal--kiss",
@@ -24207,7 +24600,8 @@
    },
    "source_url": "https://en.wikipedia.org/wiki/Tino_Sehgal",
    "images": [],
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "miranda-july--learning-to-love-you-more",
@@ -24248,7 +24642,8 @@
    ],
    "source_url": "http://www.learningtoloveyoumore.com/",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "maria-eichhorn--aktiengesellschaft",
@@ -24294,7 +24689,8 @@
     "title": "Maria Eichhorn: Aktiengesellschaft"
    },
    "source_url": "https://booksat.net/maria-eichhorn-aktiengesellschaft-2/",
-   "video": {}
+   "video": {},
+   "added": "2026-10-18"
   },
   {
    "id": "francis-alys--the-modern-procession",
@@ -24338,7 +24734,8 @@
    ],
    "source_url": "https://www.publicartfund.org/exhibitions/view/the-modern-procession/",
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "mark-napier--net-flag",
@@ -24377,7 +24774,8 @@
    "source_url": "https://www.guggenheim.org/artwork/10703",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "santiago-sierra--133-persons-hair-dyed-blond",
@@ -24418,7 +24816,8 @@
    "source_url": "https://www.santiago-sierra.com/200103_1024.php",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-10-18"
   },
   {
    "id": "rafael-lozano-hemmer--body-movies",
@@ -24463,7 +24862,8 @@
    ],
    "source_url": "https://www.lozano-hemmer.com/body_movies.php",
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-10-18"
   },
   {
    "id": "blast-theory--can-you-see-me-now",
@@ -24510,7 +24910,8 @@
     "https://www.blasttheory.co.uk/wp-content/uploads/2013/02/project_cysmn_secondary-625x450.jpg"
    ],
    "source_url": "https://www.blasttheory.co.uk/projects/can-you-see-me-now/",
-   "paper": {}
+   "paper": {},
+   "added": "2026-10-18"
   },
   {
    "id": "john-cage--organ-aslsp-halberstadt",
@@ -24556,7 +24957,8 @@
    ],
    "source_url": "https://en.wikipedia.org/wiki/As_Slow_as_Possible",
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "ken-goldberg--tele-actor",
@@ -24598,7 +25000,8 @@
    },
    "source_url": "http://teleactor.berkeley.edu/",
    "video": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "jeremy-deller--the-battle-of-orgreave",
@@ -24637,7 +25040,8 @@
    "source_url": "https://www.artangel.org.uk/project/the-battle-of-orgreave/",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "hans-haacke--der-bevoelkerung",
@@ -24677,7 +25081,8 @@
    "source_url": "https://de.wikipedia.org/wiki/Der_Bev%C3%B6lkerung",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-10-18"
   },
   {
    "id": "olia-lialina--last-real-net-art-museum",
@@ -24715,7 +25120,8 @@
    "source_url": "https://mbcbftw.museum/collection.html",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "ken-goldberg--ouija-2000",
@@ -24754,7 +25160,8 @@
    "source_url": "https://goldberg.berkeley.edu/art/ouija/",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "santiago-sierra--250-cm-line-tattooed",
@@ -24794,7 +25201,8 @@
    "source_url": "https://sammlung.staedelmuseum.de/en/work/250-cm-line-tattooed-on-6-paid-people-espacio-aglutinador",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "rafael-lozano-hemmer--vectorial-elevation",
@@ -24840,7 +25248,8 @@
     "https://www.lozano-hemmer.com/image_sets/vectorial_elevation/mexico_2000/vectorialelevation_mexico_01.jpg"
    ],
    "source_url": "https://www.lozano-hemmer.com/vectorial_elevation.php",
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "nicolas-bourriaud--relational-aesthetics",
@@ -24883,7 +25292,8 @@
    },
    "source_url": "https://www.lespressesdureel.com/EN/ouvrage.php?id=12762&menu=0",
    "video": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "lee-mingwei--the-letter-writing-project",
@@ -24922,7 +25332,8 @@
    "source_url": "https://fabricworkshopandmuseum.org/?p=308",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-11-13"
   },
   {
    "id": "alexei-shulgin--desktop-is",
@@ -24962,7 +25373,8 @@
    "source_url": "http://www.easylife.org/desktop/",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-10-18"
   },
   {
    "id": "erwin-wurm--one-minute-sculptures",
@@ -25002,7 +25414,8 @@
    "source_url": "https://www.tate.org.uk/visit/tate-modern/display/performer-and-participant/erwin-wurm",
    "also": [],
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "christian-marclay--graffiti-composition",
@@ -25042,7 +25455,8 @@
    "source_url": "https://www.moma.org/collection/works/87778",
    "also": [],
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "eduardo-kac--teleporting-an-unknown-state",
@@ -25093,7 +25507,8 @@
     "venue": "SIGGRAPH '96 Visual Proceedings",
     "title": "Teleporting an unknown state"
    },
-   "source_url": "https://www.ekac.org/teleporting.html"
+   "source_url": "https://www.ekac.org/teleporting.html",
+   "added": "2026-09-28"
   },
   {
    "id": "yoko-ono--wish-tree",
@@ -25136,7 +25551,8 @@
    ],
    "source_url": "https://en.wikipedia.org/wiki/Wish_Tree_for_Washington,_DC",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "stelarc--fractal-flesh",
@@ -25175,7 +25591,8 @@
    "source_url": "http://www.medienkunstnetz.de/works/fractal-flesh/",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-10-18"
   },
   {
    "id": "ken-goldberg--telegarden",
@@ -25218,7 +25635,8 @@
    ],
    "source_url": "https://goldberg.berkeley.edu/garden/Ars/",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "sol-lewitt--wall-drawing-797",
@@ -25259,7 +25677,8 @@
    ],
    "source_url": "https://massmoca.org/event/walldrawing797/",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "heath-bunting--kings-cross-phone-in",
@@ -25306,7 +25725,8 @@
     "https://live.staticflickr.com/2176/2524624568_087dfcc3bc_z.jpg"
    ],
    "source_url": "http://www.irational.org/cybercafe/xrel.html",
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "luther-blissett-project--luther-blissett",
@@ -25346,7 +25766,8 @@
    ],
    "source_url": "https://en.wikipedia.org/wiki/Luther_Blissett_(pseudonym)",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-10-18"
   },
   {
    "id": "antoni-muntadas--the-file-room",
@@ -25387,7 +25808,8 @@
    ],
    "source_url": "https://www.thefileroom.org/",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "ken-goldberg--mercury-project",
@@ -25430,7 +25852,8 @@
    },
    "source_url": "https://goldberg.berkeley.edu/art/",
    "video": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "suzanne-lacy--the-roof-is-on-fire",
@@ -25471,7 +25894,8 @@
    "source_url": "https://www.suzannelacy.com/the-oakland-projects/",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-10-18"
   },
   {
    "id": "douglas-davis--worlds-first-collaborative-sentence",
@@ -25513,7 +25937,8 @@
    ],
    "source_url": "https://whitney.org/artport/douglas-davis",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "knochenbank--knochengeld",
@@ -25554,7 +25979,8 @@
    "source_url": "https://digitalmcd.com/?p=5827",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-10-18"
   },
   {
    "id": "hans-ulrich-obrist--do-it",
@@ -25595,7 +26021,8 @@
    ],
    "source_url": "https://curatorsintl.org/exhibitions/18072-do-it-2013",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "gillian-wearing--signs",
@@ -25636,7 +26063,8 @@
    ],
    "source_url": "https://www.tate.org.uk/art/artworks/wearing-signs-that-say-what-you-want-them-to-say-and-not-signs-that-say-what-someone-else-66092",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "rirkrit-tiravanija--untitled-free",
@@ -25674,7 +26102,8 @@
    "source_url": "https://www.303gallery.com/gallery-exhibitions/rirkrit-tiravanija2",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "felix-gonzalez-torres--placebo",
@@ -25717,7 +26146,8 @@
    ],
    "source_url": "https://www.moma.org/collection/works/80932",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "felix-gonzalez-torres--portrait-of-ross-in-la",
@@ -25759,7 +26189,8 @@
    ],
    "source_url": "https://www.artic.edu/artworks/152961/untitled-portrait-of-ross-in-l-a",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "wolfgang-staehle--the-thing",
@@ -25801,7 +26232,8 @@
    ],
    "source_url": "https://the.thing.net/about/about.html",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "felix-gonzalez-torres--death-by-gun",
@@ -25843,7 +26275,8 @@
    ],
    "source_url": "https://www.felixgonzalez-torresfoundation.org/works/untitled-death-by-gun",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "benjamin-buchloh--aesthetic-of-administration",
@@ -25886,7 +26319,8 @@
    },
    "source_url": "https://doi.org/10.2307/778941",
    "video": {},
-   "images": []
+   "images": [],
+   "added": "2026-09-28"
   },
   {
    "id": "roy-ascott--telematic-embrace",
@@ -25932,7 +26366,8 @@
     "title": "Is There Love in the Telematic Embrace?"
    },
    "source_url": "https://doi.org/10.1080/00043249.1990.10792697",
-   "video": {}
+   "video": {},
+   "added": "2026-09-28"
   },
   {
    "id": "suzanne-lacy--the-crystal-quilt",
@@ -25972,7 +26407,8 @@
    "source_url": "https://www.walkerart.org/reader/suzanne-lacy-the-crystal-quilt-mothers-day-1987/",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "jsg-boggs--boggs-notes",
@@ -26011,7 +26447,8 @@
    "source_url": "https://en.wikipedia.org/wiki/J._S._G._Boggs",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "kit-galloway--electronic-cafe",
@@ -26051,7 +26488,8 @@
    "source_url": "https://ecafe.com/",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-10-18"
   },
   {
    "id": "suzanne-lacy--whisper-the-waves-the-wind",
@@ -26091,7 +26529,8 @@
    "source_url": "https://www.suzannelacy.com/whisper-the-waves-the-wind/",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-10-18"
   },
   {
    "id": "roy-ascott--la-plissure-du-texte",
@@ -26130,7 +26569,8 @@
    "source_url": "https://artelectronicmedia.com/en/artwork/la-plissure-du-texte/",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "joseph-beuys--7000-eichen",
@@ -26172,7 +26612,8 @@
    "source_url": "https://www.7000eichen.de/index.php?id=32",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "robert-adrian--the-world-in-24-hours",
@@ -26213,7 +26654,8 @@
    ],
    "source_url": "https://ars.electronica.art/outofthebox/en/24hours/",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "anna-halprin--planetary-dance",
@@ -26254,7 +26696,8 @@
    ],
    "source_url": "https://planetarydance.org/the-story/",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "kit-galloway--hole-in-space",
@@ -26303,7 +26746,8 @@
     "https://ecafe.com/getty/HIS/images/H110/02/081.gif"
    ],
    "source_url": "https://ecafe.com/getty/HIS/",
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "suzanne-lacy--international-dinner-party",
@@ -26344,7 +26788,8 @@
    "source_url": "https://www.suzannelacy.com/international-dinner-party/",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-10-18"
   },
   {
    "id": "mierle-laderman-ukeles--touch-sanitation",
@@ -26389,7 +26834,8 @@
    ],
    "source_url": "https://www.sanitationfoundation.org/blog/portrait-of-an-artist-mierle-laderman-ukeles",
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "ulises-carrion--eamis",
@@ -26430,7 +26876,8 @@
    "source_url": "https://dpul.princeton.edu/ulises_carrion/feature/postal-art-as-bureaucracy",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-10-18"
   },
   {
    "id": "guy-debord--game-of-war",
@@ -26471,7 +26918,8 @@
    ],
    "source_url": "https://www.r-s-g.org/kriegspiel/about.php",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "collective-actions--appearance",
@@ -26516,7 +26964,8 @@
    ],
    "source_url": "https://www.collectiveactionsgroup.org/en/aboutca",
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "mierle-laderman-ukeles--maintenance-art-one-hour",
@@ -26557,7 +27006,8 @@
    ],
    "source_url": "https://whitney.org/collection/works/56140",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "sol-lewitt--wall-drawing-289",
@@ -26595,7 +27045,8 @@
    "source_url": "https://massmoca.org/event/walldrawing289/",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "brian-eno--oblique-strategies",
@@ -26635,7 +27086,8 @@
    "source_url": "https://www.enoshop.co.uk/product/oblique-strategies.html",
    "also": [],
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "sol-lewitt--wall-drawing-260",
@@ -26673,7 +27125,8 @@
    "source_url": "https://www.moma.org/collection/works/79898",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "sol-lewitt--wall-drawing-273",
@@ -26711,7 +27164,8 @@
    "source_url": "https://www.sfmoma.org/artwork/FC.512/",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "clemente-padin--festival-de-la-postal-creativa",
@@ -26751,7 +27205,8 @@
    "source_url": "https://artpool.hu/MailArt/chrono/1984/Vigo.html",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-11-13"
   },
   {
    "id": "marina-abramovic--rhythm-0",
@@ -26794,7 +27249,8 @@
    "source_url": "https://en.wikipedia.org/wiki/Rhythm_0",
    "images": [],
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "lygia-clark--baba-antropofagica",
@@ -26839,7 +27295,8 @@
    ],
    "source_url": "https://portal.lygiaclark.org.br/en/archive/66151/anthropophagic-slobber-rj-2011",
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "allan-kaprow--routine",
@@ -26886,7 +27343,8 @@
    "video": {},
    "collections": [
     "the-scores-project"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "harold-cohen--aaron",
@@ -26938,7 +27396,8 @@
     "symbient-life"
    ],
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "joseph-beuys--direct-democracy-office",
@@ -26977,7 +27436,8 @@
    "source_url": "https://de.wikipedia.org/wiki/Organisation_f%C3%BCr_direkte_Demokratie_durch_Volksabstimmung",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "hans-haacke--john-weber-gallery-visitors-profile",
@@ -27021,7 +27481,8 @@
    },
    "source_url": "https://www.artforum.com/features/hans-haackes-gallery-visitors-profile-210295/",
    "video": {},
-   "also": []
+   "also": [],
+   "added": "2026-11-13"
   },
   {
    "id": "stephen-willats--west-london-social-resource-project",
@@ -27063,7 +27524,8 @@
    "source_url": "https://stephenwillats.com/work/west-london-social-resource-project/",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-10-18"
   },
   {
    "id": "allan-kaprow--scales",
@@ -27106,7 +27568,8 @@
    },
    "source_url": "https://www.tate.org.uk/research/publications/performance-at-tate/case-studies/allan-kaprow",
    "video": {},
-   "images": []
+   "images": [],
+   "added": "2026-10-18"
   },
   {
    "id": "pauline-oliveros--sonic-meditations",
@@ -27149,7 +27612,8 @@
    ],
    "source_url": "https://www.newyorker.com/culture/culture-desk/listening-as-activism-the-sonic-meditations-of-pauline-oliveros",
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "seth-siegelaub--artists-reserved-rights-agreement",
@@ -27193,7 +27657,8 @@
    },
    "source_url": "https://www.guggenheim.org/articles/findings/seth-siegelaubs-the-artists-reserved-rights-transfer-and-sale-agreement-french-version-2",
    "video": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "sol-lewitt--wall-drawing-118",
@@ -27233,7 +27698,8 @@
    "source_url": "https://www.artic.edu/artworks/196148/wall-drawing-118-50-randomly-placed-points-connected-by-straight-lines",
    "video": {},
    "images": [],
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "image-bank--image-request-lists",
@@ -27274,7 +27740,8 @@
    "source_url": "https://belkin.ubc.ca/?p=9480",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-10-18"
   },
   {
    "id": "cildo-meireles--insertions-into-ideological-circuits",
@@ -27315,7 +27782,8 @@
    ],
    "source_url": "https://www.tate.org.uk/art/artworks/meireles-insertions-into-ideological-circuits-coca-cola-project-t12328",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "hans-haacke--moma-poll",
@@ -27356,7 +27824,8 @@
    ],
    "source_url": "https://guernica.museoreinasofia.es/en/document/moma-poll",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "jack-burnham--software",
@@ -27398,7 +27867,8 @@
    },
    "source_url": "https://www.fondation-langlois.org/html/e/page.php?NumPage=541",
    "video": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "tom-marioni--act-of-drinking-beer",
@@ -27442,7 +27912,8 @@
    ],
    "source_url": "https://www.sfmoma.org/artwork/99.70.A-E/",
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "lucy-lippard--557087",
@@ -27486,7 +27957,8 @@
     "venue": "Afterall Books, Exhibition Histories (2012)"
    },
    "source_url": "https://www.thestranger.com/visual-art/dematerialized-16701362/",
-   "video": {}
+   "video": {},
+   "added": "2026-10-18"
   },
   {
    "id": "cornelius-cardew--scratch-orchestra",
@@ -27536,7 +28008,8 @@
     "title": "A Scratch Orchestra: Draft Constitution"
    },
    "source_url": "https://en.wikipedia.org/wiki/Scratch_Orchestra",
-   "images": []
+   "images": [],
+   "added": "2026-09-28"
   },
   {
    "id": "david-katzive--art-by-telephone",
@@ -27574,7 +28047,8 @@
    "source_url": "https://mcachicago.org/exhibitions/1969/art-by-telephone",
    "also": [],
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "john-baldessari--commissioned-paintings",
@@ -27613,7 +28087,8 @@
    "source_url": "https://spruethmagers.com/exhibitions/john-baldessari-the-commissioned-paintings-cologne/",
    "also": [],
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "frederic-rzewski--les-moutons-de-panurge",
@@ -27655,7 +28130,8 @@
    "source_url": "https://en.wikipedia.org/wiki/Frederic_Rzewski",
    "images": [],
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "jack-burnham--real-time-systems",
@@ -27699,7 +28175,8 @@
    },
    "source_url": "https://www.artforum.com/features/real-time-systems-210752/",
    "video": {},
-   "also": []
+   "also": [],
+   "added": "2026-10-18"
   },
   {
    "id": "sol-lewitt--sentences-on-conceptual-art",
@@ -27743,7 +28220,8 @@
     "title": "Sentences on Conceptual Art"
    },
    "source_url": "https://wiels.org/en/events/sol-lewitts-sentences-on-conceptual-art-manuscript-and-draft-material-1968-69",
-   "video": {}
+   "video": {},
+   "added": "2026-09-28"
   },
   {
    "id": "alison-knowles--identical-lunch",
@@ -27797,7 +28275,8 @@
    "also": [],
    "collections": [
     "the-scores-project"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "sol-lewitt--wall-drawing-11",
@@ -27835,7 +28314,8 @@
    "source_url": "https://massmoca.org/event/walldrawing11/",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "karlheinz-stockhausen--aus-den-sieben-tagen",
@@ -27876,7 +28356,8 @@
    "source_url": "https://en.wikipedia.org/wiki/Aus_den_sieben_Tagen",
    "images": [],
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "lygia-pape--divisor",
@@ -27917,7 +28398,8 @@
    ],
    "source_url": "https://hyperallergic.com/368222/channeling-lygia-papes-radical-relationship-to-space/",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-10-18"
   },
   {
    "id": "george-maciunas--flux-year-box-2",
@@ -27955,7 +28437,8 @@
    "source_url": "https://www.moma.org/interactives/exhibitions/2011/fluxus_editions/category_works/fluxyearbox2/index.html",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-10-18"
   },
   {
    "id": "lawrence-weiner--statements",
@@ -27998,7 +28481,8 @@
    },
    "source_url": "https://en.wikipedia.org/wiki/Lawrence_Weiner",
    "video": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "christian-wolff--stones",
@@ -28039,7 +28523,8 @@
    "source_url": "https://en.wikipedia.org/wiki/Christian_Wolff_(composer)",
    "images": [],
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "jack-burnham--systems-esthetics",
@@ -28081,7 +28566,8 @@
    },
    "source_url": "https://www.artforum.com/features/systems-esthetics-201372/",
    "video": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "valie-export--tapp-und-tastkino",
@@ -28125,7 +28611,8 @@
    ],
    "source_url": "https://foundation.generali.at/en/collection/artworks/gf0002080000-1999-tapp-und-tastkino",
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "robert-filliou--eternal-network",
@@ -28178,7 +28665,8 @@
     "venue": "Theory, Culture & Society",
     "url": "https://doi.org/10.1177/0263276418796563"
    },
-   "source_url": "https://ensembles.org/items/eternal-network"
+   "source_url": "https://ensembles.org/items/eternal-network",
+   "added": "2026-09-28"
   },
   {
    "id": "cornelius-cardew--the-great-learning",
@@ -28221,7 +28709,8 @@
    "source_url": "https://www.newmusicnewcollege.org/cardew.html",
    "images": [],
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "seth-siegelaub--the-xerox-book",
@@ -28264,7 +28753,8 @@
    },
    "source_url": "https://hyperallergic.com/240038/7-artists-25-pages-each-1-half-century-later-revisiting-the-xerox-book/",
    "video": {},
-   "also": []
+   "also": [],
+   "added": "2026-10-18"
   },
   {
    "id": "sol-lewitt--wall-drawing-1",
@@ -28306,7 +28796,8 @@
    },
    "source_url": "https://www.sfmoma.org/artwork/FC.474/",
    "video": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "allan-kaprow--fluids",
@@ -28347,7 +28838,8 @@
    ],
    "source_url": "https://www.lacma.org/art/exhibition/fluids-happening-allan-kaprow",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "john-cage--musicircus",
@@ -28391,7 +28883,8 @@
    },
    "source_url": "https://newmusicusa.org/nmbx/the-circus-of-life-as-music/",
    "images": [],
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "sol-lewitt--paragraphs-on-conceptual-art",
@@ -28435,7 +28928,8 @@
     "title": "Paragraphs on Conceptual Art"
    },
    "source_url": "https://www.artforum.com/features/paragraphs-on-conceptual-art-211354/",
-   "video": {}
+   "video": {},
+   "added": "2026-09-28"
   },
   {
    "id": "alison-knowles--house-of-dust",
@@ -28481,7 +28975,8 @@
     "venue": "Darling Foundry, Montreal (2017)"
    },
    "source_url": "https://fonderiedarling.org/en/THE-HOUSE-OF-DUST",
-   "video": {}
+   "video": {},
+   "added": "2026-10-18"
   },
   {
    "id": "cornelius-cardew--treatise",
@@ -28526,7 +29021,8 @@
    ],
    "source_url": "https://en.wikipedia.org/wiki/Treatise_(music)",
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "roy-ascott--behaviourist-art",
@@ -28573,7 +29069,8 @@
     "title": "Behaviourist Art and the Cybernetic Vision"
    },
    "source_url": "https://www.ucpress.edu/books/telematic-embrace/paper",
-   "video": {}
+   "video": {},
+   "added": "2026-10-18"
   },
   {
    "id": "yoko-ono--mend-piece",
@@ -28612,7 +29109,8 @@
    "source_url": "https://www.whitechapelgallery.org/exhibitions/yoko-ono-mend-piece-for-london/",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "yoko-ono--painting-to-hammer-a-nail",
@@ -28652,7 +29150,8 @@
    "source_url": "https://en.wikipedia.org/wiki/Yoko_Ono",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "yoko-ono--play-it-by-trust",
@@ -28691,7 +29190,8 @@
    "source_url": "https://www.mplus.org.hk/en/collection/objects/play-it-by-trust-2015571/",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-10-18"
   },
   {
    "id": "george-maciunas--fluxkit",
@@ -28735,7 +29235,8 @@
    ],
    "source_url": "https://www.moma.org/collection/works/126323",
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "joseph-kosuth--one-and-three-chairs",
@@ -28773,7 +29274,8 @@
    "source_url": "https://en.wikipedia.org/wiki/One_and_Three_Chairs",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-10-18"
   },
   {
    "id": "mieko-shiomi--spatial-poem",
@@ -28828,7 +29330,8 @@
    "source_url": "https://www.getty.edu/publications/scores/10/commentary/",
    "collections": [
     "the-scores-project"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "yoko-ono--cut-piece",
@@ -28875,7 +29378,8 @@
     "https://mayslesfilms.com/wp-content/uploads/2014/02/10-cut-piece.jpg"
    ],
    "source_url": "https://en.wikipedia.org/wiki/Cut_Piece_1964",
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "george-maciunas--fluxus-1",
@@ -28913,7 +29417,8 @@
    "source_url": "https://www.moma.org/interactives/exhibitions/2011/fluxus_editions/category_works/fluxus1/index.html",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-10-18"
   },
   {
    "id": "yoko-ono--grapefruit",
@@ -28956,7 +29461,8 @@
    },
    "source_url": "https://www.moma.org/collection/works/128103",
    "video": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "terry-riley--in-c",
@@ -29001,7 +29507,8 @@
    ],
    "source_url": "https://en.wikipedia.org/wiki/In_C",
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "helio-oiticica--parangole",
@@ -29041,7 +29548,8 @@
    "source_url": "https://mam.rio/historia/parangole-em-opiniao-65/",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "la-monte-young--an-anthology-of-chance-operations",
@@ -29089,7 +29597,8 @@
    "also": [],
    "collections": [
     "the-scores-project"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "robert-filliou--arts-birthday",
@@ -29134,7 +29643,8 @@
    },
    "source_url": "https://en.wikipedia.org/wiki/Robert_Filliou",
    "images": [],
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "lygia-clark--caminhando",
@@ -29180,7 +29690,8 @@
     "http://www.bauhaus-imaginista.org/images/20243.jpg?w=2000&h=2000"
    ],
    "source_url": "https://www.bauhaus-imaginista.org/articles/3822/walking-on-a-mobius-strip/",
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "allan-kaprow--push-and-pull",
@@ -29224,7 +29735,8 @@
    },
    "source_url": "http://www.medienkunstnetz.de/works/push-and-pull/",
    "images": [],
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "jackson-mac-low--three-social-projects",
@@ -29272,7 +29784,8 @@
    "collections": [
     "the-scores-project"
    ],
-   "video": {}
+   "video": {},
+   "added": "2026-10-18"
   },
   {
    "id": "george-brecht--water-yam",
@@ -29316,7 +29829,8 @@
    ],
    "source_url": "https://www.moma.org/collection/works/126322",
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "yvonne-rainer--we-shall-run",
@@ -29365,7 +29879,8 @@
    "collections": [
     "the-scores-project"
    ],
-   "video": {}
+   "video": {},
+   "added": "2026-10-18"
   },
   {
    "id": "alison-knowles--make-a-salad",
@@ -29412,7 +29927,8 @@
    "also": [],
    "collections": [
     "the-scores-project"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "dick-higgins--danger-music",
@@ -29450,7 +29966,8 @@
    "source_url": "https://www.e-flux.com/announcements/39238/fluxus-scores-and-instructions/",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-10-18"
   },
   {
    "id": "ray-johnson--new-york-correspondance-school",
@@ -29490,7 +30007,8 @@
    "source_url": "https://www.rayjohnsonestate.com/mail-art-ephemera",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "allan-kaprow--words",
@@ -29530,7 +30048,8 @@
    ],
    "source_url": "https://en.wikipedia.org/wiki/Smolin_Gallery",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-10-18"
   },
   {
    "id": "walter-de-maria--boxes-for-meaningless-work",
@@ -29569,7 +30088,8 @@
    "source_url": "https://brooklynrail.org/2023/03/artseen/Walter-De-Maria-Boxes-for-Meaningless-Work/",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-11-13"
   },
   {
    "id": "raymond-queneau--cent-mille-milliards-de-poemes",
@@ -29608,7 +30128,8 @@
    "source_url": "https://en.wikipedia.org/wiki/A_Hundred_Thousand_Billion_Poems",
    "also": [],
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "simone-forti--dance-constructions",
@@ -29654,7 +30175,8 @@
     "title": "Making the Museum Dance: Simone Forti's Huddle (1961) and its Acquisition by the Museum of Modern Art"
    },
    "source_url": "https://www.moma.org/collection/works/200115",
-   "video": {}
+   "video": {},
+   "added": "2026-09-28"
   },
   {
    "id": "yoko-ono--instruction-paintings",
@@ -29694,7 +30216,8 @@
    "source_url": "https://www.tate.org.uk/whats-on/tate-modern/yoko-ono/exhibition-guide",
    "video": {},
    "images": [],
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "takehisa-kosugi--micro-1",
@@ -29736,7 +30259,8 @@
    ],
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-10-18"
   },
   {
    "id": "allan-kaprow--yard",
@@ -29776,7 +30300,8 @@
    ],
    "source_url": "https://hepworthwakefield.org/whats-on/allan-kaprow-yard-19612014/",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "walter-de-maria--beach-crawl",
@@ -29823,7 +30348,8 @@
    "collections": [
     "the-scores-project"
    ],
-   "video": {}
+   "video": {},
+   "added": "2026-10-18"
   },
   {
    "id": "la-monte-young--compositions-1960",
@@ -29868,7 +30394,8 @@
    ],
    "source_url": "https://www.moma.org/collection/works/127631",
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "george-brecht--motor-vehicle-sundown",
@@ -29915,7 +30442,8 @@
    "also": [],
    "collections": [
     "the-scores-project"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "benjamin-patterson--paper-piece",
@@ -29967,7 +30495,8 @@
    "also": [],
    "collections": [
     "the-scores-project"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "allan-kaprow--18-happenings-in-6-parts",
@@ -30007,7 +30536,8 @@
    ],
    "source_url": "https://www.moma.org/collection/works/associatedworks/173008",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   },
   {
    "id": "george-brecht--drip-music",
@@ -30059,7 +30589,8 @@
    "also": [],
    "collections": [
     "the-scores-project"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "yves-klein--zones-of-immaterial-pictorial-sensibility",
@@ -30100,7 +30631,8 @@
    "source_url": "https://en.wikipedia.org/wiki/Zone_de_Sensibilit%C3%A9_Picturale_Immat%C3%A9rielle",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "john-cage--concert-for-piano-and-orchestra",
@@ -30152,7 +30684,8 @@
    "also": [],
    "collections": [
     "the-scores-project"
-   ]
+   ],
+   "added": "2026-09-28"
   },
   {
    "id": "guy-debord--derive",
@@ -30198,7 +30731,8 @@
     "venue": "Les Lèvres nues no. 9 (1956); Internationale situationniste no. 2 (1958)"
    },
    "source_url": "https://en.wikipedia.org/wiki/D%C3%A9rive",
-   "video": {}
+   "video": {},
+   "added": "2026-09-28"
   },
   {
    "id": "earle-brown--twenty-five-pages",
@@ -30238,7 +30772,8 @@
    "source_url": "https://earle-brown.org/?p=139",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-11-13"
   },
   {
    "id": "john-cage--4-33",
@@ -30283,7 +30818,8 @@
    ],
    "source_url": "https://en.wikipedia.org/wiki/4%E2%80%B233%E2%80%B3",
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "earle-brown--december-1952",
@@ -30325,7 +30861,8 @@
    ],
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-10-18"
   },
   {
    "id": "john-cage--imaginary-landscape-no-4",
@@ -30366,7 +30903,8 @@
    "source_url": "https://en.wikipedia.org/wiki/Imaginary_Landscape_No._4_(March_No._2)",
    "images": [],
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "marcel-duchamp--monte-carlo-bond",
@@ -30406,7 +30944,8 @@
    "source_url": "https://www.nmnm.mc/en/exhibitions/6716/",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "laszlo-moholy-nagy--telephone-pictures",
@@ -30444,7 +30983,8 @@
    "source_url": "https://www.moma.org/collection/works/147626",
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "added": "2026-09-28"
   },
   {
    "id": "marcel-duchamp--unhappy-readymade",
@@ -30486,7 +31026,8 @@
    ],
    "source_url": "https://philamuseum.org/collection/object/138592",
    "video": {},
-   "paper": {}
+   "paper": {},
+   "added": "2026-09-28"
   }
  ],
  "resources": {
@@ -31851,5 +32392,910 @@
     ]
    }
   ]
- }
+ },
+ "updates": [
+  {
+   "id": "pass5",
+   "date": "2026-11-23",
+   "title_en": "Autumn 2026 works and earlier works we had missed",
+   "title_zh": "2026 年秋季新作与补录作品",
+   "note_en": "Works first shown between September and November 2026 (Jack Butcher's Balance and Bars, Rimini Protokoll's Book a Scientist), five works by Steve Pikelny, four more contracts from the World Computer Sculpture Garden, and participatory works by Agnieszka Kurant, Christian Falsnaes, Ed Fornieles and others.",
+   "note_zh": "2026 年 9 月至 11 月首次公开的作品（Jack Butcher 的 Balance 与 Bars、Rimini Protokoll 的 Book a Scientist），Steve Pikelny 的五件作品，World Computer Sculpture Garden 的另外四件合约作品，以及 Agnieszka Kurant、Christian Falsnaes、Ed Fornieles 等人的参与式作品。",
+   "work_ids": [
+    "ivona-tau--11-05-world-feed",
+    "jack-butcher--balance",
+    "jack-butcher--bars",
+    "rimini-protokoll--book-a-scientist",
+    "lina-lapelyte--serendipity-island",
+    "rafael-lozano-hemmer--undercurrents",
+    "brian-droitcour--beautiful-rules",
+    "steve-pikelny--burnt-us-dollars",
+    "shin-hanagata--chimeria",
+    "luna-maurer--deep-soup",
+    "ontroerend-goed--handle-with-care",
+    "ling-tan--harvesting-climate-action",
+    "steve-pikelny--pyramid-game",
+    "rhea-myers--critique-of-this-show",
+    "steve-pikelny--etf",
+    "0xhaiku--echoes",
+    "steve-pikelny--predict-the-number",
+    "sarah-friend--yesbot",
+    "figure31--dear-god-layer-of-roads-travelers",
+    "misha-de-ridder--glitch",
+    "james-bloom--gold",
+    "steve-pikelny--money-making-opportunity",
+    "agnes-cameron--sentences",
+    "figure31--mark",
+    "christian-falsnaes--feast",
+    "tommy-hartung--the-old-testament",
+    "ed-fornieles--the-group-a-temporary-autonomous-hotel",
+    "agnieszka-kurant--assembly-line",
+    "christian-falsnaes--stage",
+    "agnieszka-kurant--production-line",
+    "christian-falsnaes--a-good-reason-is-one-that-looks-like-one",
+    "agnieszka-kurant--the-end-of-signature",
+    "christian-falsnaes--rise",
+    "ed-fornieles--dorm-daze",
+    "blast-theory--rider-spoke"
+   ],
+   "creator_ids": [
+    "0xhaiku",
+    "agnes-cameron",
+    "agnieszka-kurant",
+    "ivona-tau",
+    "james-bloom",
+    "john-menick",
+    "lina-lapelyte",
+    "ling-tan",
+    "luna-maurer",
+    "manus-nijhoff",
+    "misha-de-ridder",
+    "ontroerend-goed",
+    "roel-wouters",
+    "shin-hanagata",
+    "steve-pikelny",
+    "tommy-hartung"
+   ]
+  },
+  {
+   "id": "pass4",
+   "date": "2026-11-13",
+   "title_en": "2026 works and earlier additions",
+   "title_zh": "2026 年作品与补录",
+   "note_en": "0xfff's Transaction Sculptures, more works by Figure31, dmstfctn, Rimini Protokoll and Blast Theory, older works by Hans Haacke, Lee Mingwei and Yvonne Rainer, and four theory texts from 2025–26.",
+   "note_zh": "0xfff 的 Transaction Sculptures，Figure31、dmstfctn、Rimini Protokoll 与 Blast Theory 的更多作品，Hans Haacke、李明维、Yvonne Rainer 的早期作品，以及四篇 2025–26 年的理论文本。",
+   "work_ids": [
+    "martin-zeilinger--becoming-curatorial",
+    "peter-bauman--cerebral-samba",
+    "0xfff--transaction-sculptures",
+    "primavera-de-filippi--when-the-artwork-hires-the-artist",
+    "kate-sloan--behaviourist-art-and-cybernetics",
+    "alden-hallak--draw-a-fish",
+    "eboy--towr",
+    "crosslucid--the-way-of-flowers",
+    "dmstfctn--fango-1000",
+    "lauren-lee-mccarthy--host",
+    "figure31--line",
+    "elliott-cost--one-minute-park",
+    "paul-seidler--real-abstraction",
+    "botto--p5-botto",
+    "spencer-chang--internet-fridge",
+    "moma--moma-postcard",
+    "figure31--reapers-gambit",
+    "songcamp--camp-elektra",
+    "michael-joo--og-crystals",
+    "benediktas-gylys--the-portal",
+    "snark-art--burn-before-reading",
+    "yvonne-rainer--passing-and-jostling",
+    "sarah-friend--portal-constellation",
+    "ed-fornieles--cel",
+    "billy-rennekamp--clovers-network",
+    "sarah-friend--remembering-network",
+    "jack-and-leigh-ruby--all-the-reporters",
+    "omsk-social-club--cryptorave",
+    "christian-falsnaes--force",
+    "olafur-eliasson--green-light",
+    "hans-haacke--world-poll",
+    "christian-falsnaes--front",
+    "coin-artist--dark-wallet-puzzle",
+    "rimini-protokoll--remote-x",
+    "rimini-protokoll--situation-rooms",
+    "lee-mingwei--sonic-blossom",
+    "kacie-kinzer--tweenbots",
+    "rimini-protokoll--100-percent-city",
+    "rafael-lozano-hemmer--voz-alta",
+    "blast-theory--day-of-the-figurines",
+    "improv-everywhere--mp3-experiment",
+    "blast-theory--uncle-roy-all-around-you",
+    "lee-mingwei--the-letter-writing-project",
+    "clemente-padin--festival-de-la-postal-creativa",
+    "hans-haacke--john-weber-gallery-visitors-profile",
+    "walter-de-maria--boxes-for-meaningless-work",
+    "earle-brown--twenty-five-pages"
+   ],
+   "creator_ids": [
+    "alden-hallak",
+    "anika-meier",
+    "benediktas-gylys",
+    "christian-falsnaes",
+    "clemente-padin",
+    "crosslucid",
+    "danil-krivoruchko",
+    "dmstfctn",
+    "eboy",
+    "ed-fornieles",
+    "elliott-cost",
+    "jack-and-leigh-ruby",
+    "kacie-kinzer",
+    "kate-sloan",
+    "martin-zeilinger",
+    "mediengruppe-bitnik",
+    "michael-joo",
+    "moma",
+    "nina-runa-essendrop",
+    "paul-seidler"
+   ]
+  },
+  {
+   "id": "pass3",
+   "date": "2026-10-18",
+   "title_en": "2025–26 works, a large backlog and four collections",
+   "title_zh": "2025–26 年作品、大批补录与四个合集",
+   "note_en": "Recent smart-contract, autonomous and participatory works, a large backlog of scores, social protocols and early on-chain works, and the collections Strange Rules, World Computer Sculpture Garden, Tiny Awards and Worldglimpsing.",
+   "note_zh": "近期的智能合约、自主体与参与式作品，大量积压的乐谱、社会协议和早期链上作品，以及 Strange Rules、World Computer Sculpture Garden、Tiny Awards、Worldglimpsing 四个合集。",
+   "work_ids": [
+    "neal-agarwal--cursor-camp",
+    "ei-arakawa-nash--grass-babies-moon-babies",
+    "rimini-protokoll--hooked-on-a-book",
+    "primavera-de-filippi--living-aesthetics",
+    "figure31--melancholia",
+    "botto--mirror-stages",
+    "kim-asendorf--pxl-net",
+    "jonas-lund--performance-review",
+    "maia-chao--scores-for-the-museum-visitor",
+    "nolen-royalty--solitaire-alone-together",
+    "figure31--sprawl",
+    "omsk-social-club--operative-image",
+    "figure31--throwofdice",
+    "brian-moore--715-999-7483",
+    "mindy-seu--a-sexual-history-of-the-internet",
+    "lauren-lee-mccarthy--auto",
+    "gene-kogan--abraham-covenant",
+    "primavera-de-filippi--arborithms",
+    "figure31--blue-moon-flaming-star",
+    "nolen-royalty--global-caps-lock",
+    "ciphrd--generations",
+    "leander-herzog--infinite-garden",
+    "neal-agarwal--internet-roadtrip",
+    "omsk-social-club--our-br00d",
+    "kim-asendorf--pxl-dex",
+    "primavera-de-filippi--protocol-art-lectures",
+    "protocol-institute--protocolized",
+    "snowfro--send-receive",
+    "nolen-royalty--tiny-christmas",
+    "brian-droitcour--breaking-protocol",
+    "0xfff--world-computer-sculpture-garden",
+    "distributed-gallery--aside",
+    "songcamp--c4",
+    "billy-rennekamp--viper",
+    "pak--metamorphosis",
+    "ludens--autonomous-worlds",
+    "songcamp--chaos",
+    "serpentine-arts-technologies--fae3",
+    "kei-kreutler--inventories-not-identities",
+    "billy-rennekamp--kudzu",
+    "simon-de-la-rouviere--logged-universe",
+    "jennifer-mccoy--public-key-private-key",
+    "eve-sussman--89-seconds-atomized",
+    "max-haiven--art-after-money",
+    "distributed-gallery--chaos-machine",
+    "sarah-meyohas--cloud-of-petals",
+    "andrey-petrov--thousand-ether-homepage",
+    "jonas-lund--open-call-club",
+    "ken-erwin--pixelmap",
+    "sarah-friend--protective-rituals",
+    "geert-lovink--moneylab-reader",
+    "scarab-experiment--scarab",
+    "coin-artist--torched-h34r7s",
+    "marina-abramovic--512-hours",
+    "kyle-mcdonald--who-pays-artists",
+    "david-harris-smith--hitchbot",
+    "suzanne-lacy--between-the-door-and-the-street",
+    "nick-thurston--of-the-subcontract",
+    "suzanne-lacy--silver-action",
+    "tom-finkelpearl--what-we-made",
+    "marina-abramovic--abramovic-method",
+    "pablo-helguera--education-for-socially-engaged-art",
+    "shannon-jackson--social-works",
+    "superflex--2000-watt-society-contract",
+    "christian-marclay--chalkboard",
+    "caleb-larsen--a-tool-to-deceive-and-slaughter",
+    "jeremy-deller--procession",
+    "lee-mingwei--the-mending-project",
+    "kenneth-o-stanley--picbreeder",
+    "christian-marclay--shuffle",
+    "rafael-lozano-hemmer--pulse-room",
+    "carey-young--declared-void",
+    "olafur-eliasson--the-collectivity-project",
+    "yoko-ono--my-mummy-was-beautiful",
+    "rafael-lozano-hemmer--amodal-suspension",
+    "superflex--free-shop",
+    "bill-wasik--mob-project",
+    "santiago-sierra--wall-enclosing-a-space",
+    "maria-eichhorn--aktiengesellschaft",
+    "santiago-sierra--133-persons-hair-dyed-blond",
+    "rafael-lozano-hemmer--body-movies",
+    "blast-theory--can-you-see-me-now",
+    "hans-haacke--der-bevoelkerung",
+    "alexei-shulgin--desktop-is",
+    "stelarc--fractal-flesh",
+    "luther-blissett-project--luther-blissett",
+    "suzanne-lacy--the-roof-is-on-fire",
+    "knochenbank--knochengeld",
+    "kit-galloway--electronic-cafe",
+    "suzanne-lacy--whisper-the-waves-the-wind",
+    "suzanne-lacy--international-dinner-party",
+    "ulises-carrion--eamis",
+    "stephen-willats--west-london-social-resource-project",
+    "allan-kaprow--scales",
+    "image-bank--image-request-lists",
+    "lucy-lippard--557087",
+    "jack-burnham--real-time-systems",
+    "lygia-pape--divisor",
+    "george-maciunas--flux-year-box-2",
+    "seth-siegelaub--the-xerox-book",
+    "alison-knowles--house-of-dust",
+    "roy-ascott--behaviourist-art",
+    "yoko-ono--play-it-by-trust",
+    "joseph-kosuth--one-and-three-chairs",
+    "george-maciunas--fluxus-1",
+    "jackson-mac-low--three-social-projects",
+    "yvonne-rainer--we-shall-run",
+    "dick-higgins--danger-music",
+    "allan-kaprow--words",
+    "takehisa-kosugi--micro-1",
+    "walter-de-maria--beach-crawl",
+    "earle-brown--december-1952"
+   ],
+   "creator_ids": [
+    "0xfff",
+    "alexei-shulgin",
+    "andrey-petrov",
+    "bill-wasik",
+    "billy-rennekamp",
+    "blast-theory",
+    "brian-droitcour",
+    "brian-moore",
+    "caleb-larsen",
+    "carey-young",
+    "ciphrd",
+    "coin-artist",
+    "david-harris-smith",
+    "dick-higgins",
+    "distributed-gallery",
+    "earle-brown",
+    "ei-arakawa-nash",
+    "eve-sussman",
+    "felix-beer",
+    "figure31",
+    "frauke-zeller",
+    "geert-lovink",
+    "image-bank",
+    "jennifer-mccoy",
+    "joon-yeon-park",
+    "joseph-kosuth",
+    "ken-erwin",
+    "kenneth-o-stanley",
+    "kim-asendorf",
+    "knochenbank",
+    "leander-herzog",
+    "lucy-lippard",
+    "ludens",
+    "luther-blissett-project",
+    "lygia-pape",
+    "maia-chao",
+    "maria-eichhorn",
+    "max-haiven",
+    "max-veytsman",
+    "mindy-seu",
+    "neal-agarwal",
+    "nick-thurston",
+    "olafur-eliasson",
+    "omsk-social-club",
+    "pablo-helguera",
+    "peter-bauman",
+    "protocol-institute",
+    "rimini-protokoll",
+    "scarab-experiment",
+    "serpentine-arts-technologies",
+    "shannon-jackson",
+    "snark-art",
+    "snowfro",
+    "songcamp",
+    "stelarc",
+    "stephen-willats",
+    "takehisa-kosugi",
+    "tom-finkelpearl",
+    "ulises-carrion",
+    "walter-de-maria",
+    "yvonne-rainer"
+   ]
+  },
+  {
+   "id": "launch",
+   "date": "2026-09-28",
+   "title_en": "Launch",
+   "title_zh": "上线",
+   "note_en": "The first gallery: six fields from 1919 to 2026, with all works by Holly Herndon & Mat Dryhurst, the Summer of Protocols research and the symbient.life registry.",
+   "note_zh": "作品库首次发布：六个领域，从 1919 年到 2026 年，包括 Holly Herndon 与 Mat Dryhurst 的全部作品、Summer of Protocols 的研究和 symbient.life 名录。",
+   "work_ids": [
+    "holly-herndon--attention-guild",
+    "jack-butcher--credits",
+    "jack-butcher--economy-of-words",
+    "jack-butcher--know-your-collector",
+    "jonas-lund--optimized-trajectory",
+    "jack-butcher--work-luck-play",
+    "vera-list-center--as-for-protocols",
+    "terra0--autonomous-forest",
+    "jack-butcher--full-set",
+    "sam-spratt--masquerade",
+    "nolen-royalty--one-million-chessboards",
+    "mat-dryhurst--protocol-art",
+    "botao-amber-hu--protocol-futuring",
+    "botao-amber-hu--protocol-as-poetry",
+    "jack-butcher--self-checkout",
+    "kristi-coronado--solienne",
+    "holly-herndon--starmirror",
+    "summer-of-protocols--protocol-reader",
+    "murilo-matsubara--wplace",
+    "her-she-loves-data--pneumos",
+    "jack-butcher--1-of-1-of",
+    "rhea-myers--10k-drop",
+    "janna-tay--phenomenology-of-protocols",
+    "chenoe-hart--addressable-space",
+    "holly-herndon--all-media-is-training-data",
+    "kei-kreutler--artificial-memory-and-orienting-infinity",
+    "botao-amber-hu--autonomous-realities",
+    "fangting--composable-life",
+    "malte-rauch--computation-expanded-field",
+    "terra0--conditional-power",
+    "jonas-lund--consensus-architects-inc",
+    "saffron-huang--control-and-consciousness-of-time",
+    "shreeda-segan--dangerous-dating-protocols",
+    "nadia-asparouhova--dangerous-protocols",
+    "rithikha-rajamohan--dispatches-from-cascadia",
+    "shuya-gong--exit-to-protocol",
+    "nathalia-scherer--fire-protocols",
+    "sarah-friend--good-death",
+    "lizz-thabet--meet-me-on-the-deep-net",
+    "sarah-friend--memoryforms",
+    "aaron-z-lewis--new-time-machines",
+    "haotian-fang--on-chain-data-sculpture",
+    "nolen-royalty--one-million-checkboxes",
+    "spawning--pd12m-source-plus",
+    "alternative-machine--plantbot",
+    "primavera-de-filippi--plantoid-14-15",
+    "martin-benedikt-busch--plurality-in-practice",
+    "mashal-waqar--protocol-party",
+    "summer-of-protocols--protocol-worlds",
+    "yuemin-huang--protocol-with-uncommunicables",
+    "ben-zucker--renotations",
+    "dorian-taylor--retrofitting-the-web",
+    "goodbye-monkey--san",
+    "timber-stinson-schroff--safe-new-world",
+    "holly-herndon--the-call",
+    "alice-noujaim--death-of-orkut",
+    "angela-walch--protocol-system-experience",
+    "rafael-fernandez--the-swarm-and-the-formation",
+    "andy-ayrey--truth-terminal",
+    "kara-kittel--unprotocolized-knowledge",
+    "spencer-chang--memory-pouch",
+    "james-greig--wib-and-wob",
+    "hua-xi-zi--all-just-fresh-off-the-boat",
+    "holly-herndon--xhairymutantx",
+    "basepaint--basepaint",
+    "jack-butcher--checks",
+    "rhea-myers--is-art-editions",
+    "spawning--kudurru",
+    "sam-spratt--the-monument-game",
+    "jack-butcher--opepen-edition",
+    "rhea-myers--proof-of-work",
+    "summer-of-protocols--protocol-kit",
+    "drew-austin--protocols-dont-build-pyramids",
+    "olivia-steiert--protocols-in-emergency-time",
+    "david-lang--standards-make-the-world",
+    "summer-of-protocols--program",
+    "venkatesh-rao--unreasonable-sufficiency",
+    "simon-de-la-rouviere--witness-the-draft",
+    "reddit--place-2023",
+    "terra0--a-tree-a-corporation-a-person",
+    "pak--censored",
+    "pak--clock",
+    "alexis-andre--friendship-bracelets",
+    "egor-kraft--hashd0x-proof-of-war",
+    "spawning--have-i-been-trained",
+    "jacob-horne--hyperstructures",
+    "lil-nounders--lil-nouns",
+    "jonas-lund--mvp-most-valuable-painting",
+    "pak--matter",
+    "tyler-hobbs--qql",
+    "ruth-catlow--radical-friends",
+    "terra0--seed-capital",
+    "simon-de-la-rouviere--room-of-infinite-paintings",
+    "sarah-friend--wildcards",
+    "reddit--place-2022",
+    "kei-kreutler--prehistory-of-daos",
+    "async-art--async-music",
+    "moxie-marlinspike--at-my-whim",
+    "moxie-marlinspike--autonomous-art",
+    "black-swan-dao--black-swan",
+    "dom-hofmann--blitmap",
+    "botto--decentralized-autonomous-artist",
+    "furtherfield--culturestake",
+    "suum-cuique-labs--hashmasks",
+    "rafael-lima--hic-et-nunc",
+    "holly-herndon--holly-plus",
+    "sarah-friend--lifeforms",
+    "dom-hofmann--loot",
+    "pak--lost-poets",
+    "pak--merge",
+    "harm-van-den-dorpel--mutant-garden-seeder",
+    "nounders--nouns",
+    "sarah-friend--off",
+    "tom-sachs--rocket-factory",
+    "jonas-lund--smart-burn-contract",
+    "teia-community--teia",
+    "mathcastles--terraforms",
+    "damien-hirst--the-currency",
+    "pak--the-fungible",
+    "simon-de-la-rouviere--the-signature",
+    "terra0--two-degrees",
+    "pak--burn-art-ash",
+    "async-art--async-art",
+    "dark-forest-team--dark-forest",
+    "async-art--first-supper",
+    "simon-de-la-rouviere--neolastics",
+    "matt-kane--right-place-right-time",
+    "furtherfield--treaty-of-finsbury-park",
+    "gene-kogan--abraham",
+    "amy-whitaker--art-and-blockchain",
+    "larva-labs--autoglyphs",
+    "rhea-myers--hack-line-properties",
+    "simon-de-la-rouviere--is-this-prediction-market-art",
+    "holly-herndon--proto-live-training",
+    "rhea-myers--pay-previous-path",
+    "rhea-myers--proof-of-work-bitmap",
+    "lauren-lee-mccarthy--someone",
+    "rhea-myers--staking-ratio",
+    "simon-de-la-rouviere--this-artwork-is-always-on-sale",
+    "rhea-myers--token-grid",
+    "primavera-de-filippi--blockchain-and-the-law",
+    "jonas-lund--culture-wars-xyz",
+    "terra0--flowertokens",
+    "kevin-abosch--forever-rose",
+    "joel-simon--artbreeder",
+    "kevin-abosch--iama-coin",
+    "jonas-lund--jonas-lund-token",
+    "jonas-lund--operation-earnest-voice",
+    "kevin-abosch--priceless",
+    "terra0--premna-daemon",
+    "rhea-myers--schellingflags",
+    "rhea-myers--secret-artwork",
+    "william-entriken--su-squares",
+    "ruth-catlow--artists-rethinking-the-blockchain",
+    "sarah-friend--clickmine",
+    "jonas-lund--critical-mass",
+    "dapper-labs--cryptokitties",
+    "larva-labs--cryptopunks",
+    "curio-cards--curio-cards",
+    "furtherfield--daowo",
+    "mitchell-f-chan--digital-zones",
+    "rhea-myers--lottery-symbol",
+    "josh-wardle--place",
+    "yoko-ono--add-colour-refugee-boat",
+    "rhea-myers--democratic-palette",
+    "joe-looney--rare-pepe-wallet",
+    "rare-pepe-directory--rare-pepes",
+    "peter-porobov--million-ether-homepage",
+    "terra0--self-owning-forest",
+    "jeremy-deller--were-here-because-were-here",
+    "sarah-meyohas--bitchcoin",
+    "cyrus-adkisson--etheria",
+    "kyle-mcdonald--exhausting-a-crowd",
+    "aram-bartholl--keepalive",
+    "primavera-de-filippi--plantoid",
+    "jonas-lund--strings-attached",
+    "josh-wardle--the-button",
+    "rhea-myers--art-is",
+    "eva-and-franco-mattes--befnoed",
+    "joel-simon--fb-graffiti",
+    "jonas-lund--flip-city",
+    "rhea-myers--is-art",
+    "kevin-mccoy--monegraph",
+    "kevin-mccoy--quantum",
+    "twitch-plays-pokemon-streamer--twitch-plays-pokemon",
+    "janet-echelman--unnumbered-sparks",
+    "thomas-hirschhorn--gramsci-monument",
+    "david-horvitz--let-us-keep-our-own-noon",
+    "darius-kazemi--nanogenmo",
+    "jonas-lund--social-turk",
+    "lauren-lee-mccarthy--social-turkers",
+    "hans-ulrich-obrist--do-it-compendium",
+    "claire-bishop--artificial-hells",
+    "superflex--superkilen",
+    "tino-sehgal--these-associations",
+    "aaron-koblin--this-exquisite-forest",
+    "tania-bruguera--immigrant-movement-international",
+    "rhea-myers--shareable-readymades",
+    "aram-bartholl--dead-drops",
+    "superflex--free-sol-lewitt",
+    "paul-ramirez-jonas--key-to-the-city",
+    "kevin-macdonald--life-in-a-day",
+    "aram-bartholl--speed-show",
+    "marina-abramovic--the-artist-is-present",
+    "aaron-koblin--johnny-cash-project",
+    "tino-sehgal--this-progress",
+    "julieta-aranda--time-bank",
+    "eric-whitacre--virtual-choir",
+    "david-horvitz--241543903",
+    "aaron-koblin--bicycle-built-for-two-thousand",
+    "casey-pugh--star-wars-uncut",
+    "tania-bruguera--tatlins-whisper-6",
+    "lee-mingwei--the-moving-garden",
+    "scott-kildall--wikipedia-art",
+    "francis-alys--dont-cross-the-bridge",
+    "improv-everywhere--frozen-grand-central",
+    "sol-lewitt--wall-drawing-retrospective",
+    "tania-bruguera--tatlins-whisper-5",
+    "aaron-koblin--ten-thousand-cents",
+    "ai-weiwei--fairytale",
+    "perry-bard--man-with-a-movie-camera-global-remake",
+    "roman-ondak--measuring-the-universe",
+    "alexander-galloway--the-exploit",
+    "francis-alys--bridge-puente",
+    "claire-bishop--participation",
+    "aaron-koblin--the-sheep-market",
+    "peter-edmunds--swarmsketch",
+    "alex-tew--million-dollar-homepage",
+    "florian-cramer--words-made-flesh",
+    "francis-alys--barrenderos",
+    "grant-kester--conversation-pieces",
+    "superflex--free-beer",
+    "francis-alys--guards",
+    "alexander-galloway--protocol",
+    "sol-lewitt--wall-drawing-1136",
+    "jonah-brucker-cohen--bumplist",
+    "superflex--guarana-power",
+    "francis-alys--when-faith-moves-mountains",
+    "tino-sehgal--kiss",
+    "miranda-july--learning-to-love-you-more",
+    "francis-alys--the-modern-procession",
+    "mark-napier--net-flag",
+    "john-cage--organ-aslsp-halberstadt",
+    "ken-goldberg--tele-actor",
+    "jeremy-deller--the-battle-of-orgreave",
+    "olia-lialina--last-real-net-art-museum",
+    "ken-goldberg--ouija-2000",
+    "santiago-sierra--250-cm-line-tattooed",
+    "rafael-lozano-hemmer--vectorial-elevation",
+    "nicolas-bourriaud--relational-aesthetics",
+    "erwin-wurm--one-minute-sculptures",
+    "christian-marclay--graffiti-composition",
+    "eduardo-kac--teleporting-an-unknown-state",
+    "yoko-ono--wish-tree",
+    "ken-goldberg--telegarden",
+    "sol-lewitt--wall-drawing-797",
+    "heath-bunting--kings-cross-phone-in",
+    "antoni-muntadas--the-file-room",
+    "ken-goldberg--mercury-project",
+    "douglas-davis--worlds-first-collaborative-sentence",
+    "hans-ulrich-obrist--do-it",
+    "gillian-wearing--signs",
+    "rirkrit-tiravanija--untitled-free",
+    "felix-gonzalez-torres--placebo",
+    "felix-gonzalez-torres--portrait-of-ross-in-la",
+    "wolfgang-staehle--the-thing",
+    "felix-gonzalez-torres--death-by-gun",
+    "benjamin-buchloh--aesthetic-of-administration",
+    "roy-ascott--telematic-embrace",
+    "suzanne-lacy--the-crystal-quilt",
+    "jsg-boggs--boggs-notes",
+    "roy-ascott--la-plissure-du-texte",
+    "joseph-beuys--7000-eichen",
+    "robert-adrian--the-world-in-24-hours",
+    "anna-halprin--planetary-dance",
+    "kit-galloway--hole-in-space",
+    "mierle-laderman-ukeles--touch-sanitation",
+    "guy-debord--game-of-war",
+    "collective-actions--appearance",
+    "mierle-laderman-ukeles--maintenance-art-one-hour",
+    "sol-lewitt--wall-drawing-289",
+    "brian-eno--oblique-strategies",
+    "sol-lewitt--wall-drawing-260",
+    "sol-lewitt--wall-drawing-273",
+    "marina-abramovic--rhythm-0",
+    "lygia-clark--baba-antropofagica",
+    "allan-kaprow--routine",
+    "harold-cohen--aaron",
+    "joseph-beuys--direct-democracy-office",
+    "pauline-oliveros--sonic-meditations",
+    "seth-siegelaub--artists-reserved-rights-agreement",
+    "sol-lewitt--wall-drawing-118",
+    "cildo-meireles--insertions-into-ideological-circuits",
+    "hans-haacke--moma-poll",
+    "jack-burnham--software",
+    "tom-marioni--act-of-drinking-beer",
+    "cornelius-cardew--scratch-orchestra",
+    "david-katzive--art-by-telephone",
+    "john-baldessari--commissioned-paintings",
+    "frederic-rzewski--les-moutons-de-panurge",
+    "sol-lewitt--sentences-on-conceptual-art",
+    "alison-knowles--identical-lunch",
+    "sol-lewitt--wall-drawing-11",
+    "karlheinz-stockhausen--aus-den-sieben-tagen",
+    "lawrence-weiner--statements",
+    "christian-wolff--stones",
+    "jack-burnham--systems-esthetics",
+    "valie-export--tapp-und-tastkino",
+    "robert-filliou--eternal-network",
+    "cornelius-cardew--the-great-learning",
+    "sol-lewitt--wall-drawing-1",
+    "allan-kaprow--fluids",
+    "john-cage--musicircus",
+    "sol-lewitt--paragraphs-on-conceptual-art",
+    "cornelius-cardew--treatise",
+    "yoko-ono--mend-piece",
+    "yoko-ono--painting-to-hammer-a-nail",
+    "george-maciunas--fluxkit",
+    "mieko-shiomi--spatial-poem",
+    "yoko-ono--cut-piece",
+    "yoko-ono--grapefruit",
+    "terry-riley--in-c",
+    "helio-oiticica--parangole",
+    "la-monte-young--an-anthology-of-chance-operations",
+    "robert-filliou--arts-birthday",
+    "lygia-clark--caminhando",
+    "allan-kaprow--push-and-pull",
+    "george-brecht--water-yam",
+    "alison-knowles--make-a-salad",
+    "ray-johnson--new-york-correspondance-school",
+    "raymond-queneau--cent-mille-milliards-de-poemes",
+    "simone-forti--dance-constructions",
+    "yoko-ono--instruction-paintings",
+    "allan-kaprow--yard",
+    "la-monte-young--compositions-1960",
+    "george-brecht--motor-vehicle-sundown",
+    "benjamin-patterson--paper-piece",
+    "allan-kaprow--18-happenings-in-6-parts",
+    "george-brecht--drip-music",
+    "yves-klein--zones-of-immaterial-pictorial-sensibility",
+    "john-cage--concert-for-piano-and-orchestra",
+    "guy-debord--derive",
+    "john-cage--4-33",
+    "john-cage--imaginary-landscape-no-4",
+    "marcel-duchamp--monte-carlo-bond",
+    "laszlo-moholy-nagy--telephone-pictures",
+    "marcel-duchamp--unhappy-readymade"
+   ],
+   "creator_ids": [
+    "aaron-koblin",
+    "aaron-wright",
+    "aaron-z-lewis",
+    "ai-weiwei",
+    "alex-tew",
+    "alexander-galloway",
+    "alexis-andre",
+    "alice-noujaim",
+    "alison-knowles",
+    "allan-kaprow",
+    "alternative-machine",
+    "amy-whitaker",
+    "andy-ayrey",
+    "angela-walch",
+    "anil-dash",
+    "anna-halprin",
+    "anton-vidokle",
+    "antoni-muntadas",
+    "aram-bartholl",
+    "async-art",
+    "basepaint",
+    "ben-zucker",
+    "benjamin-buchloh",
+    "benjamin-patterson",
+    "black-swan-dao",
+    "botao-amber-hu",
+    "botto",
+    "brian-eno",
+    "casey-pugh",
+    "chenoe-hart",
+    "chris-milk",
+    "christian-marclay",
+    "christian-wolff",
+    "cildo-meireles",
+    "claire-bishop",
+    "collective-actions",
+    "cornelius-cardew",
+    "curio-cards",
+    "cyrus-adkisson",
+    "damien-hirst",
+    "dandelion-wist-mane",
+    "daniel-massey",
+    "dapper-labs",
+    "darius-kazemi",
+    "dark-forest-team",
+    "david-horvitz",
+    "david-katzive",
+    "david-lang",
+    "dom-hofmann",
+    "dorian-taylor",
+    "douglas-davis",
+    "drew-austin",
+    "eduardo-kac",
+    "egor-kraft",
+    "elevenyellow",
+    "eric-whitacre",
+    "erwin-wurm",
+    "eugene-thacker",
+    "eva-and-franco-mattes",
+    "fangting",
+    "felix-gonzalez-torres",
+    "florian-cramer",
+    "francis-alys",
+    "frederic-rzewski",
+    "furtherfield",
+    "gene-kogan",
+    "george-brecht",
+    "george-maciunas",
+    "gillian-wearing",
+    "goodbye-monkey",
+    "grant-kester",
+    "guy-debord",
+    "hans-haacke",
+    "hans-ulrich-obrist",
+    "haotian-fang",
+    "harm-van-den-dorpel",
+    "harold-cohen",
+    "harrell-fletcher",
+    "heath-bunting",
+    "helio-oiticica",
+    "her-she-loves-data",
+    "holly-herndon",
+    "hua-xi-zi",
+    "improv-everywhere",
+    "jack-burnham",
+    "jack-butcher",
+    "jackson-mac-low",
+    "jacob-horne",
+    "james-greig",
+    "janet-echelman",
+    "janna-tay",
+    "jeremy-deller",
+    "jiordi-rosales",
+    "joe-looney",
+    "joel-simon",
+    "john-baldessari",
+    "john-cage",
+    "jonah-brucker-cohen",
+    "jonas-lund",
+    "joseph-beuys",
+    "joseph-santarromana",
+    "josh-wardle",
+    "jsg-boggs",
+    "julieta-aranda",
+    "kara-kittel",
+    "karlheinz-stockhausen",
+    "kei-kreutler",
+    "ken-goldberg",
+    "kevin-abosch",
+    "kevin-macdonald",
+    "kevin-mccoy",
+    "kit-galloway",
+    "kristi-coronado",
+    "kyle-mcdonald",
+    "la-monte-young",
+    "larva-labs",
+    "laszlo-moholy-nagy",
+    "lauren-lee-mccarthy",
+    "lawrence-weiner",
+    "lee-mingwei",
+    "lil-nounders",
+    "lizz-thabet",
+    "lygia-clark",
+    "malte-rauch",
+    "marc-garrett",
+    "marcel-duchamp",
+    "marina-abramovic",
+    "mario-klingemann",
+    "mark-napier",
+    "martin-benedikt-busch",
+    "mashal-waqar",
+    "mat-dryhurst",
+    "mathcastles",
+    "matt-kane",
+    "mieko-shiomi",
+    "mierle-laderman-ukeles",
+    "miranda-july",
+    "mitchell-f-chan",
+    "moxie-marlinspike",
+    "murilo-matsubara",
+    "nadia-asparouhova",
+    "nahee-kim",
+    "nathalia-scherer",
+    "nathaniel-stern",
+    "nicolas-bourriaud",
+    "nolen-royalty",
+    "nounders",
+    "okhaos",
+    "olia-lialina",
+    "olivia-steiert",
+    "pak",
+    "paul-ramirez-jonas",
+    "pauline-oliveros",
+    "penny-rafferty",
+    "perry-bard",
+    "peter-edmunds",
+    "peter-porobov",
+    "peter-schmidt",
+    "primavera-de-filippi",
+    "rafael-fernandez",
+    "rafael-lima",
+    "rafael-lozano-hemmer",
+    "rare-pepe-directory",
+    "ray-johnson",
+    "raymond-queneau",
+    "reddit",
+    "rhea-myers",
+    "rich-mcdowell",
+    "rirkrit-tiravanija",
+    "rithikha-rajamohan",
+    "robert-adrian",
+    "robert-filliou",
+    "robert-projansky",
+    "roman-ondak",
+    "roy-ascott",
+    "ruth-catlow",
+    "saffron-huang",
+    "sam-spratt",
+    "santiago-sierra",
+    "sarah-friend",
+    "sarah-meyohas",
+    "scott-kildall",
+    "seth-siegelaub",
+    "sherrie-rabinowitz",
+    "shreeda-segan",
+    "shuya-gong",
+    "simon-de-la-rouviere",
+    "simone-forti",
+    "sol-lewitt",
+    "spawning",
+    "spencer-chang",
+    "summer-of-protocols",
+    "superflex",
+    "suum-cuique-labs",
+    "suzanne-lacy",
+    "takashi-kawashima",
+    "tania-bruguera",
+    "teia-community",
+    "terra0",
+    "terry-riley",
+    "thomas-hirschhorn",
+    "timber-stinson-schroff",
+    "tino-sehgal",
+    "toby-shorin",
+    "tom-marioni",
+    "tom-sachs",
+    "twitch-plays-pokemon-streamer",
+    "tyler-hobbs",
+    "valie-export",
+    "venkatesh-rao",
+    "vera-list-center",
+    "william-entriken",
+    "wolfgang-staehle",
+    "yisi-liu",
+    "yoko-ono",
+    "yuemin-huang",
+    "yves-klein"
+   ]
+  }
+ ]
 }

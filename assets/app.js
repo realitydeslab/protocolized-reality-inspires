@@ -11,7 +11,8 @@
   const MECHS = TAX.mechanisms || [];
   const SUBSTRATES = TAX.substrates || [];
   const ERAS = [["1959", 0, 1959, "≤1959"], ["1960", 1960, 1979, "1960–79"], ["1980", 1980, 1999, "1980–99"], ["2000", 2000, 2014, "2000–14"], ["2015", 2015, 2020, "2015–20"], ["2021", 2021, 2030, "2021–"]];
-  const VIEWS = ["atlas", ...FIELDS.map((f) => f.id), "timeline", "collections", "works", "creators", "resources", "starred"];
+  const UPDATES = DATA.updates || [];
+  const VIEWS = ["atlas", ...(UPDATES.length ? ["new"] : []), ...FIELDS.map((f) => f.id), "timeline", "collections", "works", "creators", "resources", "starred"];
   const FILTERED = ["works", "timeline", "creators"];
   const EMPTY_FILTERS = () => ({ q: "", mechs: new Set(), subs: new Set(), cols: new Set(), fields: new Set(), kinds: new Set(), era: "", creator: "", video: false, contract: false });
 
@@ -92,6 +93,7 @@
     if (state.q && !haystack(w).includes(state.q.toLowerCase())) return false;
     return true;
   }
+  const sortedNewest = (list) => [...list].sort((a, b) => (b.year || 0) - (a.year || 0) || a.title.localeCompare(b.title));
   function sorted(list) {
     const arr = [...list];
     if (state.sort === "old") arr.sort((a, b) => (a.year || 9999) - (b.year || 9999));
@@ -191,6 +193,20 @@
       groups.map(([t, cs]) => `<section class="scat"><div class="scat__head"><h3 class="scat__title">${esc(S().col_groups[t])}</h3><span class="scat__n mono">${cs.length}</span></div>
         <div class="cols__grid">${cs.map(colCard).join("")}</div></section>`).join("");
     return groups.length;
+  }
+  function renderNew() {
+    const lists = UPDATES.map((u) => sortedNewest((u.work_ids || []).map((id) => worksById[id]).filter(Boolean)));
+    const names = (u) => (u.creator_ids || []).map((id) => creatorsById[id]).filter(Boolean).sort((a, b) => a.name.localeCompare(b.name))
+      .map((c) => `<button class="tag tag--col" data-creator="${esc(c.id)}">${esc(c.name)}</button>`).join("");
+    $("#newList").innerHTML = `<div class="starred__head"><h2 class="starred__title">${esc(S().new_title)}</h2><p class="starred__lede">${esc(S().new_lede)}</p></div>` +
+      UPDATES.map((u, k) => `<section class="scat upd" id="upd-${esc(u.id)}"><div class="scat__head"><span class="upd__date mono">${esc(u.date)}</span>
+          <h3 class="scat__title">${esc(zh() ? u.title_zh : u.title_en)}</h3><span class="scat__n mono">${esc(S().new_counts(lists[k].length, (u.creator_ids || []).length))}</span></div>
+        <p class="scat__desc">${esc(zh() ? u.note_zh : u.note_en)}</p>
+        ${k === 0 && names(u) ? `<div class="res__works upd__who"><span class="mono">${esc(S().new_creators)}</span> ${names(u)}</div>` : ""}
+        <div class="grid"></div></section>`).join("");
+    $("#newList").querySelectorAll(".grid").forEach((g, k) => fill(g, lists[k], card, k === 0 ? PAGE * 2 : 8));
+    currentList = lists.flat();
+    return UPDATES.length;
   }
   function renderAtlas() {
     currentList = [];
@@ -340,7 +356,7 @@
     $("#starCount").textContent = stars.size ? stars.size : "";
     resetFill();
     renderChips();
-    const n = f ? renderField(f) : { atlas: renderAtlas, timeline: renderTimeline, collections: renderCollections, works: renderWorks, creators: renderCreators, resources: renderResources, starred: renderStarred }[state.view]();
+    const n = f ? renderField(f) : { atlas: renderAtlas, new: renderNew, timeline: renderTimeline, collections: renderCollections, works: renderWorks, creators: renderCreators, resources: renderResources, starred: renderStarred }[state.view]();
     $("#empty").hidden = n > 0;
     lazyVideos();
     writeHash();

@@ -18,6 +18,7 @@ import urllib.request
 from concurrent.futures import ThreadPoolExecutor
 from datetime import date
 from difflib import SequenceMatcher
+from fnmatch import fnmatch
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
@@ -32,6 +33,7 @@ OVERRIDES = ROOT / "data" / "overrides.json"
 TAXONOMY = ROOT / "data" / "taxonomy.json"
 CACHE = ROOT / "data" / "media_cache.json"
 COLLECTIONS = ROOT / "data" / "collections"
+UPDATES = ROOT / "data" / "updates.json"  # changelog shown in the What's New tab
 MEDIA = ROOT / "data" / "media"  # extra media per work, kept apart from the research batches
 
 
@@ -288,6 +290,43 @@ def load_taxonomy() -> dict:
     return tax
 
 
+def build_updates(raw_works: list, kept: list) -> list:
+    """data/updates.json (the changelog) -> one record per update with the works and creators it added.
+
+    A work belongs to the earliest update whose `batches` patterns match one of the batches it appears in;
+    a creator is new in the update of their first work. Sets `added` (ISO date) on every kept work.
+    """
+    if not UPDATES.exists():
+        return []
+    ups = sorted(json.loads(UPDATES.read_text()), key=lambda u: u["date"])
+    first: dict[str, dict] = {}
+    unmatched = set()
+    for w in raw_works:
+        u = next((u for u in ups if any(fnmatch(w["batch"], pat) for pat in u.get("batches", []))), None)
+        if u is None:
+            unmatched.add(w["batch"])
+        elif w["id"] not in first or u["date"] < first[w["id"]]["date"]:
+            first[w["id"]] = u
+    for b in sorted(unmatched):
+        logger.warning("batch %s is not listed in data/updates.json: its works will not show under What's New", b)
+    members: dict[str, list] = {u["id"]: [] for u in ups}
+    creator_first: dict[str, str] = {}
+    for w in kept:
+        u = first.get(w["id"])
+        if not u:
+            continue
+        w["added"] = u["date"]
+        members[u["id"]].append(w["id"])
+        for c in w["creator_ids"]:
+            if c not in creator_first or u["date"] < creator_first[c][0]:
+                creator_first[c] = (u["date"], u["id"])
+    out = []
+    for u in reversed(ups):
+        new_creators = sorted(c for c, (_, uid) in creator_first.items() if uid == u["id"])
+        out.append({**{k: v for k, v in u.items() if k != "batches"}, "work_ids": members[u["id"]], "creator_ids": new_creators})
+    return out
+
+
 def keep_works(works: list, subs: dict, creators: dict, cache: dict) -> tuple[list, list, list]:
     kept, problems, dropped = [], [], []
     for w in works:
@@ -337,6 +376,7 @@ def main() -> None:
     subs = {f["id"]: {s["id"] for s in f["subs"]} for f in tax["fields"]}
     creators, works, leads = load_raw()
     ov = json.loads(OVERRIDES.read_text()) if OVERRIDES.exists() else {}
+    raw_works = [{"id": w.get("id"), "batch": w["batch"]} for w in works]
     works = dedupe(works)
     merge_creators(creators, works, ov.get("merge_creators", {}))
     works = [w for w in works if w.get("id") not in set(ov.get("drop_works", []))]
@@ -361,7 +401,8 @@ def main() -> None:
 
     from resources import load_resources  # noqa: PLC0415
     res = load_resources({w["id"] for w in kept})
-    data = {"generated": date.today().isoformat(), "taxonomy": tax, "creators": out_creators, "works": kept, "resources": res}
+    updates = build_updates(raw_works, kept)
+    data = {"generated": date.today().isoformat(), "taxonomy": tax, "creators": out_creators, "works": kept, "resources": res, "updates": updates}
     write_outputs(data, open_leads, checked_leads, dropped, problems)
     by_field = {f: sum(w["field"] == f for w in kept) for f in subs}
     logger.info("resources: %d institutions, %d websites", len(res["institutions"]), len(res["websites"]))

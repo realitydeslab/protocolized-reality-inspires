@@ -1,0 +1,38 @@
+[
+  {
+    "id": "pass5",
+    "date": "2026-11-23",
+    "title_en": "Autumn 2026 works and earlier works we had missed",
+    "title_zh": "2026 年秋季新作与补录作品",
+    "note_en": "Works first shown between September and November 2026 (Jack Butcher's Balance and Bars, Rimini Protokoll's Book a Scientist), five works by Steve Pikelny, four more contracts from the World Computer Sculpture Garden, and participatory works by Agnieszka Kurant, Christian Falsnaes, Ed Fornieles and others.",
+    "note_zh": "2026 年 9 月至 11 月首次公开的作品（Jack Butcher 的 Balance 与 Bars、Rimini Protokoll 的 Book a Scientist），Steve Pikelny 的五件作品，World Computer Sculpture Garden 的另外四件合约作品，以及 Agnieszka Kurant、Christian Falsnaes、Ed Fornieles 等人的参与式作品。",
+    "batches": ["pass5-*"]
+  },
+  {
+    "id": "pass4",
+    "date": "2026-11-13",
+    "title_en": "2026 works and earlier additions",
+    "title_zh": "2026 年作品与补录",
+    "note_en": "0xfff's Transaction Sculptures, more works by Figure31, dmstfctn, Rimini Protokoll and Blast Theory, older works by Hans Haacke, Lee Mingwei and Yvonne Rainer, and four theory texts from 2025–26.",
+    "note_zh": "0xfff 的 Transaction Sculptures，Figure31、dmstfctn、Rimini Protokoll 与 Blast Theory 的更多作品，Hans Haacke、李明维、Yvonne Rainer 的早期作品，以及四篇 2025–26 年的理论文本。",
+    "batches": ["pass4-*"]
+  },
+  {
+    "id": "pass3",
+    "date": "2026-10-18",
+    "title_en": "2025–26 works, a large backlog and four collections",
+    "title_zh": "2025–26 年作品、大批补录与四个合集",
+    "note_en": "Recent smart-contract, autonomous and participatory works, a large backlog of scores, social protocols and early on-chain works, and the collections Strange Rules, World Computer Sculpture Garden, Tiny Awards and Worldglimpsing.",
+    "note_zh": "近期的智能合约、自主体与参与式作品，大量积压的乐谱、社会协议和早期链上作品，以及 Strange Rules、World Computer Sculpture Garden、Tiny Awards、Worldglimpsing 四个合集。",
+    "batches": ["pass3-*"]
+  },
+  {
+    "id": "launch",
+    "date": "2026-09-28",
+    "title_en": "Launch",
+    "title_zh": "上线",
+    "note_en": "The first gallery: six fields from 1919 to 2026, with all works by Holly Herndon & Mat Dryhurst, the Summer of Protocols research and the symbient.life registry.",
+    "note_zh": "作品库首次发布：六个领域，从 1919 年到 2026 年，包括 Holly Herndon 与 Mat Dryhurst 的全部作品、Summer of Protocols 的研究和 symbient.life 名录。",
+    "batches": ["autonomous", "herndon-dryhurst", "network", "network-2", "onchain-coauthor", "onchain-pak", "onchain-rules", "onchain-rules-2", "score", "score-2", "social", "social-2", "summer-of-protocols", "symbient", "theory"]
+  }
+]

@@ -24,6 +24,7 @@ Every work records its **protocol** (the rules) and its **collective** (what peo
   - Smart-Contract Art: supply, burn & merge; ownership & transfer rules; programmable & co-authored works; early tokens & provenance.
   - Autonomous Entities & DAOs: self-owning life & nature, autonomous & collective artists, DAOs & collective governance.
   - Theory & Texts: systems & protocol theory, participation & relational art, crypto art & protocol research.
+- **What's new**: each update to the gallery, newest first, with the works and creators it added.
 - **Timeline**: every work in order, from 1919 to today; the filters apply.
 - **All works**: filter by field, mechanism (instruction, chance, burn, merge, governance…), substrate (text, bodies, post, internet, Ethereum, Tezos…), type and era; full-text search.
 - **Creators**: people, collectives, studios and DAOs, with bios and all their works.
@@ -70,6 +71,7 @@ Open this folder in [Claude Code](https://claude.com/claude-code) and run:
 | `data/raw/*.json` | Research batches: creators, works, leads |
 | `data/collections/*.json` | Extra members of a collection (lists of work ids) |
 | `data/resources/*.json` | Institutions and websites for the Resources tab (people come from the creator records) |
+| `data/updates.json` | Changelog for the What's New tab: date, bilingual note and the batches of each update |
 | `data/overrides.json` | Optional manual curation: merge creators, drop or patch works |
 | `data/entries.json`, `data/entries.js` | Built dataset used by the site |
 | `data/media_cache.json` | Link-check results |
@@ -89,6 +91,7 @@ Images and videos are linked from the artists, museums, platforms and publishers
 收录标准：（1）规则由可识别的艺术家、设计师或团体写下；（2）规则交由一群人执行；（3）这群人的行为构成作品本身。每件作品都写明**协议**（规则）和**群体做了什么**。
 
 - **总览**：六个领域及其子类，以及按机制浏览。
+- **最新更新**：作品库的每次更新及其新增的作品与创作者。
 - **时间线**：按年份排列的全部作品，可叠加筛选。
 - **全部作品**：按领域、机制、载体、类型和年代筛选，支持全文搜索。
 - **资源**：全部艺术家与团体的名录，以及相关的机构（博物馆、奖项、艺术节、实验室、平台）和网站（档案、时间线、出版物、工具）。

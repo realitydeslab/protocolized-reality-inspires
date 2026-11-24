@@ -18,7 +18,8 @@ Read `data/SCHEMA.md`, `data/taxonomy.json` and `data/RESEARCH_BRIEF.md` (inclus
 3. **Research all works that pass the inclusion test** (artist site, museum pages, project site, block explorer, press, interviews). For each: the protocol, what the collective did (numbers only from a source), video, 1–3 images, contract link, texts.
    Verify with `python3 tools/check_media.py <url>…`, `--doi <doi>`, `--og <page>` (image candidates). Keep only `"ok": true`.
 4. **Write** `data/raw/add-<creator-id>.json` with creators, works (field / sub / mechanisms / substrate / kind from the taxonomy, English + Chinese text), leads.
-5. **Validate.** `python3 tools/validate.py data/raw/add-<creator-id>.json` until ✓.
+5. **Log the update.** Add an entry to `data/updates.json` (see `data/SCHEMA.md` → Updates) with today's date, a bilingual title and note, and `"batches": ["add-<creator-id>"]`; if an entry for today already exists, add the batch to it. This is what the What's New tab shows.
+5b. **Validate.** `python3 tools/validate.py data/raw/add-<creator-id>.json` until ✓.
 6. **Build.** `python3 tools/build_data.py`. Check `data/dropped.json` (dead media) and fix what is yours.
 7. **Preview** (optional): `./serve.sh`, open `http://localhost:8933/#view=works&q=<name>`.
 8. **Check duplicates**: `python3 tools/audit_titles.py` — resolve any same-title works that are yours.

@@ -98,6 +98,17 @@ To close a lead from an earlier batch, list it in your own batch with the **exac
 (`covered` = now in the gallery, with the work id in `why`; `off_topic` / `duplicate` / `no_media` with a one-line reason).
 The build keeps the resolved status over the earlier open one.
 
+## Updates (`data/updates.json`) — the What's New tab
+A list of updates, one per research pass or `/add-work` run:
+```json
+{ "id": "pass5", "date": "2026-11-23", "title_en": "…", "title_zh": "…", "note_en": "One or two sentences on what was added.", "note_zh": "…",
+  "batches": ["pass5-*"] }      // batch names or glob patterns (`data/raw/<batch>.json`)
+```
+The build gives every work the date of the earliest update that lists one of its batches (`added`), and writes each
+update's `work_ids` and newly introduced `creator_ids` into `data/entries.json` → `updates` (newest first).
+A batch that no update lists is reported by the build and its works do not appear under What's New: add an entry
+(or add the batch to an existing one) whenever you add a batch file.
+
 ## Language rule
 Every user-facing text exists in BOTH languages, never mixed inside one field (proper nouns — titles,
 people, collectives, contracts, platforms — stay in the original).
